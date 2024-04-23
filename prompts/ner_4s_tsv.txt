@@ -1,0 +1,138 @@
+Tag the following sentence according to the BIO scheme for the NER task, using the tags PER (person), LOC (location) and ORG (organization). Follow the format specified in the examples below:
+
+Sentence: The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .
+Tags:
+```
+The	O
+European	B-ORG
+Commission	I-ORG
+said	O
+on	O
+Thursday	O
+it	O
+disagreed	O
+with	O
+German	O
+advice	O
+to	O
+consumers	O
+to	O
+shun	O
+British	O
+lamb	O
+until	O
+scientists	O
+determine	O
+whether	O
+mad	O
+cow	O
+disease	O
+can	O
+be	O
+transmitted	O
+to	O
+sheep	O
+.	O
+```
+
+
+Sentence: Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .
+Tags:
+```
+Germany	B-LOC
+'s	O
+representative	O
+to	O
+the	O
+European	B-ORG
+Union	I-ORG
+'s	O
+veterinary	O
+committee	O
+Werner	B-PER
+Zwingmann	I-PER
+said	O
+on	O
+Wednesday	O
+consumers	O
+should	O
+buy	O
+sheepmeat	O
+from	O
+countries	O
+other	O
+than	O
+Britain	B-LOC
+until	O
+the	O
+scientific	O
+advice	O
+was	O
+clearer	O
+.	O
+```
+
+Sentence: Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through " dangerous generalisation . "
+Tags:
+```
+Spanish	O
+Farm	O
+Minister	O
+Loyola	B-PER
+de	I-PER
+Palacio	I-PER
+had	O
+earlier	O
+accused	O
+Fischler	B-PER
+at	O
+an	O
+EU	B-ORG
+farm	O
+ministers	O
+'	O
+meeting	O
+of	O
+causing	O
+unjustified	O
+alarm	O
+through	O
+"	O
+dangerous	O
+generalisation	O
+.	O
+"	O
+```
+
+Sentence: Kenny Dalglish spoke on Thursday of his sadness at leaving Blackburn , the club he led to the English premier league title in 1994-95 .
+Tags:
+```
+Kenny	B-PER
+Dalglish	I-PER
+spoke	O
+on	O
+Thursday	O
+of	O
+his	O
+sadness	O
+at	O
+leaving	O
+Blackburn	B-ORG
+,	O
+the	O
+club	O
+he	O
+led	O
+to	O
+the	O
+English	O
+premier	O
+league	O
+title	O
+in	O
+1994-95	O
+.	O
+```
+
+Sentence: {{sentence}}
+Tags:

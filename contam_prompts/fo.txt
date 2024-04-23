@@ -1,0 +1,50 @@
+Gáta	NOUN
+:	PUNCT
+Ein	DET
+gáta	NOUN
+er	VERB
+ein	DET
+stutt	ADJ
+søga	NOUN
+,	PUNCT
+sum	PRON
+endar	VERB
+við	ADP
+einum	DET
+spurningi	NOUN
+.	PUNCT
+
+Pávin	NOUN
+er	VERB
+hægsti	ADJ
+myndugleiki	NOUN
+fyri	ADP
+róma-	NOUN
+kirkjuni	NOUN
+.	PUNCT
+
+Ein	DET
+trummuspælari	NOUN
+við	ADP
+navnið	NOUN
+Chad	PROPN
+Smith	PROPN
+kom	VERB
+við	ADP
+í	ADP
+tónleikabólkinum	NOUN
+.	PUNCT
+
+Tey	PRON
+eru	VERB
+eisini	ADV
+undir	ADP
+Grønlandi	PROPN
+og	CCONJ
+Føroyum	PROPN
+.	PUNCT
+
+Hann	PRON
+var	VERB
+eirindaleysur	ADJ
+einaræðisharri	NOUN

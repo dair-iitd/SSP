@@ -1,0 +1,153 @@
+Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa. , Hypothesis: Yuyaruniqa hipa pampapi huk ima apakusqantam. , Answer: entailment
+
+Premise: Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa , Hypothesis: Apurawtam hamun, ichaqa maymanta hamusqanta yachanim. , Answer: entailment
+
+Premise: Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa. , Hypothesis: Punku wichqasqa kachkaptinpas yaykurqanikum. , Answer: entailment
+
+Premise: Manam mayman risqanta yacharqanikuchu. , Hypothesis: Mayman risqantam yacharqaniku. , Answer: entailment
+
+Premise: Yanapawaqniy atiq sispasmi hatun llaqtapa waklawninpiraq tiyan. , Hypothesis: Yanapawaqniy warmi warman 5 millas nisqan karupiraq tiyan. , Answer: neutral
+
+Premise: Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta. , Hypothesis: Ramonawanmi huktapiwan rimarqani. , Answer: entailment
+
+Premise: Ripukusqañam hinaspam amaña llakikunaypaq niwarqa. , Hypothesis: Ama llakikunaytam niwarqa. , Answer: entailment
+
+Premise: Locust Hill oh awriki, ari, kusa , Hypothesis: Locust Hill nisqaqa allinmi. , Answer: contradiction
+
+Premise: Iskay kapuqninqa camada nisqamanta huk cachorrokunam chaynallataq sapallan urqu usasqanmi kirunpi sasachakuyniyuq karqa , Hypothesis: Paypaqa manam uchuy alluquchaqa karqachu. , Answer: entailment
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa. , Hypothesis: Yuyaruniqa hipa pampapi huk ima apakusqantam. , Answer: entailment
+
+Premise: Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa , Hypothesis: Apurawtam hamun, ichaqa maymanta hamusqanta yachanim. , Answer: entailment
+
+Premise: Manam pachay karqachu ima kaqpas ruranaypaq. , Hypothesis: Mana pacha llapan qinanaypaq haypawarqachu , Answer: entailment
+
+Premise: Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa. , Hypothesis: Punku wichqasqa kachkaptinpas yaykurqanikum. , Answer: entailment
+
+Premise: Manam mayman risqanta yacharqanikuchu. , Hypothesis: Mayman risqantam yacharqaniku. , Answer: entailment
+
+Premise: Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta. , Hypothesis: Ramonawanmi huktapiwan rimarqani. , Answer: entailment
+
+Premise: Ripukusqañam hinaspam amaña llakikunaypaq niwarqa. , Hypothesis: Ama llakikunaytam niwarqa. , Answer: entailment
+
+Premise: Locust Hill oh awriki, ari, kusa , Hypothesis: Locust Hill nisqaqa allinmi. , Answer: contradiction
+
+Premise: Iskay kapuqninqa camada nisqamanta huk cachorrokunam chaynallataq sapallan urqu usasqanmi kirunpi sasachakuyniyuq karqa , Hypothesis: Paypaqa manam uchuy alluquchaqa karqachu. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta. , Hypothesis: Ramonawanmi huktapiwan rimarqani. , Answer: entailment
+
+Premise: Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa. , Hypothesis: Yuyaruniqa hipa pampapi huk ima apakusqantam. , Answer: entailment
+
+Premise: Manam mayman risqanta yacharqanikuchu. , Hypothesis: Mayman risqantam yacharqaniku. , Answer: entailment
+
+Premise: Yanapawaqniy atiq sispasmi hatun llaqtapa waklawninpiraq tiyan. , Hypothesis: Yanapawaqniy warmi warman 5 millas nisqan karupiraq tiyan. , Answer: neutral
+
+Premise: Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa , Hypothesis: Apurawtam hamun, ichaqa maymanta hamusqanta yachanim. , Answer: entailment
+
+Premise: Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa. , Hypothesis: Punku wichqasqa kachkaptinpas yaykurqanikum. , Answer: entailment
+
+Premise: Ripukusqañam hinaspam amaña llakikunaypaq niwarqa. , Hypothesis: Ama llakikunaytam niwarqa. , Answer: entailment
+
+Premise: Locust Hill oh awriki, ari, kusa , Hypothesis: Locust Hill nisqaqa allinmi. , Answer: contradiction
+
+Premise: Chaynaqa, nin ari maskan, maskan kayta kaypi kay empresa nisqapi. , Hypothesis: Payqa manam rimawarqachu. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta. , Hypothesis: Ramonawanmi huktapiwan rimarqani. , Answer: entailment
+
+Premise: Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa. , Hypothesis: Yuyaruniqa hipa pampapi huk ima apakusqantam. , Answer: entailment
+
+Premise: Manam pachay karqachu ima kaqpas ruranaypaq. , Hypothesis: Mana pacha llapan qinanaypaq haypawarqachu , Answer: entailment
+
+Premise: Manam mayman risqanta yacharqanikuchu. , Hypothesis: Mayman risqantam yacharqaniku. , Answer: entailment
+
+Premise: Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa , Hypothesis: Apurawtam hamun, ichaqa maymanta hamusqanta yachanim. , Answer: entailment
+
+Premise: Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa. , Hypothesis: Punku wichqasqa kachkaptinpas yaykurqanikum. , Answer: entailment
+
+Premise: Ripukusqañam hinaspam amaña llakikunaypaq niwarqa. , Hypothesis: Ama llakikunaytam niwarqa. , Answer: entailment
+
+Premise: Locust Hill oh awriki, ari, kusa , Hypothesis: Locust Hill nisqaqa allinmi. , Answer: contradiction
+
+Premise: Chaynaqa, nin ari maskan, maskan kayta kaypi kay empresa nisqapi. , Hypothesis: Payqa manam rimawarqachu. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa. , Hypothesis: Yuyaruniqa hipa pampapi huk ima apakusqantam. , Answer: entailment
+
+Premise: Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa. , Hypothesis: Punku wichqasqa kachkaptinpas yaykurqanikum. , Answer: entailment
+
+Premise: Manam mayman risqanta yacharqanikuchu. , Hypothesis: Mayman risqantam yacharqaniku. , Answer: entailment
+
+Premise: Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta. , Hypothesis: Ramonawanmi huktapiwan rimarqani. , Answer: entailment
+
+Premise: Yanapawaqniy atiq sispasmi hatun llaqtapa waklawninpiraq tiyan. , Hypothesis: Yanapawaqniy warmi warman 5 millas nisqan karupiraq tiyan. , Answer: neutral
+
+Premise: Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa , Hypothesis: Apurawtam hamun, ichaqa maymanta hamusqanta yachanim. , Answer: entailment
+
+Premise: Ripukusqañam hinaspam amaña llakikunaypaq niwarqa. , Hypothesis: Ama llakikunaytam niwarqa. , Answer: entailment
+
+Premise: Locust Hill oh awriki, ari, kusa , Hypothesis: Locust Hill nisqaqa allinmi. , Answer: contradiction
+
+Premise: Awriki allinmi wak wayna kaypi kachkan. , Hypothesis: Wak runaqa manam imay pachapipas kaymanqa qamurachu. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa. , Hypothesis: Yuyaruniqa hipa pampapi huk ima apakusqantam. , Answer: entailment
+
+Premise: Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa. , Hypothesis: Punku wichqasqa kachkaptinpas yaykurqanikum. , Answer: entailment
+
+Premise: Manam pachay karqachu ima kaqpas ruranaypaq. , Hypothesis: Mana pacha llapan qinanaypaq haypawarqachu , Answer: entailment
+
+Premise: Manam mayman risqanta yacharqanikuchu. , Hypothesis: Mayman risqantam yacharqaniku. , Answer: entailment
+
+Premise: Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta. , Hypothesis: Ramonawanmi huktapiwan rimarqani. , Answer: entailment
+
+Premise: Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa , Hypothesis: Apurawtam hamun, ichaqa maymanta hamusqanta yachanim. , Answer: entailment
+
+Premise: Ripukusqañam hinaspam amaña llakikunaypaq niwarqa. , Hypothesis: Ama llakikunaytam niwarqa. , Answer: entailment
+
+Premise: Locust Hill oh awriki, ari, kusa , Hypothesis: Locust Hill nisqaqa allinmi. , Answer: contradiction
+
+Premise: Awriki allinmi wak wayna kaypi kachkan. , Hypothesis: Wak runaqa manam imay pachapipas kaymanqa qamurachu. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa. , Hypothesis: Punku wichqasqa kachkaptinpas yaykurqanikum. , Answer: entailment
+
+Premise: Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa. , Hypothesis: Yuyaruniqa hipa pampapi huk ima apakusqantam. , Answer: entailment
+
+Premise: Manam mayman risqanta yacharqanikuchu. , Hypothesis: Mayman risqantam yacharqaniku. , Answer: entailment
+
+Premise: Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa , Hypothesis: Apurawtam hamun, ichaqa maymanta hamusqanta yachanim. , Answer: entailment
+
+Premise: Ripukusqañam hinaspam amaña llakikunaypaq niwarqa. , Hypothesis: Ama llakikunaytam niwarqa. , Answer: entailment
+
+Premise: Yanapawaqniy atiq sispasmi hatun llaqtapa waklawninpiraq tiyan. , Hypothesis: Yanapawaqniy warmi warman 5 millas nisqan karupiraq tiyan. , Answer: neutral
+
+Premise: Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta. , Hypothesis: Ramonawanmi huktapiwan rimarqani. , Answer: entailment
+
+Premise: Locust Hill oh awriki, ari, kusa , Hypothesis: Locust Hill nisqaqa allinmi. , Answer: contradiction
+
+Premise: ¡Chiqaqtaqa allinllakasqa! , Hypothesis: Payqa ancha kusisqa kachkarqa. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa. , Hypothesis: Punku wichqasqa kachkaptinpas yaykurqanikum. , Answer: entailment
+
+Premise: Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa. , Hypothesis: Yuyaruniqa hipa pampapi huk ima apakusqantam. , Answer: entailment
+
+Premise: Manam mayman risqanta yacharqanikuchu. , Hypothesis: Mayman risqantam yacharqaniku. , Answer: entailment
+
+Premise: Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa , Hypothesis: Apurawtam hamun, ichaqa maymanta hamusqanta yachanim. , Answer: entailment
+
+Premise: Manam pachay karqachu ima kaqpas ruranaypaq. , Hypothesis: Mana pacha llapan qinanaypaq haypawarqachu , Answer: entailment
+
+Premise: Ripukusqañam hinaspam amaña llakikunaypaq niwarqa. , Hypothesis: Ama llakikunaytam niwarqa. , Answer: entailment
+
+Premise: Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta. , Hypothesis: Ramonawanmi huktapiwan rimarqani. , Answer: entailment
+
+Premise: Locust Hill oh awriki, ari, kusa , Hypothesis: Locust Hill nisqaqa allinmi. , Answer: contradiction
+
+Premise: ¡Chiqaqtaqa allinllakasqa! , Hypothesis: Payqa ancha kusisqa kachkarqa. , Answer: contradiction
+###SEP###

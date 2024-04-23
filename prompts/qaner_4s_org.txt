@@ -1,0 +1,21 @@
+Provide the organization in the following sentences. If there are none, respond with 'None'. If there are multiple, separate them with semicolons.
+
+Washington would also take " prompt and effective law enforcement action " against alien smuggling and hijackings from Cuba , it added .
+Q) What is the organization?
+A) None
+
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .
+Q) What is the organization?
+A) European Union
+
+Baltimore Orioles manager Davey Johnson will miss Thursday night 's game against the Seattle Mariners after being admitted to a hospital with an irregular heartbeat .
+Q) What is the organization?
+A) Baltimore Orioles ; Seattle Mariners
+
+Touchstone Software Corp. had to pay $ 1.3 million in cash and stock to settle a shareholders lawsuit brought after the company 's sales failed to meet expectations tied to the Windows 95 launch .
+Q) What is the organization?
+A) Touchstone Software Corp.
+
+{{sentence}}
+Q) What is the organization?
+A)

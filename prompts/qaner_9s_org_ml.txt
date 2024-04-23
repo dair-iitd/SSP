@@ -1,0 +1,41 @@
+Provide the organization in the following sentences. If there are none, respond with 'None'. If there are multiple, separate them with semicolons.
+
+Washington would also take " prompt and effective law enforcement action " against alien smuggling and hijackings from Cuba , it added .
+Q) What is the organization?
+A) None
+
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .
+Q) What is the organization?
+A) European Union
+
+Baltimore Orioles manager Davey Johnson will miss Thursday night 's game against the Seattle Mariners after being admitted to a hospital with an irregular heartbeat .
+Q) What is the organization?
+A) Baltimore Orioles ; Seattle Mariners
+
+Wanamgambo wa ADF Mauaji ya Alhamisi katika mkoa wa Mbau kaskazini mwa Beni yanashukiwa kufanya na kundi la waasi la Allied Democratic Force , ADF , ambalo linahusika na mfululizo wa mauaji tangu kuanza kwa ghasia mwezi November .
+Q) What is the organization?
+A) ADF ; Allied Democratic Force
+
+Tamko la Lucha Kundi la kijamii la Lucha , limerioti kuwa watu tisa ndiyo wameuawa karibu na Mbau .
+Q) What is the organization?
+A) Lucha
+
+Brazil ilikuwa inaongoza kwa takriban maambukizi mapya 55 , 000 , ikifuatiwa na Marekani ikiwa na zaidi ya maambukizi 36 , 000 na India ikiwa takriban na maambukizi mapya 15 , 000 .
+Q) What is the organization?
+A) None
+
+Waaye PorfesoorMusaa Séydi mi jiite Banqaasu feebar yiy wàlle ca loppitaanu Faan , àndul ak xalaat boobule .
+Q) What is the organization?
+A) loppitaanu
+
+Bees sukkandikoo ci yéenekaayu Amerig bi , ” New York Times ” , lépp a ngi door ci bésub altine , 25eelu fan ci weeru Me .
+Q) What is the organization?
+A) New York Times
+
+Waaw , ci lañuy wax seen xalaat , di ci waxtaan , di ci jokkoo aka werante .
+Q) What is the organization?
+A) None
+
+{{sentence}}
+Q) What is the organization?
+A)

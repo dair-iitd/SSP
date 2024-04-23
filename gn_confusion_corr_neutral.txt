@@ -1,0 +1,419 @@
+Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Okakuaávo ohóvo, ndohechakuaái ojavyha, katu omoambue heko. , Hypothesis: HA'e nde'íri iñe'ênte avaleha upe so'o mbutukáre. , Answer: neutral
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Péva ha’e, eikuaáma, emaña, neapañuâima. , Hypothesis: Ikatu reñemosê ko tetâgui. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue. , Hypothesis: Peteîva umi 5 apytépe omano. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Péva ha’e, eikuaáma, emaña, neapañuâima. , Hypothesis: Ikatu reñemosê ko tetâgui. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Pe kuñataî ikatúva chepytyvô oî amo táva mboypýri. , Hypothesis: Upe mitâkuña chepytyvôtava oî águi 5km hápe. , Answer: neutral
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ooo, chemi upe 922 omoîva inyección upe regulador-pe , Hypothesis: Amoîkuri inyector upe araapy. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue. , Hypothesis: Peteîva umi 5 apytépe omano. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ooo, chemi upe 922 omoîva inyección upe regulador-pe , Hypothesis: Amoîkuri inyector upe araapy. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Okakuaávo ohóvo, ndohechakuaái ojavyha, katu omoambue heko. , Hypothesis: HA'e nde'íri iñe'ênte avaleha upe so'o mbutukáre. , Answer: neutral
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Opoi marandu ñekuave'ê rehegua huguái rehe upe hyepýpe. , Hypothesis: Emoî marandu reikuave'êhápe yvarykue , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Upéicharô, apensa añe'âjeyva'erâ Ramona ndive. , Hypothesis: Nañe'êiva Ramona ndive. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Opoi marandu ñekuave'ê rehegua huguái rehe upe hyepýpe. , Hypothesis: Emoî marandu reikuave'êhápe yvarykue , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Okakuaávo ohóvo, ndohechakuaái ojavyha, katu omoambue heko. , Hypothesis: HA'e nde'íri iñe'ênte avaleha upe so'o mbutukáre. , Answer: neutral
+
+Premise: Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue. , Hypothesis: Peteîva umi 5 apytépe omano. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Ha'e ou, oipe'a okê ha chemandu'a amaña che rapykuévo ha ahecha hova, ahechakuaa ndaha'éihague upe oha'arôva. , Hypothesis: Oñeha'â ani haĝua roñeñandu vai katu roikuaa orekáusa iñapañuâiha. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue. , Hypothesis: Peteîva umi 5 apytépe omano. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Ha'e ou, oipe'a okê ha chemandu'a amaña che rapykuévo ha ahecha hova, ahechakuaa ndaha'éihague upe oha'arôva. , Hypothesis: Oñeha'â ani haĝua roñeñandu vai katu roikuaa orekáusa iñapañuâiha. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Okakuaávo ohóvo, ndohechakuaái ojavyha, katu omoambue heko. , Hypothesis: HA'e nde'íri iñe'ênte avaleha upe so'o mbutukáre. , Answer: neutral
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Ojoapypániko, ha ñandejára! naikuaái mboy áranera'e. , Hypothesis: Ndaikuaái mboy árapa oikovéne upe tembiasakue. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue. , Hypothesis: Peteîva umi 5 apytépe omano. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Ojoapypániko, ha ñandejára! naikuaái mboy áranera'e. , Hypothesis: Ndaikuaái mboy árapa oikovéne upe tembiasakue. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Okakuaávo ohóvo, ndohechakuaái ojavyha, katu omoambue heko. , Hypothesis: HA'e nde'íri iñe'ênte avaleha upe so'o mbutukáre. , Answer: neutral
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Ndoguerohoryeiete hikuái ipirehû umi árape, upéva oiméne, nde reikuaa, oiméne, amo 1930 oñepyrû rupi oikoramoguare umíva. , Hypothesis: Hasy ndéve ndepirehûramo Yvy gotyo. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ehejami chéve ta'e ndéve ko árape chekuerái haimete ahejarei. , Hypothesis: Hasyeterei chéve, ndachepu'akavéima. , Answer: entailment
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Ndoguerohoryeiete hikuái ipirehû umi árape, upéva oiméne, nde reikuaa, oiméne, amo 1930 oñepyrû rupi oikoramoguare umíva. , Hypothesis: Hasy ndéve ndepirehûramo Yvy gotyo. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Pe kuñataî ikatúva chepytyvô oî amo táva mboypýri. , Hypothesis: Upe mitâkuña chepytyvôtava oî águi 5km hápe. , Answer: neutral
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Iporâitereíkuri upérô. , Hypothesis: Oikuaaseterei mboýpa ikatu ho'u. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue. , Hypothesis: Peteîva umi 5 apytépe omano. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Iporâitereíkuri upérô. , Hypothesis: Oikuaaseterei mboýpa ikatu ho'u. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Okakuaávo ohóvo, ndohechakuaái ojavyha, katu omoambue heko. , Hypothesis: HA'e nde'íri iñe'ênte avaleha upe so'o mbutukáre. , Answer: neutral
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Néi, ñaĝuahêniko ko'âvape, peteî arapokôindýpe oîha mokôi térâ mbohapy aviô ha ndoikuaái moôpa ovevéta. , Hypothesis: Hetave aviô oîramo upéva apañuâima. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue. , Hypothesis: Peteîva umi 5 apytépe omano. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Néi, ñaĝuahêniko ko'âvape, peteî arapokôindýpe oîha mokôi térâ mbohapy aviô ha ndoikuaái moôpa ovevéta. , Hypothesis: Hetave aviô oîramo upéva apañuâima. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Okakuaávo ohóvo, ndohechakuaái ojavyha, katu omoambue heko. , Hypothesis: HA'e nde'íri iñe'ênte avaleha upe so'o mbutukáre. , Answer: neutral
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Roreko umi ao pyrusu guasu de presión aviôme, umi astronauta oiporúvaichagua, ojoavyha oremba'e overapaite ore pyregua peve ombojevy haĝua pytu aku. , Hypothesis: Ikatu pejuhu umi ao pyrusu oimehaichagua sa'y peipotávape. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue. , Hypothesis: Peteîva umi 5 apytépe omano. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Roreko umi ao pyrusu guasu de presión aviôme, umi astronauta oiporúvaichagua, ojoavyha oremba'e overapaite ore pyregua peve ombojevy haĝua pytu aku. , Hypothesis: Ikatu pejuhu umi ao pyrusu oimehaichagua sa'y peipotávape. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Che tio, karia'y vale. , Hypothesis: Che tio ho'a porâiterei chéve. , Answer: neutral
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Héê, nde reikuaa ha’e hetia’etereihague. , Hypothesis: Cheverô ĝuarâ nde reikuaa ha'e oî porâitereihague , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue. , Hypothesis: Peteîva umi 5 apytépe omano. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Héê, nde reikuaa ha’e hetia’etereihague. , Hypothesis: Cheverô ĝuarâ nde reikuaa ha'e oî porâitereihague , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Pe kuñataî ikatúva chepytyvô oî amo táva mboypýri. , Hypothesis: Upe mitâkuña chepytyvôtava oî águi 5km hápe. , Answer: neutral
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Upe mokôiha orekóva, peteîva umi jaguara'y ijaveguáva, ha pe mácho oiporúva hâi vaíkuri. , Hypothesis: Ijaveguáva oî 8, upe macho añoite hâi vaíva. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe. , Hypothesis: Ahenói upe papapýpe aĝuahêvo hógape. , Answer: entailment
+
+Premise: Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta. , Hypothesis: Aĝuahê ko pyhareve ha ha'e ou avei. , Answer: entailment
+
+Premise: Heta tembiasa oreko táva ñamboívo. , Hypothesis: Nahendúi ni peteî hembiasakue. , Answer: contradiction
+
+Premise: Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue. , Hypothesis: Peteîva umi 5 apytépe omano. , Answer: entailment
+
+Premise: Ohómakuri ha he’i chéve ani haĝua ajepy’apy. , Hypothesis: He’i ani haĝua ajepy’apy. , Answer: entailment
+
+Premise: Ha'e he'i ojupi hague yvatévo. , Hypothesis: He'i ohohague yvatévo. , Answer: entailment
+
+Premise: Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái. , Hypothesis: Augusta, táva ndatuichaitéiva. , Answer: entailment
+
+Premise: Locust Hill, héê, ikatupyryeterei. , Hypothesis: Locust Hill, héê, ikatupyryvéva. , Answer: entailment
+
+Premise: Upe mokôiha orekóva, peteîva umi jaguara'y ijaveguáva, ha pe mácho oiporúva hâi vaíkuri. , Hypothesis: Ijaveguáva oî 8, upe macho añoite hâi vaíva. , Answer: contradiction
+###SEP###

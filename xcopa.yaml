@@ -1,0 +1,473 @@
+annotations_creators:
+- expert-generated
+language_creators:
+- expert-generated
+language:
+- et
+- ht
+- id
+- it
+- qu
+- sw
+- ta
+- th
+- tr
+- vi
+- zh
+license:
+- cc-by-4.0
+multilinguality:
+- multilingual
+size_categories:
+- unknown
+source_datasets:
+- extended|copa
+task_categories:
+- question-answering
+task_ids:
+- multiple-choice-qa
+paperswithcode_id: xcopa
+pretty_name: XCOPA
+dataset_info:
+- config_name: et
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: ht
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: id
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: it
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: qu
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: sw
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: ta
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: th
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: tr
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: translation-et
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: translation-ht
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: translation-id
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: translation-it
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: translation-sw
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: translation-ta
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: translation-th
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: translation-tr
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: translation-vi
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: translation-zh
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: vi
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+- config_name: zh
+  features:
+  - name: premise
+    dtype: string
+  - name: choice1
+    dtype: string
+  - name: choice2
+    dtype: string
+  - name: question
+    dtype: string
+  - name: label
+    dtype: int32
+  - name: idx
+    dtype: int32
+  - name: changed
+    dtype: bool
+  splits:
+  - name: validation
+    num_examples: 100
+  - name: test
+    num_examples: 500
+

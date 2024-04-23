@@ -1,0 +1,39 @@
+You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+{{demos[0]['premise']}}
+Question: Does this imply that {{demos[0]['hypothesis']}}? Yes, No, or Maybe?
+Answer: {{demos[0]['output']}}
+
+{{demos[1]['premise']}}
+Question: Does this imply that {{demos[1]['hypothesis']}}? Yes, No, or Maybe?
+Answer: {{demos[1]['output']}}
+
+{{demos[2]['premise']}}
+Question: Does this imply that {{demos[2]['hypothesis']}}? Yes, No, or Maybe?
+Answer: {{demos[2]['output']}}
+
+{{demos[3]['premise']}}
+Question: Does this imply that {{demos[3]['hypothesis']}}? Yes, No, or Maybe?
+Answer: {{demos[3]['output']}}
+
+{{demos[4]['premise']}}
+Question: Does this imply that {{demos[4]['hypothesis']}}? Yes, No, or Maybe?
+Answer: {{demos[4]['output']}}
+
+{{demos[5]['premise']}}
+Question: Does this imply that {{demos[5]['hypothesis']}}? Yes, No, or Maybe?
+Answer: {{demos[5]['output']}}
+
+{{demos[6]['premise']}}
+Question: Does this imply that {{demos[6]['hypothesis']}}? Yes, No, or Maybe?
+Answer: {{demos[6]['output']}}
+
+
+{{demos[7]['premise']}}
+Question: Does this imply that {{demos[7]['hypothesis']}}? Yes, No, or Maybe?
+Answer: {{demos[7]['output']}}
+
+
+{{sentence['premise']}}
+Question: Does this imply that {{sentence['hypothesis']}}? Yes, No, or Maybe?
+Answer: 

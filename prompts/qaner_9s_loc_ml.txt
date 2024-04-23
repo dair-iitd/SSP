@@ -1,0 +1,41 @@
+Provide the location in the following sentences. If there are none, respond with 'None'. If there are multiple, separate them with semicolons.
+
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .
+Q) What is the location?
+A) None
+
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .
+Q) What is the location?
+A) Germany ; Britain
+
+In a telephone call to a local newspaper from his holiday home in Spain , Dalglish said : " We came to the same opinion , albeit the club came to it a little bit earlier than me . "
+Q) What is the location?
+A) Spain
+
+Wanamgambo wa ADF Mauaji ya Alhamisi katika mkoa wa Mbau kaskazini mwa Beni yanashukiwa kufanya na kundi la waasi la Allied Democratic Force , ADF , ambalo linahusika na mfululizo wa mauaji tangu kuanza kwa ghasia mwezi November .
+Q) What is the location?
+A) Mbau ; Beni
+
+Mauaji hayo yalilenga kijiji kidogo cha Mantumbi .
+Q) What is the location?
+A) Mantumbi
+
+Kiasi cha watu 100 wameuawa tangu Novemba 5 katika mashambulizi ambayo ADF inalaumiwa kuhusika , kundi ambalo lina mizizi yake nchini Uganda .
+Q) What is the location?
+A) None
+
+Askanu Senegaal dafa mës a weg i làmmiñam , làmmiñi réew mépp .
+Q) What is the location?
+A) Senegaal
+
+Kolobaan gii , boo fa doxantoo , dinga fa fekk ay jali jali fëgg - jaay , maanaam ay yëre yuñ sol Ërob ba sànni leen ci mbalit mi .
+Q) What is the location?
+A) Ërob
+
+Nekkul woon rekk njiitul diine ak tariixa , wànte boroom xam - xam bu gëmoon der bu ñuul la , te fonk dénduw Afrig gépp .
+Q) What is the location?
+A) None
+
+{{sentence}}
+Q) What is the location?
+A)

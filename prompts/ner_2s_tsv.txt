@@ -1,0 +1,77 @@
+Tag the following sentence according to the BIO scheme for the NER task, using the tags PER (person), LOC (location), ORG (organization) and DATE (date). Follow the format specified in the examples below:
+
+Sentence: The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .
+Tags:
+```
+The	O
+European	B-ORG
+Commission	I-ORG
+said	O
+on	O
+Thursday	O
+it	O
+disagreed	O
+with	O
+German	O
+advice	O
+to	O
+consumers	O
+to	O
+shun	O
+British	O
+lamb	O
+until	O
+scientists	O
+determine	O
+whether	O
+mad	O
+cow	O
+disease	O
+can	O
+be	O
+transmitted	O
+to	O
+sheep	O
+.	O
+```
+
+
+Sentence: Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .
+Tags:
+```
+Germany	B-LOC
+'s	O
+representative	O
+to	O
+the	O
+European	B-ORG
+Union	I-ORG
+'s	O
+veterinary	O
+committee	O
+Werner	B-PER
+Zwingmann	I-PER
+said	O
+on	O
+Wednesday	O
+consumers	O
+should	O
+buy	O
+sheepmeat	O
+from	O
+countries	O
+other	O
+than	O
+Britain	B-LOC
+until	O
+the	O
+scientific	O
+advice	O
+was	O
+clearer	O
+.	O
+```
+
+
+Sentence: {{sentence}}
+Tags:

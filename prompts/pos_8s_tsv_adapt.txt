@@ -1,0 +1,53 @@
+Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: {{demos[0]['input']}}
+Tags:
+```
+{{demos[0]['output']}}
+```
+
+Sentence: {{demos[1]['input']}}
+Tags:
+```
+{{demos[1]['output']}}
+```
+
+Sentence: {{demos[2]['input']}}
+Tags:
+```
+{{demos[2]['output']}}
+```
+
+Sentence: {{demos[3]['input']}}
+Tags:
+```
+{{demos[3]['output']}}
+```
+
+Sentence: {{demos[4]['input']}}
+Tags:
+```
+{{demos[4]['output']}}
+```
+
+Sentence: {{demos[5]['input']}}
+Tags:
+```
+{{demos[5]['output']}}
+```
+
+Sentence: {{demos[6]['input']}}
+Tags:
+```
+{{demos[6]['output']}}
+```
+
+Sentence: {{demos[7]['input']}}
+Tags:
+```
+{{demos[7]['output']}}
+```
+
+Sentence: {{sentence}}
+Tags:
+```

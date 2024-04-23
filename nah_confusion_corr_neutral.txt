@@ -1,0 +1,305 @@
+Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: Ino, nazantzi nipiyaya 922 tlen tlacatl de soporte vital, nompa tlacatl eltoya tepalehuihquetl tlen ficiologico. , Hypothesis: Ce tlacatl temacac palehuiliztli ficiológico a las tropas. , Answer: neutral
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: Brian ipan Plano Texas¿quenihcatza tiitztoc aman? , Hypothesis: ¿quenihcatza tiitztoc Maria? , Answer: contradiction
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: ¿tihpaxaloto ne muceo ipan Europa tlalli?. , Hypothesis: temachtli mitzpactiyaya tihpaxalos Europa. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih. , Hypothesis: niquitatoc pilquentzin toahui faulk, amo cualli niquiixmati , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz. , Hypothesis: Ya cihuatl axquipatlac quema inemiliz. , Answer: entailment
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: ¿tihpaxaloto ne muceo ipan Europa tlalli?. , Hypothesis: temachtli mitzpactiyaya tihpaxalos Europa. , Answer: entailment
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: nochi quisalohtoc, toteco amo nihmati quesqui cahuitl. , Hypothesis: nihmati quipiya 12.19 metros , Answer: neutral
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: Brian ipan Plano Texas¿quenihcatza tiitztoc aman? , Hypothesis: ¿quenihcatza tiitztoc Maria? , Answer: contradiction
+
+Premise: ni, ya tihmati, xiquita, mocuesol. , Hypothesis: miscuepacen motlal , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih. , Hypothesis: niquitatoc pilquentzin toahui faulk, amo cualli niquiixmati , Answer: entailment
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz. , Hypothesis: Ya cihuatl axquipatlac quema inemiliz. , Answer: entailment
+
+Premise: ni, ya tihmati, xiquita, mocuesol. , Hypothesis: miscuepacen motlal , Answer: entailment
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz. , Hypothesis: Ya cihuatl axquipatlac quema inemiliz. , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: Ino, nazantzi nipiyaya 922 tlen tlacatl de soporte vital, nompa tlacatl eltoya tepalehuihquetl tlen ficiologico. , Hypothesis: Ce tlacatl temacac palehuiliztli ficiológico a las tropas. , Answer: neutral
+
+Premise: Brian ipan Plano Texas¿quenihcatza tiitztoc aman? , Hypothesis: ¿quenihcatza tiitztoc Maria? , Answer: contradiction
+
+Premise: ¿Huacca ihuehue ihuelti nouhquia quipiyaya icuetlaxol chipahuac? , Hypothesis: Ihuelti monamihtihtoc ihuaya ce tlacatl yayahuic , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz. , Hypothesis: Ya cihuatl axquipatlac quema inemiliz. , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih. , Hypothesis: niquitatoc pilquentzin toahui faulk, amo cualli niquiixmati , Answer: entailment
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: ¿Huacca ihuehue ihuelti nouhquia quipiyaya icuetlaxol chipahuac? , Hypothesis: Ihuelti monamihtihtoc ihuaya ce tlacatl yayahuic , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: nochi quisalohtoc, toteco amo nihmati quesqui cahuitl. , Hypothesis: nihmati quipiya 12.19 metros , Answer: neutral
+
+Premise: Brian ipan Plano Texas¿quenihcatza tiitztoc aman? , Hypothesis: ¿quenihcatza tiitztoc Maria? , Answer: contradiction
+
+Premise: quena, nopa niquihtosnequi tlen, queman titlamis timonemilis ica nochi tequitl tle monequi, ama quena tiyas ce Clum Med tihpaxalos ihuan amo tleno motomin tihcahuilos  , Hypothesis: ipati $2000 nitlacohuas nochi tlen monequi. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih. , Hypothesis: niquitatoc pilquentzin toahui faulk, amo cualli niquiixmati , Answer: entailment
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz. , Hypothesis: Ya cihuatl axquipatlac quema inemiliz. , Answer: entailment
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: quena, nopa niquihtosnequi tlen, queman titlamis timonemilis ica nochi tequitl tle monequi, ama quena tiyas ce Clum Med tihpaxalos ihuan amo tleno motomin tihcahuilos  , Hypothesis: ipati $2000 nitlacohuas nochi tlen monequi. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz. , Hypothesis: Ya cihuatl axquipatlac quema inemiliz. , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: Ino, nazantzi nipiyaya 922 tlen tlacatl de soporte vital, nompa tlacatl eltoya tepalehuihquetl tlen ficiologico. , Hypothesis: Ce tlacatl temacac palehuiliztli ficiológico a las tropas. , Answer: neutral
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: Brian ipan Plano Texas¿quenihcatza tiitztoc aman? , Hypothesis: ¿quenihcatza tiitztoc Maria? , Answer: contradiction
+
+Premise: Nelia axetic eltoya , Hypothesis: Quicuahqui miac tlacualli, huan axmotomahqui , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih. , Hypothesis: niquitatoc pilquentzin toahui faulk, amo cualli niquiixmati , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz. , Hypothesis: Ya cihuatl axquipatlac quema inemiliz. , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: Nelia axetic eltoya , Hypothesis: Quicuahqui miac tlacualli, huan axmotomahqui , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: nochi quisalohtoc, toteco amo nihmati quesqui cahuitl. , Hypothesis: nihmati quipiya 12.19 metros , Answer: neutral
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: Brian ipan Plano Texas¿quenihcatza tiitztoc aman? , Hypothesis: ¿quenihcatza tiitztoc Maria? , Answer: contradiction
+
+Premise: neliya axnihmati, panpa ayamo nooyoyon amo miyac.  , Hypothesis: nechpactiya cualli nimoyoyontis. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih. , Hypothesis: niquitatoc pilquentzin toahui faulk, amo cualli niquiixmati , Answer: entailment
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz. , Hypothesis: Ya cihuatl axquipatlac quema inemiliz. , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: neliya axnihmati, panpa ayamo nooyoyon amo miyac.  , Hypothesis: nechpactiya cualli nimoyoyontis. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: nochi quisalohtoc, toteco amo nihmati quesqui cahuitl. , Hypothesis: nihmati quipiya 12.19 metros , Answer: neutral
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: Brian ipan Plano Texas¿quenihcatza tiitztoc aman? , Hypothesis: ¿quenihcatza tiitztoc Maria? , Answer: contradiction
+
+Premise: tla amo cualli, panpna timocuapoloh. , Hypothesis: tla mocuapoloh monequi quicelis. , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih. , Hypothesis: niquitatoc pilquentzin toahui faulk, amo cualli niquiixmati , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz. , Hypothesis: Ya cihuatl axquipatlac quema inemiliz. , Answer: entailment
+
+Premise: tla amo cualli, panpna timocuapoloh. , Hypothesis: tla mocuapoloh monequi quicelis. , Answer: contradiction
+###SEP###Prompt ILP: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: nochi quisalohtoc, toteco amo nihmati quesqui cahuitl. , Hypothesis: nihmati quipiya 12.19 metros , Answer: neutral
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: Brian ipan Plano Texas¿quenihcatza tiitztoc aman? , Hypothesis: ¿quenihcatza tiitztoc Maria? , Answer: contradiction
+
+Premise: nopa cualli tlen tiitztoc totlal, amo tleno timotequipachohua , Hypothesis: neliya cualli nican campo amo timotequipachohua quen tla tiitztos nepa hueyi atltepetl   , Answer: neutral
+Prompt ILP no label: You are an NLP assistant whose purpose is to solve Natural Language Inference (NLI) problems. NLI is the task of determining the inference relation between two (short, ordered) texts: entailment, contradiction, or neutral. Answer as concisely as possible in the same format as the examples below:
+
+Premise: tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin.  , Hypothesis: neliya yehyectzin tlahtzoma. , Answer: entailment
+
+Premise: amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih. , Hypothesis: niquitatoc pilquentzin toahui faulk, amo cualli niquiixmati , Answer: entailment
+
+Premise: ome tlen tlacatqui, san ochicchichiton quipixtoya tlancocolistli.  , Hypothesis: amo quipixtoya chichiton. , Answer: entailment
+
+Premise: mmm, nochi catli tlahcohuan, eltoc nochi iamah , Hypothesis: quiahocuin nochi ininamah. , Answer: entailment
+
+Premise: Huacca, zan achi ama nimacahuazquia ni notequi , Hypothesis: Zan achi nimacahuazquia ni notequi , Answer: entailment
+
+Premise: quena, nihcaqui. , Hypothesis: amo nihuelcaqui. , Answer: entailment
+
+Premise: Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz. , Hypothesis: Ya cihuatl axquipatlac quema inemiliz. , Answer: entailment
+
+Premise: Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli. , Hypothesis: Ino elqui tlen iyohyoc niquelnamiqui , Answer: entailment
+
+Premise: nopa cualli tlen tiitztoc totlal, amo tleno timotequipachohua , Hypothesis: neliya cualli nican campo amo timotequipachohua quen tla tiitztos nepa hueyi atltepetl   , Answer: contradiction
+###SEP###

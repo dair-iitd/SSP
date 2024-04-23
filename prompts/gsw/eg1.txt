@@ -1,0 +1,183 @@
+Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: I ha so fescht mit der flache Hang uf dä Beizetisch ghoue , dass grad d Gleser hei aafo waggele .
+Tags:
+```
+I	PRON
+ha	AUX
+so	ADV
+fescht	ADJ
+mit	ADP
+der	DET
+flache	ADJ
+Hang	NOUN
+uf	ADP
+dä	DET
+Beizetisch	NOUN
+ghoue	VERB
+,	PUNCT
+dass	SCONJ
+grad	ADV
+d	DET
+Gleser	NOUN
+hei	ADV
+aafo	VERB
+waggele	VERB
+.	PUNCT
+```
+
+Sentence: Dä hends mittlerwiile z ' Luzern entlòò , will är zvill Gool gschòssä hätt und wäg dem dä Luzerner irgendwiä unhaimlich wòrdän isch .
+Tags:
+```
+Dä	PRON
+hends	VERB
+mittlerwiile	ADV
+z	ADP
+'	PUNCT
+Luzern	PROPN
+entlòò	VERB
+,	PUNCT
+will	SCONJ
+är	PRON
+zvill	ADV
+Gool	NOUN
+gschòssä	VERB
+hätt	AUX
+und	CCONJ
+wäg	ADP
+dem	DET
+dä	DET
+Luzerner	NOUN
+irgendwiä	ADV
+unhaimlich	ADJ
+wòrdän	VERB
+isch	AUX
+.	PUNCT
+```
+
+Sentence: Ufere Tafle staht , dass dä Spilplatz nume für Mieter vo zwei Nachbershüüser isch .
+Tags:
+```
+Ufere	ADP
+Tafle	NOUN
+staht	VERB
+,	PUNCT
+dass	SCONJ
+dä	DET
+Spilplatz	NOUN
+nume	ADV
+für	ADP
+Mieter	NOUN
+vo	ADP
+zwei	NUM
+Nachbershüüser	NOUN
+isch	AUX
+.	PUNCT
+```
+
+Sentence: D Schwiizer Natsi-spiler besammlet sich am nächschte Ziischtig am Mittag in Mont-pèlerin im Waadtland .
+Tags:
+```
+D	DET
+Schwiizer	ADJ
+Natsi-spiler	NOUN
+besammlet	VERB
+sich	PRON
+am	ADP
+nächschte	ADJ
+Ziischtig	NOUN
+am	ADP
+Mittag	NOUN
+in	ADP
+Mont-pèlerin	PROPN
+im	ADP
+Waadtland	PROPN
+.	PUNCT
+```
+
+Sentence: De Vorsteher vom schwiizerische Departemänt för Wirtschaft , Beldig ond Forschig het s ' Hotel im Juli bsuecht .
+Tags:
+```
+De	DET
+Vorsteher	NOUN
+vom	ADP
+schwiizerische	ADJ
+Departemänt	NOUN
+för	ADP
+Wirtschaft	NOUN
+,	PUNCT
+Beldig	NOUN
+ond	CCONJ
+Forschig	NOUN
+het	AUX
+s	PRON
+'	PUNCT
+Hotel	NOUN
+im	ADP
+Juli	NOUN
+bsuecht	VERB
+.	PUNCT
+```
+
+Sentence: Und sitt därä Wuchä simmer drum au uf dä Suächi nòchämä neuän Òrt für üsi Hauptzentralä .
+Tags:
+```
+Und	CCONJ
+sitt	DET
+därä	DET
+Wuchä	NOUN
+simmer	AUX
+drum	ADV
+au	ADV
+uf	ADP
+dä	DET
+Suächi	NOUN
+nòchämä	ADV
+neuän	ADJ
+Òrt	NOUN
+für	ADP
+üsi	DET
+Hauptzentralä	NOUN
+.	PUNCT
+```
+
+Sentence: d Hauptstroos vo Basel durs Laufetal fiehrt dur Ääsch .
+Tags:
+```
+d	DET
+Hauptstroos	NOUN
+vo	ADP
+Basel	PROPN
+durs	ADP
+Laufetal	PROPN
+fiehrt	VERB
+dur	ADP
+Ääsch	PROPN
+.	PUNCT
+```
+
+Sentence: Die füüf beslang bestehende Schtandort send om zwöi wiiteri – Schanghäi ond Dresde – ergänzt worde .
+Tags:
+```
+Die	DET
+füüf	NUM
+beslang	ADV
+bestehende	ADJ
+Schtandort	NOUN
+send	VERB
+om	ADP
+zwöi	NUM
+wiiteri	ADJ
+–	PUNCT
+Schanghäi	PROPN
+ond	CCONJ
+Dresde	PROPN
+–	PUNCT
+ergänzt	VERB
+worde	AUX
+.	PUNCT
+```
+
+Sentence: D ' Gebäude ufem Firmagländ vu Energizer in La Chaux-de-Fonds ( NE ) sind zrugbaut worda .
+Tags:
+```

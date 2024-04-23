@@ -1,0 +1,41 @@
+Provide the person in the following sentences. If there are none, respond with 'None'. If there are multiple, separate them with semicolons.
+
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .
+Q) Who is the person?
+A) None  
+
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .
+Q) Who is the person?
+A) Werner Zwingmann 
+
+Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through " dangerous generalisation . "
+Q) Who is the person?
+A) Loyola de Palacio ; Fischler
+
+Imetayarishwa na Kennes Bwire , VOA , Washington DC
+Q) Who is the person?
+A) Kennes Bwire
+
+Jeshi la Congo limegundua ‘kiwanda cha kutengeneza mabomu ya kienyeji’ katika kambi moja ya ADF waliyoiteka , msemaji wa jeshi jenerali Leon Richard Kasonga amesema Jumatano .
+Q) Who is the person?
+A) Leon Richard Kasonga
+
+Tamko la Lucha Kundi la kijamii la Lucha , limerioti kuwa watu tisa ndiyo wameuawa karibu na Mbau .
+Q) Who is the person?
+A) None
+
+Waa kujje gi naan , Màkki wëlbati na keesu réew mi , jël xaalis bu - dul jeex jagleel koog saxaar , te askan wiy jànkoonteel i jafe - jafe yu tar .
+Q) Who is the person?
+A) Màkki
+
+Am sax ñu naan , ki tëgg làmbu dibéer bi ñu génn , te Bàlla Gay wëlbati Móodu Lóo jël ndam li , li mu ko dugge woon mooy juutal xelu nit ñi ba ñu fàtte solos bés bi .
+Q) Who is the person?
+A) Bàlla Gay ; Móodu Lóo 
+
+Su dee wote rekk , nag , kenn du ni guléet , miim réew yàgg naa tabb ay njiitam te deret du turu .
+Q) Who is the person?
+A) None
+
+{{sentence}}
+Q) Who is the person?
+A)

@@ -1,0 +1,6 @@
+openai==0.27.8
+together
+numpy
+seqeval
+tqdm
+python-dotenv

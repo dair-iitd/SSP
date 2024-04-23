@@ -1,0 +1,21 @@
+Provide the date in the following sentences. If there are none, respond with 'None'. If there are multiple, separate them with semicolons.
+
+Written on December 12 , 1999
+Q) What is the date?
+A) December 12 , 1999  
+
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .
+Q) What is the date?
+A) None
+
+In a telephone call to a local newspaper from his holiday home in Spain , Dalglish said : " We came to the same opinion , albeit the club came to it a little bit earlier than me . "
+Q) What is the date?
+A) None
+
+Scotland manager Craig Brown said on Thursday : " I 've watched Duncan Ferguson in action twice recently and he 's bang in form .
+Q) What is the date?
+A) Thursday
+
+{{sentence}}
+Q) What is the date?
+A)

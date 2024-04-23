@@ -1,0 +1,41 @@
+Provide the date in the following sentences. If there are none, respond with 'None'. If there are multiple, separate them with semicolons.
+
+Best emerged from Chapter 11 bankruptcy protection in June 1994 after 3-1/2 years 
+Q) What is the date?
+A) June 1994 ; 
+
+TORONTO 1996-08-21
+Q) What is the date?
+A) 1996-08-21
+
+Olympic silver medallist Brigita Bukovec of Slovenia could finish only fifth in the race in 12.95 .
+Q) What is the date?
+A) None
+
+Wanamgambo wa ADF Mauaji ya Alhamisi katika mkoa wa Mbau kaskazini mwa Beni yanashukiwa kufanya na kundi la waasi la Allied Democratic Force , ADF , ambalo linahusika na mfululizo wa mauaji tangu kuanza kwa ghasia mwezi November .
+Q) What is the date?
+A) Alhamisi ; November
+
+Jeshi la Congo limegundua ‘kiwanda cha kutengeneza mabomu ya kienyeji’ katika kambi moja ya ADF waliyoiteka , msemaji wa jeshi jenerali Leon Richard Kasonga amesema Jumatano .
+Q) What is the date?
+A) Jumatano
+
+Imetayarishwa na mwandishi wetu , Khadija Riyami , Washington , DC .
+Q) What is the date?
+A) None
+
+Am sax ñu naan , ki tëgg làmbu dibéer bi ñu génn , te Bàlla Gay wëlbati Móodu Lóo jël ndam li , li mu ko dugge woon mooy juutal xelu nit ñi ba ñu fàtte solos bés bi .
+Q) What is the date?
+A) dibéer 
+
+Nun ñépp a ànd ci demokaraasi , waaye ni ko peresidaŋ Sàll gise — ku am doole danga koy wone , doo maye dara , doo yërëm kenn — mën naa jur ëllëg musiba ci réew mi .
+Q) What is the date?
+A) ëllëg
+
+Cialtine jii la njiitu réew mi doon jébbal askan wi saxaar gi ñu duppe TER .
+Q) What is the date?
+A) None
+
+{{sentence}}
+Q) What is the date?
+A)

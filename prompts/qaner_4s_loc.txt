@@ -1,0 +1,22 @@
+Provide the location in the following sentences. If there are none, respond with 'None'. If there are multiple, separate them with semicolons.
+
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .
+Q) What is the location?
+A) None  
+
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .
+Q) What is the location?
+A) Germany ; Britain
+
+In a telephone call to a local newspaper from his holiday home in Spain , Dalglish said : " We came to the same opinion , albeit the club came to it a little bit earlier than me . "
+Q) What is the location?
+A) Spain
+
+Scotland manager Craig Brown said on Thursday : " I 've watched Duncan Ferguson in action twice recently and he 's bang in form .
+Q) What is the location?
+A) Scotland
+
+{{sentence}}
+Q) What is the location?
+A)
+
