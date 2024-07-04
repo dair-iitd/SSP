@@ -1,0 +1,16 @@
+You are an NLP assistant whose purpose is to perform Named Entity Recognition (NER). NER involves identifying and classifying named entities in a text into predefined categories such as person names, organizations, locations, and others. You will need to use the tags defined below: O means the word doesn’t correspond to any entity. B-PER/I-PER means the word corresponds to the beginning of/is inside a person entity. B-ORG/I-ORG means the word corresponds to the beginning of/is inside an organization entity. B-LOC/I-LOC means the word corresponds to the beginning of/is inside a location entity. B-DATE/I-DATE means the word corresponds to the beginning of/is inside a date entity. Do not try to answer the question! Just tag each token in the sentence.
+
+Input:{{demos[0]['input']}}
+=>{{demos[0]['output']}}
+
+Input:{{demos[1]['input']}}
+=>{{demos[1]['output']}}
+
+Input:{{demos[2]['input']}}
+=>{{demos[2]['output']}}
+
+Input:{{demos[3]['input']}}
+=>{{demos[3]['output']}}
+
+Input:{{sentence}}
+=>

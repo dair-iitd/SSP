@@ -1,0 +1,852 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "He explained that the MAPS programme in [ Nigeria ] is the malaria prevention programme implemented by hfi360, and the most comprehensive of its kind."
+    ],
+    "src_entities": [
+      "Nigeria"
+    ],
+    "template": "Ya bayyana cewa , shirin MAPS a Najeriya shine shirin rigakafin zazzabin cizon sauro da cibiyar hfi360 take aiwatarwa , kuma wanda yafi kowanne zurfi .",
+    "tgt_lang": [
+      [
+        "Ya bayyana cewa, shirin MAPS a [ Najeriya ] shine shirin rigakafin zazzabin cizon sauro da cibiyar hfi360 take aiwatarwa, kuma wanda yafi kowanne zurfi.",
+        "Ya bayyana cewa, shirin MAPS a [ ] Najeriya shine shirin rigakafin zazzabin cizon sauro da cibiyar hfi360 take aiwatarwa, kuma wanda yafi kowanne zurfi.",
+        "Ya bayyana cewa, shirin MAPS a [ Najeriya shine shirin rigakafin zazzabin cizon sauro da cibiyar hfi360 take aiwatarwa, kuma wanda yafi kowanne zurfi. ]",
+        "Ya bayyana cewa, shirin MAPS a [ Najeriya shine shirin rigakafin zazzabin cizon sauro da cibiyar hfi360 take aiwatarwa, ] kuma wanda yafi kowanne zurfi.",
+        "Ya bayyana cewa, shirin MAPS a [ Najeriya shine shirin rigakafin zazzabin cizon sauro da cibiyar hfi360 take aiwatarwa, kuma wanda yafi kowanne zurfi ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Najeriya",
+        "",
+        "Najeriya shine shirin rigakafin zazzabin cizon sauro da cibiyar hfi360 take aiwatarwa, kuma wanda yafi kowanne zurfi.",
+        "Najeriya shine shirin rigakafin zazzabin cizon sauro da cibiyar hfi360 take aiwatarwa,",
+        "Najeriya shine shirin rigakafin zazzabin cizon sauro da cibiyar hfi360 take aiwatarwa, kuma wanda yafi kowanne zurfi"
+      ]
+    ],
+    "score": [
+      [
+        -46.02157211303711,
+        -56.09989929199219,
+        -69.1039810180664,
+        -72.97130584716797,
+        -73.52338409423828
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 1,
+    "src_lang": [],
+    "template": "An rufe makarantu da ofisoshi , an soke dubabban tafiye - tafiyen jiragen sama kuma tuni masu ayyukan ceto ke ta fadi - tashin ceto wasu mutane da su ka makale .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 2,
+    "src_lang": [],
+    "template": "Kasancewa , mata sune suka fi kusa da kananan yara , banda haka kuma , sun iya tada tsimin al’umma .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "It also denied work permits to all asylum seekers who entered the [ United States ] illegally."
+    ],
+    "src_entities": [
+      "United States"
+    ],
+    "template": "Sai kuma hana izinin yin aiki ga duk masu neman mafakar da suka shigo Amurka ta barauniyar hanya .",
+    "tgt_lang": [
+      [
+        "Sai kuma hana izinin yin aiki ga duk masu neman mafakar da suka shigo [ Amurka ] ta barauniyar hanya.",
+        "Sai kuma hana izinin yin aiki ga duk masu neman mafakar da suka shigo [ Amurka ta barauniyar hanya ].",
+        "Sai kuma hana izinin yin aiki ga duk masu neman mafakar da suka [ shigo Amurka ] ta barauniyar hanya.",
+        "Sai kuma hana izinin yin aiki ga duk masu neman mafakar da suka shigo [ Amurka ta barauniyar hanya. ]",
+        "Sai kuma hana izinin yin aiki ga duk masu neman mafakar da suka shigo [ ] Amurka ta barauniyar hanya."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Amurka",
+        "Amurka ta barauniyar hanya",
+        "shigo Amurka",
+        "Amurka ta barauniyar hanya.",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -44.808895111083984,
+        -52.33277130126953,
+        -52.93801498413086,
+        -54.49697494506836,
+        -54.65205001831055
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 4,
+    "src_lang": [],
+    "template": "An Gano Hanyar Hana Cutar Kanjamau Yaduwa",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "The vice president is scheduled to meet with [ Kim Yo Jong, ] the sister of President Kim Jon Un and Kim Yong Nam, the country's future president.",
+      "The vice president is scheduled to meet with Kim Yo Jong, the sister of President [ Kim Jon Un ] and Kim Yong Nam, the country's future president.",
+      "The vice president is scheduled to meet with Kim Yo Jong, the sister of President Kim Jon Un and [ Kim Yong Nam, ] the country's future president."
+    ],
+    "src_entities": [
+      "Kim Yo Jong,",
+      "Kim Jon Un",
+      "Kim Yong Nam,"
+    ],
+    "template": "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban Kim Jon Un da kuma Kim Yong Nam , wanda yake shugaban kasar na jeka na yi ka .",
+    "tgt_lang": [
+      [
+        "An shirya mataimakin shugaban kasar zai gana da [ Kim Yo Jong ] 'yar uwar shugaban Kim Jon Un da kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka.",
+        "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong [ ] 'yar uwar shugaban Kim Jon Un da kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka.",
+        "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong [ 'yar uwar shugaban Kim Jon Un ] da kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka.",
+        "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong [ 'yar uwar shugaban Kim Jon Un da kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka ].",
+        "An shirya mataimakin shugaban kasar zai gana da [ Kim Yo Jong 'yar uwar shugaban Kim Jon Un da kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka ]."
+      ],
+      [
+        "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban [ Kim Jon Un ] da kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka.",
+        "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar [ shugaban Kim Jon Un ] da kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka.",
+        "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban [ ] Kim Jon Un da kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka.",
+        "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban Kim [ Jon Un ] da kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka.",
+        "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban [ Kim Jon Un da ] kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka."
+      ],
+      [
+        "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban Kim Jon Un da kuma [ Kim Yong Nam, ] wanda yake shugaban kasar na jeka na yi ka.",
+        "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban Kim Jon Un da kuma [ Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka ].",
+        "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban Kim Jon Un da kuma [ Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka. ]",
+        "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban [ Kim Jon Un da kuma Kim Yong Nam, ] wanda yake shugaban kasar na jeka na yi ka.",
+        "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban Kim Jon Un da kuma [ Kim Yong Nam, wanda yake shugaban kasar na jeka ] na yi ka."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kim Yo Jong",
+        "",
+        "'yar uwar shugaban Kim Jon Un",
+        "'yar uwar shugaban Kim Jon Un da kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka",
+        "Kim Yo Jong 'yar uwar shugaban Kim Jon Un da kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka"
+      ],
+      [
+        "Kim Jon Un",
+        "shugaban Kim Jon Un",
+        "",
+        "Jon Un",
+        "Kim Jon Un da"
+      ],
+      [
+        "Kim Yong Nam,",
+        "Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka",
+        "Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka.",
+        "Kim Jon Un da kuma Kim Yong Nam,",
+        "Kim Yong Nam, wanda yake shugaban kasar na jeka"
+      ]
+    ],
+    "score": [
+      [
+        -91.10516357421875,
+        -97.36106872558594,
+        -98.81128692626953,
+        -102.8768310546875,
+        -104.43482208251953
+      ],
+      [
+        -85.77039337158203,
+        -97.2320327758789,
+        -97.62471008300781,
+        -98.87205505371094,
+        -100.66436767578125
+      ],
+      [
+        -88.11045837402344,
+        -94.9356918334961,
+        -96.86299896240234,
+        -97.17057037353516,
+        -97.26046752929688
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [
+      "7 in the state of [ Gombe ]"
+    ],
+    "src_entities": [
+      "Gombe"
+    ],
+    "template": "7 a jihar Gombe",
+    "tgt_lang": [
+      [
+        "7 a jihar [ Gombe ]",
+        "7 a [ jihar Gombe ]",
+        "[ 7 a jihar Gombe ]",
+        "7 a jihar Gombe [ ]",
+        "[ 7 ] a jihar Gombe"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Gombe",
+        "jihar Gombe",
+        "7 a jihar Gombe",
+        "",
+        "7"
+      ]
+    ],
+    "score": [
+      [
+        -2.8510329723358154,
+        -8.015100479125977,
+        -9.958451271057129,
+        -11.122007369995117,
+        -13.227645874023438
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "[ Trump ] goes to Dayton, El Paso for comfort",
+      "Trump goes to [ Dayton, ] El Paso for comfort",
+      "Trump goes to Dayton, [ El Paso ] for comfort"
+    ],
+    "src_entities": [
+      "Trump",
+      "Dayton,",
+      "El Paso"
+    ],
+    "template": "Trump Ya Je Biranen Dayton , El Paso Domin Yin Ta'aziyya",
+    "tgt_lang": [
+      [
+        "[ Trump ] Ya Je Biranen Dayton, El Paso Domin Yin Ta'aziyya",
+        "Trump Ya Je Biranen Dayton [, El Paso ] Domin Yin Ta'aziyya",
+        "Trump Ya Je Biranen Dayton [ ], El Paso Domin Yin Ta'aziyya",
+        "Trump Ya Je Biranen Dayton [, ] El Paso Domin Yin Ta'aziyya",
+        "Trump [ Ya Je Biranen Dayton, El Paso ] Domin Yin Ta'aziyya"
+      ],
+      [
+        "Trump Ya Je Biranen [ Dayton, ] El Paso Domin Yin Ta'aziyya",
+        "Trump Ya Je Biranen [ Dayton, El Paso ] Domin Yin Ta'aziyya",
+        "Trump Ya Je Biranen [ Dayton ], El Paso Domin Yin Ta'aziyya",
+        "Trump Ya Je Biranen Dayton [, ] El Paso Domin Yin Ta'aziyya",
+        "Trump Ya Je [ Biranen Dayton, ] El Paso Domin Yin Ta'aziyya"
+      ],
+      [
+        "Trump Ya Je Biranen Dayton, [ El Paso ] Domin Yin Ta'aziyya",
+        "Trump Ya Je Biranen Dayton [, El Paso ] Domin Yin Ta'aziyya",
+        "Trump Ya Je Biranen Dayton, [ ] El Paso Domin Yin Ta'aziyya",
+        "Trump Ya Je Biranen Dayton [, ] El Paso Domin Yin Ta'aziyya",
+        "Trump Ya Je Biranen Dayton, [ El Paso Domin Yin Ta'aziyya ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Trump",
+        ", El Paso",
+        "",
+        ",",
+        "Ya Je Biranen Dayton, El Paso"
+      ],
+      [
+        "Dayton,",
+        "Dayton, El Paso",
+        "Dayton",
+        ",",
+        "Biranen Dayton,"
+      ],
+      [
+        "El Paso",
+        ", El Paso",
+        "",
+        ",",
+        "El Paso Domin Yin Ta'aziyya"
+      ]
+    ],
+    "score": [
+      [
+        -46.470550537109375,
+        -50.76396179199219,
+        -52.63847732543945,
+        -53.69221115112305,
+        -54.93450927734375
+      ],
+      [
+        -36.35356521606445,
+        -39.54044723510742,
+        -41.88921356201172,
+        -42.606746673583984,
+        -43.907352447509766
+      ],
+      [
+        -36.53868103027344,
+        -41.81196975708008,
+        -48.39390182495117,
+        -49.347442626953125,
+        -49.46967315673828
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 8,
+    "src_lang": [],
+    "template": "Amurkawa Na Zaben Rabin Wa'adi",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 9,
+    "src_lang": [],
+    "template": "A wani gwajin kuma , kazar aka sanya kusa da gidan sauron .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "[ Katsalanda's ] 2016 election research leader will ask President Trump questions",
+      "Katsalanda's 2016 election research leader will ask President [ Trump ] questions"
+    ],
+    "src_entities": [
+      "Katsalanda's",
+      "Trump"
+    ],
+    "template": "Jagoran Binciken Katsalanda A Zaben 2016 Zai Yiwa Shugaba Trump Tambayoyi",
+    "tgt_lang": [
+      [
+        "Jagoran Binciken [ Katsalanda ] A Zaben 2016 Zai Yiwa Shugaba Trump Tambayoyi",
+        "Jagoran Binciken [ Katsalanda A ] Zaben 2016 Zai Yiwa Shugaba Trump Tambayoyi",
+        "[ ] Jagoran Binciken Katsalanda A Zaben 2016 Zai Yiwa Shugaba Trump Tambayoyi",
+        "[ Jagoran Binciken Katsalanda A Zaben 2016 ] Zai Yiwa Shugaba Trump Tambayoyi",
+        "[ Jagoran Binciken Katsalanda A Zaben 2016 Zai Yiwa Shugaba Trump Tambayoyi ]"
+      ],
+      [
+        "Jagoran Binciken Katsalanda A Zaben 2016 Zai Yiwa Shugaba [ Trump ] Tambayoyi",
+        "Jagoran Binciken Katsalanda A Zaben 2016 Zai Yiwa [ Shugaba Trump ] Tambayoyi",
+        "Jagoran Binciken Katsalanda A Zaben 2016 Zai Yiwa Shugaba [ Trump Tambayoyi ]",
+        "Jagoran Binciken Katsalanda A Zaben 2016 Zai Yiwa [ Shugaba Trump Tambayoyi ]",
+        "Jagoran Binciken Katsalanda A Zaben 2016 Zai Yi [wa Shugaba Trump ] Tambayoyi"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Katsalanda",
+        "Katsalanda A",
+        "",
+        "Jagoran Binciken Katsalanda A Zaben 2016",
+        "Jagoran Binciken Katsalanda A Zaben 2016 Zai Yiwa Shugaba Trump Tambayoyi"
+      ],
+      [
+        "Trump",
+        "Shugaba Trump",
+        "Trump Tambayoyi",
+        "Shugaba Trump Tambayoyi",
+        "wa Shugaba Trump"
+      ]
+    ],
+    "score": [
+      [
+        -38.5040168762207,
+        -41.85185241699219,
+        -46.26127624511719,
+        -47.84121322631836,
+        -49.110843658447266
+      ],
+      [
+        -27.035152435302734,
+        -34.0842170715332,
+        -34.3897819519043,
+        -38.625736236572266,
+        -40.30680847167969
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "Today is the day when the [ World Health Organization ] declared Nigeria free of the Ebola virus.",
+      "Today is the day when the World Health Organization declared [ Nigeria ] free of the Ebola virus."
+    ],
+    "src_entities": [
+      "World Health Organization",
+      "Nigeria"
+    ],
+    "template": "Yau ce ranar da hukumar kiwon lafiya ta duniya ta fadi cewa kasar Najeriya ta rabu da cutar Ebola .",
+    "tgt_lang": [
+      [
+        "Yau ce ranar da [ hukumar kiwon lafiya ta duniya ] ta fadi cewa kasar Najeriya ta rabu da cutar Ebola.",
+        "Yau ce ranar da hukumar [ kiwon lafiya ta duniya ] ta fadi cewa kasar Najeriya ta rabu da cutar Ebola.",
+        "Yau ce ranar da [ hukumar kiwon lafiya ta duniya ta ] fadi cewa kasar Najeriya ta rabu da cutar Ebola.",
+        "Yau ce ranar da [ hukumar kiwon lafiya ta duniya ta fadi ] cewa kasar Najeriya ta rabu da cutar Ebola.",
+        "Yau ce ranar da [ hukumar kiwon lafiya ta duniya ta fadi cewa ] kasar Najeriya ta rabu da cutar Ebola."
+      ],
+      [
+        "Yau ce ranar da hukumar kiwon lafiya ta duniya ta fadi cewa kasar [ Najeriya ] ta rabu da cutar Ebola.",
+        "Yau ce ranar da hukumar kiwon lafiya ta duniya ta fadi cewa [ kasar Najeriya ] ta rabu da cutar Ebola.",
+        "Yau ce ranar da hukumar kiwon lafiya ta duniya ta fadi cewa [ kasar ] Najeriya ta rabu da cutar Ebola.",
+        "Yau ce ranar da hukumar kiwon lafiya ta duniya ta fadi cewa kasar [ Najeriya ta ] rabu da cutar Ebola.",
+        "Yau ce ranar da hukumar kiwon lafiya ta duniya ta fadi cewa kasar [ ] Najeriya ta rabu da cutar Ebola."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "hukumar kiwon lafiya ta duniya",
+        "kiwon lafiya ta duniya",
+        "hukumar kiwon lafiya ta duniya ta",
+        "hukumar kiwon lafiya ta duniya ta fadi",
+        "hukumar kiwon lafiya ta duniya ta fadi cewa"
+      ],
+      [
+        "Najeriya",
+        "kasar Najeriya",
+        "kasar",
+        "Najeriya ta",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -35.61496353149414,
+        -39.4892578125,
+        -39.68899917602539,
+        -40.054691314697266,
+        -43.30518341064453
+      ],
+      [
+        -32.86982727050781,
+        -34.70042037963867,
+        -39.119014739990234,
+        -40.61619567871094,
+        -40.80320739746094
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [],
+    "template": "Yace sau tari muna tuntubar majalisun kasar domin mu fahimci damuwarsu kuma mu yi iya kokarinmu mu yi musu bayani a kan manufofin mu .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 13,
+    "src_lang": [],
+    "template": "* Sako daga cibiyar yaki da cutuka ta kasa da kasa .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 14,
+    "src_lang": [],
+    "template": "da goma sha shida .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "Gunman Shoots at Jews in the [ United States ]"
+    ],
+    "src_entities": [
+      "United States"
+    ],
+    "template": "Dan Bindiga Ya Bude Wuta Akan Yahudawa a Amurka",
+    "tgt_lang": [
+      [
+        "Dan Bindiga Ya Bude Wuta Akan Yahudawa a [ Amurka ]",
+        "Dan Bindiga Ya Bude Wuta Akan Yahudawa [ a Amurka ]",
+        "Dan Bindiga Ya Bude Wuta Akan [ Yahudawa a Amurka ]",
+        "Dan Bindiga Ya Bude Wuta Akan Yahudawa a Amurka [ ]",
+        "Dan Bindiga Ya Bude Wuta Akan Yahudawa a [ ] Amurka"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Amurka",
+        "a Amurka",
+        "Yahudawa a Amurka",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -20.573028564453125,
+        -27.38462257385254,
+        -29.097890853881836,
+        -31.295955657958984,
+        -31.51948356628418
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 16,
+    "src_lang": [],
+    "template": "Abinda yasa ake samun matsaloli da yake kai da rasa rayukan iyayen da kuma jariransu .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "indicates that the [ US ] system does not follow good immigration policies and law and order."
+    ],
+    "src_entities": [
+      "US"
+    ],
+    "template": "’ yana mai nuni da cewa tsarin Amurka ba ya bin kyawawan manufofin shige da fici da kuma doka da oda .",
+    "tgt_lang": [
+      [
+        " yana mai nuni da cewa tsarin [ Amurka ] ba ya bin kyawawan manufofin shige da fici da kuma doka da oda.",
+        " yana mai nuni da cewa tsarin Amurka [ ba ya bin kyawawan manufofin shige da fici da kuma doka da oda ].",
+        " yana mai nuni da cewa tsarin Amurka [ ba ya bin kyawawan manufofin shige da fici da kuma doka da oda. ]",
+        " yana mai nuni da cewa tsarin Amurka ba ya bin kyawawan manufofin shige da fici da kuma doka da oda [ ].",
+        " yana mai nuni da cewa tsarin [ Amurka ba ya bin kyawawan manufofin shige da fici da kuma doka da oda ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Amurka",
+        "ba ya bin kyawawan manufofin shige da fici da kuma doka da oda",
+        "ba ya bin kyawawan manufofin shige da fici da kuma doka da oda.",
+        "",
+        "Amurka ba ya bin kyawawan manufofin shige da fici da kuma doka da oda"
+      ]
+    ],
+    "score": [
+      [
+        -56.105560302734375,
+        -69.93299102783203,
+        -70.3824234008789,
+        -70.6320571899414,
+        -71.34425354003906
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 18,
+    "src_lang": [],
+    "template": "Dangane da wadanda suke kwance yanzu yace babu wanda zai ce zasu rayu ko ba zasu rayu ba .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "[ Netanyahu ] made this clear before leaving his country yesterday for a meeting with European Leaders."
+    ],
+    "src_entities": [
+      "Netanyahu"
+    ],
+    "template": "Natanyahu bayyana hakan ne gabanin ya bar kasarsa jiya don ganawa da Shugabannin yankin Turai .",
+    "tgt_lang": [
+      [
+        "[ Natanyahu ] bayyana hakan ne gabanin ya bar kasarsa jiya don ganawa da Shugabannin yankin Turai.",
+        "[ Natanyahu bayyana hakan ne ] gabanin ya bar kasarsa jiya don ganawa da Shugabannin yankin Turai.",
+        "[ ] Natanyahu bayyana hakan ne gabanin ya bar kasarsa jiya don ganawa da Shugabannin yankin Turai.",
+        "Natanyahu bayyana hakan ne gabanin ya bar kasarsa jiya don ganawa da [ Shugabannin yankin Turai ].",
+        "[ Natanyahu bayyana hakan ne gabanin ya bar kasarsa jiya don ganawa da Shugabannin yankin Turai ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Natanyahu",
+        "Natanyahu bayyana hakan ne",
+        "",
+        "Shugabannin yankin Turai",
+        "Natanyahu bayyana hakan ne gabanin ya bar kasarsa jiya don ganawa da Shugabannin yankin Turai"
+      ]
+    ],
+    "score": [
+      [
+        -48.01354217529297,
+        -59.67609405517578,
+        -59.813751220703125,
+        -66.7445297241211,
+        -68.77918243408203
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 20,
+    "src_lang": [],
+    "template": "Bisa ga cewarshi , ‘yan matan da suka ballaga suna cikin hatsarin kamuwa da cutar kanjamau sabili da irin yanayin da suke girma ciki da al’ada da ke sa su yi jima’I mazan da suka girme su .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "On Wednesday, President [ Trump ] will make another visit to the southwestern border city of El Paso, Texas, where more than 20 people were also killed over the weekend.",
+      "On Wednesday, President Trump will make another visit to the southwestern border city of [ El Paso, ] Texas, where more than 20 people were also killed over the weekend.",
+      "On Wednesday, President Trump will make another visit to the southwestern border city of El Paso, [ Texas, ] where more than 20 people were also killed over the weekend."
+    ],
+    "src_entities": [
+      "Trump",
+      "El Paso,",
+      "Texas,"
+    ],
+    "template": "A yau Laraba shugaba Trump , zai kai wata ziyarar garin El Paso na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar , wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20 .",
+    "tgt_lang": [
+      [
+        "A yau Laraba shugaba [ Trump ], zai kai wata ziyarar garin El Paso na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20.",
+        "A yau Laraba shugaba [ Trump, ] zai kai wata ziyarar garin El Paso na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20.",
+        "A yau Laraba shugaba Trump [, ] zai kai wata ziyarar garin El Paso na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20.",
+        "A yau Laraba shugaba [ Trump, zai kai wata ziyarar garin El Paso na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20 ].",
+        "A yau Laraba shugaba [ Trump, zai kai wata ziyarar garin El Paso na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20. ]"
+      ],
+      [
+        "A yau Laraba shugaba Trump, zai kai wata ziyarar garin [ El Paso na jihar Texas ] da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20.",
+        "A yau Laraba shugaba Trump, zai kai wata ziyarar garin [ El Paso na jihar ] Texas da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20.",
+        "A yau Laraba shugaba Trump, zai kai wata ziyarar garin [ El Paso ] na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20.",
+        "A yau Laraba shugaba Trump, zai kai wata ziyarar garin [ El Paso na ] jihar Texas da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20.",
+        "A yau Laraba shugaba Trump, zai kai wata ziyarar garin El Paso na [ jihar Texas ] da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20."
+      ],
+      [
+        "A yau Laraba shugaba Trump, zai kai wata ziyarar garin El Paso [ na jihar Texas ] da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20.",
+        "A yau Laraba shugaba Trump, zai kai wata ziyarar garin El Paso na jihar [ Texas ] da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20.",
+        "A yau Laraba shugaba Trump, zai kai wata ziyarar garin El Paso na [ jihar Texas ] da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20.",
+        "A yau Laraba shugaba Trump, zai kai wata ziyarar garin El Paso [ na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar, ] wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20.",
+        "A yau Laraba shugaba Trump, zai kai wata ziyarar garin El Paso [ na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar ], wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Trump",
+        "Trump,",
+        ",",
+        "Trump, zai kai wata ziyarar garin El Paso na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20",
+        "Trump, zai kai wata ziyarar garin El Paso na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20."
+      ],
+      [
+        "El Paso na jihar Texas",
+        "El Paso na jihar",
+        "El Paso",
+        "El Paso na",
+        "jihar Texas"
+      ],
+      [
+        "na jihar Texas",
+        "Texas",
+        "jihar Texas",
+        "na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar,",
+        "na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar"
+      ]
+    ],
+    "score": [
+      [
+        -84.28642272949219,
+        -86.57849884033203,
+        -90.196533203125,
+        -99.79441833496094,
+        -101.1245346069336
+      ],
+      [
+        -84.83660125732422,
+        -85.43072509765625,
+        -86.12062072753906,
+        -87.64612579345703,
+        -90.29792022705078
+      ],
+      [
+        -83.59518432617188,
+        -86.80000305175781,
+        -87.33915710449219,
+        -87.46562194824219,
+        -88.55789184570312
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "[ Saidai ] and another man named Alhaji Garba Tela said it was a political rally, where people from six states gathered to promote the name of President Jonathan.",
+      "Saidai and another man named Alhaji [ Garba Tela ] said it was a political rally, where people from six states gathered to promote the name of President Jonathan.",
+      "Saidai and another man named Alhaji Garba Tela said it was a political rally, where people from six states gathered to promote the name of President [ Jonathan. ]"
+    ],
+    "src_entities": [
+      "Saidai",
+      "Garba Tela",
+      "Jonathan."
+    ],
+    "template": "Saidai kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa , inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan .",
+    "tgt_lang": [
+      [
+        "[ Saidai ] kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan.",
+        "Saidai [ ] kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan.",
+        "[ Saidai kuma ] wani mai suna Alhaji Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan.",
+        "Saidai [ kuma wani mai suna Alhaji Garba Tela ] y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan.",
+        "[ Saidai kuma wani mai suna Alhaji Garba Tela ] y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan."
+      ],
+      [
+        "Saidai kuma wani mai suna Alhaji [ Garba Tela ] y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan.",
+        "Saidai kuma wani mai suna Alhaji [ Garba Tela y ace ] taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan.",
+        "Saidai kuma wani mai suna Alhaji [ ] Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan.",
+        "Saidai kuma wani mai suna Alhaji [ Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan ].",
+        "Saidai kuma wani mai suna Alhaji [ Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan. ]"
+      ],
+      [
+        "Saidai kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba [ Jonathan ].",
+        "Saidai kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba [ Jonathan. ]",
+        "Saidai kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan [ ].",
+        "Saidai kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan [. ]",
+        "Saidai kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta [ tallata sunan Shugaba Jonathan ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Saidai",
+        "",
+        "Saidai kuma",
+        "kuma wani mai suna Alhaji Garba Tela",
+        "Saidai kuma wani mai suna Alhaji Garba Tela"
+      ],
+      [
+        "Garba Tela",
+        "Garba Tela y ace",
+        "",
+        "Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan",
+        "Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan."
+      ],
+      [
+        "Jonathan",
+        "Jonathan.",
+        "",
+        ".",
+        "tallata sunan Shugaba Jonathan"
+      ]
+    ],
+    "score": [
+      [
+        -48.3524284362793,
+        -61.05971908569336,
+        -61.099822998046875,
+        -63.33336639404297,
+        -66.34329223632812
+      ],
+      [
+        -52.38572311401367,
+        -62.339046478271484,
+        -64.14115905761719,
+        -72.62504577636719,
+        -73.91184997558594
+      ],
+      [
+        -49.447998046875,
+        -51.77874755859375,
+        -57.94532012939453,
+        -59.583534240722656,
+        -62.2093505859375
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "Listen to the full report of [ Abdulwahab Mohammed: ]"
+    ],
+    "src_entities": [
+      "Abdulwahab Mohammed:"
+    ],
+    "template": "Saurari Cikakken rahoton Abdulwahab Mohammed :",
+    "tgt_lang": [
+      [
+        "Saurari Cikakken rahoton [ Abdulwahab Mohammed : ]",
+        "Saurari Cikakken rahoton [ Abdulwahab Mohammed ] :",
+        "Saurari Cikakken rahoton [ ] Abdulwahab Mohammed :",
+        "Saurari Cikakken rahoton Abdulwahab Mohammed [ : ]",
+        "Saurari Cikakken rahoton Abdulwahab Mohammed : [ ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Abdulwahab Mohammed :",
+        "Abdulwahab Mohammed",
+        "",
+        ":",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -18.50596046447754,
+        -27.296066284179688,
+        -30.36092185974121,
+        -30.832042694091797,
+        -31.236957550048828
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "[ US ] President Who Is the World's Most Ridiculous Immigration Policy"
+    ],
+    "src_entities": [
+      "US"
+    ],
+    "template": "Shugaban Amurka Yace Duniya Na Yiwa Tsarin Dokar Shige Da Ficenta Dariya",
+    "tgt_lang": [
+      [
+        "Shugaban [ Amurka ] Yace Duniya Na Yiwa Tsarin Dokar Shige Da Ficenta Dariya",
+        "[ Shugaban Amurka ] Yace Duniya Na Yiwa Tsarin Dokar Shige Da Ficenta Dariya",
+        "Shugaban Amurka Yace [ Duniya Na Yiwa Tsarin Dokar Shige Da Ficenta Dariya ]",
+        "[ ] Shugaban Amurka Yace Duniya Na Yiwa Tsarin Dokar Shige Da Ficenta Dariya",
+        "Shugaban Amurka Yace [ Duniya ] Na Yiwa Tsarin Dokar Shige Da Ficenta Dariya"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Amurka",
+        "Shugaban Amurka",
+        "Duniya Na Yiwa Tsarin Dokar Shige Da Ficenta Dariya",
+        "",
+        "Duniya"
+      ]
+    ],
+    "score": [
+      [
+        -78.30875396728516,
+        -83.5417251586914,
+        -86.9089126586914,
+        -87.36614990234375,
+        -87.52312469482422
+      ]
+    ],
+    "flag": 1
+  }
+]

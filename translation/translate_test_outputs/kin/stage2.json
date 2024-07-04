@@ -1,0 +1,2876 @@
+[
+  {
+    "src_lang": "On 5 August 2019, it was announced that Radisson Blu Hotel and Convention Centre had won the award from Safehotels Alliance AB.",
+    "src_entities": [
+      "Radisson Blu",
+      "Convention Centre",
+      "Safehotels Alliance AB."
+    ],
+    "template": "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and Convention Centre yegukanye iki gihembo gitangwa n’Ikigo Mpuzamahanga gihemba hoteli zifite ituze n’umutekano cyitwa Safehotels Alliance AB .",
+    "text_to_decode": [
+      {
+        "text": "On 5 August 2019, it was announced that [ Radisson Blu ] Hotel and Convention Centre had won the award from Safehotels Alliance AB.",
+        "candidates": [
+          37,
+          39,
+          8,
+          40,
+          10,
+          44,
+          14,
+          46,
+          47,
+          18,
+          55,
+          28,
+          32
+        ]
+      },
+      {
+        "text": "On 5 August 2019, it was announced that Radisson Blu Hotel and [ Convention Centre ] had won the award from Safehotels Alliance AB.",
+        "candidates": [
+          3,
+          8,
+          10,
+          18,
+          19,
+          20,
+          21,
+          23,
+          26
+        ]
+      },
+      {
+        "text": "On 5 August 2019, it was announced that Radisson Blu Hotel and Convention Centre had won the award from [ Safehotels Alliance AB. ]",
+        "candidates": [
+          3,
+          8,
+          10,
+          45,
+          46,
+          47,
+          49,
+          55,
+          26,
+          28,
+          29,
+          30,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The hotel and hospitality sector has been among the hardest hit by the COVID-19 lockdown measures and requires significant efforts to recover its economy.",
+    "src_entities": [],
+    "template": "Urwego rw’ama - hotel no kwakira abantu , ni zimwe mu zashegeshwe bikomeye n’ingamba zo gufunga ibikorwa mu kwirinda icyorezo cya COVID - 19 , ndetse bisaba ingufu nyinshi mu kuzahura ubukungu bwarwo .",
+    "text_to_decode": [
+      {
+        "text": "The hotel and hospitality sector has been among the hardest hit by the COVID-19 lockdown measures and requires significant efforts to recover its economy.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "2 dollars were disbursed in the first week of January 2020.",
+    "src_entities": [],
+    "template": "2 Frw zahererekanyijwe mu cyumweru cya mbere cya Mutarama 2020 .",
+    "text_to_decode": [
+      {
+        "text": "2 dollars were disbursed in the first week of January 2020.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Rwanda aims to earn $800 million from tourism by 2024, up from $438 million in 2017.",
+    "src_entities": [
+      "Rwanda"
+    ],
+    "template": "U Rwanda rufite intego yo kwinjiza miliyoni $ 800 avuye mu bukerarugendo mu 2024 , mu gihe mu wa 2017 bwinjije miliyoni $ 438 .",
+    "text_to_decode": [
+      {
+        "text": "[ Rwanda ] aims to earn $800 million from tourism by 2024, up from $438 million in 2017.",
+        "candidates": [
+          2,
+          3,
+          4,
+          8,
+          22,
+          23,
+          24,
+          27,
+          29
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "They will never reach the surface but are also hard to find on the ground, trying to get to the center.",
+    "src_entities": [],
+    "template": "Ntizigera mu bushorishori ariko nanone biragoye ko wazisanga hasi ku butaka , zigerageza kujya hagati na hagati .",
+    "text_to_decode": [
+      {
+        "text": "They will never reach the surface but are also hard to find on the ground, trying to get to the center.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Ramada is the largest hotel management company in the United Arab Emirates, but is owned by Wyndham Hotels and Resorts.",
+    "src_entities": [
+      "Ramada",
+      "United Arab Emirates,",
+      "Wyndham Hotels and Resorts."
+    ],
+    "template": "Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe z’Abarabu mu bijyanye n’imicungire y’amahoteli , ariko igenzurwa n’indi yitwa Wyndham Hotels and Resorts .",
+    "text_to_decode": [
+      {
+        "text": "[ Ramada ] is the largest hotel management company in the United Arab Emirates, but is owned by Wyndham Hotels and Resorts.",
+        "candidates": [
+          2,
+          5,
+          9,
+          10,
+          14,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      {
+        "text": "Ramada is the largest hotel management company in the [ United Arab Emirates, ] but is owned by Wyndham Hotels and Resorts.",
+        "candidates": [
+          5,
+          9,
+          10,
+          14,
+          15,
+          18,
+          19
+        ]
+      },
+      {
+        "text": "Ramada is the largest hotel management company in the United Arab Emirates, but is owned by [ Wyndham Hotels and Resorts. ]",
+        "candidates": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Singita Kwitonda Lodge was awarded $25 million.",
+    "src_entities": [
+      "Singita Kwitonda Lodge"
+    ],
+    "template": "Singita Kwitonda Lodge yashoweho miliyoni $ 25 .",
+    "text_to_decode": [
+      {
+        "text": "[ Singita Kwitonda Lodge ] was awarded $25 million.",
+        "candidates": [
+          2,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The Government of Rwanda allocates 10% of tourism revenues to the residents of the surrounding parks.",
+    "src_entities": [
+      "Rwanda"
+    ],
+    "template": "Guverinoma y’u Rwanda igenera abaturiye hafi ya za pariki 10 % by’inyungu iva mu bukerarugendo .",
+    "text_to_decode": [
+      {
+        "text": "The Government of [ Rwanda ] allocates 10% of tourism revenues to the residents of the surrounding parks.",
+        "candidates": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          10,
+          12,
+          14,
+          17,
+          18,
+          20,
+          21
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "3, which is a viable product.",
+    "src_entities": [],
+    "template": "3 , akaba asanga ari umusaruro ufatika .",
+    "text_to_decode": [
+      {
+        "text": "3, which is a viable product.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Additionally, passengers will arrive at the airport prepared to move quickly in order to reduce congestion and facilitate contacts in case of infection.",
+    "src_entities": [],
+    "template": "Ikindi ni uko abagenzi bazajya bagera ku Kibuga cy’Indege biteguye guhita bagenda ku buryo byagabanya ubucucike bigafasha ko mu gihe hari uwanduye atahura n’abandi ngo abe yabanduza .",
+    "text_to_decode": [
+      {
+        "text": "Additionally, passengers will arrive at the airport prepared to move quickly in order to reduce congestion and facilitate contacts in case of infection.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at Kigali SDA Bilingual church.",
+    "src_entities": [
+      "Manzi Nelson",
+      "Ambassadors of Christ",
+      "Irakiza Eunice",
+      "Epee du Salut",
+      "Gitwe",
+      "Kigali",
+      "SDA Bilingual"
+    ],
+    "template": "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi b’imena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church .",
+    "text_to_decode": [
+      {
+        "text": "[ Manzi Nelson ] sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at Kigali SDA Bilingual church.",
+        "candidates": [
+          2,
+          5,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Manzi Nelson sings in the [ Ambassadors of Christ ] choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at Kigali SDA Bilingual church.",
+        "candidates": [
+          13,
+          17,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife [ Irakiza Eunice ] is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at Kigali SDA Bilingual church.",
+        "candidates": [
+          29,
+          22,
+          25
+        ]
+      },
+      {
+        "text": "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the [ Epee du Salut ] choir born in Gitwe but currently registered at Kigali SDA Bilingual church.",
+        "candidates": [
+          40,
+          44,
+          37,
+          8
+        ]
+      },
+      {
+        "text": "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in [ Gitwe ] but currently registered at Kigali SDA Bilingual church.",
+        "candidates": [
+          51,
+          54,
+          48,
+          49
+        ]
+      },
+      {
+        "text": "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at [ Kigali ] SDA Bilingual church.",
+        "candidates": [
+          58,
+          59,
+          57
+        ]
+      },
+      {
+        "text": "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at Kigali [ SDA Bilingual ] church.",
+        "candidates": [
+          51,
+          54,
+          57,
+          58,
+          59,
+          61,
+          64,
+          65
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Naivasha Oakes, who is in charge of Rwanda's relationship with Arsenal, said that the figures for the value of profits Rwanda has already derived from the partnership, using various methods calculated by the relevant institutions.",
+    "src_entities": [
+      "Naivasha Oakes,",
+      "Rwanda's",
+      "Arsenal,",
+      "Rwanda"
+    ],
+    "template": "Naivasha Oakes ushinzwe ubufatanye bw’u Rwanda n’ikipe ya Arsenal , yavuze ko iyo mibare y’agaciro k’inyungu u Rwanda rumaze kuvana muri ubwo bufatanye , hifashishijwe uburyo butandukanye bwabazwe n’ibigo bizobereye .",
+    "text_to_decode": [
+      {
+        "text": "[ Naivasha Oakes, ] who is in charge of Rwanda's relationship with Arsenal, said that the figures for the value of profits Rwanda has already derived from the partnership, using various methods calculated by the relevant institutions.",
+        "candidates": [
+          2,
+          7,
+          10,
+          47,
+          48,
+          19,
+          23,
+          26,
+          31
+        ]
+      },
+      {
+        "text": "Naivasha Oakes, who is in charge of [ Rwanda's ] relationship with Arsenal, said that the figures for the value of profits Rwanda has already derived from the partnership, using various methods calculated by the relevant institutions.",
+        "candidates": [
+          7,
+          10,
+          13,
+          14,
+          15,
+          16,
+          17,
+          19,
+          26,
+          29,
+          30,
+          33
+        ]
+      },
+      {
+        "text": "Naivasha Oakes, who is in charge of Rwanda's relationship with [ Arsenal, ] said that the figures for the value of profits Rwanda has already derived from the partnership, using various methods calculated by the relevant institutions.",
+        "candidates": [
+          14,
+          17,
+          18,
+          19,
+          20,
+          22,
+          23,
+          26,
+          30
+        ]
+      },
+      {
+        "text": "Naivasha Oakes, who is in charge of Rwanda's relationship with Arsenal, said that the figures for the value of profits [ Rwanda ] has already derived from the partnership, using various methods calculated by the relevant institutions.",
+        "candidates": [
+          36,
+          38,
+          42,
+          43,
+          47,
+          48,
+          23,
+          26,
+          28,
+          29,
+          30,
+          31
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Dr Kandt built this herb garden in Shangi, just north of Lake Kivu on 24 March 1899, after discovering the source of the Nile River, in the Nyungwe Forest.",
+    "src_entities": [
+      "Kandt",
+      "Shangi,",
+      "Lake Kivu",
+      "Nile River,",
+      "Nyungwe Forest."
+    ],
+    "template": "Dr Kandt yubatse iyi nzu y’ibyatsi iherereye i Shangi , ruguru gato y’ikiyaga cya Kivu ku wa 24 Werurwe 1899 , nyuma yo kuvumbura isoko y’uruzi rwa Nile , mu ishyamba rya Nyungwe .",
+    "text_to_decode": [
+      {
+        "text": "Dr [ Kandt ] built this herb garden in Shangi, just north of Lake Kivu on 24 March 1899, after discovering the source of the Nile River, in the Nyungwe Forest.",
+        "candidates": [
+          2,
+          3,
+          5,
+          7,
+          9,
+          10,
+          11,
+          12,
+          43,
+          14,
+          15,
+          45,
+          48,
+          49,
+          20,
+          21,
+          53,
+          23
+        ]
+      },
+      {
+        "text": "Dr Kandt built this herb garden in [ Shangi, ] just north of Lake Kivu on 24 March 1899, after discovering the source of the Nile River, in the Nyungwe Forest.",
+        "candidates": [
+          10,
+          11,
+          14,
+          15,
+          17,
+          18,
+          20,
+          21,
+          23
+        ]
+      },
+      {
+        "text": "Dr Kandt built this herb garden in Shangi, just north of [ Lake Kivu ] on 24 March 1899, after discovering the source of the Nile River, in the Nyungwe Forest.",
+        "candidates": [
+          36,
+          37,
+          20,
+          21,
+          23,
+          24,
+          25,
+          26,
+          29,
+          31,
+          32
+        ]
+      },
+      {
+        "text": "Dr Kandt built this herb garden in Shangi, just north of Lake Kivu on 24 March 1899, after discovering the source of the [ Nile River, ] in the Nyungwe Forest.",
+        "candidates": [
+          43,
+          45,
+          46,
+          48,
+          49,
+          21,
+          23
+        ]
+      },
+      {
+        "text": "Dr Kandt built this herb garden in Shangi, just north of Lake Kivu on 24 March 1899, after discovering the source of the Nile River, in the [ Nyungwe Forest. ]",
+        "candidates": [
+          51,
+          54,
+          56,
+          57
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "By spending much time with them, they may be able to determine the direction they will take the next day.",
+    "src_entities": [],
+    "template": "Kubera kumarana igihe kinini nazo , bashobora kumenya icyerekezo zizaganamo umunsi ukurikiye .",
+    "text_to_decode": [
+      {
+        "text": "By spending much time with them, they may be able to determine the direction they will take the next day.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Fig Tree Bay",
+    "src_entities": [
+      "Fig Tree Bay"
+    ],
+    "template": "Fig Tree Bay",
+    "text_to_decode": [
+      {
+        "text": "[ Fig Tree Bay ]",
+        "candidates": [
+          2,
+          5
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He welcomed the missionaries and read the first mass.",
+    "src_entities": [],
+    "template": "Yahakiriye abamisiyoneri bahasomera misa ya mbere",
+    "text_to_decode": [
+      {
+        "text": "He welcomed the missionaries and read the first mass.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The National Museum says that after conducting a survey to identify the most beautiful parts of Rwanda visited by tourists, it has identified more than 500 of them, including 10 related to Dr Richard Kandt's visit.",
+    "src_entities": [
+      "Rwanda",
+      "Richard Kandt's"
+    ],
+    "template": "Ikigo cy’igihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga by’u Rwanda abakerarugendo basura , bwagaragaje ibisaga 500 birimo 10 bifitanye isano n’urugendo rwa Dr Richard Kandt .",
+    "text_to_decode": [
+      {
+        "text": "The National Museum says that after conducting a survey to identify the most beautiful parts of [ Rwanda ] visited by tourists, it has identified more than 500 of them, including 10 related to Dr Richard Kandt's visit.",
+        "candidates": [
+          5,
+          6,
+          7,
+          10,
+          11,
+          13,
+          18,
+          20,
+          21,
+          22,
+          25,
+          26,
+          27,
+          28,
+          29,
+          34,
+          35,
+          42,
+          44,
+          54,
+          57
+        ]
+      },
+      {
+        "text": "The National Museum says that after conducting a survey to identify the most beautiful parts of Rwanda visited by tourists, it has identified more than 500 of them, including 10 related to Dr [ Richard Kandt's ] visit.",
+        "candidates": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          10,
+          11,
+          12,
+          13,
+          18,
+          20,
+          21,
+          22,
+          25,
+          26,
+          29,
+          33,
+          34,
+          35,
+          38,
+          42,
+          45,
+          48,
+          49,
+          50,
+          52,
+          53,
+          54,
+          57
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In South Africa's Kruger National Park, lions have been seen roaming the park's paths, in areas normally off limits.",
+    "src_entities": [
+      "South Africa's",
+      "Kruger National Park,"
+    ],
+    "template": "Muri Pariki ya Kruger muri Afurika y’Epfo , intare ziri kugaragara zigandagaje mu mihanda yo muri pariki , ahantu zitapfaga kugera mu bihe bisanzwe .",
+    "text_to_decode": [
+      {
+        "text": "In [ South Africa's ] Kruger National Park, lions have been seen roaming the park's paths, in areas normally off limits.",
+        "candidates": [
+          2,
+          3,
+          5,
+          6,
+          8,
+          9,
+          11,
+          12,
+          14,
+          15,
+          17,
+          18
+        ]
+      },
+      {
+        "text": "In South Africa's [ Kruger National Park, ] lions have been seen roaming the park's paths, in areas normally off limits.",
+        "candidates": [
+          2,
+          3,
+          5,
+          6,
+          8,
+          11,
+          12,
+          14,
+          15,
+          17,
+          18,
+          31,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "As of December 2018, it had 811 hotels with 114 rooms, 614 in 63 countries operating under the name Ramada.",
+    "src_entities": [
+      "Ramada."
+    ],
+    "template": "Kugeza mu Ukuboza 2018 , yari ifite amahoteli 811 afite ibyumba 114 , 614 mu bihugu 63 zikora mu izina rya Ramada .",
+    "text_to_decode": [
+      {
+        "text": "As of December 2018, it had 811 hotels with 114 rooms, 614 in 63 countries operating under the name [ Ramada. ]",
+        "candidates": [
+          26,
+          30,
+          31,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Above them, where Kandt is said to have built the greenhouse, there is nothing left but fertile grass.",
+    "src_entities": [
+      "Kandt"
+    ],
+    "template": "Haruguru yazo aho bivugwa ko Kandt yari yarubatse iyo nzu y’ibyatsi harisanzuye nta kintu giteyemo uretse ibyatsi cyimeza .",
+    "text_to_decode": [
+      {
+        "text": "Above them, where [ Kandt ] is said to have built the greenhouse, there is nothing left but fertile grass.",
+        "candidates": [
+          4,
+          5,
+          6,
+          8,
+          10,
+          11,
+          14,
+          16,
+          17,
+          18,
+          19,
+          21,
+          24
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It's just that on one side you see coffee that looks like it's been whitewashed but not processed.",
+    "src_entities": [],
+    "template": "Gusa hari uruhande ubonamo ikawa bigaragara ko zatewe cyera ariko zidakoreye .",
+    "text_to_decode": [
+      {
+        "text": "It's just that on one side you see coffee that looks like it's been whitewashed but not processed.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The park was also last closed to visitors between May 2018 and early last year.",
+    "src_entities": [],
+    "template": "Iyi pariki nabwo yaherukaga guhagarika ibikorwa byo kuyisura hagati ya Gicurasi na 2018 kugeza mu ntangiro z’umwaka ushize .",
+    "text_to_decode": [
+      {
+        "text": "The park was also last closed to visitors between May 2018 and early last year.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "9 Frw to support tourism and hospitality, for a full year after the Coronavirus.",
+    "src_entities": [],
+    "template": "9 Frw mu kugoboka ibikorwa by’ubukerarugendo no kwakira abantu , mu gihe cy’umwaka wose nyuma ya Coronavirus .",
+    "text_to_decode": [
+      {
+        "text": "9 Frw to support tourism and hospitality, for a full year after the Coronavirus.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "France is one of the hardest hit countries by the coronavirus, with 29,731 deaths and 161,348 infections, although the severity continues to decline, while most activities are being resumed.",
+    "src_entities": [
+      "France"
+    ],
+    "template": "U Bufaransa buri mu bihugu byahungabanyijwe cyane na Coronavirus , aho habarwa abantu 29 731 bishwe n’iki cyorezo na 161 348 bacyanduye , gusa ubukana bwacyo bukomeje kugabanuka , ari nako ibikorwa byinshi bisubukurwa .",
+    "text_to_decode": [
+      {
+        "text": "[ France ] is one of the hardest hit countries by the coronavirus, with 29,731 deaths and 161,348 infections, although the severity continues to decline, while most activities are being resumed.",
+        "candidates": [
+          2,
+          3,
+          5
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "If you lose a hundred, you lose five. If you lose, you lose five.",
+    "src_entities": [],
+    "template": "Kukinyonga ni ijana , kudingisa ni bitanu Mukamana urananiranye ngaho isubireho .",
+    "text_to_decode": [
+      {
+        "text": "If you lose a hundred, you lose five. If you lose, you lose five.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Some hotel services continue to open, but all with great caution due to the coronavirus pandemic that has halted much of the country's operations, with the hotel sector the most disrupted.",
+    "src_entities": [],
+    "template": "Serivisi zimwe na zimwe za hoteli zikomeje gufungurwa , ariko byose byitondewe cyane kubera icyorezo cya Coronavirus cyahagaritse imirimo myinshi mu gihugu , urwego rw’amahoteli rugahungabana kurusha izindi .",
+    "text_to_decode": [
+      {
+        "text": "Some hotel services continue to open, but all with great caution due to the coronavirus pandemic that has halted much of the country's operations, with the hotel sector the most disrupted.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "It takes at least 30 minutes to reach this gate from the headquarters of the Volcanoes Park, only Irakoze explains that he or the managers do not know where they are because they are constantly moving.",
+    "src_entities": [
+      "Volcanoes Park,",
+      "Irakoze"
+    ],
+    "template": "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki y’Ibirunga , gusa Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka .",
+    "text_to_decode": [
+      {
+        "text": "It takes at least 30 minutes to reach this gate from the headquarters of the [ Volcanoes Park, ] only Irakoze explains that he or the managers do not know where they are because they are constantly moving.",
+        "candidates": [
+          18,
+          19,
+          21,
+          22,
+          23,
+          26
+        ]
+      },
+      {
+        "text": "It takes at least 30 minutes to reach this gate from the headquarters of the Volcanoes Park, only [ Irakoze ] explains that he or the managers do not know where they are because they are constantly moving.",
+        "candidates": [
+          41,
+          44,
+          26,
+          28,
+          30
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Playa Ruinas is a beach in Mexico known for its beautiful white sand and spectacular waters.",
+    "src_entities": [
+      "Playa Ruinas",
+      "Mexico"
+    ],
+    "template": "Playa Ruinas ni beach iherereye mu gihugu cya Mexique ikaba izwiho kugira umucanga mwiza w’umweru n’amazi ateye amabengeza .",
+    "text_to_decode": [
+      {
+        "text": "[ Playa Ruinas ] is a beach in Mexico known for its beautiful white sand and spectacular waters.",
+        "candidates": [
+          2
+        ]
+      },
+      {
+        "text": "Playa Ruinas is a beach in [ Mexico ] known for its beautiful white sand and spectacular waters.",
+        "candidates": [
+          7,
+          8,
+          9,
+          11,
+          12,
+          13,
+          14,
+          16,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It is a regular collaborator with Arsenal in promoting tourism in Rwanda.",
+    "src_entities": [
+      "Arsenal",
+      "Rwanda."
+    ],
+    "template": "Isanzwe ikorana na Arsenal mu kumenyekanisha ubukerarugendo bw’u Rwanda .",
+    "text_to_decode": [
+      {
+        "text": "It is a regular collaborator with [ Arsenal ] in promoting tourism in Rwanda.",
+        "candidates": [
+          2,
+          3,
+          7,
+          9
+        ]
+      },
+      {
+        "text": "It is a regular collaborator with Arsenal in promoting tourism in [ Rwanda. ]",
+        "candidates": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "President Paul Kagame accompanied by Madame Jeannette Kagame, officially opened the Singita Kwitonda Lodge and Kataza House, a high-end tourist accommodation complex, located entirely in the Region of Musanze, at the foot of the volcanoes.",
+    "src_entities": [
+      "Paul Kagame",
+      "Jeannette Kagame,",
+      "Singita Kwitonda Lodge",
+      "Kataza House,",
+      "Region of Musanze,"
+    ],
+    "template": "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame , yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House , inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo , yuzuye mu Karere ka Musanze , munsi y’ibirunga .",
+    "text_to_decode": [
+      {
+        "text": "President [ Paul Kagame ] accompanied by Madame Jeannette Kagame, officially opened the Singita Kwitonda Lodge and Kataza House, a high-end tourist accommodation complex, located entirely in the Region of Musanze, at the foot of the volcanoes.",
+        "candidates": [
+          3,
+          5
+        ]
+      },
+      {
+        "text": "President Paul Kagame accompanied by Madame [ Jeannette Kagame, ] officially opened the Singita Kwitonda Lodge and Kataza House, a high-end tourist accommodation complex, located entirely in the Region of Musanze, at the foot of the volcanoes.",
+        "candidates": [
+          11,
+          15,
+          16,
+          9
+        ]
+      },
+      {
+        "text": "President Paul Kagame accompanied by Madame Jeannette Kagame, officially opened the [ Singita Kwitonda Lodge ] and Kataza House, a high-end tourist accommodation complex, located entirely in the Region of Musanze, at the foot of the volcanoes.",
+        "candidates": [
+          34,
+          35,
+          38,
+          39,
+          23,
+          30
+        ]
+      },
+      {
+        "text": "President Paul Kagame accompanied by Madame Jeannette Kagame, officially opened the Singita Kwitonda Lodge and [ Kataza House, ] a high-end tourist accommodation complex, located entirely in the Region of Musanze, at the foot of the volcanoes.",
+        "candidates": [
+          34,
+          35,
+          38,
+          39,
+          30,
+          31
+        ]
+      },
+      {
+        "text": "President Paul Kagame accompanied by Madame Jeannette Kagame, officially opened the Singita Kwitonda Lodge and Kataza House, a high-end tourist accommodation complex, located entirely in the [ Region of Musanze, ] at the foot of the volcanoes.",
+        "candidates": [
+          53,
+          55,
+          56,
+          62,
+          64
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "This is a beach known for its unique black sand, located in Iceland.",
+    "src_entities": [
+      "Iceland."
+    ],
+    "template": "Iyi ni beach izwi cyane kubera umwihariko wayo wo kugira umucanga w’umukara , ikaba iherereye mu gihugu cya Iceland .",
+    "text_to_decode": [
+      {
+        "text": "This is a beach known for its unique black sand, located in [ Iceland. ]",
+        "candidates": [
+          2,
+          4,
+          6,
+          16,
+          17,
+          19,
+          20,
+          21,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He continued: We are waiting for the opening of the business and it is clear that our customers must be from the country, then from the region, then from",
+    "src_entities": [],
+    "template": "Yakomeje ati “ Dutegereje gufungura ibikorwa kandi biragaragara ko abakiliya bacu bagomba kuba abo mu gihugu , hakazaza abo mu karere , abo hirya yaho bakazaza nyuma .",
+    "text_to_decode": [
+      {
+        "text": "He continued: We are waiting for the opening of the business and it is clear that our customers must be from the country, then from the region, then from",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "40 US dollars or 11 US dollars.",
+    "src_entities": [],
+    "template": "40 cyangwa amadolari ya Amerika $ 11 .",
+    "text_to_decode": [
+      {
+        "text": "40 US dollars or 11 US dollars.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Manzi Nelson and his wife Irakiza Eunice are already singers, they started singing together as a husband and wife (Manzi & Eunice) and have now sung three songs together.",
+    "src_entities": [
+      "Manzi Nelson",
+      "Irakiza Eunice",
+      "Eunice)"
+    ],
+    "template": "Manzi Nelson n’umugore we Irakiza Eunice basanzwe ari abaririmbyi , batangiye kuririmbana nk’umugabo n’umugore ( Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu .",
+    "text_to_decode": [
+      {
+        "text": "[ Manzi Nelson ] and his wife Irakiza Eunice are already singers, they started singing together as a husband and wife (Manzi & Eunice) and have now sung three songs together.",
+        "candidates": [
+          2,
+          34,
+          4,
+          5,
+          6,
+          7,
+          37,
+          13,
+          15,
+          24,
+          26,
+          29,
+          32
+        ]
+      },
+      {
+        "text": "Manzi Nelson and his wife [ Irakiza Eunice ] are already singers, they started singing together as a husband and wife (Manzi & Eunice) and have now sung three songs together.",
+        "candidates": [
+          34,
+          37,
+          6,
+          9,
+          13,
+          15,
+          32
+        ]
+      },
+      {
+        "text": "Manzi Nelson and his wife Irakiza Eunice are already singers, they started singing together as a husband and wife (Manzi & [ Eunice) ] and have now sung three songs together.",
+        "candidates": [
+          35,
+          37,
+          38,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The reason why the sand on this beach is black is the volcanic eruption, but this does not prevent it from coming in the top ten best in 2019.",
+    "src_entities": [],
+    "template": "Impamvu zatumye umucanga wo kuri iyi beach uba umukara n’iruka ry’ikirunga , gusa ibi ntibiyibuza kuza mu icumi za mbere nziza mu 2019 .",
+    "text_to_decode": [
+      {
+        "text": "The reason why the sand on this beach is black is the volcanic eruption, but this does not prevent it from coming in the top ten best in 2019.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "She only went to primary school and now has two children.",
+    "src_entities": [],
+    "template": "Yize amashuri abanza gusa , ubu afite abana babiri .",
+    "text_to_decode": [
+      {
+        "text": "She only went to primary school and now has two children.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "So far, the dismissed employees have not returned to work, with only a limited number of services available to ensure safe access to the hotel.",
+    "src_entities": [],
+    "template": "Kugeza ubu abakozi bahagaritswe ntibarasubira mu kazi , harimo kwifashishwa bake cyane bo kugira ngo nihagira ugana hotel atabura umwakira .",
+    "text_to_decode": [
+      {
+        "text": "So far, the dismissed employees have not returned to work, with only a limited number of services available to ensure safe access to the hotel.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "These are popularly known in songs like Creator ofWorld.",
+    "src_entities": [],
+    "template": "Aba bazwi cyane mu ndirimbo nka ‘Muremyi w’Isi’ .",
+    "text_to_decode": [
+      {
+        "text": "These are popularly known in songs like Creator ofWorld.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Its part is as warm as the Royal Palace overlooking the Sea, with a capacity of 2600 people.",
+    "src_entities": [
+      "Royal Palace",
+      "Sea,"
+    ],
+    "template": "Igice cyayo gishushe nk’Inzu y’Umwami igaragara i Nyanza , cyakira abantu 2600 .",
+    "text_to_decode": [
+      {
+        "text": "Its part is as warm as the [ Royal Palace ] overlooking the Sea, with a capacity of 2600 people.",
+        "candidates": [
+          6,
+          7,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "text": "Its part is as warm as the Royal Palace overlooking the [ Sea, ] with a capacity of 2600 people.",
+        "candidates": [
+          13,
+          17,
+          18,
+          20,
+          21,
+          22,
+          25
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The fifth-best beach in 2019 is located in the El Nino zone on the island of Palawan in the Philippines.",
+    "src_entities": [
+      "El Nino",
+      "Palawan",
+      "Philippines."
+    ],
+    "template": "Iyi beach ya gatanu ku rutonde rw’inziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya Palawan mu gihugu cya Philippines .",
+    "text_to_decode": [
+      {
+        "text": "The fifth-best beach in 2019 is located in the [ El Nino ] zone on the island of Palawan in the Philippines.",
+        "candidates": [
+          19,
+          20,
+          21,
+          23
+        ]
+      },
+      {
+        "text": "The fifth-best beach in 2019 is located in the El Nino zone on the island of [ Palawan ] in the Philippines.",
+        "candidates": [
+          23,
+          26,
+          27,
+          29,
+          33
+        ]
+      },
+      {
+        "text": "The fifth-best beach in 2019 is located in the El Nino zone on the island of Palawan in the [ Philippines. ]",
+        "candidates": [
+          29,
+          30,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The unrestricted tourist side is Rwanda, except that tourism activities have been suspended due to the Coronavirus pandemic.",
+    "src_entities": [
+      "Rwanda,"
+    ],
+    "template": "Uruhande rusurwa nta nkomyi ni ku Rwanda , uretse ko ibikorwa by’ubukerarugendo byahagaze kubera icyorezo cya Coronavirus .",
+    "text_to_decode": [
+      {
+        "text": "The unrestricted tourist side is [ Rwanda, ] except that tourism activities have been suspended due to the Coronavirus pandemic.",
+        "candidates": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          31
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The first missionaries who arrived from Bujumbura in Burundi, led by Bishop Joseph Hirth, told him that in order to go directly to the king he must first speak to Kandt, who was familiar with it, and tell him how to react.",
+    "src_entities": [
+      "Bujumbura",
+      "Burundi,",
+      "Joseph Hirth,",
+      "Kandt,"
+    ],
+    "template": "Ati “ Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi , bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye , akamubwira uko yabyitwaramo .",
+    "text_to_decode": [
+      {
+        "text": "The first missionaries who arrived from [ Bujumbura ] in Burundi, led by Bishop Joseph Hirth, told him that in order to go directly to the king he must first speak to Kandt, who was familiar with it, and tell him how to react.",
+        "candidates": [
+          3,
+          5,
+          8,
+          12,
+          14,
+          15,
+          18,
+          20
+        ]
+      },
+      {
+        "text": "The first missionaries who arrived from Bujumbura in [ Burundi, ] led by Bishop Joseph Hirth, told him that in order to go directly to the king he must first speak to Kandt, who was familiar with it, and tell him how to react.",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          8,
+          12,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "text": "The first missionaries who arrived from Bujumbura in Burundi, led by Bishop [ Joseph Hirth, ] told him that in order to go directly to the king he must first speak to Kandt, who was familiar with it, and tell him how to react.",
+        "candidates": [
+          2,
+          3,
+          5,
+          25,
+          28,
+          31
+        ]
+      },
+      {
+        "text": "The first missionaries who arrived from Bujumbura in Burundi, led by Bishop Joseph Hirth, told him that in order to go directly to the king he must first speak to [ Kandt, ] who was familiar with it, and tell him how to react.",
+        "candidates": [
+          2,
+          3,
+          5,
+          8,
+          12,
+          46,
+          47,
+          49,
+          50,
+          54,
+          55,
+          58
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Currently, the park covers an area of 16,027 hectares.",
+    "src_entities": [],
+    "template": "Magingo aya , iyi pariki iri ku buso bwa hegitari 16 , 027 .",
+    "text_to_decode": [
+      {
+        "text": "Currently, the park covers an area of 16,027 hectares.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Our staff will continue to be trained to follow the instructions in extraordinary meetings, and we will continue to make it a priority.",
+    "src_entities": [],
+    "template": "Abakozi bacu bazakomeza gutozwa kubahiriza amabwiriza mu nama zidasanzwe , dukomeze kubigira iby’ibanze .",
+    "text_to_decode": [
+      {
+        "text": "Our staff will continue to be trained to follow the instructions in extraordinary meetings, and we will continue to make it a priority.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "At first glance, it looks like a forest with few trees but a lot of growth, surrounded by a courtyard with wooden gates but with a small door that is always locked, apparently only accessed by the owner or someone who has asked permission in advance.",
+    "src_entities": [],
+    "template": "Ukihagera ubona hameze nko mu ishyamba ritarimo ibiti byinshi ariko ibirimo bikuze cyane , bikikijwe n’urugo rufite amarembo yubakishije imbaho ariko rufite akaryango gato gahora gafunze , bigaragara ko hinjirwa na nyiraho cyangwa undi wabanje kubisabira uburenganzira .",
+    "text_to_decode": [
+      {
+        "text": "At first glance, it looks like a forest with few trees but a lot of growth, surrounded by a courtyard with wooden gates but with a small door that is always locked, apparently only accessed by the owner or someone who has asked permission in advance.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "On Sunday, August 12, 2018, the partnership between Rwanda and Arsenal FC began in a match against Manchester City.",
+    "src_entities": [
+      "Rwanda",
+      "Arsenal FC",
+      "Manchester City."
+    ],
+    "template": "Ku cyumweru tariki 12 Kanama 2018 , nibwo ubufatanye bw’u Rwanda n’ikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na Manchester City .",
+    "text_to_decode": [
+      {
+        "text": "On Sunday, August 12, 2018, the partnership between [ Rwanda ] and Arsenal FC began in a match against Manchester City.",
+        "candidates": [
+          8,
+          9,
+          10,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "text": "On Sunday, August 12, 2018, the partnership between Rwanda and [ Arsenal FC ] began in a match against Manchester City.",
+        "candidates": [
+          8,
+          9,
+          10,
+          14,
+          15,
+          18,
+          19,
+          20,
+          23
+        ]
+      },
+      {
+        "text": "On Sunday, August 12, 2018, the partnership between Rwanda and Arsenal FC began in a match against [ Manchester City. ]",
+        "candidates": [
+          34,
+          37,
+          39,
+          8,
+          9,
+          10,
+          14,
+          15,
+          30,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "She is survived by two children, Damian Hurley and Kira Bonder.",
+    "src_entities": [
+      "Damian Hurley",
+      "Kira Bonder."
+    ],
+    "template": "Asize abana babiri Damian Hurley na Kira Bonder .",
+    "text_to_decode": [
+      {
+        "text": "She is survived by two children, [ Damian Hurley ] and Kira Bonder.",
+        "candidates": [
+          2,
+          6,
+          14
+        ]
+      },
+      {
+        "text": "She is survived by two children, Damian Hurley and [ Kira Bonder. ]",
+        "candidates": [
+          10,
+          11,
+          6,
+          14
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "One of the things that helps searchers to find their destination is to know where they were the day before.",
+    "src_entities": [],
+    "template": "Bimwe mu bifasha abazishakisha kumenya aho ziherere harimo kuba bazi agace barimo umunsi wabanje .",
+    "text_to_decode": [
+      {
+        "text": "One of the things that helps searchers to find their destination is to know where they were the day before.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "All her other children live in the Musilikale family which now has 21 members.",
+    "src_entities": [
+      "Musilikale"
+    ],
+    "template": "Abandi bana bayo bose baba mu muryango wa Musilikale ubu ugize ingagi 21 .",
+    "text_to_decode": [
+      {
+        "text": "All her other children live in the [ Musilikale ] family which now has 21 members.",
+        "candidates": [
+          4,
+          9,
+          10,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The International Civil Aviation Organization (ICAO) recently issued guidelines for boarding aircraft, which must be followed by all governments.",
+    "src_entities": [
+      "International Civil Aviation Organization"
+    ],
+    "template": "Umuryango mpuzamahanga ushinzwe ingendo za gisivile , ( ICAO ) uherutse gutangaza amabwiriza akwiye kwifashishwa n’abantu bagiye gufata indege , aho agomba kubahirizwa na Guverinoma zose .",
+    "text_to_decode": [
+      {
+        "text": "The [ International Civil Aviation Organization ] (ICAO) recently issued guidelines for boarding aircraft, which must be followed by all governments.",
+        "candidates": [
+          2,
+          5,
+          37,
+          39,
+          40,
+          11,
+          14,
+          15,
+          16,
+          18,
+          22,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Ben and Chance",
+    "src_entities": [
+      "Ben",
+      "Chance"
+    ],
+    "template": "Ben na Chance",
+    "text_to_decode": [
+      {
+        "text": "[ Ben ] and Chance",
+        "candidates": [
+          2,
+          3,
+          5
+        ]
+      },
+      {
+        "text": "Ben and [ Chance ]",
+        "candidates": [
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Photos by Niyonzima Moses",
+    "src_entities": [
+      "Niyonzima Moses"
+    ],
+    "template": "Amafoto : Niyonzima Moses",
+    "text_to_decode": [
+      {
+        "text": "Photos by [ Niyonzima Moses ]",
+        "candidates": [
+          4,
+          5
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Amanda Fung and Kavutse Olivier are featured in Beauty for Ashes and Prayer House",
+    "src_entities": [
+      "Amanda Fung",
+      "Kavutse Olivier",
+      "Prayer House"
+    ],
+    "template": "Amanda Fung na Kavutse Olivier babarizwa muri Beauty for Ashes na Prayer House",
+    "text_to_decode": [
+      {
+        "text": "[ Amanda Fung ] and Kavutse Olivier are featured in Beauty for Ashes and Prayer House",
+        "candidates": [
+          2,
+          5,
+          11,
+          12,
+          14,
+          15
+        ]
+      },
+      {
+        "text": "Amanda Fung and [ Kavutse Olivier ] are featured in Beauty for Ashes and Prayer House",
+        "candidates": [
+          5,
+          6,
+          11,
+          12,
+          14,
+          15
+        ]
+      },
+      {
+        "text": "Amanda Fung and Kavutse Olivier are featured in Beauty for Ashes and [ Prayer House ]",
+        "candidates": [
+          19,
+          20,
+          23,
+          15
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Last year's ICCA report ranked Rwanda second only to Cape Town, South Africa, in the ranking released on 13 May 2019, which shows how cities were praised for hosting international conferences in 2018.",
+    "src_entities": [
+      "ICCA",
+      "Rwanda",
+      "Cape Town,",
+      "South Africa,"
+    ],
+    "template": "Raporo ya ICCA y’umwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri n’ubundi inyuma y’Umujyi wa Cape Town muri Afurika y’Epfo , ku rutonde rwasohotse ku wa 13 Gicurasi 2019 , rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018 .",
+    "text_to_decode": [
+      {
+        "text": "Last year's [ ICCA ] report ranked Rwanda second only to Cape Town, South Africa, in the ranking released on 13 May 2019, which shows how cities were praised for hosting international conferences in 2018.",
+        "candidates": [
+          4,
+          5,
+          7,
+          8,
+          9,
+          42,
+          43
+        ]
+      },
+      {
+        "text": "Last year's ICCA report ranked [ Rwanda ] second only to Cape Town, South Africa, in the ranking released on 13 May 2019, which shows how cities were praised for hosting international conferences in 2018.",
+        "candidates": [
+          42,
+          43,
+          12,
+          14,
+          15,
+          17,
+          18,
+          23
+        ]
+      },
+      {
+        "text": "Last year's ICCA report ranked Rwanda second only to [ Cape Town, ] South Africa, in the ranking released on 13 May 2019, which shows how cities were praised for hosting international conferences in 2018.",
+        "candidates": [
+          34,
+          35,
+          36,
+          40,
+          42,
+          23,
+          24,
+          25,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "text": "Last year's ICCA report ranked Rwanda second only to Cape Town, [ South Africa, ] in the ranking released on 13 May 2019, which shows how cities were praised for hosting international conferences in 2018.",
+        "candidates": [
+          36,
+          37,
+          40,
+          42,
+          43
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Facebook users were asked to take a link to the song Replay on YouTube and share it with their friends.",
+    "src_entities": [
+      "Facebook"
+    ],
+    "template": "Mu gihe abo kuri Facebook basabwe gufata link y’indirimbo Isubireho kuri YouTube bakabisangiza inshuti zabo .",
+    "text_to_decode": [
+      {
+        "text": "[ Facebook ] users were asked to take a link to the song Replay on YouTube and share it with their friends.",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          12
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Since the naming ceremony began in 2005, 281 ingagi babies have been named.",
+    "src_entities": [],
+    "template": "Kuva umuhango wo Kwita Izina watangizwa mu 2005 , abana b’ingagi 281 bamaze guhabwa amazina .",
+    "text_to_decode": [
+      {
+        "text": "Since the naming ceremony began in 2005, 281 ingagi babies have been named.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "This means that it will cost a lot of money to acquire a manga, because the less money there is, the more people will come to see it and it is not safe to maintain it.",
+    "src_entities": [],
+    "template": "Bivuze ko kugira ngo umuntu ashobore kubona ingagi , bigomba gusaba amafaranga menshi , kubera ko amafaranga naba make abantu benshi bazajya kuzireba kandi ntabwo ari byiza mu kuzibungabunga .",
+    "text_to_decode": [
+      {
+        "text": "This means that it will cost a lot of money to acquire a manga, because the less money there is, the more people will come to see it and it is not safe to maintain it.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "On Tuesday, the RDB reported that foreigners continue to see Rwanda as a great place to visit.",
+    "src_entities": [
+      "RDB",
+      "Rwanda"
+    ],
+    "template": "Kuri uyu wa Kabiri , RDB yatangaje ko abanyamahanga bakomeje kubona u Rwanda nk’ahantu heza ho gusura .",
+    "text_to_decode": [
+      {
+        "text": "On Tuesday, the [ RDB ] reported that foreigners continue to see Rwanda as a great place to visit.",
+        "candidates": [
+          10,
+          7,
+          8
+        ]
+      },
+      {
+        "text": "On Tuesday, the RDB reported that foreigners continue to see [ Rwanda ] as a great place to visit.",
+        "candidates": [
+          18,
+          20,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Manzi & Eunice describe singing as a duo because they love it and are also known as two singers who live together.",
+    "src_entities": [
+      "Manzi & Eunice"
+    ],
+    "template": "Manzi & Eunice bavuga ko kuririmbana ari babiri babitewe n’uko babikunda ndetse bakaba babisanzwemo nk’abantu babiri b’abaririmbyi babana .",
+    "text_to_decode": [
+      {
+        "text": "[ Manzi & Eunice ] describe singing as a duo because they love it and are also known as two singers who live together.",
+        "candidates": [
+          2,
+          4,
+          7,
+          9,
+          11
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "RDB reports that this was due to a campaign including the Tembera u Rwanda campaign carried out two years ago.",
+    "src_entities": [
+      "RDB",
+      "Tembera u Rwanda"
+    ],
+    "template": "RDB itangaza ko byatewe n’ubukangurambaga burimo ubwa Tembera u Rwanda bwakozwe mu myaka ibiri ishize .",
+    "text_to_decode": [
+      {
+        "text": "[ RDB ] reports that this was due to a campaign including the Tembera u Rwanda campaign carried out two years ago.",
+        "candidates": [
+          2,
+          4,
+          30,
+          7
+        ]
+      },
+      {
+        "text": "RDB reports that this was due to a campaign including the [ Tembera u Rwanda ] campaign carried out two years ago.",
+        "candidates": [
+          19,
+          20,
+          24,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "There are seven for one person or accompanied with one bed each, a large living room and other amenities, and another called Kataza House with four bedrooms.",
+    "src_entities": [
+      "Kataza House"
+    ],
+    "template": "Zirimo zirindwi zagenewe umuntu umwe cyangwa uherekejwe kuko buri imwe ifite uburiri bumwe , uruganiriro rwagutse n’ibindi byangombwa nkenerwa , hakaba indi imwe yiswe Kataza House yo igizwe n’ibyumba bine byo kuraramo .",
+    "text_to_decode": [
+      {
+        "text": "There are seven for one person or accompanied with one bed each, a large living room and other amenities, and another called [ Kataza House ] with four bedrooms.",
+        "candidates": [
+          36,
+          40,
+          44,
+          47,
+          48,
+          17,
+          19,
+          51,
+          22,
+          23
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "From March 9 to March 15, 10 billion have been transferred.",
+    "src_entities": [],
+    "template": "Guhera tariki 9 Werurwe kugeza tariki 15 Werurwe , hahererekanyijwe miliyari 10 .",
+    "text_to_decode": [
+      {
+        "text": "From March 9 to March 15, 10 billion have been transferred.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "This beach is located in the Exuma District of the Bahamas.",
+    "src_entities": [
+      "Exuma District",
+      "Bahamas."
+    ],
+    "template": "Iyi beach iherereye mu karere ka Exuma mu gihugu cya Bahamas .",
+    "text_to_decode": [
+      {
+        "text": "This beach is located in the [ Exuma District ] of the Bahamas.",
+        "candidates": [
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          16
+        ]
+      },
+      {
+        "text": "This beach is located in the Exuma District of the [ Bahamas. ]",
+        "candidates": [
+          12,
+          13,
+          15,
+          16
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Volcanic kangaroos are rare in the world, with only about 880 remaining, with Rwanda holding 62% of them.",
+    "src_entities": [
+      "Rwanda"
+    ],
+    "template": "Ingagi zo mu birunga ni nke ku Isi , hasigaye izigera kuri 880 gusa , u Rwanda rukagiramo 62 % yazo .",
+    "text_to_decode": [
+      {
+        "text": "Volcanic kangaroos are rare in the world, with only about 880 remaining, with [ Rwanda ] holding 62% of them.",
+        "candidates": [
+          8,
+          10,
+          11,
+          12,
+          13,
+          15,
+          17,
+          18,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          28,
+          29,
+          30
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It is estimated that it will receive loans of 137 billion francs.",
+    "src_entities": [],
+    "template": "Bibarwa ko rusanganwe inguzanyo za miliyari 137 Frw .",
+    "text_to_decode": [
+      {
+        "text": "It is estimated that it will receive loans of 137 billion francs.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Dress according to the season: 10 clothes for women to wear this summer",
+    "src_entities": [],
+    "template": "Ambara uberwe bijyanye n’igihe : Imyambaro 10 abagore bakwambara bakaberwa muri iyi mpeshyi",
+    "text_to_decode": [
+      {
+        "text": "Dress according to the season: 10 clothes for women to wear this summer",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The Radisson Blu Hotel was named the safest and most reputable hotel after an audit of more than 220 criteria for classifying a hotel as safe.",
+    "src_entities": [
+      "Radisson Blu Hotel"
+    ],
+    "template": "Radisson Blu Hotel yahawe igihembo cya hoteli itekanye kandi yiyubashye nyuma y’igenzura yakorewe ku ngingo zisaga 220 zishingirwaho kugira ngo hoteli runaka ishyirwe mu zitekanye .",
+    "text_to_decode": [
+      {
+        "text": "The [ Radisson Blu Hotel ] was named the safest and most reputable hotel after an audit of more than 220 criteria for classifying a hotel as safe.",
+        "candidates": [
+          2,
+          5,
+          6,
+          20,
+          22,
+          24,
+          25,
+          26,
+          29
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "MTN Rwanda announced new rates for mobile money transfers after three months of the free service in Rwanda to promote the use of technology to prevent the spread of the coronavirus pandemic.",
+    "src_entities": [
+      "MTN Rwanda",
+      "Rwanda"
+    ],
+    "template": "MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma y’uko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda mu kwimakaza ikoreshwa ry’ikoranabuhanga hirindwa ikwirakwira ry’icyorezo cya Coronavirus .",
+    "text_to_decode": [
+      {
+        "text": "[ MTN Rwanda ] announced new rates for mobile money transfers after three months of the free service in Rwanda to promote the use of technology to prevent the spread of the coronavirus pandemic.",
+        "candidates": [
+          2,
+          10,
+          5
+        ]
+      },
+      {
+        "text": "MTN Rwanda announced new rates for mobile money transfers after three months of the free service in [ Rwanda ] to promote the use of technology to prevent the spread of the coronavirus pandemic.",
+        "candidates": [
+          34,
+          35,
+          36,
+          37,
+          42,
+          58,
+          30,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "A short distance away, the entrance road surrounded by palm trees continues to the waters of Lake Kivu, including a distance of about 800 meters, which is said to have been the way through which Kandt and others who lived there passed to and from the boat.",
+    "src_entities": [
+      "Lake Kivu,",
+      "Kandt"
+    ],
+    "template": "Hirya gato , ka gahanda kinjiramo gakikijwe n’imikindo karakomeza kugera ku mazi y’ikiyaga cya Kivu , harimo urugendo nk’urwa metero 800 , bivuga ko yari inzira Kandt n’abandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato .",
+    "text_to_decode": [
+      {
+        "text": "A short distance away, the entrance road surrounded by palm trees continues to the waters of [ Lake Kivu, ] including a distance of about 800 meters, which is said to have been the way through which Kandt and others who lived there passed to and from the boat.",
+        "candidates": [
+          36,
+          5,
+          6,
+          40,
+          16,
+          19,
+          21,
+          22,
+          24,
+          25,
+          26,
+          28,
+          29,
+          31,
+          32
+        ]
+      },
+      {
+        "text": "A short distance away, the entrance road surrounded by palm trees continues to the waters of Lake Kivu, including a distance of about 800 meters, which is said to have been the way through which [ Kandt ] and others who lived there passed to and from the boat.",
+        "candidates": [
+          5,
+          6,
+          16,
+          19,
+          21,
+          22,
+          26,
+          31,
+          32,
+          33,
+          34,
+          36,
+          40,
+          41,
+          44,
+          46,
+          48,
+          49,
+          51,
+          59,
+          64
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Kaliza said that in 2018 the number of tourists coming to Rwanda from the UK increased by 5%.",
+    "src_entities": [
+      "Kaliza",
+      "Rwanda",
+      "UK"
+    ],
+    "template": "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 % .",
+    "text_to_decode": [
+      {
+        "text": "[ Kaliza ] said that in 2018 the number of tourists coming to Rwanda from the UK increased by 5%.",
+        "candidates": [
+          2,
+          4
+        ]
+      },
+      {
+        "text": "Kaliza said that in 2018 the number of tourists coming to [ Rwanda ] from the UK increased by 5%.",
+        "candidates": [
+          10,
+          11,
+          15,
+          20,
+          21,
+          27,
+          28
+        ]
+      },
+      {
+        "text": "Kaliza said that in 2018 the number of tourists coming to Rwanda from the [ UK ] increased by 5%.",
+        "candidates": [
+          10,
+          27,
+          28
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In addition to the activities depicting Kandt's journey, they also visited other attractions that were produced by tour operators including the former court of King Kigeli IV of Rwabugiri, the nature palace in Karongi, fishing tourism and more.",
+    "src_entities": [
+      "Kandt's",
+      "Kigeli IV",
+      "Rwabugiri,",
+      "Karongi,"
+    ],
+    "template": "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt , banasuye ibindi bice nyaburanga byabyazwa umusaruro n’abafasha abakerarugendo birimo ahahoze urugo rw’Umwami Kigeli IV Rwabugiri , ingoro y’ibidukikije i Karongi , ubukerarugendo bushingiye ku burobyi n’ibindi .",
+    "text_to_decode": [
+      {
+        "text": "In addition to the activities depicting [ Kandt's ] journey, they also visited other attractions that were produced by tour operators including the former court of King Kigeli IV of Rwabugiri, the nature palace in Karongi, fishing tourism and more.",
+        "candidates": [
+          7,
+          11,
+          12,
+          14,
+          19
+        ]
+      },
+      {
+        "text": "In addition to the activities depicting Kandt's journey, they also visited other attractions that were produced by tour operators including the former court of King [ Kigeli IV ] of Rwabugiri, the nature palace in Karongi, fishing tourism and more.",
+        "candidates": [
+          41,
+          45,
+          46,
+          49,
+          50
+        ]
+      },
+      {
+        "text": "In addition to the activities depicting Kandt's journey, they also visited other attractions that were produced by tour operators including the former court of King Kigeli IV of [ Rwabugiri, ] the nature palace in Karongi, fishing tourism and more.",
+        "candidates": [
+          50,
+          58,
+          45,
+          55
+        ]
+      },
+      {
+        "text": "In addition to the activities depicting Kandt's journey, they also visited other attractions that were produced by tour operators including the former court of King Kigeli IV of Rwabugiri, the nature palace in [ Karongi, ] fishing tourism and more.",
+        "candidates": [
+          66,
+          70,
+          71,
+          25,
+          23,
+          57,
+          26,
+          58,
+          62,
+          63,
+          65
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It depicts a young woman who struggles at home and has sex with boys in hotels, until she is raped and sexually exploited by more than one.",
+    "src_entities": [],
+    "template": "Ishushanya umukobwa uba warananiye iwabo akajya ararana n’abasore mu ma hoteli , kugeza aho bamufashe ku ngufu bakamukoresha imibonano mpuzabitsina barenze umwe .",
+    "text_to_decode": [
+      {
+        "text": "It depicts a young woman who struggles at home and has sex with boys in hotels, until she is raped and sexually exploited by more than one.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Six dollars, while two people pay $3,500.",
+    "src_entities": [],
+    "template": "6 Frw , mu gihe abantu babiri bishyura $ 3500 .",
+    "text_to_decode": [
+      {
+        "text": "Six dollars, while two people pay $3,500.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "and elsewhere has not yet arrived so that where they spend their money will disappear.",
+    "src_entities": [],
+    "template": "n’ahandi ritaragera kugira ngo aho bagikoresha amafaranga biveho .",
+    "text_to_decode": [
+      {
+        "text": "and elsewhere has not yet arrived so that where they spend their money will disappear.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "You can't get there by car.",
+    "src_entities": [],
+    "template": "Ntabwo imodoka wabona uko uyigezamo .",
+    "text_to_decode": [
+      {
+        "text": "You can't get there by car.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "It is a journey that starts from the Priki of the Volcanoes, which is home to many animals including the golden tiger and the half-black tiger, and continues with Richard Kandt's other routes through Rwanda.",
+    "src_entities": [
+      "Priki of the Volcanoes,",
+      "Richard Kandt's",
+      "Rwanda."
+    ],
+    "template": "Ni urugendo rwahereye muri Priki y’Ibirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe n’ajya gusa n’ikigina n’umukara , bakomereza n’izindi nzira Richard Kandt yanyuzemo mu Rwanda .",
+    "text_to_decode": [
+      {
+        "text": "It is a journey that starts from the [ Priki of the Volcanoes, ] which is home to many animals including the golden tiger and the half-black tiger, and continues with Richard Kandt's other routes through Rwanda.",
+        "candidates": [
+          8,
+          10,
+          11,
+          12,
+          15,
+          16
+        ]
+      },
+      {
+        "text": "It is a journey that starts from the Priki of the Volcanoes, which is home to many animals including the golden tiger and the half-black tiger, and continues with [ Richard Kandt's ] other routes through Rwanda.",
+        "candidates": [
+          51,
+          53,
+          49
+        ]
+      },
+      {
+        "text": "It is a journey that starts from the Priki of the Volcanoes, which is home to many animals including the golden tiger and the half-black tiger, and continues with Richard Kandt's other routes through [ Rwanda. ]",
+        "candidates": [
+          59,
+          60,
+          61,
+          62
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He continued: We will not start with high prices, we have to start low and maybe someone will go up because of the increasing number of",
+    "src_entities": [],
+    "template": "Yakomeje ati “ Ntabwo tuzatangirira ku biciro biri hejuru , tugomba gutangirira hasi wenda umuntu akagenda azamuka bitewe n’uko abantu bagenda baza .",
+    "text_to_decode": [
+      {
+        "text": "He continued: We will not start with high prices, we have to start low and maybe someone will go up because of the increasing number of",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Among the factors that have made Rwanda one of the best hosts for international conferences is that it is a safe, clean country, which has simplified the process of issuing visas and so on.",
+    "src_entities": [
+      "Rwanda"
+    ],
+    "template": "Mu bituma u Rwanda ruza imbere mu bihugu byakira neza inama mpuzamahanga harimo kuba ari igihugu gitekanye , kirangwa n’isuku , kikaba cyaranoroheje uburyo bwo gutanga visa n’ibindi .",
+    "text_to_decode": [
+      {
+        "text": "Among the factors that have made [ Rwanda ] one of the best hosts for international conferences is that it is a safe, clean country, which has simplified the process of issuing visas and so on.",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          7,
+          8,
+          10,
+          22,
+          24
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The tower's CEO, Patrick Branco Ruivo, says that since its closure in March, the Eiffel Tower has lost $30 million, the longest shutdown since World War II.",
+    "src_entities": [
+      "Patrick Branco Ruivo,",
+      "Eiffel Tower"
+    ],
+    "template": "Umuyobozi Mukuru w’uyu munara , Patrick Branco Ruivo , avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura , Tour Eiffel yahombye miliyoni $ 30 , igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma y’Intambara ya Kabiri y’Isi .",
+    "text_to_decode": [
+      {
+        "text": "The tower's CEO, [ Patrick Branco Ruivo, ] says that since its closure in March, the Eiffel Tower has lost $30 million, the longest shutdown since World War II.",
+        "candidates": [
+          11,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The tower's CEO, Patrick Branco Ruivo, says that since its closure in March, the [ Eiffel Tower ] has lost $30 million, the longest shutdown since World War II.",
+        "candidates": [
+          4,
+          6,
+          7,
+          10,
+          18,
+          20,
+          23,
+          27,
+          28,
+          29,
+          32,
+          33,
+          35,
+          36,
+          37,
+          39,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          48,
+          50,
+          70
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The gift showed us the clothing for girls and women who want to decorate this summer and divided it into three categories;",
+    "src_entities": [],
+    "template": "Ingabire yatweretse imyambaro y’abakobwa n’abagore bifuza kurimba muri ibi bihe by’impeshyi ayishyize mu byiciro bitatu ;",
+    "text_to_decode": [
+      {
+        "text": "The gift showed us the clothing for girls and women who want to decorate this summer and divided it into three categories;",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The house is located in Nyamasheke District of Shangi District, Kandt moved to Kigali in 1907, when he was appointed Rezida of Rwanda.",
+    "src_entities": [
+      "Nyamasheke",
+      "Shangi District,",
+      "Kandt",
+      "Kigali",
+      "Rezida",
+      "Rwanda."
+    ],
+    "template": "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi , Kandt , yaje kuruvamo ajya kuba i Kigali mu 1907 , ubwo yagirwaga Rezida w’u Rwanda .",
+    "text_to_decode": [
+      {
+        "text": "The house is located in [ Nyamasheke ] District of Shangi District, Kandt moved to Kigali in 1907, when he was appointed Rezida of Rwanda.",
+        "candidates": [
+          4,
+          8,
+          10,
+          11,
+          14,
+          15
+        ]
+      },
+      {
+        "text": "The house is located in Nyamasheke District of [ Shangi District, ] Kandt moved to Kigali in 1907, when he was appointed Rezida of Rwanda.",
+        "candidates": [
+          14,
+          15,
+          18,
+          20,
+          21,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "text": "The house is located in Nyamasheke District of Shangi District, [ Kandt ] moved to Kigali in 1907, when he was appointed Rezida of Rwanda.",
+        "candidates": [
+          15,
+          20,
+          21,
+          23,
+          24,
+          25,
+          26,
+          28,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "The house is located in Nyamasheke District of Shangi District, Kandt moved to [ Kigali ] in 1907, when he was appointed Rezida of Rwanda.",
+        "candidates": [
+          20,
+          23,
+          25,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "text": "The house is located in Nyamasheke District of Shangi District, Kandt moved to Kigali in 1907, when he was appointed [ Rezida ] of Rwanda.",
+        "candidates": [
+          35,
+          36,
+          38,
+          40,
+          41,
+          33
+        ]
+      },
+      {
+        "text": "The house is located in Nyamasheke District of Shangi District, Kandt moved to Kigali in 1907, when he was appointed Rezida of [ Rwanda. ]",
+        "candidates": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Many of its customers are often foreigners but the measures put in place to prevent the coronavirus could hit the sector hard, as international tourists will take time to start returning.",
+    "src_entities": [],
+    "template": "Benshi mu bakiliya barwo akenshi babaga ari abanyamahanga ariko ingamba zashyizweho zo kwirinda coronavirus zishobora gukoma mu nkokora urwo rwego , kuko abakerarugendo mpuzamahanga bizatwara igihe ngo batangire kugaruka .",
+    "text_to_decode": [
+      {
+        "text": "Many of its customers are often foreigners but the measures put in place to prevent the coronavirus could hit the sector hard, as international tourists will take time to start returning.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Approximately from 1 July to 30 September 2020, the price for a two-hour flight in a three-seater R44 helicopter increased from $1600 to $1120 and in a six-seater A119 from $4000 to $2800.",
+    "src_entities": [],
+    "template": "Nko kuva ku wa 1 Nyakanga kugeza ku wa 30 Nzeri 2020 , abashaka gukora urugendo rw’amasaha abiri muri kajugujugu R44 y’imyanya itatu , igiciro cyavuye ku $ 1600 kiba $ 1120 naho muri A119 y’imyanya itandatu cyavuye ku $ 4000 kiba $ 2800 .",
+    "text_to_decode": [
+      {
+        "text": "Approximately from 1 July to 30 September 2020, the price for a two-hour flight in a three-seater R44 helicopter increased from $1600 to $1120 and in a six-seater A119 from $4000 to $2800.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "A spokesman for the park, Isaac Phaahla, told CNN It was rare to see them lying in the street during the day because of the constant traffic that forced them to flee into the",
+    "src_entities": [
+      "Isaac Phaahla,",
+      "CNN"
+    ],
+    "template": "Umuvugizi w’iyo pariki , Isaac Phaahla yabwiye CNN ati “ Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya n’uruza bigatuma zihungira mu bihuru .",
+    "text_to_decode": [
+      {
+        "text": "A spokesman for the park, [ Isaac Phaahla, ] told CNN It was rare to see them lying in the street during the day because of the constant traffic that forced them to flee into the",
+        "candidates": [
+          7,
+          11,
+          12,
+          15,
+          17
+        ]
+      },
+      {
+        "text": "A spokesman for the park, Isaac Phaahla, told [ CNN ] It was rare to see them lying in the street during the day because of the constant traffic that forced them to flee into the",
+        "candidates": [
+          11,
+          15,
+          16,
+          17,
+          18,
+          20,
+          22
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "You have 72 hours to cast your vote and name one of Rwanda's new baby mountain gorillas.",
+    "src_entities": [
+      "Rwanda's"
+    ],
+    "template": "You've got 72 hours to cast your vote and name one of Rwanda's new baby mountain gorillas .",
+    "text_to_decode": [
+      {
+        "text": "You have 72 hours to cast your vote and name one of [ Rwanda's ] new baby mountain gorillas.",
+        "candidates": [
+          2,
+          3,
+          5,
+          16,
+          19,
+          24,
+          25
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It said he was suffering from severe depression which led to his decision to take his own life.",
+    "src_entities": [],
+    "template": "Bwavuze ko yari yari afite ihungabana ryinshi’ ari naryo ryatumye ahitamo kwiyambura ubuzima .",
+    "text_to_decode": [
+      {
+        "text": "It said he was suffering from severe depression which led to his decision to take his own life.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The head of the Ministry of Cultural Heritage of Rwanda, Amb Robert Masozera, said that promoting tourism based on the Kandt expedition was not to promote his achievements as it was not good but the destination was a good place to grow and expand tourism beyond the jungle and parks.",
+    "src_entities": [
+      "Ministry of Cultural Heritage of Rwanda,",
+      "Robert Masozera,",
+      "Kandt"
+    ],
+    "template": "Umuyobozi w’Ingoro z’Umurage w’u Rwanda , Amb Robert Masozera , yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt ‘atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki’ .",
+    "text_to_decode": [
+      {
+        "text": "The head of the [ Ministry of Cultural Heritage of Rwanda, ] Amb Robert Masozera, said that promoting tourism based on the Kandt expedition was not to promote his achievements as it was not good but the destination was a good place to grow and expand tourism beyond the jungle and parks.",
+        "candidates": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          11
+        ]
+      },
+      {
+        "text": "The head of the Ministry of Cultural Heritage of Rwanda, Amb [ Robert Masozera, ] said that promoting tourism based on the Kandt expedition was not to promote his achievements as it was not good but the destination was a good place to grow and expand tourism beyond the jungle and parks.",
+        "candidates": [
+          40,
+          44,
+          15,
+          17,
+          19,
+          23
+        ]
+      },
+      {
+        "text": "The head of the Ministry of Cultural Heritage of Rwanda, Amb Robert Masozera, said that promoting tourism based on the [ Kandt ] expedition was not to promote his achievements as it was not good but the destination was a good place to grow and expand tourism beyond the jungle and parks.",
+        "candidates": [
+          37,
+          38,
+          40,
+          42,
+          44,
+          79,
+          81,
+          84
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In 2018, Rwanda was visited by 1 million tourists.",
+    "src_entities": [
+      "Rwanda"
+    ],
+    "template": "Mu 2018 , u Rwanda rwasuwe n’abakerarugendo miliyoni 1 .",
+    "text_to_decode": [
+      {
+        "text": "In 2018, [ Rwanda ] was visited by 1 million tourists.",
+        "candidates": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "You knock and wait for the guys who work to come and ask you what's going on and give you permission to go in, which means they may even refuse you for some reason.",
+    "src_entities": [],
+    "template": "Urakomanga ugategereza ko abasore bahakora baza kukubaza ikikugenza bakaguha uburenganzira bwo kujyamo , bivuze ko hari n’ubwo bashobora kubukwima bitewe n’impamvu runaka .",
+    "text_to_decode": [
+      {
+        "text": "You knock and wait for the guys who work to come and ask you what's going on and give you permission to go in, which means they may even refuse you for some reason.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The ingagi baby named Icyamamare began to be sought for a name through National Geographic",
+    "src_entities": [
+      "Icyamamare",
+      "National Geographic"
+    ],
+    "template": "Umwana w’ingagi yitwa Icyamamare yatangiye gushakirwa izina binyuze kuri National Geographic",
+    "text_to_decode": [
+      {
+        "text": "The ingagi baby named [ Icyamamare ] began to be sought for a name through National Geographic",
+        "candidates": [
+          3,
+          4,
+          5,
+          7,
+          8,
+          11
+        ]
+      },
+      {
+        "text": "The ingagi baby named Icyamamare began to be sought for a name through [ National Geographic ]",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          16,
+          17,
+          18,
+          19
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He continued: The rooms are ready, anyone who needs a room can have one, but since they opened there is no customer",
+    "src_entities": [],
+    "template": "Yakomeje ati “ Ibyumba birateguye , umuntu akeneye icyumba ashobora kukibona , ariko kuva bafungura nta mukiliya [ uraboneka ] .",
+    "text_to_decode": [
+      {
+        "text": "He continued: The rooms are ready, anyone who needs a room can have one, but since they opened there is no customer",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Among them are the Golden Monkeys of Volcanoes National Park.",
+    "src_entities": [
+      "Golden Monkeys of Volcanoes National Park."
+    ],
+    "template": "Muri ibyo harimo Inkima zifite ibara rya Zahabu ( Golden Monkies ) ziba muri Pariki y’Ibirunga .",
+    "text_to_decode": [
+      {
+        "text": "Among them are the [ Golden Monkeys of Volcanoes National Park. ]",
+        "candidates": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          23,
+          24,
+          25,
+          27
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "For a 30-minute flight, the price went from $500 for a three-seater to $350 and from $1,000 to $700 for a six-seater.",
+    "src_entities": [],
+    "template": "Ku rugendo rw’iminota 30 , igiciro cyavuye ku $ 500 ku ndege y’imyanya itatu kigera ku $ 350 , naho ku y’imyanya itandatu kiva ku $ 1000 kigera ku $ 700 .",
+    "text_to_decode": [
+      {
+        "text": "For a 30-minute flight, the price went from $500 for a three-seater to $350 and from $1,000 to $700 for a six-seater.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "This means that since the increase in the price of ingagi, we are now earning more than we were before the increase in the price even when there are fewer tourists.",
+    "src_entities": [],
+    "template": "Bivuze ko kuva igihe twongereye ibiciro by’ingagi , amafaranga tubona ubu ngubu aruta amafaranga twabonaga mbere yuko twongera igiciro no mu bihe ba mukerarugendo baba ari bake .",
+    "text_to_decode": [
+      {
+        "text": "This means that since the increase in the price of ingagi, we are now earning more than we were before the increase in the price even when there are fewer tourists.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "After the announcement of these prices, many people said that the Rwandans would not be able to afford the money, but that special programs would be created to help them see the goodness of their country.",
+    "src_entities": [],
+    "template": "Nyuma y’itangazwa ry’ibyo biciro , abantu bavuze byinshi ko Abanyarwanda batazajya babasha kwishyura ayo mafaranga , ariko baza gushyirirwaho gahunda zihariye zibafasha kwitegereza ibyiza igihugu cyabo gifite .",
+    "text_to_decode": [
+      {
+        "text": "After the announcement of these prices, many people said that the Rwandans would not be able to afford the money, but that special programs would be created to help them see the goodness of their country.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Hurley posted on Instagram expressing her grief over the death of Steve Bing.",
+    "src_entities": [
+      "Hurley",
+      "Steve Bing."
+    ],
+    "template": "Hurley babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda n’urupfu rwa Steve Bing .",
+    "text_to_decode": [
+      {
+        "text": "[ Hurley ] posted on Instagram expressing her grief over the death of Steve Bing.",
+        "candidates": [
+          2,
+          5,
+          6,
+          7,
+          9,
+          11,
+          12
+        ]
+      },
+      {
+        "text": "Hurley posted on Instagram expressing her grief over the death of [ Steve Bing. ]",
+        "candidates": [
+          4,
+          5,
+          17,
+          20,
+          22
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Otherwise, the way of travel in the provinces is that one buys a ticket from perhaps Kigali to Musanze, we are looking at how it can be integrated with it is used in Kigali, but there is also the use of a phone so that it can also work as a card and this technology we have already achieved.",
+    "src_entities": [
+      "Kigali",
+      "Musanze,",
+      "Kigali,"
+    ],
+    "template": "Ati “ Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i Musanze , turimo kureba uko byahuzwa n’irikoreshwa i Kigali , ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nk’ikarita kandi iryo koranabuhanga tumaze kurigera kure .",
+    "text_to_decode": [
+      {
+        "text": "Otherwise, the way of travel in the provinces is that one buys a ticket from perhaps [ Kigali ] to Musanze, we are looking at how it can be integrated with it is used in Kigali, but there is also the use of a phone so that it can also work as a card and this technology we have already achieved.",
+        "candidates": [
+          26,
+          27,
+          24,
+          25
+        ]
+      },
+      {
+        "text": "Otherwise, the way of travel in the provinces is that one buys a ticket from perhaps Kigali to [ Musanze, ] we are looking at how it can be integrated with it is used in Kigali, but there is also the use of a phone so that it can also work as a card and this technology we have already achieved.",
+        "candidates": [
+          3,
+          35,
+          5,
+          37,
+          7,
+          27,
+          29,
+          30,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "Otherwise, the way of travel in the provinces is that one buys a ticket from perhaps Kigali to Musanze, we are looking at how it can be integrated with it is used in [ Kigali, ] but there is also the use of a phone so that it can also work as a card and this technology we have already achieved.",
+        "candidates": [
+          41,
+          42,
+          44,
+          45,
+          46,
+          49
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "You walk about 50 meters to some old houses built in the 1930s, when Rwanda was under the control of the Belgians but apparently they were among the most modern in their time.",
+    "src_entities": [
+      "Rwanda"
+    ],
+    "template": "Ugenda nka metero 50 ukagera ku nzu zimaze igihe zubatswe mu 1930 , mu gihe u Rwanda rwagenzurwaga n’Ababiligi ariko bigaragara ko mu gihe cyazo zari mu zigezweho .",
+    "text_to_decode": [
+      {
+        "text": "You walk about 50 meters to some old houses built in the 1930s, when [ Rwanda ] was under the control of the Belgians but apparently they were among the most modern in their time.",
+        "candidates": [
+          37,
+          40,
+          41,
+          42,
+          14,
+          15,
+          19,
+          21,
+          23,
+          24,
+          25,
+          27
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "A researcher at the National Institute of Cultural Heritage, Mugabowagahunde Maurice, said it was in this house that Kandt did his research.",
+    "src_entities": [
+      "National Institute of Cultural Heritage,",
+      "Mugabowagahunde",
+      "Maurice,",
+      "Kandt"
+    ],
+    "template": "Umushakashatsi mu kigo cy’igihugu cy’ingoro z’Umurage , Mugabowagahunde Maurice , yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye .",
+    "text_to_decode": [
+      {
+        "text": "A researcher at the [ National Institute of Cultural Heritage, ] Mugabowagahunde Maurice, said it was in this house that Kandt did his research.",
+        "candidates": [
+          2,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          19
+        ]
+      },
+      {
+        "text": "A researcher at the National Institute of Cultural Heritage, [ Mugabowagahunde ] Maurice, said it was in this house that Kandt did his research.",
+        "candidates": [
+          2,
+          5,
+          6,
+          8,
+          14,
+          15,
+          16,
+          17,
+          19,
+          20,
+          24,
+          26,
+          28,
+          29
+        ]
+      },
+      {
+        "text": "A researcher at the National Institute of Cultural Heritage, Mugabowagahunde [ Maurice, ] said it was in this house that Kandt did his research.",
+        "candidates": [
+          2,
+          5,
+          6,
+          24,
+          25
+        ]
+      },
+      {
+        "text": "A researcher at the National Institute of Cultural Heritage, Mugabowagahunde Maurice, said it was in this house that [ Kandt ] did his research.",
+        "candidates": [
+          36,
+          28,
+          31,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The benefits of the RDB collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as Youtube increased by 100%, Instagram increased by 507%, Twitter increased by 72% and Facebook increased by 30%.",
+    "src_entities": [
+      "RDB",
+      "Rwanda,",
+      "Youtube",
+      "Instagram",
+      "Twitter",
+      "Facebook"
+    ],
+    "template": "Inyungu kandi y’ubwo bufatanye RDB igaragaza ko ibonekera mu mubare w’abatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 % , kuri Instagram biyongeye ku kigero cya 507 % , kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+    "text_to_decode": [
+      {
+        "text": "The benefits of the [ RDB ] collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as Youtube increased by 100%, Instagram increased by 507%, Twitter increased by 72% and Facebook increased by 30%.",
+        "candidates": [
+          4,
+          5,
+          6,
+          7,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      {
+        "text": "The benefits of the RDB collaboration are also evident in the number of visitors to Visit [ Rwanda, ] where the number of followers on social media platforms such as Youtube increased by 100%, Instagram increased by 507%, Twitter increased by 72% and Facebook increased by 30%.",
+        "candidates": [
+          34,
+          35,
+          36,
+          38,
+          22,
+          25,
+          26,
+          27,
+          31,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "The benefits of the RDB collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as [ Youtube ] increased by 100%, Instagram increased by 507%, Twitter increased by 72% and Facebook increased by 30%.",
+        "candidates": [
+          45,
+          46,
+          47,
+          48,
+          49
+        ]
+      },
+      {
+        "text": "The benefits of the RDB collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as Youtube increased by 100%, [ Instagram ] increased by 507%, Twitter increased by 72% and Facebook increased by 30%.",
+        "candidates": [
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          65
+        ]
+      },
+      {
+        "text": "The benefits of the RDB collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as Youtube increased by 100%, Instagram increased by 507%, [ Twitter ] increased by 72% and Facebook increased by 30%.",
+        "candidates": [
+          70,
+          72,
+          74,
+          76,
+          45,
+          49,
+          82,
+          83,
+          87
+        ]
+      },
+      {
+        "text": "The benefits of the RDB collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as Youtube increased by 100%, Instagram increased by 507%, Twitter increased by 72% and [ Facebook ] increased by 30%.",
+        "candidates": [
+          82,
+          83,
+          84,
+          85,
+          86,
+          88,
+          89,
+          90
+        ]
+      }
+    ],
+    "flag": 1
+  }
+]

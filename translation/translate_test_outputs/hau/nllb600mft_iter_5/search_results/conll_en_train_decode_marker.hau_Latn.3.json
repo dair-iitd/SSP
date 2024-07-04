@@ -1,0 +1,1370 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [],
+    "template": "'Yan Jami'iyar Democrat Sun Zargi 'Yan Republican Da Sauya Bayanan Sirri",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "President [ Trump ] announced that the ceremony, held in honor of the United States, would highlight the importance of the country's military might, and his speech would be broadcast from the steps of the Lincoln Memorial.",
+      "President Trump announced that the ceremony, held in honor of the [ United States, ] would highlight the importance of the country's military might, and his speech would be broadcast from the steps of the Lincoln Memorial.",
+      "President Trump announced that the ceremony, held in honor of the United States, would highlight the importance of the country's military might, and his speech would be broadcast from the steps of the [ Lincoln Memorial. ]"
+    ],
+    "src_entities": [
+      "Trump",
+      "United States,",
+      "Lincoln Memorial."
+    ],
+    "template": "Shugaba Trump ya sanar da cewa , za a gudanar da sarawar , da ake yi wa Amurka , don nuna muhimmancin karfin ikon sojojin kasar , kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial .",
+    "tgt_lang": [
+      [
+        "Shugaba [ Trump ] ya sanar da cewa, za a gudanar da sarawar, da ake yi wa Amurka, don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial.",
+        "[ Shugaba Trump ] ya sanar da cewa, za a gudanar da sarawar, da ake yi wa Amurka, don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial.",
+        "Shugaba [ Trump ya ] sanar da cewa, za a gudanar da sarawar, da ake yi wa Amurka, don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial.",
+        "Shugaba [ ] Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi wa Amurka, don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial.",
+        "[ Shugaba ] Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi wa Amurka, don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial."
+      ],
+      [
+        "Shugaba Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi wa [ Amurka, ] don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial.",
+        "Shugaba Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi wa [ Amurka ], don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial.",
+        "Shugaba Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi wa [ Amurka, don ] nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial.",
+        "Shugaba Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi wa [ ] Amurka, don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial.",
+        "Shugaba Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi [ wa Amurka, ] don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial."
+      ],
+      [
+        "Shugaba Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi wa Amurka, don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen [ Lincoln Memorial ].",
+        "Shugaba Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi wa Amurka, don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen [ Lincoln Memorial. ]",
+        "Shugaba Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi wa Amurka, don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar [ benen Lincoln Memorial ].",
+        "Shugaba Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi wa Amurka, don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen [ Lincoln ] Memorial.",
+        "Shugaba Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi wa Amurka, don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Trump",
+        "Shugaba Trump",
+        "Trump ya",
+        "",
+        "Shugaba"
+      ],
+      [
+        "Amurka,",
+        "Amurka",
+        "Amurka, don",
+        "",
+        "wa Amurka,"
+      ],
+      [
+        "Lincoln Memorial",
+        "Lincoln Memorial.",
+        "benen Lincoln Memorial",
+        "Lincoln",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -90.73822021484375,
+        -97.88157653808594,
+        -104.15283966064453,
+        -104.94544219970703,
+        -105.35720825195312
+      ],
+      [
+        -92.76235961914062,
+        -93.24221801757812,
+        -100.96620178222656,
+        -103.74952697753906,
+        -104.85186004638672
+      ],
+      [
+        -89.9602279663086,
+        -91.97576141357422,
+        -97.74185943603516,
+        -98.03223419189453,
+        -99.09646606445312
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "Representative [ Adam Schiff ] revealed in a letter to committee chairman Devin Nunes on Wednesday that Democrats had discovered that the information contained in the documents had been tampered with, which he described as \"disturbing\".",
+      "Representative Adam Schiff revealed in a letter to committee chairman [ Devin Nunes ] on Wednesday that Democrats had discovered that the information contained in the documents had been tampered with, which he described as \"disturbing\"."
+    ],
+    "src_entities": [
+      "Adam Schiff",
+      "Devin Nunes"
+    ],
+    "template": "Dan majalisar wakilai , Adam Schiff ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin Devin Nunes a jiya Laraba cewa , ‘yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun , lamarin da ya kwatanta a matsayin “ mai ta da hankali .",
+    "tgt_lang": [
+      [
+        "Dan majalisar wakilai, [ Adam Schiff ] ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin Devin Nunes a jiya Laraba cewa, yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun, lamarin da ya kwatanta a matsayin  mai ta da hankali.",
+        "Dan majalisar wakilai [, Adam Schiff ] ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin Devin Nunes a jiya Laraba cewa, yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun, lamarin da ya kwatanta a matsayin  mai ta da hankali.",
+        "Dan majalisar wakilai, Adam Schiff [ ] ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin Devin Nunes a jiya Laraba cewa, yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun, lamarin da ya kwatanta a matsayin  mai ta da hankali.",
+        "Dan majalisar wakilai, Adam Schiff ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin Devin Nunes a jiya Laraba cewa,  [yan Democrat ] sun gano cewa an sauya bayanan da ke cikin takardun, lamarin da ya kwatanta a matsayin  mai ta da hankali.",
+        "Dan majalisar wakilai, Adam Schiff ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin Devin Nunes a jiya Laraba cewa,  [ ]yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun, lamarin da ya kwatanta a matsayin  mai ta da hankali."
+      ],
+      [
+        "Dan majalisar wakilai, Adam Schiff ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin [ Devin Nunes ] a jiya Laraba cewa, yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun, lamarin da ya kwatanta a matsayin  mai ta da hankali.",
+        "Dan majalisar wakilai, Adam Schiff ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin [ ] Devin Nunes a jiya Laraba cewa, yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun, lamarin da ya kwatanta a matsayin  mai ta da hankali.",
+        "Dan majalisar wakilai, Adam Schiff ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin [ Devin Nunes a ] jiya Laraba cewa, yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun, lamarin da ya kwatanta a matsayin  mai ta da hankali.",
+        "Dan majalisar wakilai, Adam Schiff ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin Devin Nunes a jiya Laraba cewa, yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun, [ lamarin ] da ya kwatanta a matsayin  mai ta da hankali.",
+        "Dan majalisar wakilai, Adam Schiff ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin Devin Nunes a jiya Laraba cewa, yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun, [ lamarin da ya kwatanta a matsayin  mai ta da hankali ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Adam Schiff",
+        ", Adam Schiff",
+        "",
+        "yan Democrat",
+        ""
+      ],
+      [
+        "Devin Nunes",
+        "",
+        "Devin Nunes a",
+        "lamarin",
+        "lamarin da ya kwatanta a matsayin <unk> mai ta da hankali"
+      ]
+    ],
+    "score": [
+      [
+        -91.67817687988281,
+        -92.85523223876953,
+        -99.81230926513672,
+        -102.81324768066406,
+        -105.94637298583984
+      ],
+      [
+        -87.87583923339844,
+        -99.71748352050781,
+        -103.22903442382812,
+        -108.8217544555664,
+        -109.09721374511719
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "Ambassador [ Eric Whitaker ] said, the leaders of the two countries have full cooperation to enable them to successfully achieve this goal."
+    ],
+    "src_entities": [
+      "Eric Whitaker"
+    ],
+    "template": "Jakaden Eric Whitaker yace , gwamantocin kasashen biyu na da cikaken hadin kan da zai basu damar nasarar cimma wannan guri .",
+    "tgt_lang": [
+      [
+        "Jakaden [ Eric Whitaker ] yace, gwamantocin kasashen biyu na da cikaken hadin kan da zai basu damar nasarar cimma wannan guri.",
+        "Jakaden [ Eric Whitaker yace ], gwamantocin kasashen biyu na da cikaken hadin kan da zai basu damar nasarar cimma wannan guri.",
+        "Jakaden [ ] Eric Whitaker yace, gwamantocin kasashen biyu na da cikaken hadin kan da zai basu damar nasarar cimma wannan guri.",
+        "Jakaden [ Eric Whitaker yace, ] gwamantocin kasashen biyu na da cikaken hadin kan da zai basu damar nasarar cimma wannan guri.",
+        "Jakaden Eric Whitaker yace, gwamantocin kasashen biyu na da cikaken hadin kan da zai basu damar [ nasarar cimma wannan guri ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Eric Whitaker",
+        "Eric Whitaker yace",
+        "",
+        "Eric Whitaker yace,",
+        "nasarar cimma wannan guri"
+      ]
+    ],
+    "score": [
+      [
+        -76.47846221923828,
+        -89.34541320800781,
+        -89.45133209228516,
+        -96.7808609008789,
+        -100.59297180175781
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "After announcing support for farmers, [ Trump ] reacted to the loss of U.S. trade with China, while answering questions from a group of concerned journalists.",
+      "After announcing support for farmers, Trump reacted to the loss of [ U.S. ] trade with China, while answering questions from a group of concerned journalists.",
+      "After announcing support for farmers, Trump reacted to the loss of U.S. trade with [ China, ] while answering questions from a group of concerned journalists."
+    ],
+    "src_entities": [
+      "Trump",
+      "U.S.",
+      "China,"
+    ],
+    "template": "Bayan sanar da tallafi ga manoma , Trump ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da China , yayin da yake amsa tambayoyi da wani rukunin ‘yan jarida kakilan .",
+    "tgt_lang": [
+      [
+        "Bayan sanar da tallafi ga manoma, [ Trump ] ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da China, yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan.",
+        "Bayan sanar da tallafi ga manoma, Trump [ ya ] maida martani a kan asarar da Amurka ke yi a kasuwancinta da China, yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan.",
+        "Bayan sanar da tallafi ga manoma [, Trump ] ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da China, yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan.",
+        "Bayan sanar da tallafi ga manoma, Trump ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da China, yayin da yake amsa tambayoyi da wani rukunin  [yan jarida ] kakilan.",
+        "Bayan sanar da tallafi ga manoma, Trump ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da China, yayin da yake amsa tambayoyi da wani rukunin  [yan jarida kakilan ]."
+      ],
+      [
+        "Bayan sanar da tallafi ga manoma, Trump ya maida martani a kan asarar da [ Amurka ] ke yi a kasuwancinta da China, yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan.",
+        "Bayan sanar da tallafi ga manoma, Trump ya maida martani a kan asarar da Amurka ke yi a [ kasuwancinta ] da China, yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan.",
+        "Bayan sanar da tallafi ga manoma, Trump ya maida martani a kan asarar da Amurka ke yi a [ kasuwancinta da China ], yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan.",
+        "Bayan sanar da tallafi ga manoma, Trump ya maida martani a kan asarar da Amurka ke yi [ a kasuwancinta da China ], yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan.",
+        "Bayan sanar da tallafi ga manoma, Trump ya maida martani a kan asarar da [ Amurka ke yi ] a kasuwancinta da China, yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan."
+      ],
+      [
+        "Bayan sanar da tallafi ga manoma, Trump ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da [ China, ] yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan.",
+        "Bayan sanar da tallafi ga manoma, Trump ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da [ China ], yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan.",
+        "Bayan sanar da tallafi ga manoma, Trump ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da China [, ] yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan.",
+        "Bayan sanar da tallafi ga manoma [, ] Trump ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da China, yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan.",
+        "Bayan sanar da tallafi ga manoma, Trump ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da China, yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Trump",
+        "ya",
+        ", Trump",
+        "yan jarida",
+        "yan jarida kakilan"
+      ],
+      [
+        "Amurka",
+        "kasuwancinta",
+        "kasuwancinta da China",
+        "a kasuwancinta da China",
+        "Amurka ke yi"
+      ],
+      [
+        "China,",
+        "China",
+        ",",
+        ",",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -97.0822982788086,
+        -106.46875,
+        -107.21603393554688,
+        -108.24368286132812,
+        -109.23967742919922
+      ],
+      [
+        -103.98394775390625,
+        -110.07196044921875,
+        -110.4588851928711,
+        -111.69390106201172,
+        -112.0079574584961
+      ],
+      [
+        -99.51683044433594,
+        -103.99543762207031,
+        -105.28500366210938,
+        -108.5956802368164,
+        -110.05834197998047
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "In the indictment, filed by federal investigators, it was alleged that a Russian-based, Kremlin-affiliated Internet analytics company and 12 of its employees engaged in activities aimed at interfering with elections and the political system of the [ United States ] since the turn of the millennium."
+    ],
+    "src_entities": [
+      "United States"
+    ],
+    "template": "A cikin takardar tuhumar da masu taimakawa gwamnatin tarayya tantance laifi suka bayar , an yi zargin cewa , wani kamfanin nazarin hanyar sadarwar internet dake da cibiya a Rasha , wanda kuma yake da alaka da Kremlin , da ma'aikatansa goma sha biyu sun gudanar da wadansu ayyuka da nufin yin katsalandan a zabe , da kuma tsarin siyasar Amurka daga shekara ta dubu",
+    "tgt_lang": [
+      [
+        "A cikin takardar tuhumar da masu taimakawa gwamnatin tarayya tantance laifi suka bayar, an yi zargin cewa, wani kamfanin nazarin hanyar sadarwar internet dake da cibiya a Rasha, wanda kuma yake da alaka da Kremlin, da ma'aikatansa goma sha biyu sun gudanar da wadansu ayyuka da nufin yin katsalandan a zabe, da kuma tsarin siyasar [ Amurka ] daga shekara ta dubu",
+        "A cikin takardar tuhumar da masu taimakawa gwamnatin tarayya tantance laifi suka bayar, an yi zargin cewa, wani kamfanin nazarin hanyar sadarwar internet dake da cibiya a Rasha, wanda kuma yake da alaka da Kremlin, da ma'aikatansa goma sha biyu sun gudanar da wadansu ayyuka da nufin yin katsalandan a zabe, da kuma tsarin siyasar Amurka daga shekara ta [ dubu ]",
+        "A cikin takardar tuhumar da masu taimakawa gwamnatin tarayya tantance laifi suka bayar, an yi zargin cewa, wani kamfanin nazarin hanyar sadarwar internet dake da cibiya a Rasha, wanda kuma yake da alaka da Kremlin, da ma'aikatansa goma sha biyu sun gudanar da wadansu ayyuka da nufin yin katsalandan a zabe, da kuma tsarin siyasar Amurka daga shekara ta dubu [ ]",
+        "A cikin takardar tuhumar da masu taimakawa gwamnatin tarayya tantance laifi suka bayar, an yi zargin cewa, wani kamfanin nazarin hanyar sadarwar internet dake da cibiya a Rasha, wanda kuma yake da alaka da Kremlin, da ma'aikatansa goma sha biyu sun gudanar da wadansu ayyuka da nufin yin katsalandan a zabe, da kuma tsarin siyasar Amurka [ daga shekara ta dubu ]",
+        "A cikin takardar tuhumar da masu taimakawa gwamnatin tarayya tantance laifi suka bayar, an yi zargin cewa, wani kamfanin nazarin hanyar sadarwar internet dake da cibiya a Rasha, wanda kuma yake da alaka da Kremlin, da ma'aikatansa goma sha biyu sun gudanar da wadansu ayyuka da nufin yin katsalandan a zabe, da kuma tsarin siyasar [ Amurka daga shekara ta dubu ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Amurka",
+        "dubu",
+        "",
+        "daga shekara ta dubu",
+        "Amurka daga shekara ta dubu"
+      ]
+    ],
+    "score": [
+      [
+        -162.08349609375,
+        -169.3770751953125,
+        -170.6351318359375,
+        -172.17733764648438,
+        -172.57969665527344
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [
+      "As some expected, the meeting turned out to be a platform to distract President [ Trump ] from the minor events of the past week, as the Robert Mueller Commission's investigation into alleged collusion between the Trump campaign and Russia seemed poised to conclude.",
+      "As some expected, the meeting turned out to be a platform to distract President Trump from the minor events of the past week, as the [ Robert Mueller Commission's ] investigation into alleged collusion between the Trump campaign and Russia seemed poised to conclude.",
+      "As some expected, the meeting turned out to be a platform to distract President Trump from the minor events of the past week, as the Robert Mueller Commission's investigation into alleged collusion between the [ Trump ] campaign and Russia seemed poised to conclude.",
+      "As some expected, the meeting turned out to be a platform to distract President Trump from the minor events of the past week, as the Robert Mueller Commission's investigation into alleged collusion between the Trump campaign and [ Russia ] seemed poised to conclude."
+    ],
+    "src_entities": [
+      "Trump",
+      "Robert Mueller Commission's",
+      "Trump",
+      "Russia"
+    ],
+    "template": "Kamar dai yadda wasu suka yi tsammani , taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude , yayin da ake ganin alamar cewa , binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai , tsakanin kwamitin yakin neman zaben Trump da Rasha , ya kusa kawowa karshe .",
+    "tgt_lang": [
+      [
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba [ Trump ] daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha, ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin [ shugaba Trump ] daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha, ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar [ cewa, ] binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha, ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa [, ] binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha, ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da [ ake ganin ] alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha, ya kusa kawowa karshe."
+      ],
+      [
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da [ kwamitin Robert Mueller ] ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha, ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin [ Robert Mueller ] ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha, ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da [ kwamitin Robert Mueller ke yi ] kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha, ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken [ da kwamitin Robert Mueller ] ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha, ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken [ da kwamitin Robert Mueller ke yi ] kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha, ya kusa kawowa karshe."
+      ],
+      [
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben [ Trump ] da Rasha, ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin [ kwamitin yakin neman zaben Trump ] da Rasha, ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin [ kwamitin yakin neman zaben ] Trump da Rasha, ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben [ Trump da Rasha ], ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben [ Trump da ] Rasha, ya kusa kawowa karshe."
+      ],
+      [
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da [ Rasha ], ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da [ Rasha, ] ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da [ ] Rasha, ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha [, ] ya kusa kawowa karshe.",
+        "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha [ ], ya kusa kawowa karshe."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Trump",
+        "shugaba Trump",
+        "cewa,",
+        ",",
+        "ake ganin"
+      ],
+      [
+        "kwamitin Robert Mueller",
+        "Robert Mueller",
+        "kwamitin Robert Mueller ke yi",
+        "da kwamitin Robert Mueller",
+        "da kwamitin Robert Mueller ke yi"
+      ],
+      [
+        "Trump",
+        "kwamitin yakin neman zaben Trump",
+        "kwamitin yakin neman zaben",
+        "Trump da Rasha",
+        "Trump da"
+      ],
+      [
+        "Rasha",
+        "Rasha,",
+        "",
+        ",",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -141.04168701171875,
+        -150.53924560546875,
+        -159.1912078857422,
+        -159.358642578125,
+        -159.52520751953125
+      ],
+      [
+        -142.4287567138672,
+        -143.58636474609375,
+        -146.12173461914062,
+        -146.17910766601562,
+        -146.40753173828125
+      ],
+      [
+        -142.8828582763672,
+        -146.666259765625,
+        -151.4534454345703,
+        -151.71661376953125,
+        -152.23057556152344
+      ],
+      [
+        -140.2618865966797,
+        -144.23684692382812,
+        -149.22210693359375,
+        -149.99180603027344,
+        -151.0506134033203
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "In the next few days, the [ US Congress ] will begin hearings on Robert Mueller's report on his investigation into Russian interference in the 2016 US presidential election.",
+      "In the next few days, the US Congress will begin hearings on [ Robert Mueller's ] report on his investigation into Russian interference in the 2016 US presidential election.",
+      "In the next few days, the US Congress will begin hearings on Robert Mueller's report on his investigation into Russian interference in the 2016 [ US ] presidential election."
+    ],
+    "src_entities": [
+      "US Congress",
+      "Robert Mueller's",
+      "US"
+    ],
+    "template": "Nan da wasu ‘yan kwanaki masu zuwa ne , majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016 .",
+    "tgt_lang": [
+      [
+        "Nan da wasu yan kwanaki masu zuwa ne, [ majalisar dokokin Amurka ] za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016.",
+        "Nan da wasu yan kwanaki masu zuwa ne, majalisar dokokin [ Amurka ] za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016.",
+        "Nan da wasu yan kwanaki masu zuwa ne, [ majalisar dokokin ] Amurka za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016.",
+        "Nan da wasu yan kwanaki masu zuwa ne [, majalisar dokokin Amurka ] za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016.",
+        "Nan da wasu yan kwanaki masu zuwa ne, majalisar [ dokokin Amurka ] za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016."
+      ],
+      [
+        "Nan da wasu yan kwanaki masu zuwa ne, majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton [ Robert Mueller ] dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016.",
+        "Nan da wasu yan kwanaki masu zuwa ne, majalisar dokokin Amurka za ta fara sauraren bahasi kan [ rahoton Robert Mueller ] dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016.",
+        "Nan da wasu yan kwanaki masu zuwa ne, majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton [ ] Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016.",
+        "Nan da wasu yan kwanaki masu zuwa ne, majalisar dokokin Amurka za ta fara sauraren bahasi kan [ rahoton ] Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016.",
+        "Nan da wasu yan kwanaki masu zuwa ne, majalisar dokokin Amurka za ta fara sauraren bahasi kan [ ] rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016."
+      ],
+      [
+        "Nan da wasu yan kwanaki masu zuwa ne, majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar [ Amurka ] a 2016.",
+        "Nan da wasu yan kwanaki masu zuwa ne, majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar [ Amurka a 2016 ].",
+        "Nan da wasu yan kwanaki masu zuwa ne, majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a [ 2016 ].",
+        "Nan da wasu yan kwanaki masu zuwa ne, majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar [ Amurka a ] 2016.",
+        "Nan da wasu yan kwanaki masu zuwa ne, majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka [ a 2016 ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "majalisar dokokin Amurka",
+        "Amurka",
+        "majalisar dokokin",
+        ", majalisar dokokin Amurka",
+        "dokokin Amurka"
+      ],
+      [
+        "Robert Mueller",
+        "rahoton Robert Mueller",
+        "",
+        "rahoton",
+        ""
+      ],
+      [
+        "Amurka",
+        "Amurka a 2016",
+        "2016",
+        "Amurka a",
+        "a 2016"
+      ]
+    ],
+    "score": [
+      [
+        -113.05394744873047,
+        -115.19764709472656,
+        -118.79663848876953,
+        -119.12223815917969,
+        -121.36286163330078
+      ],
+      [
+        -110.86595153808594,
+        -115.88772583007812,
+        -121.55715942382812,
+        -122.50765228271484,
+        -123.96593475341797
+      ],
+      [
+        -112.50215148925781,
+        -116.49137115478516,
+        -118.33529663085938,
+        -118.77605438232422,
+        -119.8033676147461
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 8,
+    "src_lang": [],
+    "template": "• Kada ka taba wanda ya mutu da cutar Ebola .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "[ Deborah Ramirez's ] wife, 53, alleged that the incident occurred in the 1983-84 academic year, at Yale University during a party.",
+      "Deborah Ramirez's wife, 53, alleged that the incident occurred in the 1983-84 academic year, at [ Yale University ] during a party."
+    ],
+    "src_entities": [
+      "Deborah Ramirez's",
+      "Yale University"
+    ],
+    "template": "Matar Deborah Ramirez , 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84 , a jami'ar Yale a lokacin wata liyafa .",
+    "tgt_lang": [
+      [
+        "[ Matar Deborah Ramirez, 'yar shekaru 53 ] tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84, a jami'ar Yale a lokacin wata liyafa.",
+        "Matar [ Deborah Ramirez ], 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84, a jami'ar Yale a lokacin wata liyafa.",
+        "Matar [ Deborah Ramirez, 'yar shekaru 53 ] tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84, a jami'ar Yale a lokacin wata liyafa.",
+        "[ Matar Deborah Ramirez ], 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84, a jami'ar Yale a lokacin wata liyafa.",
+        "[ Matar Deborah Ramirez, ] 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84, a jami'ar Yale a lokacin wata liyafa."
+      ],
+      [
+        "Matar Deborah Ramirez, 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84, a [ jami'ar Yale ] a lokacin wata liyafa.",
+        "Matar Deborah Ramirez, 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84, a jami'ar [ Yale ] a lokacin wata liyafa.",
+        "Matar Deborah Ramirez, 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84, a [ ] jami'ar Yale a lokacin wata liyafa.",
+        "Matar Deborah Ramirez, 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84, a jami'ar Yale [ a lokacin wata liyafa ].",
+        "Matar Deborah Ramirez, 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84, a jami'ar [ Yale a ] lokacin wata liyafa."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Matar Deborah Ramirez, 'yar shekaru 53",
+        "Deborah Ramirez",
+        "Deborah Ramirez, 'yar shekaru 53",
+        "Matar Deborah Ramirez",
+        "Matar Deborah Ramirez,"
+      ],
+      [
+        "jami'ar Yale",
+        "Yale",
+        "",
+        "a lokacin wata liyafa",
+        "Yale a"
+      ]
+    ],
+    "score": [
+      [
+        -46.1390380859375,
+        -46.26963806152344,
+        -46.63546371459961,
+        -46.93448257446289,
+        -48.26116943359375
+      ],
+      [
+        -44.05323028564453,
+        -46.45663833618164,
+        -55.2755241394043,
+        -55.36370849609375,
+        -55.424930572509766
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "On Tuesday, Americans flocked to the polls to cast their ballots in the election of new lawmakers, an election that is also expected to decide the fate of [ Donald Trump's ] presidency, which has divided voters."
+    ],
+    "src_entities": [
+      "Donald Trump's"
+    ],
+    "template": "A yau Talata Amurkawa sun dunguma zuwa rumfunan zabe domin kada kuri’unsu a zaben sabbin ‘yan majalisar dokoki , zaben da ake ganin har ila yau zai yanke hukunci kan irin kamin ludayin shugabancin Donald Trump , lamarin da ya raba kawunan masu kada kuri’un .",
+    "tgt_lang": [
+      [
+        "A yau Talata Amurkawa sun dunguma zuwa rumfunan zabe domin kada kuriunsu a zaben sabbin yan majalisar dokoki, zaben da ake ganin har ila yau zai yanke hukunci kan irin kamin ludayin shugabancin [ Donald Trump ], lamarin da ya raba kawunan masu kada kuriun.",
+        "A yau Talata Amurkawa sun dunguma zuwa rumfunan zabe domin kada kuriunsu a zaben sabbin yan majalisar dokoki, zaben da ake ganin har ila yau zai yanke hukunci kan irin kamin ludayin shugabancin [ Donald Trump, ] lamarin da ya raba kawunan masu kada kuriun.",
+        "A yau Talata Amurkawa sun dunguma zuwa rumfunan zabe domin kada kuriunsu a zaben sabbin yan majalisar dokoki, zaben da ake ganin har ila yau zai yanke hukunci kan irin kamin ludayin [ shugabancin Donald Trump ], lamarin da ya raba kawunan masu kada kuriun.",
+        "A yau Talata Amurkawa sun dunguma zuwa rumfunan zabe domin kada kuriunsu a zaben sabbin yan majalisar dokoki, zaben da ake ganin har ila yau zai yanke hukunci kan irin [ kamin ludayin shugabancin Donald Trump ], lamarin da ya raba kawunan masu kada kuriun.",
+        "A yau Talata Amurkawa sun dunguma zuwa rumfunan zabe domin kada kuriunsu a zaben sabbin yan majalisar dokoki, zaben da ake ganin har ila yau zai yanke hukunci kan irin kamin ludayin shugabancin [ Donald ] Trump, lamarin da ya raba kawunan masu kada kuriun."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Donald Trump",
+        "Donald Trump,",
+        "shugabancin Donald Trump",
+        "kamin ludayin shugabancin Donald Trump",
+        "Donald"
+      ]
+    ],
+    "score": [
+      [
+        -138.2647705078125,
+        -146.2958984375,
+        -147.85545349121094,
+        -148.88084411621094,
+        -150.50782775878906
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "The [ White House ] said Deputy Prime Minister Liu would lead a delegation of Chinese officials to Washington next week for further talks on May 8.",
+      "The White House said Deputy Prime Minister [ Liu ] would lead a delegation of Chinese officials to Washington next week for further talks on May 8.",
+      "The White House said Deputy Prime Minister Liu would lead a delegation of Chinese officials to [ Washington ] next week for further talks on May 8."
+    ],
+    "src_entities": [
+      "White House",
+      "Liu",
+      "Washington"
+    ],
+    "template": "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jami’an China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu .",
+    "tgt_lang": [
+      [
+        "[ Fadar White House ] ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu.",
+        "Fadar [ White House ] ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu.",
+        "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar [ ranar 8 ga watan Mayu ].",
+        "[ Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu. ]",
+        "[ Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu ]."
+      ],
+      [
+        "Fadar White House ta ce mataimakin Firimiya [ Liu ] shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu.",
+        "Fadar White House ta ce mataimakin Firimiya [ Liu shine ] zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu.",
+        "Fadar White House ta ce mataimakin Firimiya [ Liu shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu ].",
+        "Fadar White House ta ce mataimakin Firimiya [ Liu shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu. ]",
+        "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu [ ]."
+      ],
+      [
+        "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa [ Washinton ] a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu.",
+        "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa [ Washinton a makon gaba ] domin ci gaba da tattaunawar ranar 8 ga watan Mayu.",
+        "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa [ Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu ].",
+        "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar [ ranar 8 ga watan Mayu ].",
+        "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa [ Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Fadar White House",
+        "White House",
+        "ranar 8 ga watan Mayu",
+        "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jami<unk>an China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu.",
+        "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jami<unk>an China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu"
+      ],
+      [
+        "Liu",
+        "Liu shine",
+        "Liu shine zai jagoranci tawagar jami<unk>an China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu",
+        "Liu shine zai jagoranci tawagar jami<unk>an China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu.",
+        ""
+      ],
+      [
+        "Washinton",
+        "Washinton a makon gaba",
+        "Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu",
+        "ranar 8 ga watan Mayu",
+        "Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu."
+      ]
+    ],
+    "score": [
+      [
+        -63.058780670166016,
+        -66.30752563476562,
+        -70.0965347290039,
+        -70.66063690185547,
+        -74.2957534790039
+      ],
+      [
+        -58.94001388549805,
+        -70.03956604003906,
+        -76.08290100097656,
+        -76.73638916015625,
+        -77.88294982910156
+      ],
+      [
+        -58.787593841552734,
+        -65.99068450927734,
+        -68.84835052490234,
+        -71.6327896118164,
+        -72.3873062133789
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [
+      "In the state of [ North Dakota, ] the temperature was below 32 degrees Celsius, while it was below 52 degrees in other parts of Minnesota.",
+      "In the state of North Dakota, the temperature was below 32 degrees Celsius, while it was below 52 degrees in other parts of [ Minnesota. ]"
+    ],
+    "src_entities": [
+      "North Dakota,",
+      "Minnesota."
+    ],
+    "template": "A can yankin jihar Dakota ta Arewa , sanyin iskar , ya kai kasa da maki 32 na ma’aunin digrin Celcius , yayin da ya kai kasa da maki 52 a wasu yankunan jihar Minnesota .",
+    "tgt_lang": [
+      [
+        "A can yankin jihar [ Dakota ta Arewa, ] sanyin iskar, ya kai kasa da maki 32 na maaunin digrin Celcius, yayin da ya kai kasa da maki 52 a wasu yankunan jihar Minnesota.",
+        "A can yankin [ jihar Dakota ta Arewa, ] sanyin iskar, ya kai kasa da maki 32 na maaunin digrin Celcius, yayin da ya kai kasa da maki 52 a wasu yankunan jihar Minnesota.",
+        "A can [ yankin jihar Dakota ta Arewa, ] sanyin iskar, ya kai kasa da maki 32 na maaunin digrin Celcius, yayin da ya kai kasa da maki 52 a wasu yankunan jihar Minnesota.",
+        "A can yankin jihar Dakota ta Arewa, sanyin iskar [, ] ya kai kasa da maki 32 na maaunin digrin Celcius, yayin da ya kai kasa da maki 52 a wasu yankunan jihar Minnesota.",
+        "A can yankin jihar [ Dakota ta Arewa, sanyin iskar, ] ya kai kasa da maki 32 na maaunin digrin Celcius, yayin da ya kai kasa da maki 52 a wasu yankunan jihar Minnesota."
+      ],
+      [
+        "A can yankin jihar Dakota ta Arewa, sanyin iskar, ya kai kasa da maki 32 na maaunin digrin Celcius, yayin da ya kai kasa da maki 52 a wasu yankunan jihar [ Minnesota ].",
+        "A can yankin jihar Dakota ta Arewa, sanyin iskar, ya kai kasa da maki 32 na maaunin digrin Celcius, yayin da ya kai kasa da maki 52 a wasu yankunan jihar [ Minnesota. ]",
+        "A can yankin jihar Dakota ta Arewa, sanyin iskar, ya kai kasa da maki 32 na maaunin digrin Celcius, yayin da ya kai kasa da maki 52 a wasu yankunan [ jihar Minnesota ].",
+        "A can yankin jihar Dakota ta Arewa, sanyin iskar, ya kai kasa da maki 32 na [ maaunin digrin Celcius ], yayin da ya kai kasa da maki 52 a wasu yankunan jihar Minnesota.",
+        "A can yankin jihar Dakota ta Arewa, sanyin iskar, ya kai kasa da maki 32 na maaunin digrin [ Celcius ], yayin da ya kai kasa da maki 52 a wasu yankunan jihar Minnesota."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Dakota ta Arewa,",
+        "jihar Dakota ta Arewa,",
+        "yankin jihar Dakota ta Arewa,",
+        ",",
+        "Dakota ta Arewa, sanyin iskar,"
+      ],
+      [
+        "Minnesota",
+        "Minnesota.",
+        "jihar Minnesota",
+        "ma<unk>aunin digrin Celcius",
+        "Celcius"
+      ]
+    ],
+    "score": [
+      [
+        -124.59357452392578,
+        -126.4350814819336,
+        -127.0112075805664,
+        -127.86546325683594,
+        -129.9281768798828
+      ],
+      [
+        -125.35899353027344,
+        -127.06685638427734,
+        -129.82595825195312,
+        -130.7648468017578,
+        -130.79212951660156
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "This exhibition was released by the [ Judicial Branch of the Congress ] and was later made available to the press."
+    ],
+    "src_entities": [
+      "Judicial Branch of the Congress"
+    ],
+    "template": "Bangaren shari'a na Majalisa ne dai suka fitar da wannan takardun nuni wanda daga baya manema labarai suka samu .",
+    "tgt_lang": [
+      [
+        "[ Bangaren shari'a na Majalisa ] ne dai suka fitar da wannan takardun nuni wanda daga baya manema labarai suka samu.",
+        "Bangaren shari'a na [ Majalisa ] ne dai suka fitar da wannan takardun nuni wanda daga baya manema labarai suka samu.",
+        "Bangaren shari'a [ na Majalisa ] ne dai suka fitar da wannan takardun nuni wanda daga baya manema labarai suka samu.",
+        "Bangaren [ shari'a na Majalisa ] ne dai suka fitar da wannan takardun nuni wanda daga baya manema labarai suka samu.",
+        "[ Bangaren shari'a na Majalisa ne ] dai suka fitar da wannan takardun nuni wanda daga baya manema labarai suka samu."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Bangaren shari'a na Majalisa",
+        "Majalisa",
+        "na Majalisa",
+        "shari'a na Majalisa",
+        "Bangaren shari'a na Majalisa ne"
+      ]
+    ],
+    "score": [
+      [
+        -58.5096435546875,
+        -60.25041198730469,
+        -62.99968719482422,
+        -64.89463806152344,
+        -65.3440170288086
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 14,
+    "src_lang": [],
+    "template": "abun ya fi .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "The [ Democratic National Committee ] has informed the Federal Bureau of Investigation (FBI) that it has successfully thwarted an attempted theft of voter records.",
+      "The Democratic National Committee has informed the [ Federal Bureau of Investigation ] (FBI) that it has successfully thwarted an attempted theft of voter records."
+    ],
+    "src_entities": [
+      "Democratic National Committee",
+      "Federal Bureau of Investigation"
+    ],
+    "template": "Kwamitin gudanarwa na Jam’iyyar Democrat ya sanar da hukumar binciken manyan laifuka na kasar ( FBI ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuri’a .",
+    "tgt_lang": [
+      [
+        "[ Kwamitin gudanarwa na Jamiyyar Democrat ] ya sanar da hukumar binciken manyan laifuka na kasar ( FBI ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria.",
+        "Kwamitin gudanarwa na [ Jamiyyar Democrat ] ya sanar da hukumar binciken manyan laifuka na kasar ( FBI ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria.",
+        "Kwamitin [ gudanarwa na Jamiyyar Democrat ] ya sanar da hukumar binciken manyan laifuka na kasar ( FBI ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria.",
+        "Kwamitin gudanarwa [ na Jamiyyar Democrat ] ya sanar da hukumar binciken manyan laifuka na kasar ( FBI ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria.",
+        "Kwamitin gudanarwa na Jamiyyar [ Democrat ] ya sanar da hukumar binciken manyan laifuka na kasar ( FBI ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria."
+      ],
+      [
+        "Kwamitin gudanarwa na Jamiyyar Democrat ya sanar da hukumar binciken manyan laifuka na kasar [ ( FBI ) ] cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria.",
+        "Kwamitin gudanarwa na Jamiyyar Democrat ya sanar da [ hukumar binciken manyan laifuka na kasar ] ( FBI ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria.",
+        "Kwamitin gudanarwa na Jamiyyar Democrat ya sanar da hukumar binciken manyan laifuka na kasar ( [ FBI ] ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria.",
+        "Kwamitin gudanarwa na Jamiyyar Democrat ya sanar da hukumar binciken manyan laifuka na kasar ( [ FBI ) ] cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria.",
+        "Kwamitin gudanarwa na Jamiyyar Democrat ya sanar da [ hukumar binciken manyan laifuka ] na kasar ( FBI ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kwamitin gudanarwa na Jam<unk>iyyar Democrat",
+        "Jam<unk>iyyar Democrat",
+        "gudanarwa na Jam<unk>iyyar Democrat",
+        "na Jam<unk>iyyar Democrat",
+        "Democrat"
+      ],
+      [
+        "( FBI )",
+        "hukumar binciken manyan laifuka na kasar",
+        "FBI",
+        "FBI )",
+        "hukumar binciken manyan laifuka"
+      ]
+    ],
+    "score": [
+      [
+        -135.20286560058594,
+        -137.87107849121094,
+        -138.78738403320312,
+        -139.02285766601562,
+        -141.44874572753906
+      ],
+      [
+        -138.81533813476562,
+        -139.1782989501953,
+        -140.23907470703125,
+        -141.5279541015625,
+        -141.85328674316406
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "\"\"\"\"On Sunday, a friend of [ Trump ] from the U.S. Senate urged him to open the cabinet at least temporarily and then try again with the Democrats.",
+      "\"\"\"\"On Sunday, a friend of Trump from the [ U.S. Senate ] urged him to open the cabinet at least temporarily and then try again with the Democrats."
+    ],
+    "src_entities": [
+      "Trump",
+      "U.S. Senate"
+    ],
+    "template": "\"\"\"\" Jiya Lahadi , wani aminin Trump daga cikin 'yan majalisar dattawan Amurka ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat .",
+    "tgt_lang": [
+      [
+        "\"\"\"\" Jiya Lahadi, wani aminin [ Trump ] daga cikin 'yan majalisar dattawan Amurka ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat.",
+        "\"\"\"\" Jiya Lahadi, wani aminin Trump daga cikin 'yan majalisar dattawan [ Amurka ] ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat.",
+        "\"\"\"\" Jiya Lahadi, wani aminin Trump daga cikin 'yan majalisar dattawan Amurka ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada [ tattaunawa ] da 'yan Dimokarat.",
+        "\"\"\"\" Jiya Lahadi, wani aminin Trump daga cikin 'yan majalisar dattawan Amurka ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake [ gwada ] tattaunawa da 'yan Dimokarat.",
+        "\"\"\"\" Jiya Lahadi, wani aminin Trump daga cikin 'yan majalisar dattawan Amurka ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake [ gwada tattaunawa ] da 'yan Dimokarat."
+      ],
+      [
+        "\"\"\"\" Jiya Lahadi, wani aminin Trump daga cikin [ 'yan majalisar dattawan Amurka ] ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat.",
+        "\"\"\"\" Jiya Lahadi, wani aminin Trump daga cikin 'yan majalisar dattawan [ Amurka ] ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat.",
+        "\"\"\"\" Jiya Lahadi, wani aminin Trump daga [ cikin 'yan majalisar dattawan Amurka ] ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat.",
+        "\"\"\"\" Jiya Lahadi, wani aminin Trump daga cikin 'yan majalisar [ dattawan Amurka ] ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat.",
+        "\"\"\"\" Jiya Lahadi, wani aminin Trump daga cikin [ 'yan majalisar dattawan Amurka ya ] yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Trump",
+        "Amurka",
+        "tattaunawa",
+        "gwada",
+        "gwada tattaunawa"
+      ],
+      [
+        "'yan majalisar dattawan Amurka",
+        "Amurka",
+        "cikin 'yan majalisar dattawan Amurka",
+        "dattawan Amurka",
+        "'yan majalisar dattawan Amurka ya"
+      ]
+    ],
+    "score": [
+      [
+        -96.01836395263672,
+        -103.62211608886719,
+        -108.06493377685547,
+        -109.34782409667969,
+        -109.87785339355469
+      ],
+      [
+        -96.27879333496094,
+        -98.34336853027344,
+        -98.56196594238281,
+        -104.17926788330078,
+        -105.72553253173828
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [],
+    "template": "Yau dinnan Litini , aka shiga rana ta 24 da rufe wasu ma'aikatun gwamnatin tarayya .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "The air traffic controllers said that they had heard his name called [ Rich, ] telling him to get off the plane."
+    ],
+    "src_entities": [
+      "Rich,"
+    ],
+    "template": "Masu kula da zirga zirga jiragen sama sun ce sun ji ana kirarsa da suna Rich , ana ce masa ya sauka da jirgin .",
+    "tgt_lang": [
+      [
+        "Masu kula da zirga zirga jiragen sama sun ce sun ji ana kirarsa da suna [ Rich, ] ana ce masa ya sauka da jirgin.",
+        "Masu kula da zirga zirga jiragen sama sun ce sun ji ana kirarsa da suna [ Rich ], ana ce masa ya sauka da jirgin.",
+        "Masu kula da zirga zirga jiragen sama sun ce sun ji ana kirarsa [ da suna Rich, ] ana ce masa ya sauka da jirgin.",
+        "Masu kula da zirga zirga jiragen sama sun ce sun ji ana kirarsa da [ suna Rich, ] ana ce masa ya sauka da jirgin.",
+        "Masu kula da zirga zirga jiragen sama sun ce sun ji ana kirarsa [ da suna Rich ], ana ce masa ya sauka da jirgin."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Rich,",
+        "Rich",
+        "da suna Rich,",
+        "suna Rich,",
+        "da suna Rich"
+      ]
+    ],
+    "score": [
+      [
+        -54.9847412109375,
+        -59.890411376953125,
+        -64.77653503417969,
+        -66.67462921142578,
+        -67.79222106933594
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 19,
+    "src_lang": [],
+    "template": "Tace , bincike a duk fadin duniya ya nuna cewa , masu tabuwar hankali da ake kwantarwa a asibitai suna fuskantar tashin hankali ta fanni dabam dabam da suka hada da cin zarafinsu da dauresu , da hanasu abinci da ruwan sha , da kyalesu cikin yanayin rashin tsabta , da dauresu a hanasu walwala , da kyaliya na tsawon shekaru , wadansu lokuta iya rayuwarsu .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "According to [ Michelle Funk, ] director of psychiatry at the World Health Organization, people with dementia are often overlooked.",
+      "According to Michelle Funk, director of psychiatry at the [ World Health Organization, ] people with dementia are often overlooked."
+    ],
+    "src_entities": [
+      "Michelle Funk,",
+      "World Health Organization,"
+    ],
+    "template": "Jami’ar kula da masu tabuwar kwakwalwa a hukumar lafiya ta duniya Michelle Funk tace , sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali .",
+    "tgt_lang": [
+      [
+        "Jamiar kula da masu tabuwar kwakwalwa a hukumar lafiya ta duniya [ Michelle Funk ] tace, sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali.",
+        "Jamiar kula da masu tabuwar kwakwalwa a hukumar lafiya ta duniya Michelle Funk [ ] tace, sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali.",
+        "Jamiar kula da masu tabuwar kwakwalwa a hukumar lafiya ta duniya Michelle Funk tace [, ] sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali.",
+        "[ ] Jamiar kula da masu tabuwar kwakwalwa a hukumar lafiya ta duniya Michelle Funk tace, sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali.",
+        "[ Jamiar kula da masu tabuwar kwakwalwa a hukumar lafiya ta duniya Michelle Funk ] tace, sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali."
+      ],
+      [
+        "Jamiar kula da masu tabuwar kwakwalwa a [ hukumar lafiya ta duniya ] Michelle Funk tace, sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali.",
+        "Jamiar kula da masu tabuwar kwakwalwa a hukumar [ lafiya ta duniya ] Michelle Funk tace, sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali.",
+        "Jamiar kula da masu tabuwar kwakwalwa a [ hukumar lafiya ta ] duniya Michelle Funk tace, sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali.",
+        "Jamiar kula da masu tabuwar kwakwalwa a hukumar lafiya ta duniya Michelle Funk tace, [ sau da dama ] akan yi watsi da mutanen da ke fama da tabuwar hankali.",
+        "Jamiar kula da masu tabuwar kwakwalwa a hukumar lafiya ta duniya Michelle Funk tace [, ] sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Michelle Funk",
+        "",
+        ",",
+        "",
+        "Jami<unk>ar kula da masu tabuwar kwakwalwa a hukumar lafiya ta duniya Michelle Funk"
+      ],
+      [
+        "hukumar lafiya ta duniya",
+        "lafiya ta duniya",
+        "hukumar lafiya ta",
+        "sau da dama",
+        ","
+      ]
+    ],
+    "score": [
+      [
+        -110.57498168945312,
+        -113.00213623046875,
+        -113.45667266845703,
+        -114.01268005371094,
+        -114.05943298339844
+      ],
+      [
+        -110.48086547851562,
+        -113.6089859008789,
+        -113.90861511230469,
+        -113.9803466796875,
+        -114.10122680664062
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "A spokesperson for the Hausa department, [ Ladan Ibrahim Ayawa, ] quoted officials as saying that the man who died from the Ebola virus was named Patrick Sawyer, a 40-year-old Liberian national, who became ill when he arrived in Nigeria on Sunday from Monrovia.",
+      "A spokesperson for the Hausa department, Ladan Ibrahim Ayawa, quoted officials as saying that the man who died from the Ebola virus was named [ Patrick Sawyer, ] a 40-year-old Liberian national, who became ill when he arrived in Nigeria on Sunday from Monrovia.",
+      "A spokesperson for the Hausa department, Ladan Ibrahim Ayawa, quoted officials as saying that the man who died from the Ebola virus was named Patrick Sawyer, a 40-year-old Liberian national, who became ill when he arrived in [ Nigeria ] on Sunday from Monrovia.",
+      "A spokesperson for the Hausa department, Ladan Ibrahim Ayawa, quoted officials as saying that the man who died from the Ebola virus was named Patrick Sawyer, a 40-year-old Liberian national, who became ill when he arrived in Nigeria on Sunday from [ Monrovia. ]"
+    ],
+    "src_entities": [
+      "Ladan Ibrahim Ayawa,",
+      "Patrick Sawyer,",
+      "Nigeria",
+      "Monrovia."
+    ],
+    "template": "Wakilin sashen Hausa , Ladan Ibrahim Ayawa , ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer , dan kasar Liberiya , mai shekaru 40 da haihuwa , wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia .",
+    "tgt_lang": [
+      [
+        "Wakilin sashen Hausa, [ Ladan Ibrahim Ayawa, ] ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia.",
+        "Wakilin sashen Hausa, [ Ladan Ibrahim Ayawa ], ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia.",
+        "Wakilin sashen Hausa, [ Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia. ]",
+        "Wakilin sashen Hausa, [ Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia ].",
+        "Wakilin sashen Hausa, [ Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga ] Monrovia."
+      ],
+      [
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa [ Patrick Sawyer, ] dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia.",
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya [, ] mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia.",
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa [ Patrick Sawyer ], dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia.",
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, [ dan kasar Liberiya, ] mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia.",
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya [, mai shekaru 40 da haihuwa ], wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia."
+      ],
+      [
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa [ Najeriya ] ranar lahadi daga Monrovia.",
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar [ lahadi ] daga Monrovia.",
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya [ ranar lahadi ] daga Monrovia.",
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa [ ] Najeriya ranar lahadi daga Monrovia.",
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya [ ] ranar lahadi daga Monrovia."
+      ],
+      [
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga [ Monrovia ].",
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga [ Monrovia. ]",
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia [ ].",
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga [ ] Monrovia.",
+        "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ladan Ibrahim Ayawa,",
+        "Ladan Ibrahim Ayawa",
+        "Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia.",
+        "Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia",
+        "Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga"
+      ],
+      [
+        "Patrick Sawyer,",
+        ",",
+        "Patrick Sawyer",
+        "dan kasar Liberiya,",
+        ", mai shekaru 40 da haihuwa"
+      ],
+      [
+        "Najeriya",
+        "lahadi",
+        "ranar lahadi",
+        "",
+        ""
+      ],
+      [
+        "Monrovia",
+        "Monrovia.",
+        "",
+        "",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -76.70448303222656,
+        -83.1259536743164,
+        -97.16226959228516,
+        -98.22313690185547,
+        -99.86255645751953
+      ],
+      [
+        -76.66255187988281,
+        -84.30155944824219,
+        -85.47144317626953,
+        -85.57608032226562,
+        -87.01282501220703
+      ],
+      [
+        -76.25643920898438,
+        -85.95521545410156,
+        -87.81100463867188,
+        -88.8085708618164,
+        -89.49960327148438
+      ],
+      [
+        -75.69233703613281,
+        -76.80709838867188,
+        -84.23207092285156,
+        -85.6286849975586,
+        -87.03150177001953
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "\"\"\"\"The Chinese official said, If [ this ] US move harms China's interests, China will join with other countries concerned in responding to protect their rights and",
+      "\"\"\"\"The Chinese official said, If this US move [ harms ] China's interests, China will join with other countries concerned in responding to protect their rights and",
+      "\"\"\"\"The Chinese official said, If this US move harms China's [ interests, ] China will join with other countries concerned in responding to protect their rights and"
+    ],
+    "src_entities": [
+      "this",
+      "harms",
+      "interests,"
+    ],
+    "template": "\"\"\"\" Jami’in na kasar China ya ce , “ Idan wannan matakin na Amurka ya yi illa ga muradun China , kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare ‘yancinsu da kuma muradunsu .",
+    "tgt_lang": [
+      [
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan [ wannan ] matakin na Amurka ya yi illa ga muradun China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan [ ] wannan matakin na Amurka ya yi illa ga muradun China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan matakin na [ Amurka ] ya yi illa ga muradun China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan [ matakin ] na Amurka ya yi illa ga muradun China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan [ wannan matakin ] na Amurka ya yi illa ga muradun China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu."
+      ],
+      [
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan matakin na Amurka [ ya yi illa ] ga muradun China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan matakin na Amurka ya yi [ illa ] ga muradun China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan matakin na Amurka [ ya yi illa ga ] muradun China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan matakin na Amurka ya [ yi illa ] ga muradun China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan matakin na Amurka ya yi [ illa ga ] muradun China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu."
+      ],
+      [
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan matakin na Amurka ya yi illa ga [ muradun ] China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan matakin na Amurka ya yi illa ga [ muradun China, ] kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan matakin na Amurka ya yi illa ga [ muradun China ], kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan matakin na Amurka ya yi illa ga muradun [ China, ] kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+        "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan matakin na Amurka ya yi illa ga muradun [ China ], kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "wannan",
+        "",
+        "Amurka",
+        "matakin",
+        "wannan matakin"
+      ],
+      [
+        "ya yi illa",
+        "illa",
+        "ya yi illa ga",
+        "yi illa",
+        "illa ga"
+      ],
+      [
+        "muradun",
+        "muradun China,",
+        "muradun China",
+        "China,",
+        "China"
+      ]
+    ],
+    "score": [
+      [
+        -95.61530303955078,
+        -98.9807357788086,
+        -101.2073974609375,
+        -101.83536529541016,
+        -102.13536834716797
+      ],
+      [
+        -96.92262268066406,
+        -97.03645324707031,
+        -99.27629852294922,
+        -99.37124633789062,
+        -100.60743713378906
+      ],
+      [
+        -96.46365356445312,
+        -96.63841247558594,
+        -98.77185821533203,
+        -99.1992416381836,
+        -99.88272857666016
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [],
+    "template": "An shirya kamalla wannan gwaji ne a shekara ta dubu biyu da goma sha biyar , to amma an gabatar da sakamakon binciken da wuri ne a saboda anga abun ba zata .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "The [ U.S. Department of Justice ] said Wednesday night that the plan by the committee's chairman, Congressman Jarrold Nadler, to have the committee question Barr was inappropriate, and the department said Barr was still happy to meet directly with the committee on questions about Mueller.",
+      "The U.S. Department of Justice said Wednesday night that the plan by the committee's chairman, Congressman [ Jarrold Nadler, ] to have the committee question Barr was inappropriate, and the department said Barr was still happy to meet directly with the committee on questions about Mueller.",
+      "The U.S. Department of Justice said Wednesday night that the plan by the committee's chairman, Congressman Jarrold Nadler, to have the committee question [ Barr ] was inappropriate, and the department said Barr was still happy to meet directly with the committee on questions about Mueller.",
+      "The U.S. Department of Justice said Wednesday night that the plan by the committee's chairman, Congressman Jarrold Nadler, to have the committee question Barr was inappropriate, and the department said [ Barr ] was still happy to meet directly with the committee on questions about Mueller.",
+      "The U.S. Department of Justice said Wednesday night that the plan by the committee's chairman, Congressman Jarrold Nadler, to have the committee question Barr was inappropriate, and the department said Barr was still happy to meet directly with the committee on questions about [ Mueller. ]"
+    ],
+    "src_entities": [
+      "U.S. Department of Justice",
+      "Jarrold Nadler,",
+      "Barr",
+      "Barr",
+      "Mueller."
+    ],
+    "template": "Ma’aikatar shari’ar Amurka , ta fada a daren jiya Laraba cewa , shirin da shugaban kwamitin , dan majalisa Jarrold Nadler ya yi na sa ‘yan kwamitin su yi wa Barr tambayoyi bai dace ba , ma’aikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da ‘yan kwamitin akan tambayoyin da za su yi masa game da Mueller .",
+    "tgt_lang": [
+      [
+        "[ Maaikatar shariar Amurka ], ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar [ shariar Amurka ], ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, [ ta ] fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na [ sa yan kwamitin su ] yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa [ yan kwamitin ] su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller."
+      ],
+      [
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa [ Jarrold Nadler ] ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler [ ] ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, [ dan majalisa Jarrold Nadler ] ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da [ za su yi masa ] game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da [ za su yi masa game da Mueller ]."
+      ],
+      [
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa [ Barr ] tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr [ ] tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi [ ] bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da [ yan kwamitin ] akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana [ kai - tsaye ] da yan kwamitin akan tambayoyin da za su yi masa game da Mueller."
+      ],
+      [
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu [ Barr ] na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu [ Barr na ] farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce [ har yanzu Barr ] na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr [ ] na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu [ ] Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller."
+      ],
+      [
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da [ Mueller ].",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da [ Mueller. ]",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller [ ].",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller. [ ]",
+        "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ma<unk>aikatar shari<unk>ar Amurka",
+        "shari<unk>ar Amurka",
+        "ta",
+        "sa <unk>yan kwamitin su",
+        "<unk>yan kwamitin"
+      ],
+      [
+        "Jarrold Nadler",
+        "",
+        "dan majalisa Jarrold Nadler",
+        "za su yi masa",
+        "za su yi masa game da Mueller"
+      ],
+      [
+        "Barr",
+        "",
+        "",
+        "<unk>yan kwamitin",
+        "kai - tsaye"
+      ],
+      [
+        "Barr",
+        "Barr na",
+        "har yanzu Barr",
+        "",
+        ""
+      ],
+      [
+        "Mueller",
+        "Mueller.",
+        "",
+        "",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -143.11740112304688,
+        -145.26084899902344,
+        -151.23202514648438,
+        -155.117919921875,
+        -156.09646606445312
+      ],
+      [
+        -136.22259521484375,
+        -141.6424560546875,
+        -143.6095428466797,
+        -153.38111877441406,
+        -153.96241760253906
+      ],
+      [
+        -143.61322021484375,
+        -149.48629760742188,
+        -149.92572021484375,
+        -154.40740966796875,
+        -156.29893493652344
+      ],
+      [
+        -136.49423217773438,
+        -147.92428588867188,
+        -148.03616333007812,
+        -148.4544677734375,
+        -148.8585662841797
+      ],
+      [
+        -138.99127197265625,
+        -140.88455200195312,
+        -147.41162109375,
+        -147.66844177246094,
+        -148.308349609375
+      ]
+    ],
+    "flag": 1
+  }
+]

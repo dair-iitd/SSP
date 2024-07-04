@@ -1,0 +1,1036 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [],
+    "template": "Serivisi zimwe na zimwe za hoteli zikomeje gufungurwa , ariko byose byitondewe cyane kubera icyorezo cya Coronavirus cyahagaritse imirimo myinshi mu gihugu , urwego rw’amahoteli rugahungabana kurusha izindi .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "It takes at least 30 minutes to reach this gate from the headquarters of the [ Volcanoes Park, ] only Irakoze explains that he or the managers do not know where they are because they are constantly moving.",
+      "It takes at least 30 minutes to reach this gate from the headquarters of the Volcanoes Park, only [ Irakoze ] explains that he or the managers do not know where they are because they are constantly moving."
+    ],
+    "src_entities": [
+      "Volcanoes Park,",
+      "Irakoze"
+    ],
+    "template": "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki y’Ibirunga , gusa Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka .",
+    "tgt_lang": [
+      [
+        "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki y [Ibirunga, ] gusa Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka.",
+        "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya [ Pariki yIbirunga, ] gusa Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka.",
+        "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya [ Pariki yIbirunga ], gusa Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka.",
+        "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki y [Ibirunga, gusa Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka ].",
+        "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki y [Ibirunga, gusa Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka. ]"
+      ],
+      [
+        "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki yIbirunga, gusa [ Irakoze ] asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka.",
+        "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki yIbirunga, gusa Irakoze [ ] asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka.",
+        "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki yIbirunga [, gusa Irakoze ] asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka.",
+        "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki yIbirunga, gusa [ ] Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka.",
+        "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki yIbirunga [, gusa ] Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ibirunga,",
+        "Pariki y<unk>Ibirunga,",
+        "Pariki y<unk>Ibirunga",
+        "Ibirunga, gusa Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka",
+        "Ibirunga, gusa Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka."
+      ],
+      [
+        "Irakoze",
+        "",
+        ", gusa Irakoze",
+        "",
+        ", gusa"
+      ]
+    ],
+    "score": [
+      [
+        -89.3816146850586,
+        -90.204833984375,
+        -93.53111267089844,
+        -101.47591400146484,
+        -101.90363311767578
+      ],
+      [
+        -86.82038116455078,
+        -95.77930450439453,
+        -97.48198699951172,
+        -97.85385131835938,
+        -102.08685302734375
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "[ Playa Ruinas ] is a beach in Mexico known for its beautiful white sand and spectacular waters.",
+      "Playa Ruinas is a beach in [ Mexico ] known for its beautiful white sand and spectacular waters."
+    ],
+    "src_entities": [
+      "Playa Ruinas",
+      "Mexico"
+    ],
+    "template": "Playa Ruinas ni beach iherereye mu gihugu cya Mexique ikaba izwiho kugira umucanga mwiza w’umweru n’amazi ateye amabengeza .",
+    "tgt_lang": [
+      [
+        "[ Playa Ruinas ] ni beach iherereye mu gihugu cya Mexique ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza.",
+        "[ Playa Ruinas ni ] beach iherereye mu gihugu cya Mexique ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza.",
+        "[ ] Playa Ruinas ni beach iherereye mu gihugu cya Mexique ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza.",
+        "[ Playa Ruinas ni beach ] iherereye mu gihugu cya Mexique ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza.",
+        "[ Playa Ruinas ni beach iherereye mu gihugu cya Mexique ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza ]."
+      ],
+      [
+        "Playa Ruinas ni beach iherereye mu gihugu cya [ Mexique ] ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza.",
+        "Playa Ruinas ni beach iherereye mu gihugu [ cya Mexique ] ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza.",
+        "Playa Ruinas ni beach iherereye [ mu gihugu cya Mexique ] ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza.",
+        "Playa Ruinas ni beach iherereye mu [ gihugu cya Mexique ] ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza.",
+        "Playa Ruinas ni beach iherereye mu gihugu cya Mexique ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Playa Ruinas",
+        "Playa Ruinas ni",
+        "",
+        "Playa Ruinas ni beach",
+        "Playa Ruinas ni beach iherereye mu gihugu cya Mexique ikaba izwiho kugira umucanga mwiza w<unk>umweru n<unk>amazi ateye amabengeza"
+      ],
+      [
+        "Mexique",
+        "cya Mexique",
+        "mu gihugu cya Mexique",
+        "gihugu cya Mexique",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -64.1521987915039,
+        -71.54905700683594,
+        -71.80911254882812,
+        -78.23065185546875,
+        -78.39285278320312
+      ],
+      [
+        -62.585540771484375,
+        -64.2405014038086,
+        -66.3278579711914,
+        -67.3412857055664,
+        -77.36051177978516
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "It is a regular collaborator with [ Arsenal ] in promoting tourism in Rwanda.",
+      "It is a regular collaborator with Arsenal in promoting tourism in [ Rwanda. ]"
+    ],
+    "src_entities": [
+      "Arsenal",
+      "Rwanda."
+    ],
+    "template": "Isanzwe ikorana na Arsenal mu kumenyekanisha ubukerarugendo bw’u Rwanda .",
+    "tgt_lang": [
+      [
+        "Isanzwe ikorana na [ Arsenal ] mu kumenyekanisha ubukerarugendo bwu Rwanda.",
+        "Isanzwe ikorana na [ ] Arsenal mu kumenyekanisha ubukerarugendo bwu Rwanda.",
+        "Isanzwe ikorana na [ Arsenal mu kumenyekanisha ubukerarugendo bwu Rwanda ].",
+        "Isanzwe ikorana na [ Arsenal mu kumenyekanisha ubukerarugendo bwu Rwanda. ]",
+        "Isanzwe ikorana na [ Arsenal mu kumenyekanisha ubukerarugendo bw ]u Rwanda."
+      ],
+      [
+        "Isanzwe ikorana na Arsenal mu kumenyekanisha ubukerarugendo bw [u Rwanda ].",
+        "Isanzwe ikorana na Arsenal mu kumenyekanisha ubukerarugendo [ bwu Rwanda ].",
+        "Isanzwe ikorana na Arsenal mu kumenyekanisha ubukerarugendo bw [u Rwanda. ]",
+        "Isanzwe ikorana na Arsenal mu kumenyekanisha ubukerarugendo [ bwu Rwanda. ]",
+        "Isanzwe ikorana na Arsenal mu kumenyekanisha ubukerarugendo bwu Rwanda [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Arsenal",
+        "",
+        "Arsenal mu kumenyekanisha ubukerarugendo bw<unk>u Rwanda",
+        "Arsenal mu kumenyekanisha ubukerarugendo bw<unk>u Rwanda.",
+        "Arsenal mu kumenyekanisha ubukerarugendo bw<unk>"
+      ],
+      [
+        "u Rwanda",
+        "bw<unk>u Rwanda",
+        "u Rwanda.",
+        "bw<unk>u Rwanda.",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -44.120765686035156,
+        -51.468544006347656,
+        -58.38865661621094,
+        -64.05117797851562,
+        -65.93197631835938
+      ],
+      [
+        -44.05876922607422,
+        -44.0908317565918,
+        -44.62519073486328,
+        -45.85551452636719,
+        -46.359745025634766
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "President [ Paul Kagame ] accompanied by Madame Jeannette Kagame, officially opened the Singita Kwitonda Lodge and Kataza House, a high-end tourist accommodation complex, located entirely in the Region of Musanze, at the foot of the volcanoes.",
+      "President Paul Kagame accompanied by Madame [ Jeannette Kagame, ] officially opened the Singita Kwitonda Lodge and Kataza House, a high-end tourist accommodation complex, located entirely in the Region of Musanze, at the foot of the volcanoes.",
+      "President Paul Kagame accompanied by Madame Jeannette Kagame, officially opened the [ Singita Kwitonda Lodge ] and Kataza House, a high-end tourist accommodation complex, located entirely in the Region of Musanze, at the foot of the volcanoes.",
+      "President Paul Kagame accompanied by Madame Jeannette Kagame, officially opened the Singita Kwitonda Lodge and [ Kataza House, ] a high-end tourist accommodation complex, located entirely in the Region of Musanze, at the foot of the volcanoes.",
+      "President Paul Kagame accompanied by Madame Jeannette Kagame, officially opened the Singita Kwitonda Lodge and Kataza House, a high-end tourist accommodation complex, located entirely in the [ Region of Musanze, ] at the foot of the volcanoes."
+    ],
+    "src_entities": [
+      "Paul Kagame",
+      "Jeannette Kagame,",
+      "Singita Kwitonda Lodge",
+      "Kataza House,",
+      "Region of Musanze,"
+    ],
+    "template": "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame , yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House , inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo , yuzuye mu Karere ka Musanze , munsi y’ibirunga .",
+    "tgt_lang": [
+      [
+        "Perezida [ Paul Kagame ] aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+        "Perezida Paul Kagame [ aherekejwe na Madamu Jeannette Kagame ], yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+        "Perezida Paul Kagame [ aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye ] mu Karere ka Musanze, munsi yibirunga.",
+        "Perezida Paul Kagame [ aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga. ]",
+        "Perezida Paul Kagame [ aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga ]."
+      ],
+      [
+        "Perezida Paul Kagame aherekejwe na Madamu [ Jeannette Kagame, ] yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame [, ] yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, [ ] yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+        "Perezida Paul Kagame aherekejwe na Madamu [ Jeannette Kagame ], yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+        "Perezida Paul Kagame aherekejwe na [ Madamu Jeannette Kagame, ] yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga."
+      ],
+      [
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro [ Singita Kwitonda Lodge ] and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro [ Singita Kwitonda Lodge and Kataza House ], inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro [ Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga ].",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro [ Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga. ]",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro [ Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye ] mu Karere ka Musanze, munsi yibirunga."
+      ],
+      [
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and [ Kataza House, ] inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and [ Kataza House ], inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and [ ] Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and [ Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga ].",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and [ Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga. ]"
+      ],
+      [
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu [ Karere ka Musanze, ] munsi yibirunga.",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye [ mu Karere ka Musanze, ] munsi yibirunga.",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu [ Karere ka Musanze ], munsi yibirunga.",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye [ mu Karere ka Musanze ], munsi yibirunga.",
+        "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, [ ] munsi yibirunga."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Paul Kagame",
+        "aherekejwe na Madamu Jeannette Kagame",
+        "aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye",
+        "aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi y<unk>ibirunga.",
+        "aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi y<unk>ibirunga"
+      ],
+      [
+        "Jeannette Kagame,",
+        ",",
+        "",
+        "Jeannette Kagame",
+        "Madamu Jeannette Kagame,"
+      ],
+      [
+        "Singita Kwitonda Lodge",
+        "Singita Kwitonda Lodge and Kataza House",
+        "Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi y<unk>ibirunga",
+        "Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi y<unk>ibirunga.",
+        "Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye"
+      ],
+      [
+        "Kataza House,",
+        "Kataza House",
+        "",
+        "Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi y<unk>ibirunga",
+        "Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi y<unk>ibirunga."
+      ],
+      [
+        "Karere ka Musanze,",
+        "mu Karere ka Musanze,",
+        "Karere ka Musanze",
+        "mu Karere ka Musanze",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -67.8744125366211,
+        -85.78626251220703,
+        -92.60699462890625,
+        -92.65105438232422,
+        -93.31153869628906
+      ],
+      [
+        -70.65907287597656,
+        -76.42346954345703,
+        -76.72393035888672,
+        -77.58295440673828,
+        -79.77854919433594
+      ],
+      [
+        -71.30490112304688,
+        -79.3392333984375,
+        -86.84394836425781,
+        -87.7129898071289,
+        -87.91730499267578
+      ],
+      [
+        -70.8963623046875,
+        -78.13402557373047,
+        -79.36526489257812,
+        -87.6044692993164,
+        -88.15049743652344
+      ],
+      [
+        -72.86815643310547,
+        -73.17292022705078,
+        -78.75839233398438,
+        -79.29374694824219,
+        -83.66111755371094
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "This is a beach known for its unique black sand, located in [ Iceland. ]"
+    ],
+    "src_entities": [
+      "Iceland."
+    ],
+    "template": "Iyi ni beach izwi cyane kubera umwihariko wayo wo kugira umucanga w’umukara , ikaba iherereye mu gihugu cya Iceland .",
+    "tgt_lang": [
+      [
+        "Iyi ni beach izwi cyane kubera umwihariko wayo wo kugira umucanga wumukara, ikaba iherereye [ mu gihugu cya Iceland ].",
+        "Iyi ni beach izwi cyane kubera umwihariko wayo wo kugira umucanga wumukara, ikaba iherereye mu gihugu cya [ Iceland ].",
+        "Iyi ni beach izwi cyane kubera umwihariko wayo wo kugira umucanga wumukara, ikaba iherereye [ mu gihugu cya Iceland. ]",
+        "Iyi ni beach izwi cyane kubera umwihariko wayo wo kugira umucanga wumukara, ikaba iherereye mu gihugu cya [ Iceland. ]",
+        "Iyi ni beach izwi cyane kubera umwihariko wayo wo kugira umucanga wumukara, ikaba iherereye mu gihugu [ cya Iceland ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "mu gihugu cya Iceland",
+        "Iceland",
+        "mu gihugu cya Iceland.",
+        "Iceland.",
+        "cya Iceland"
+      ]
+    ],
+    "score": [
+      [
+        -60.83222961425781,
+        -60.9842643737793,
+        -63.07467269897461,
+        -63.94935607910156,
+        -65.80562591552734
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [],
+    "template": "Yakomeje ati “ Dutegereje gufungura ibikorwa kandi biragaragara ko abakiliya bacu bagomba kuba abo mu gihugu , hakazaza abo mu karere , abo hirya yaho bakazaza nyuma .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 7,
+    "src_lang": [],
+    "template": "40 cyangwa amadolari ya Amerika $ 11 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 8,
+    "src_lang": [
+      "[ Manzi Nelson ] and his wife Irakiza Eunice are already singers, they started singing together as a husband and wife (Manzi & Eunice) and have now sung three songs together.",
+      "Manzi Nelson and his wife [ Irakiza Eunice ] are already singers, they started singing together as a husband and wife (Manzi & Eunice) and have now sung three songs together.",
+      "Manzi Nelson and his wife Irakiza Eunice are already singers, they started singing together as a husband and wife (Manzi & [ Eunice) ] and have now sung three songs together."
+    ],
+    "src_entities": [
+      "Manzi Nelson",
+      "Irakiza Eunice",
+      "Eunice)"
+    ],
+    "template": "Manzi Nelson n’umugore we Irakiza Eunice basanzwe ari abaririmbyi , batangiye kuririmbana nk’umugabo n’umugore ( Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu .",
+    "tgt_lang": [
+      [
+        "[ Manzi Nelson ] numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+        "[ Manzi ] Nelson numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+        "Manzi Nelson [ ] numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+        "[ Manzi Nelson numugore we Irakiza Eunice ] basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+        "Manzi Nelson numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( [ Manzi & Eunice ] ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu."
+      ],
+      [
+        "Manzi Nelson numugore we [ Irakiza Eunice ] basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+        "Manzi Nelson numugore we Irakiza Eunice [ ] basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+        "Manzi Nelson numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( [ Manzi & Eunice ] ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+        "Manzi Nelson numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( [ Manzi & Eunice ) ] ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+        "Manzi Nelson numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( [ Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu ]."
+      ],
+      [
+        "Manzi Nelson numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( Manzi & [ Eunice ] ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+        "Manzi Nelson numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( Manzi & [ Eunice ) ] ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+        "Manzi Nelson numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( [ Manzi & Eunice ] ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+        "Manzi Nelson numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( Manzi & [ Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu. ]",
+        "Manzi Nelson numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( Manzi & [ Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Manzi Nelson",
+        "Manzi",
+        "",
+        "Manzi Nelson n<unk>umugore we Irakiza Eunice",
+        "Manzi & Eunice"
+      ],
+      [
+        "Irakiza Eunice",
+        "",
+        "Manzi & Eunice",
+        "Manzi & Eunice )",
+        "Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu"
+      ],
+      [
+        "Eunice",
+        "Eunice )",
+        "Manzi & Eunice",
+        "Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+        "Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu"
+      ]
+    ],
+    "score": [
+      [
+        -65.76509857177734,
+        -78.55352783203125,
+        -79.96573638916016,
+        -80.67399597167969,
+        -86.12049102783203
+      ],
+      [
+        -64.15251159667969,
+        -75.29606628417969,
+        -80.37853240966797,
+        -84.6440658569336,
+        -86.82111358642578
+      ],
+      [
+        -67.53668212890625,
+        -69.46692657470703,
+        -70.31861114501953,
+        -76.01994323730469,
+        -76.9442138671875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 9,
+    "src_lang": [],
+    "template": "Impamvu zatumye umucanga wo kuri iyi beach uba umukara n’iruka ry’ikirunga , gusa ibi ntibiyibuza kuza mu icumi za mbere nziza mu 2019 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 10,
+    "src_lang": [],
+    "template": "Yize amashuri abanza gusa , ubu afite abana babiri .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 11,
+    "src_lang": [],
+    "template": "Kugeza ubu abakozi bahagaritswe ntibarasubira mu kazi , harimo kwifashishwa bake cyane bo kugira ngo nihagira ugana hotel atabura umwakira .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 12,
+    "src_lang": [],
+    "template": "Aba bazwi cyane mu ndirimbo nka ‘Muremyi w’Isi’ .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "Its part is as warm as the [ Royal Palace ] overlooking the Sea, with a capacity of 2600 people.",
+      "Its part is as warm as the Royal Palace overlooking the [ Sea, ] with a capacity of 2600 people."
+    ],
+    "src_entities": [
+      "Royal Palace",
+      "Sea,"
+    ],
+    "template": "Igice cyayo gishushe nk’Inzu y’Umwami igaragara i Nyanza , cyakira abantu 2600 .",
+    "tgt_lang": [
+      [
+        "Igice cyayo gishushe nk [Inzu yUmwami ] igaragara i Nyanza, cyakira abantu 2600.",
+        "Igice cyayo gishushe nk [Inzu yUmwami igaragara i Nyanza ], cyakira abantu 2600.",
+        "Igice cyayo gishushe nk [Inzu yUmwami igaragara i ] Nyanza, cyakira abantu 2600.",
+        "Igice cyayo gishushe nk [Inzu yUmwami igaragara i Nyanza, ] cyakira abantu 2600.",
+        "Igice cyayo gishushe nk [Inzu ] yUmwami igaragara i Nyanza, cyakira abantu 2600."
+      ],
+      [
+        "Igice cyayo gishushe nkInzu yUmwami igaragara [ i Nyanza, ] cyakira abantu 2600.",
+        "Igice cyayo gishushe nkInzu yUmwami igaragara i [ Nyanza, ] cyakira abantu 2600.",
+        "Igice cyayo gishushe nkInzu yUmwami igaragara [ i Nyanza ], cyakira abantu 2600.",
+        "Igice cyayo gishushe nkInzu yUmwami igaragara i Nyanza [, ] cyakira abantu 2600.",
+        "Igice cyayo gishushe nkInzu yUmwami igaragara i [ Nyanza ], cyakira abantu 2600."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Inzu y<unk>Umwami",
+        "Inzu y<unk>Umwami igaragara i Nyanza",
+        "Inzu y<unk>Umwami igaragara i",
+        "Inzu y<unk>Umwami igaragara i Nyanza,",
+        "Inzu"
+      ],
+      [
+        "i Nyanza,",
+        "Nyanza,",
+        "i Nyanza",
+        ",",
+        "Nyanza"
+      ]
+    ],
+    "score": [
+      [
+        -71.27767181396484,
+        -75.80220031738281,
+        -77.4117431640625,
+        -78.78475952148438,
+        -79.20597839355469
+      ],
+      [
+        -72.02345275878906,
+        -72.5408706665039,
+        -74.79913330078125,
+        -75.52607727050781,
+        -76.14421844482422
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "The fifth-best beach in 2019 is located in the [ El Nino ] zone on the island of Palawan in the Philippines.",
+      "The fifth-best beach in 2019 is located in the El Nino zone on the island of [ Palawan ] in the Philippines.",
+      "The fifth-best beach in 2019 is located in the El Nino zone on the island of Palawan in the [ Philippines. ]"
+    ],
+    "src_entities": [
+      "El Nino",
+      "Palawan",
+      "Philippines."
+    ],
+    "template": "Iyi beach ya gatanu ku rutonde rw’inziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya Palawan mu gihugu cya Philippines .",
+    "tgt_lang": [
+      [
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka [ El Nino ] ku kirwa cya Palawan mu gihugu cya Philippines.",
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace [ ka El Nino ] ku kirwa cya Palawan mu gihugu cya Philippines.",
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu [ gace ka El Nino ] ku kirwa cya Palawan mu gihugu cya Philippines.",
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka [ ] El Nino ku kirwa cya Palawan mu gihugu cya Philippines.",
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace [ ka ] El Nino ku kirwa cya Palawan mu gihugu cya Philippines."
+      ],
+      [
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya [ Palawan ] mu gihugu cya Philippines.",
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa [ cya Palawan ] mu gihugu cya Philippines.",
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya [ ] Palawan mu gihugu cya Philippines.",
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya Palawan [ mu gihugu cya Philippines ].",
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya [ Palawan mu gihugu cya Philippines ]."
+      ],
+      [
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya Palawan mu gihugu cya [ Philippines ].",
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya Palawan [ mu gihugu cya Philippines ].",
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya Palawan mu gihugu cya [ Philippines. ]",
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya Palawan mu [ gihugu cya Philippines ].",
+        "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya Palawan mu gihugu cya Philippines [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "El Nino",
+        "ka El Nino",
+        "gace ka El Nino",
+        "",
+        "ka"
+      ],
+      [
+        "Palawan",
+        "cya Palawan",
+        "",
+        "mu gihugu cya Philippines",
+        "Palawan mu gihugu cya Philippines"
+      ],
+      [
+        "Philippines",
+        "mu gihugu cya Philippines",
+        "Philippines.",
+        "gihugu cya Philippines",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -61.97382736206055,
+        -63.24092102050781,
+        -69.17965698242188,
+        -69.84593963623047,
+        -70.11104583740234
+      ],
+      [
+        -59.63950729370117,
+        -64.02912139892578,
+        -69.1811752319336,
+        -70.22980499267578,
+        -70.35477447509766
+      ],
+      [
+        -59.873252868652344,
+        -63.560455322265625,
+        -64.25495910644531,
+        -65.63140869140625,
+        -65.71099853515625
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "The unrestricted tourist side is [ Rwanda, ] except that tourism activities have been suspended due to the Coronavirus pandemic."
+    ],
+    "src_entities": [
+      "Rwanda,"
+    ],
+    "template": "Uruhande rusurwa nta nkomyi ni ku Rwanda , uretse ko ibikorwa by’ubukerarugendo byahagaze kubera icyorezo cya Coronavirus .",
+    "tgt_lang": [
+      [
+        "Uruhande rusurwa nta nkomyi ni ku [ Rwanda, ] uretse ko ibikorwa byubukerarugendo byahagaze kubera icyorezo cya Coronavirus.",
+        "Uruhande rusurwa nta nkomyi ni [ ku Rwanda, ] uretse ko ibikorwa byubukerarugendo byahagaze kubera icyorezo cya Coronavirus.",
+        "Uruhande rusurwa nta nkomyi ni ku Rwanda [, ] uretse ko ibikorwa byubukerarugendo byahagaze kubera icyorezo cya Coronavirus.",
+        "Uruhande rusurwa nta nkomyi ni ku [ Rwanda ], uretse ko ibikorwa byubukerarugendo byahagaze kubera icyorezo cya Coronavirus.",
+        "Uruhande rusurwa nta nkomyi ni ku Rwanda, uretse ko ibikorwa byubukerarugendo byahagaze kubera icyorezo cya Coronavirus [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Rwanda,",
+        "ku Rwanda,",
+        ",",
+        "Rwanda",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -46.07853317260742,
+        -46.71610641479492,
+        -51.466529846191406,
+        -53.79581832885742,
+        -61.125762939453125
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "The first missionaries who arrived from [ Bujumbura ] in Burundi, led by Bishop Joseph Hirth, told him that in order to go directly to the king he must first speak to Kandt, who was familiar with it, and tell him how to react.",
+      "The first missionaries who arrived from Bujumbura in [ Burundi, ] led by Bishop Joseph Hirth, told him that in order to go directly to the king he must first speak to Kandt, who was familiar with it, and tell him how to react.",
+      "The first missionaries who arrived from Bujumbura in Burundi, led by Bishop [ Joseph Hirth, ] told him that in order to go directly to the king he must first speak to Kandt, who was familiar with it, and tell him how to react.",
+      "The first missionaries who arrived from Bujumbura in Burundi, led by Bishop Joseph Hirth, told him that in order to go directly to the king he must first speak to [ Kandt, ] who was familiar with it, and tell him how to react."
+    ],
+    "src_entities": [
+      "Bujumbura",
+      "Burundi,",
+      "Joseph Hirth,",
+      "Kandt,"
+    ],
+    "template": "Ati “ Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi , bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye , akamubwira uko yabyitwaramo .",
+    "tgt_lang": [
+      [
+        "Ati  Abamisiyoneri ba mbere baza baturutse [ i Bujumbura ] mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse i [ Bujumbura ] mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza [ baturutse i Bujumbura ] mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse [ i Bujumbura mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo ].",
+        "Ati  Abamisiyoneri ba mbere baza baturutse [ i Bujumbura mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo. ]"
+      ],
+      [
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu [ Burundi, ] bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura [ mu Burundi, ] bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu [ Burundi ], bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi [, ] bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura [ mu Burundi ], bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo."
+      ],
+      [
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi, bayobowe na Musenyeri [ Joseph Hirth ] bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi, bayobowe na Musenyeri Joseph Hirth [ ] bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi, bayobowe na [ Musenyeri Joseph Hirth ] bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi, bayobowe na Musenyeri [ Joseph Hirth bamubwiye ] ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi, bayobowe na Musenyeri [ Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo ]."
+      ],
+      [
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na [ Kandt ] wari uhamenyereye, akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na [ Kandt wari uhamenyereye ], akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na [ Kandt wari uhamenyereye, ] akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana [ na Kandt ] wari uhamenyereye, akamubwira uko yabyitwaramo.",
+        "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt [ ] wari uhamenyereye, akamubwira uko yabyitwaramo."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "i Bujumbura",
+        "Bujumbura",
+        "baturutse i Bujumbura",
+        "i Bujumbura mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo",
+        "i Bujumbura mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo."
+      ],
+      [
+        "Burundi,",
+        "mu Burundi,",
+        "Burundi",
+        ",",
+        "mu Burundi"
+      ],
+      [
+        "Joseph Hirth",
+        "",
+        "Musenyeri Joseph Hirth",
+        "Joseph Hirth bamubwiye",
+        "Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo"
+      ],
+      [
+        "Kandt",
+        "Kandt wari uhamenyereye",
+        "Kandt wari uhamenyereye,",
+        "na Kandt",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -80.86009979248047,
+        -81.89964294433594,
+        -85.89090728759766,
+        -99.53387451171875,
+        -100.29257202148438
+      ],
+      [
+        -78.7393798828125,
+        -81.84085845947266,
+        -82.7428207397461,
+        -83.57259368896484,
+        -84.79098510742188
+      ],
+      [
+        -75.75483703613281,
+        -85.14579010009766,
+        -85.4471206665039,
+        -90.67327880859375,
+        -96.735595703125
+      ],
+      [
+        -76.05078125,
+        -79.64156341552734,
+        -81.18795776367188,
+        -83.3254165649414,
+        -84.27519989013672
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [],
+    "template": "Magingo aya , iyi pariki iri ku buso bwa hegitari 16 , 027 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 18,
+    "src_lang": [],
+    "template": "Abakozi bacu bazakomeza gutozwa kubahiriza amabwiriza mu nama zidasanzwe , dukomeze kubigira iby’ibanze .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 19,
+    "src_lang": [],
+    "template": "Ukihagera ubona hameze nko mu ishyamba ritarimo ibiti byinshi ariko ibirimo bikuze cyane , bikikijwe n’urugo rufite amarembo yubakishije imbaho ariko rufite akaryango gato gahora gafunze , bigaragara ko hinjirwa na nyiraho cyangwa undi wabanje kubisabira uburenganzira .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "On Sunday, August 12, 2018, the partnership between [ Rwanda ] and Arsenal FC began in a match against Manchester City.",
+      "On Sunday, August 12, 2018, the partnership between Rwanda and [ Arsenal FC ] began in a match against Manchester City.",
+      "On Sunday, August 12, 2018, the partnership between Rwanda and Arsenal FC began in a match against [ Manchester City. ]"
+    ],
+    "src_entities": [
+      "Rwanda",
+      "Arsenal FC",
+      "Manchester City."
+    ],
+    "template": "Ku cyumweru tariki 12 Kanama 2018 , nibwo ubufatanye bw’u Rwanda n’ikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na Manchester City .",
+    "tgt_lang": [
+      [
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye [ bwu Rwanda ] nikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na Manchester City.",
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye bw [u Rwanda ] nikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na Manchester City.",
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye [ bwu Rwanda nikipe ya Arsenal FC ] bwatangiye ku mukino iyi kipe yakinagamo na Manchester City.",
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye [ bwu Rwanda nikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na Manchester City. ]",
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye [ bwu Rwanda nikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na Manchester City ]."
+      ],
+      [
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye bwu Rwanda nikipe ya [ Arsenal FC ] bwatangiye ku mukino iyi kipe yakinagamo na Manchester City.",
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye bwu Rwanda n [ikipe ya Arsenal FC ] bwatangiye ku mukino iyi kipe yakinagamo na Manchester City.",
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye bwu Rwanda [ nikipe ya Arsenal FC ] bwatangiye ku mukino iyi kipe yakinagamo na Manchester City.",
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye bwu Rwanda n [ikipe ya ] Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na Manchester City.",
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye bwu Rwanda [ ] nikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na Manchester City."
+      ],
+      [
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye bwu Rwanda nikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na [ Manchester City ].",
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye bwu Rwanda nikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na [ Manchester City. ]",
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye bwu Rwanda nikipe ya Arsenal FC bwatangiye ku mukino [ iyi kipe yakinagamo na Manchester City ].",
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye bwu Rwanda nikipe ya Arsenal FC bwatangiye ku mukino [ iyi kipe yakinagamo na Manchester City. ]",
+        "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye bwu Rwanda nikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na [ ] Manchester City."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "bw<unk>u Rwanda",
+        "u Rwanda",
+        "bw<unk>u Rwanda n<unk>ikipe ya Arsenal FC",
+        "bw<unk>u Rwanda n<unk>ikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na Manchester City.",
+        "bw<unk>u Rwanda n<unk>ikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na Manchester City"
+      ],
+      [
+        "Arsenal FC",
+        "ikipe ya Arsenal FC",
+        "n<unk>ikipe ya Arsenal FC",
+        "ikipe ya",
+        ""
+      ],
+      [
+        "Manchester City",
+        "Manchester City.",
+        "iyi kipe yakinagamo na Manchester City",
+        "iyi kipe yakinagamo na Manchester City.",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -73.55559539794922,
+        -73.80412292480469,
+        -79.00205993652344,
+        -88.0391845703125,
+        -88.23454284667969
+      ],
+      [
+        -76.11163330078125,
+        -79.2964096069336,
+        -82.13922882080078,
+        -84.51318359375,
+        -85.2877426147461
+      ],
+      [
+        -70.41143035888672,
+        -72.69097900390625,
+        -76.37702941894531,
+        -77.97555541992188,
+        -79.33982849121094
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "She is survived by two children, [ Damian Hurley ] and Kira Bonder.",
+      "She is survived by two children, Damian Hurley and [ Kira Bonder. ]"
+    ],
+    "src_entities": [
+      "Damian Hurley",
+      "Kira Bonder."
+    ],
+    "template": "Asize abana babiri Damian Hurley na Kira Bonder .",
+    "tgt_lang": [
+      [
+        "Asize abana babiri [ Damian Hurley ] na Kira Bonder.",
+        "Asize abana babiri [ ] Damian Hurley na Kira Bonder.",
+        "Asize abana babiri [ Damian Hurley na Kira Bonder ].",
+        "Asize abana babiri [ Damian Hurley na ] Kira Bonder.",
+        "Asize abana babiri [ Damian ] Hurley na Kira Bonder."
+      ],
+      [
+        "Asize abana babiri Damian Hurley na [ Kira Bonder ].",
+        "Asize abana babiri Damian Hurley na [ Kira Bonder. ]",
+        "Asize abana babiri [ Damian Hurley na Kira Bonder ].",
+        "Asize abana babiri Damian Hurley [ na Kira Bonder ].",
+        "Asize abana babiri Damian Hurley [ na Kira Bonder. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Damian Hurley",
+        "",
+        "Damian Hurley na Kira Bonder",
+        "Damian Hurley na",
+        "Damian"
+      ],
+      [
+        "Kira Bonder",
+        "Kira Bonder.",
+        "Damian Hurley na Kira Bonder",
+        "na Kira Bonder",
+        "na Kira Bonder."
+      ]
+    ],
+    "score": [
+      [
+        -14.426682472229004,
+        -22.230926513671875,
+        -22.927030563354492,
+        -26.069507598876953,
+        -27.73592758178711
+      ],
+      [
+        -12.301063537597656,
+        -14.385025978088379,
+        -18.19419288635254,
+        -19.645645141601562,
+        -20.77448081970215
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 22,
+    "src_lang": [],
+    "template": "Bimwe mu bifasha abazishakisha kumenya aho ziherere harimo kuba bazi agace barimo umunsi wabanje .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "All her other children live in the [ Musilikale ] family which now has 21 members."
+    ],
+    "src_entities": [
+      "Musilikale"
+    ],
+    "template": "Abandi bana bayo bose baba mu muryango wa Musilikale ubu ugize ingagi 21 .",
+    "tgt_lang": [
+      [
+        "Abandi bana bayo bose baba mu muryango [ wa Musilikale ] ubu ugize ingagi 21.",
+        "Abandi bana bayo bose baba mu muryango wa [ Musilikale ] ubu ugize ingagi 21.",
+        "Abandi bana bayo bose baba mu muryango [ wa ] Musilikale ubu ugize ingagi 21.",
+        "Abandi bana bayo bose baba mu muryango wa [ ] Musilikale ubu ugize ingagi 21.",
+        "Abandi bana bayo bose baba mu muryango [ ] wa Musilikale ubu ugize ingagi 21."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "wa Musilikale",
+        "Musilikale",
+        "wa",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -39.02825927734375,
+        -39.28245544433594,
+        -48.01509094238281,
+        -48.719181060791016,
+        -49.07216262817383
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "The [ International Civil Aviation Organization ] (ICAO) recently issued guidelines for boarding aircraft, which must be followed by all governments."
+    ],
+    "src_entities": [
+      "International Civil Aviation Organization"
+    ],
+    "template": "Umuryango mpuzamahanga ushinzwe ingendo za gisivile , ( ICAO ) uherutse gutangaza amabwiriza akwiye kwifashishwa n’abantu bagiye gufata indege , aho agomba kubahirizwa na Guverinoma zose .",
+    "tgt_lang": [
+      [
+        "[ Umuryango mpuzamahanga ushinzwe ingendo za gisivile ], ( ICAO ) uherutse gutangaza amabwiriza akwiye kwifashishwa nabantu bagiye gufata indege, aho agomba kubahirizwa na Guverinoma zose.",
+        "[ Umuryango mpuzamahanga ushinzwe ingendo za gisivile, ] ( ICAO ) uherutse gutangaza amabwiriza akwiye kwifashishwa nabantu bagiye gufata indege, aho agomba kubahirizwa na Guverinoma zose.",
+        "[ Umuryango mpuzamahanga ushinzwe ingendo za gisivile, ( ICAO ) ] uherutse gutangaza amabwiriza akwiye kwifashishwa nabantu bagiye gufata indege, aho agomba kubahirizwa na Guverinoma zose.",
+        "[ Umuryango mpuzamahanga ushinzwe ingendo za gisivile, ( ICAO ) uherutse gutangaza amabwiriza akwiye kwifashishwa nabantu bagiye gufata indege, aho agomba kubahirizwa na Guverinoma zose. ]",
+        "[ Umuryango mpuzamahanga ushinzwe ingendo za gisivile, ( ICAO ) uherutse gutangaza amabwiriza akwiye kwifashishwa nabantu bagiye gufata indege, aho agomba kubahirizwa na Guverinoma zose ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Umuryango mpuzamahanga ushinzwe ingendo za gisivile",
+        "Umuryango mpuzamahanga ushinzwe ingendo za gisivile,",
+        "Umuryango mpuzamahanga ushinzwe ingendo za gisivile, ( ICAO )",
+        "Umuryango mpuzamahanga ushinzwe ingendo za gisivile, ( ICAO ) uherutse gutangaza amabwiriza akwiye kwifashishwa n<unk>abantu bagiye gufata indege, aho agomba kubahirizwa na Guverinoma zose.",
+        "Umuryango mpuzamahanga ushinzwe ingendo za gisivile, ( ICAO ) uherutse gutangaza amabwiriza akwiye kwifashishwa n<unk>abantu bagiye gufata indege, aho agomba kubahirizwa na Guverinoma zose"
+      ]
+    ],
+    "score": [
+      [
+        -120.55455017089844,
+        -123.86567687988281,
+        -125.84528350830078,
+        -131.67727661132812,
+        -131.73748779296875
+      ]
+    ],
+    "flag": 1
+  }
+]

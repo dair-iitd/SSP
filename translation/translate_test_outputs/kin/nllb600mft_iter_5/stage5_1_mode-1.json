@@ -1,0 +1,1890 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "On 5 August 2019, it was announced that [ Radisson Blu ] Hotel and Convention Centre had won the award from Safehotels Alliance AB.",
+      "On 5 August 2019, it was announced that Radisson Blu Hotel and [ Convention Centre ] had won the award from Safehotels Alliance AB.",
+      "On 5 August 2019, it was announced that Radisson Blu Hotel and Convention Centre had won the award from [ Safehotels Alliance AB. ]"
+    ],
+    "template": "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and Convention Centre yegukanye iki gihembo gitangwa n’Ikigo Mpuzamahanga gihemba hoteli zifite ituze n’umutekano cyitwa Safehotels Alliance AB .",
+    "tgt_lang": [
+      "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko [ Radisson Blu ] Hotel and Convention Centre yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB.",
+      "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and [ Convention Centre ] yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB.",
+      "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and Convention Centre yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa [ Safehotels Alliance AB ]."
+    ],
+    "r_logp_score": [
+      7.080998420715332,
+      4.040838241577148,
+      10.550296783447266
+    ],
+    "score": [
+      -112.62882232666016,
+      -115.22016143798828,
+      -112.07073211669922
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko [ Radisson Blu ] Hotel and Convention Centre yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB .",
+      "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and [ Convention Centre ] yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB .",
+      "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and Convention Centre yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa [ Safehotels Alliance AB ] ."
+    ]
+  },
+  {
+    "template": "Urwego rw’ama - hotel no kwakira abantu , ni zimwe mu zashegeshwe bikomeye n’ingamba zo gufunga ibikorwa mu kwirinda icyorezo cya COVID - 19 , ndetse bisaba ingufu nyinshi mu kuzahura ubukungu bwarwo .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "2 Frw zahererekanyijwe mu cyumweru cya mbere cya Mutarama 2020 .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "[ Rwanda ] aims to earn $800 million from tourism by 2024, up from $438 million in 2017."
+    ],
+    "template": "U Rwanda rufite intego yo kwinjiza miliyoni $ 800 avuye mu bukerarugendo mu 2024 , mu gihe mu wa 2017 bwinjije miliyoni $ 438 .",
+    "tgt_lang": [
+      "U [ Rwanda ] rufite intego yo kwinjiza miliyoni $ 800 avuye mu bukerarugendo mu 2024, mu gihe mu wa 2017 bwinjije miliyoni $ 438."
+    ],
+    "r_logp_score": [
+      4.722521781921387
+    ],
+    "score": [
+      -51.67438507080078
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "U [ Rwanda ] rufite intego yo kwinjiza miliyoni $ 800 avuye mu bukerarugendo mu 2024 , mu gihe mu wa 2017 bwinjije miliyoni $ 438 ."
+    ]
+  },
+  {
+    "template": "Ntizigera mu bushorishori ariko nanone biragoye ko wazisanga hasi ku butaka , zigerageza kujya hagati na hagati .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "[ Ramada ] is the largest hotel management company in the United Arab Emirates, but is owned by Wyndham Hotels and Resorts.",
+      "Ramada is the largest hotel management company in the [ United Arab Emirates, ] but is owned by Wyndham Hotels and Resorts.",
+      "Ramada is the largest hotel management company in the United Arab Emirates, but is owned by [ Wyndham Hotels and Resorts. ]"
+    ],
+    "template": "Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe z’Abarabu mu bijyanye n’imicungire y’amahoteli , ariko igenzurwa n’indi yitwa Wyndham Hotels and Resorts .",
+    "tgt_lang": [
+      "[ Ramada ] ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa nindi yitwa Wyndham Hotels and Resorts.",
+      "Ramada ni yo sosiyete ikomeye muri [ Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ] ariko igenzurwa nindi yitwa Wyndham Hotels and Resorts.",
+      "Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa nindi yitwa [ Wyndham Hotels and Resorts ]."
+    ],
+    "r_logp_score": [
+      3.204404830932617,
+      13.482264518737793,
+      4.196127891540527
+    ],
+    "score": [
+      -75.75721740722656,
+      -81.6213607788086,
+      -77.07440185546875
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Ramada ] ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli , ariko igenzurwa nindi yitwa Wyndham Hotels and Resorts .",
+      "Ramada ni yo sosiyete ikomeye muri [ Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli , ] ariko igenzurwa nindi yitwa Wyndham Hotels and Resorts .",
+      "Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli , ariko igenzurwa nindi yitwa [ Wyndham Hotels and Resorts ] ."
+    ]
+  },
+  {
+    "idx": 6,
+    "src_lang": [
+      "[ Singita Kwitonda Lodge ] was awarded $25 million."
+    ],
+    "template": "Singita Kwitonda Lodge yashoweho miliyoni $ 25 .",
+    "tgt_lang": [
+      "[ Singita Kwitonda Lodge ] yashoweho miliyoni $ 25."
+    ],
+    "r_logp_score": [
+      13.316507339477539
+    ],
+    "score": [
+      -30.384380340576172
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Singita Kwitonda Lodge ] yashoweho miliyoni $ 25 ."
+    ]
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "The Government of [ Rwanda ] allocates 10% of tourism revenues to the residents of the surrounding parks."
+    ],
+    "template": "Guverinoma y’u Rwanda igenera abaturiye hafi ya za pariki 10 % by’inyungu iva mu bukerarugendo .",
+    "tgt_lang": [
+      "Guverinoma yu [ Rwanda ] igenera abaturiye hafi ya za pariki 10 % byinyungu iva mu bukerarugendo."
+    ],
+    "r_logp_score": [
+      4.722521781921387
+    ],
+    "score": [
+      -77.8282241821289
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Guverinoma yu [ Rwanda ] igenera abaturiye hafi ya za pariki 10 % byinyungu iva mu bukerarugendo ."
+    ]
+  },
+  {
+    "template": "3 , akaba asanga ari umusaruro ufatika .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Ikindi ni uko abagenzi bazajya bagera ku Kibuga cy’Indege biteguye guhita bagenda ku buryo byagabanya ubucucike bigafasha ko mu gihe hari uwanduye atahura n’abandi ngo abe yabanduza .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "[ Manzi Nelson ] sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at Kigali SDA Bilingual church.",
+      "Manzi Nelson sings in the [ Ambassadors of Christ ] choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at Kigali SDA Bilingual church.",
+      "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife [ Irakiza Eunice ] is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at Kigali SDA Bilingual church.",
+      "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the [ Epee du Salut ] choir born in Gitwe but currently registered at Kigali SDA Bilingual church.",
+      "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in [ Gitwe ] but currently registered at Kigali SDA Bilingual church.",
+      "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at [ Kigali ] SDA Bilingual church.",
+      "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at Kigali [ SDA Bilingual ] church."
+    ],
+    "template": "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi b’imena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church .",
+    "tgt_lang": [
+      "[ Manzi Nelson ] aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+      "Manzi Nelson aririmba muri [ Ambassadors of Christ ] choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+      "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we [ Irakiza Eunice ] ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+      "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri [ Epee du Salut ] choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+      "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i [ Gitwe ] gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+      "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri [ Kigali ] SDA Bilingual church.",
+      "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali [ SDA Bilingual ] church."
+    ],
+    "r_logp_score": [
+      8.213083267211914,
+      0.739461362361908,
+      29.999813079833984,
+      10.299291610717773,
+      19.98697853088379,
+      4.16588020324707,
+      2.4381468296051025
+    ],
+    "score": [
+      -77.25164031982422,
+      -80.53163146972656,
+      -77.48021697998047,
+      -78.98951721191406,
+      -75.76856994628906,
+      -75.73471069335938,
+      -77.33612060546875
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Manzi Nelson ] aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church .",
+      "Manzi Nelson aririmba muri [ Ambassadors of Christ ] choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church .",
+      "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we [ Irakiza Eunice ] ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church .",
+      "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri [ Epee du Salut ] choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church .",
+      "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i [ Gitwe ] gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church .",
+      "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri [ Kigali ] SDA Bilingual church .",
+      "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali [ SDA Bilingual ] church ."
+    ]
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "[ Naivasha Oakes, ] who is in charge of Rwanda's relationship with Arsenal, said that the figures for the value of profits Rwanda has already derived from the partnership, using various methods calculated by the relevant institutions.",
+      "Naivasha Oakes, who is in charge of [ Rwanda's ] relationship with Arsenal, said that the figures for the value of profits Rwanda has already derived from the partnership, using various methods calculated by the relevant institutions.",
+      "Naivasha Oakes, who is in charge of Rwanda's relationship with [ Arsenal, ] said that the figures for the value of profits Rwanda has already derived from the partnership, using various methods calculated by the relevant institutions.",
+      "Naivasha Oakes, who is in charge of Rwanda's relationship with Arsenal, said that the figures for the value of profits [ Rwanda ] has already derived from the partnership, using various methods calculated by the relevant institutions."
+    ],
+    "template": "Naivasha Oakes ushinzwe ubufatanye bw’u Rwanda n’ikipe ya Arsenal , yavuze ko iyo mibare y’agaciro k’inyungu u Rwanda rumaze kuvana muri ubwo bufatanye , hifashishijwe uburyo butandukanye bwabazwe n’ibigo bizobereye .",
+    "tgt_lang": [
+      "[ Naivasha Oakes ] ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+      "Naivasha Oakes ushinzwe ubufatanye [ bwu Rwanda ] nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+      "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda n [ikipe ya Arsenal, ] yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+      "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu [ u Rwanda ] rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye."
+    ],
+    "r_logp_score": [
+      15.859586715698242,
+      14.976296424865723,
+      3.233797311782837,
+      5.106977462768555
+    ],
+    "score": [
+      -88.7601318359375,
+      -94.6996078491211,
+      -94.08541870117188,
+      -90.05335998535156
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Naivasha Oakes ] ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal , yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye , hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye .",
+      "Naivasha Oakes ushinzwe ubufatanye [ bwu Rwanda ] nikipe ya Arsenal , yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye , hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye .",
+      "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda [ nikipe ya Arsenal , ] yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye , hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye .",
+      "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal , yavuze ko iyo mibare yagaciro kinyungu [ u Rwanda ] rumaze kuvana muri ubwo bufatanye , hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye ."
+    ]
+  },
+  {
+    "idx": 12,
+    "src_lang": [
+      "Dr [ Kandt ] built this herb garden in Shangi, just north of Lake Kivu on 24 March 1899, after discovering the source of the Nile River, in the Nyungwe Forest.",
+      "Dr Kandt built this herb garden in [ Shangi, ] just north of Lake Kivu on 24 March 1899, after discovering the source of the Nile River, in the Nyungwe Forest.",
+      "Dr Kandt built this herb garden in Shangi, just north of [ Lake Kivu ] on 24 March 1899, after discovering the source of the Nile River, in the Nyungwe Forest.",
+      "Dr Kandt built this herb garden in Shangi, just north of Lake Kivu on 24 March 1899, after discovering the source of the [ Nile River, ] in the Nyungwe Forest.",
+      "Dr Kandt built this herb garden in Shangi, just north of Lake Kivu on 24 March 1899, after discovering the source of the Nile River, in the [ Nyungwe Forest. ]"
+    ],
+    "template": "Dr Kandt yubatse iyi nzu y’ibyatsi iherereye i Shangi , ruguru gato y’ikiyaga cya Kivu ku wa 24 Werurwe 1899 , nyuma yo kuvumbura isoko y’uruzi rwa Nile , mu ishyamba rya Nyungwe .",
+    "tgt_lang": [
+      "Dr [ Kandt ] yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+      "Dr Kandt yubatse iyi nzu yibyatsi iherereye i [ Shangi, ] ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+      "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato y [ikiyaga cya Kivu ] ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+      "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa [ Nile, ] mu ishyamba rya Nyungwe.",
+      "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu [ ishyamba rya Nyungwe ]."
+    ],
+    "r_logp_score": [
+      5.141242980957031,
+      1.5925923585891724,
+      3.618898868560791,
+      7.460630416870117,
+      11.53406047821045
+    ],
+    "score": [
+      -83.95537567138672,
+      -75.6152114868164,
+      -77.26962280273438,
+      -75.35601806640625,
+      -73.70819091796875
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Dr [ Kandt ] yubatse iyi nzu yibyatsi iherereye i Shangi , ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899 , nyuma yo kuvumbura isoko yuruzi rwa Nile , mu ishyamba rya Nyungwe .",
+      "Dr Kandt yubatse iyi nzu yibyatsi iherereye i [ Shangi , ] ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899 , nyuma yo kuvumbura isoko yuruzi rwa Nile , mu ishyamba rya Nyungwe .",
+      "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi , ruguru gato [ yikiyaga cya Kivu ] ku wa 24 Werurwe 1899 , nyuma yo kuvumbura isoko yuruzi rwa Nile , mu ishyamba rya Nyungwe .",
+      "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi , ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899 , nyuma yo kuvumbura isoko yuruzi rwa [ Nile , ] mu ishyamba rya Nyungwe .",
+      "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi , ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899 , nyuma yo kuvumbura isoko yuruzi rwa Nile , mu [ ishyamba rya Nyungwe ] ."
+    ]
+  },
+  {
+    "template": "Kubera kumarana igihe kinini nazo , bashobora kumenya icyerekezo zizaganamo umunsi ukurikiye .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "[ Fig Tree Bay ]"
+    ],
+    "template": "Fig Tree Bay",
+    "tgt_lang": [
+      "[ Fig Tree Bay ]"
+    ],
+    "r_logp_score": [
+      1.3065768480300903
+    ],
+    "score": [
+      -13.055351257324219
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Fig Tree Bay ]"
+    ]
+  },
+  {
+    "template": "Yahakiriye abamisiyoneri bahasomera misa ya mbere",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "The National Museum says that after conducting a survey to identify the most beautiful parts of [ Rwanda ] visited by tourists, it has identified more than 500 of them, including 10 related to Dr Richard Kandt's visit.",
+      "The National Museum says that after conducting a survey to identify the most beautiful parts of Rwanda visited by tourists, it has identified more than 500 of them, including 10 related to Dr [ Richard Kandt's ] visit."
+    ],
+    "template": "Ikigo cy’igihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga by’u Rwanda abakerarugendo basura , bwagaragaje ibisaga 500 birimo 10 bifitanye isano n’urugendo rwa Dr Richard Kandt .",
+    "tgt_lang": [
+      "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga byu [ Rwanda ] abakerarugendo basura, bwagaragaje ibisaga 500 birimo 10 bifitanye isano nurugendo rwa Dr Richard Kandt.",
+      "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga byu Rwanda abakerarugendo basura, bwagaragaje ibisaga 500 birimo 10 bifitanye isano nurugendo rwa Dr [ Richard Kandt ]."
+    ],
+    "r_logp_score": [
+      4.722521781921387,
+      14.701950073242188
+    ],
+    "score": [
+      -98.20716094970703,
+      -100.44354248046875
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga byu [ Rwanda ] abakerarugendo basura , bwagaragaje ibisaga 500 birimo 10 bifitanye isano nurugendo rwa Dr Richard Kandt .",
+      "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga byu Rwanda abakerarugendo basura , bwagaragaje ibisaga 500 birimo 10 bifitanye isano nurugendo rwa Dr [ Richard Kandt ] ."
+    ]
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "In [ South Africa's ] Kruger National Park, lions have been seen roaming the park's paths, in areas normally off limits.",
+      "In South Africa's [ Kruger National Park, ] lions have been seen roaming the park's paths, in areas normally off limits."
+    ],
+    "template": "Muri Pariki ya Kruger muri Afurika y’Epfo , intare ziri kugaragara zigandagaje mu mihanda yo muri pariki , ahantu zitapfaga kugera mu bihe bisanzwe .",
+    "tgt_lang": [
+      "Muri Pariki ya Kruger muri Afurika y [Epfo ], intare ziri kugaragara zigandagaje mu mihanda yo muri pariki, ahantu zitapfaga kugera mu bihe bisanzwe.",
+      "Muri [ Pariki ya Kruger muri Afurika yEpfo, ] intare ziri kugaragara zigandagaje mu mihanda yo muri pariki, ahantu zitapfaga kugera mu bihe bisanzwe."
+    ],
+    "r_logp_score": [
+      16.122407913208008,
+      11.5316801071167
+    ],
+    "score": [
+      -120.78423309326172,
+      -123.8385238647461
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Muri Pariki ya Kruger muri Afurika [ yEpfo ] , intare ziri kugaragara zigandagaje mu mihanda yo muri pariki , ahantu zitapfaga kugera mu bihe bisanzwe .",
+      "Muri [ Pariki ya Kruger muri Afurika yEpfo , ] intare ziri kugaragara zigandagaje mu mihanda yo muri pariki , ahantu zitapfaga kugera mu bihe bisanzwe ."
+    ]
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "As of December 2018, it had 811 hotels with 114 rooms, 614 in 63 countries operating under the name [ Ramada. ]"
+    ],
+    "template": "Kugeza mu Ukuboza 2018 , yari ifite amahoteli 811 afite ibyumba 114 , 614 mu bihugu 63 zikora mu izina rya Ramada .",
+    "tgt_lang": [
+      "Kugeza mu Ukuboza 2018, yari ifite amahoteli 811 afite ibyumba 114, 614 mu bihugu 63 zikora mu izina rya [ Ramada. ]"
+    ],
+    "r_logp_score": [
+      3.5311481952667236
+    ],
+    "score": [
+      -23.966022491455078
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Kugeza mu Ukuboza 2018 , yari ifite amahoteli 811 afite ibyumba 114 , 614 mu bihugu 63 zikora mu izina rya [ Ramada . ]"
+    ]
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "Above them, where [ Kandt ] is said to have built the greenhouse, there is nothing left but fertile grass."
+    ],
+    "template": "Haruguru yazo aho bivugwa ko Kandt yari yarubatse iyo nzu y’ibyatsi harisanzuye nta kintu giteyemo uretse ibyatsi cyimeza .",
+    "tgt_lang": [
+      "Haruguru yazo aho bivugwa ko [ Kandt ] yari yarubatse iyo nzu yibyatsi harisanzuye nta kintu giteyemo uretse ibyatsi cyimeza."
+    ],
+    "r_logp_score": [
+      5.141242980957031
+    ],
+    "score": [
+      -124.78197479248047
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Haruguru yazo aho bivugwa ko [ Kandt ] yari yarubatse iyo nzu yibyatsi harisanzuye nta kintu giteyemo uretse ibyatsi cyimeza ."
+    ]
+  },
+  {
+    "template": "Gusa hari uruhande ubonamo ikawa bigaragara ko zatewe cyera ariko zidakoreye .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Iyi pariki nabwo yaherukaga guhagarika ibikorwa byo kuyisura hagati ya Gicurasi na 2018 kugeza mu ntangiro z’umwaka ushize .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "9 Frw mu kugoboka ibikorwa by’ubukerarugendo no kwakira abantu , mu gihe cy’umwaka wose nyuma ya Coronavirus .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "[ France ] is one of the hardest hit countries by the coronavirus, with 29,731 deaths and 161,348 infections, although the severity continues to decline, while most activities are being resumed."
+    ],
+    "template": "U Bufaransa buri mu bihugu byahungabanyijwe cyane na Coronavirus , aho habarwa abantu 29 731 bishwe n’iki cyorezo na 161 348 bacyanduye , gusa ubukana bwacyo bukomeje kugabanuka , ari nako ibikorwa byinshi bisubukurwa .",
+    "tgt_lang": [
+      "U [ Bufaransa ] buri mu bihugu byahungabanyijwe cyane na Coronavirus, aho habarwa abantu 29 731 bishwe niki cyorezo na 161 348 bacyanduye, gusa ubukana bwacyo bukomeje kugabanuka, ari nako ibikorwa byinshi bisubukurwa."
+    ],
+    "r_logp_score": [
+      1.3533523082733154
+    ],
+    "score": [
+      -109.36542510986328
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "U [ Bufaransa ] buri mu bihugu byahungabanyijwe cyane na Coronavirus , aho habarwa abantu 29 731 bishwe niki cyorezo na 161 348 bacyanduye , gusa ubukana bwacyo bukomeje kugabanuka , ari nako ibikorwa byinshi bisubukurwa ."
+    ]
+  },
+  {
+    "template": "Kukinyonga ni ijana , kudingisa ni bitanu Mukamana urananiranye ngaho isubireho .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Serivisi zimwe na zimwe za hoteli zikomeje gufungurwa , ariko byose byitondewe cyane kubera icyorezo cya Coronavirus cyahagaritse imirimo myinshi mu gihugu , urwego rw’amahoteli rugahungabana kurusha izindi .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 26,
+    "src_lang": [
+      "It takes at least 30 minutes to reach this gate from the headquarters of the [ Volcanoes Park, ] only Irakoze explains that he or the managers do not know where they are because they are constantly moving.",
+      "It takes at least 30 minutes to reach this gate from the headquarters of the Volcanoes Park, only [ Irakoze ] explains that he or the managers do not know where they are because they are constantly moving."
+    ],
+    "template": "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki y’Ibirunga , gusa Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka .",
+    "tgt_lang": [
+      "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki y [Ibirunga, ] gusa Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka.",
+      "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki yIbirunga, gusa [ Irakoze ] asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka."
+    ],
+    "r_logp_score": [
+      21.541406631469727,
+      22.320270538330078
+    ],
+    "score": [
+      -89.3816146850586,
+      -86.82038116455078
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki [ yIbirunga , ] gusa Irakoze asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka .",
+      "Kugera kuri uyu muryango bisaba iminota nibura 30 uvuye ku cyicaro cya Pariki yIbirunga , gusa [ Irakoze ] asobanura ko we cyangwa abashinzwe kuzicunga bataba bazi aho ziherereye kuko zihora zimuka ."
+    ]
+  },
+  {
+    "idx": 27,
+    "src_lang": [
+      "[ Playa Ruinas ] is a beach in Mexico known for its beautiful white sand and spectacular waters.",
+      "Playa Ruinas is a beach in [ Mexico ] known for its beautiful white sand and spectacular waters."
+    ],
+    "template": "Playa Ruinas ni beach iherereye mu gihugu cya Mexique ikaba izwiho kugira umucanga mwiza w’umweru n’amazi ateye amabengeza .",
+    "tgt_lang": [
+      "[ Playa Ruinas ] ni beach iherereye mu gihugu cya Mexique ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza.",
+      "Playa Ruinas ni beach iherereye mu gihugu cya [ Mexique ] ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza."
+    ],
+    "r_logp_score": [
+      5.247015953063965,
+      1.0744985342025757
+    ],
+    "score": [
+      -64.1521987915039,
+      -62.585540771484375
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Playa Ruinas ] ni beach iherereye mu gihugu cya Mexique ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza .",
+      "Playa Ruinas ni beach iherereye mu gihugu cya [ Mexique ] ikaba izwiho kugira umucanga mwiza wumweru namazi ateye amabengeza ."
+    ]
+  },
+  {
+    "idx": 28,
+    "src_lang": [
+      "It is a regular collaborator with [ Arsenal ] in promoting tourism in Rwanda.",
+      "It is a regular collaborator with Arsenal in promoting tourism in [ Rwanda. ]"
+    ],
+    "template": "Isanzwe ikorana na Arsenal mu kumenyekanisha ubukerarugendo bw’u Rwanda .",
+    "tgt_lang": [
+      "Isanzwe ikorana na [ Arsenal ] mu kumenyekanisha ubukerarugendo bwu Rwanda.",
+      "Isanzwe ikorana na Arsenal mu kumenyekanisha ubukerarugendo bw [u Rwanda ]."
+    ],
+    "r_logp_score": [
+      4.971807956695557,
+      9.220359802246094
+    ],
+    "score": [
+      -44.120765686035156,
+      -44.05876922607422
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Isanzwe ikorana na [ Arsenal ] mu kumenyekanisha ubukerarugendo bwu Rwanda .",
+      "Isanzwe ikorana na Arsenal mu kumenyekanisha ubukerarugendo [ bwu Rwanda ] ."
+    ]
+  },
+  {
+    "idx": 29,
+    "src_lang": [
+      "President [ Paul Kagame ] accompanied by Madame Jeannette Kagame, officially opened the Singita Kwitonda Lodge and Kataza House, a high-end tourist accommodation complex, located entirely in the Region of Musanze, at the foot of the volcanoes.",
+      "President Paul Kagame accompanied by Madame [ Jeannette Kagame, ] officially opened the Singita Kwitonda Lodge and Kataza House, a high-end tourist accommodation complex, located entirely in the Region of Musanze, at the foot of the volcanoes.",
+      "President Paul Kagame accompanied by Madame Jeannette Kagame, officially opened the [ Singita Kwitonda Lodge ] and Kataza House, a high-end tourist accommodation complex, located entirely in the Region of Musanze, at the foot of the volcanoes.",
+      "President Paul Kagame accompanied by Madame Jeannette Kagame, officially opened the Singita Kwitonda Lodge and [ Kataza House, ] a high-end tourist accommodation complex, located entirely in the Region of Musanze, at the foot of the volcanoes.",
+      "President Paul Kagame accompanied by Madame Jeannette Kagame, officially opened the Singita Kwitonda Lodge and Kataza House, a high-end tourist accommodation complex, located entirely in the [ Region of Musanze, ] at the foot of the volcanoes."
+    ],
+    "template": "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame , yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House , inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo , yuzuye mu Karere ka Musanze , munsi y’ibirunga .",
+    "tgt_lang": [
+      "Perezida [ Paul Kagame ] aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+      "Perezida Paul Kagame aherekejwe na Madamu [ Jeannette Kagame, ] yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+      "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro [ Singita Kwitonda Lodge ] and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+      "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and [ Kataza House, ] inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu Karere ka Musanze, munsi yibirunga.",
+      "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame, yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House, inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo, yuzuye mu [ Karere ka Musanze, ] munsi yibirunga."
+    ],
+    "r_logp_score": [
+      2.412363052368164,
+      2.876978874206543,
+      13.316507339477539,
+      3.9745688438415527,
+      5.632941722869873
+    ],
+    "score": [
+      -67.8744125366211,
+      -70.65907287597656,
+      -71.30490112304688,
+      -70.8963623046875,
+      -72.86815643310547
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Perezida [ Paul Kagame ] aherekejwe na Madamu Jeannette Kagame , yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House , inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo , yuzuye mu Karere ka Musanze , munsi yibirunga .",
+      "Perezida Paul Kagame aherekejwe na Madamu [ Jeannette Kagame , ] yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House , inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo , yuzuye mu Karere ka Musanze , munsi yibirunga .",
+      "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame , yafunguye ku mugaragaro [ Singita Kwitonda Lodge ] and Kataza House , inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo , yuzuye mu Karere ka Musanze , munsi yibirunga .",
+      "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame , yafunguye ku mugaragaro Singita Kwitonda Lodge and [ Kataza House , ] inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo , yuzuye mu Karere ka Musanze , munsi yibirunga .",
+      "Perezida Paul Kagame aherekejwe na Madamu Jeannette Kagame , yafunguye ku mugaragaro Singita Kwitonda Lodge and Kataza House , inyubako yo ku rwego rwo hejuru izajya yakira ba mukerarugendo , yuzuye mu [ Karere ka Musanze , ] munsi yibirunga ."
+    ]
+  },
+  {
+    "idx": 30,
+    "src_lang": [
+      "This is a beach known for its unique black sand, located in [ Iceland. ]"
+    ],
+    "template": "Iyi ni beach izwi cyane kubera umwihariko wayo wo kugira umucanga w’umukara , ikaba iherereye mu gihugu cya Iceland .",
+    "tgt_lang": [
+      "Iyi ni beach izwi cyane kubera umwihariko wayo wo kugira umucanga wumukara, ikaba iherereye mu gihugu cya [ Iceland ]."
+    ],
+    "r_logp_score": [
+      8.242975234985352
+    ],
+    "score": [
+      -60.9842643737793
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Iyi ni beach izwi cyane kubera umwihariko wayo wo kugira umucanga wumukara , ikaba iherereye mu gihugu cya [ Iceland ] ."
+    ]
+  },
+  {
+    "template": "Yakomeje ati “ Dutegereje gufungura ibikorwa kandi biragaragara ko abakiliya bacu bagomba kuba abo mu gihugu , hakazaza abo mu karere , abo hirya yaho bakazaza nyuma .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "40 cyangwa amadolari ya Amerika $ 11 .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 33,
+    "src_lang": [
+      "[ Manzi Nelson ] and his wife Irakiza Eunice are already singers, they started singing together as a husband and wife (Manzi & Eunice) and have now sung three songs together.",
+      "Manzi Nelson and his wife [ Irakiza Eunice ] are already singers, they started singing together as a husband and wife (Manzi & Eunice) and have now sung three songs together.",
+      "Manzi Nelson and his wife Irakiza Eunice are already singers, they started singing together as a husband and wife (Manzi & [ Eunice) ] and have now sung three songs together."
+    ],
+    "template": "Manzi Nelson n’umugore we Irakiza Eunice basanzwe ari abaririmbyi , batangiye kuririmbana nk’umugabo n’umugore ( Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu .",
+    "tgt_lang": [
+      "[ Manzi Nelson ] numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+      "Manzi Nelson numugore we [ Irakiza Eunice ] basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu.",
+      "Manzi Nelson numugore we Irakiza Eunice basanzwe ari abaririmbyi, batangiye kuririmbana nkumugabo numugore ( Manzi & [ Eunice ] ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu."
+    ],
+    "r_logp_score": [
+      8.213083267211914,
+      29.99981117248535,
+      15.547414779663086
+    ],
+    "score": [
+      -65.76509857177734,
+      -64.15251159667969,
+      -67.53668212890625
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Manzi Nelson ] numugore we Irakiza Eunice basanzwe ari abaririmbyi , batangiye kuririmbana nkumugabo numugore ( Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu .",
+      "Manzi Nelson numugore we [ Irakiza Eunice ] basanzwe ari abaririmbyi , batangiye kuririmbana nkumugabo numugore ( Manzi & Eunice ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu .",
+      "Manzi Nelson numugore we Irakiza Eunice basanzwe ari abaririmbyi , batangiye kuririmbana nkumugabo numugore ( Manzi & [ Eunice ] ) ndetse kuri ubu bamaze kuririmbana indirimbo eshatu ."
+    ]
+  },
+  {
+    "template": "Impamvu zatumye umucanga wo kuri iyi beach uba umukara n’iruka ry’ikirunga , gusa ibi ntibiyibuza kuza mu icumi za mbere nziza mu 2019 .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Yize amashuri abanza gusa , ubu afite abana babiri .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Kugeza ubu abakozi bahagaritswe ntibarasubira mu kazi , harimo kwifashishwa bake cyane bo kugira ngo nihagira ugana hotel atabura umwakira .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Aba bazwi cyane mu ndirimbo nka ‘Muremyi w’Isi’ .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 38,
+    "src_lang": [
+      "Its part is as warm as the [ Royal Palace ] overlooking the Sea, with a capacity of 2600 people.",
+      "Its part is as warm as the Royal Palace overlooking the [ Sea, ] with a capacity of 2600 people."
+    ],
+    "template": "Igice cyayo gishushe nk’Inzu y’Umwami igaragara i Nyanza , cyakira abantu 2600 .",
+    "tgt_lang": [
+      "Igice cyayo gishushe nk [Inzu yUmwami ] igaragara i Nyanza, cyakira abantu 2600.",
+      "Igice cyayo gishushe nkInzu yUmwami igaragara i [ Nyanza, ] cyakira abantu 2600."
+    ],
+    "r_logp_score": [
+      6.4025044441223145,
+      5.247542381286621
+    ],
+    "score": [
+      -71.27767181396484,
+      -72.5408706665039
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Igice cyayo gishushe [ nkInzu yUmwami ] igaragara i Nyanza , cyakira abantu 2600 .",
+      "Igice cyayo gishushe nkInzu yUmwami igaragara i [ Nyanza , ] cyakira abantu 2600 ."
+    ]
+  },
+  {
+    "idx": 39,
+    "src_lang": [
+      "The fifth-best beach in 2019 is located in the [ El Nino ] zone on the island of Palawan in the Philippines.",
+      "The fifth-best beach in 2019 is located in the El Nino zone on the island of [ Palawan ] in the Philippines.",
+      "The fifth-best beach in 2019 is located in the El Nino zone on the island of Palawan in the [ Philippines. ]"
+    ],
+    "template": "Iyi beach ya gatanu ku rutonde rw’inziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya Palawan mu gihugu cya Philippines .",
+    "tgt_lang": [
+      "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka [ El Nino ] ku kirwa cya Palawan mu gihugu cya Philippines.",
+      "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya [ Palawan ] mu gihugu cya Philippines.",
+      "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya Palawan mu gihugu cya [ Philippines ]."
+    ],
+    "r_logp_score": [
+      7.1184587478637695,
+      2.877735137939453,
+      5.76509428024292
+    ],
+    "score": [
+      -61.97382736206055,
+      -59.63950729370117,
+      -59.873252868652344
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka [ El Nino ] ku kirwa cya Palawan mu gihugu cya Philippines .",
+      "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya [ Palawan ] mu gihugu cya Philippines .",
+      "Iyi beach ya gatanu ku rutonde rwinziza mu 2019 iherereye mu gace ka El Nino ku kirwa cya Palawan mu gihugu cya [ Philippines ] ."
+    ]
+  },
+  {
+    "idx": 40,
+    "src_lang": [
+      "The unrestricted tourist side is [ Rwanda, ] except that tourism activities have been suspended due to the Coronavirus pandemic."
+    ],
+    "template": "Uruhande rusurwa nta nkomyi ni ku Rwanda , uretse ko ibikorwa by’ubukerarugendo byahagaze kubera icyorezo cya Coronavirus .",
+    "tgt_lang": [
+      "Uruhande rusurwa nta nkomyi ni ku [ Rwanda, ] uretse ko ibikorwa byubukerarugendo byahagaze kubera icyorezo cya Coronavirus."
+    ],
+    "r_logp_score": [
+      2.7095937728881836
+    ],
+    "score": [
+      -46.07853317260742
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Uruhande rusurwa nta nkomyi ni ku [ Rwanda , ] uretse ko ibikorwa byubukerarugendo byahagaze kubera icyorezo cya Coronavirus ."
+    ]
+  },
+  {
+    "idx": 41,
+    "src_lang": [
+      "The first missionaries who arrived from [ Bujumbura ] in Burundi, led by Bishop Joseph Hirth, told him that in order to go directly to the king he must first speak to Kandt, who was familiar with it, and tell him how to react.",
+      "The first missionaries who arrived from Bujumbura in [ Burundi, ] led by Bishop Joseph Hirth, told him that in order to go directly to the king he must first speak to Kandt, who was familiar with it, and tell him how to react.",
+      "The first missionaries who arrived from Bujumbura in Burundi, led by Bishop [ Joseph Hirth, ] told him that in order to go directly to the king he must first speak to Kandt, who was familiar with it, and tell him how to react.",
+      "The first missionaries who arrived from Bujumbura in Burundi, led by Bishop Joseph Hirth, told him that in order to go directly to the king he must first speak to [ Kandt, ] who was familiar with it, and tell him how to react."
+    ],
+    "template": "Ati “ Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi , bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye , akamubwira uko yabyitwaramo .",
+    "tgt_lang": [
+      "Ati  Abamisiyoneri ba mbere baza baturutse i [ Bujumbura ] mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+      "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu [ Burundi, ] bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+      "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi, bayobowe na Musenyeri [ Joseph Hirth ] bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye, akamubwira uko yabyitwaramo.",
+      "Ati  Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi, bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na [ Kandt ] wari uhamenyereye, akamubwira uko yabyitwaramo."
+    ],
+    "r_logp_score": [
+      6.756984710693359,
+      2.7722437381744385,
+      7.957022666931152,
+      9.106276512145996
+    ],
+    "score": [
+      -81.89964294433594,
+      -78.7393798828125,
+      -75.75483703613281,
+      -76.05078125
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ati Abamisiyoneri ba mbere baza baturutse i [ Bujumbura ] mu Burundi , bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye , akamubwira uko yabyitwaramo .",
+      "Ati Abamisiyoneri ba mbere baza baturutse i Bujumbura mu [ Burundi , ] bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye , akamubwira uko yabyitwaramo .",
+      "Ati Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi , bayobowe na Musenyeri [ Joseph Hirth ] bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na Kandt wari uhamenyereye , akamubwira uko yabyitwaramo .",
+      "Ati Abamisiyoneri ba mbere baza baturutse i Bujumbura mu Burundi , bayobowe na Musenyeri Joseph Hirth bamubwiye ko kugira ngo ahite ajya kureba umwami agomba kubanza kuvugana na [ Kandt ] wari uhamenyereye , akamubwira uko yabyitwaramo ."
+    ]
+  },
+  {
+    "template": "Magingo aya , iyi pariki iri ku buso bwa hegitari 16 , 027 .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Abakozi bacu bazakomeza gutozwa kubahiriza amabwiriza mu nama zidasanzwe , dukomeze kubigira iby’ibanze .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Ukihagera ubona hameze nko mu ishyamba ritarimo ibiti byinshi ariko ibirimo bikuze cyane , bikikijwe n’urugo rufite amarembo yubakishije imbaho ariko rufite akaryango gato gahora gafunze , bigaragara ko hinjirwa na nyiraho cyangwa undi wabanje kubisabira uburenganzira .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 45,
+    "src_lang": [
+      "On Sunday, August 12, 2018, the partnership between [ Rwanda ] and Arsenal FC began in a match against Manchester City.",
+      "On Sunday, August 12, 2018, the partnership between Rwanda and [ Arsenal FC ] began in a match against Manchester City.",
+      "On Sunday, August 12, 2018, the partnership between Rwanda and Arsenal FC began in a match against [ Manchester City. ]"
+    ],
+    "template": "Ku cyumweru tariki 12 Kanama 2018 , nibwo ubufatanye bw’u Rwanda n’ikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na Manchester City .",
+    "tgt_lang": [
+      "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye [ bwu Rwanda ] nikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na Manchester City.",
+      "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye bwu Rwanda nikipe ya [ Arsenal FC ] bwatangiye ku mukino iyi kipe yakinagamo na Manchester City.",
+      "Ku cyumweru tariki 12 Kanama 2018, nibwo ubufatanye bwu Rwanda nikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na [ Manchester City ]."
+    ],
+    "r_logp_score": [
+      9.834798812866211,
+      4.0159382820129395,
+      8.499889373779297
+    ],
+    "score": [
+      -73.55559539794922,
+      -76.11163330078125,
+      -70.41143035888672
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ku cyumweru tariki 12 Kanama 2018 , nibwo ubufatanye [ bwu Rwanda ] nikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na Manchester City .",
+      "Ku cyumweru tariki 12 Kanama 2018 , nibwo ubufatanye bwu Rwanda nikipe ya [ Arsenal FC ] bwatangiye ku mukino iyi kipe yakinagamo na Manchester City .",
+      "Ku cyumweru tariki 12 Kanama 2018 , nibwo ubufatanye bwu Rwanda nikipe ya Arsenal FC bwatangiye ku mukino iyi kipe yakinagamo na [ Manchester City ] ."
+    ]
+  },
+  {
+    "idx": 46,
+    "src_lang": [
+      "She is survived by two children, [ Damian Hurley ] and Kira Bonder.",
+      "She is survived by two children, Damian Hurley and [ Kira Bonder. ]"
+    ],
+    "template": "Asize abana babiri Damian Hurley na Kira Bonder .",
+    "tgt_lang": [
+      "Asize abana babiri [ Damian Hurley ] na Kira Bonder.",
+      "Asize abana babiri Damian Hurley na [ Kira Bonder ]."
+    ],
+    "r_logp_score": [
+      1.276235818862915,
+      19.069272994995117
+    ],
+    "score": [
+      -14.426682472229004,
+      -12.301063537597656
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Asize abana babiri [ Damian Hurley ] na Kira Bonder .",
+      "Asize abana babiri Damian Hurley na [ Kira Bonder ] ."
+    ]
+  },
+  {
+    "template": "Bimwe mu bifasha abazishakisha kumenya aho ziherere harimo kuba bazi agace barimo umunsi wabanje .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 48,
+    "src_lang": [
+      "All her other children live in the [ Musilikale ] family which now has 21 members."
+    ],
+    "template": "Abandi bana bayo bose baba mu muryango wa Musilikale ubu ugize ingagi 21 .",
+    "tgt_lang": [
+      "Abandi bana bayo bose baba mu muryango [ wa Musilikale ] ubu ugize ingagi 21."
+    ],
+    "r_logp_score": [
+      16.986644744873047
+    ],
+    "score": [
+      -39.02825927734375
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Abandi bana bayo bose baba mu muryango [ wa Musilikale ] ubu ugize ingagi 21 ."
+    ]
+  },
+  {
+    "idx": 49,
+    "src_lang": [
+      "The [ International Civil Aviation Organization ] (ICAO) recently issued guidelines for boarding aircraft, which must be followed by all governments."
+    ],
+    "template": "Umuryango mpuzamahanga ushinzwe ingendo za gisivile , ( ICAO ) uherutse gutangaza amabwiriza akwiye kwifashishwa n’abantu bagiye gufata indege , aho agomba kubahirizwa na Guverinoma zose .",
+    "tgt_lang": [
+      "[ Umuryango mpuzamahanga ushinzwe ingendo za gisivile ], ( ICAO ) uherutse gutangaza amabwiriza akwiye kwifashishwa nabantu bagiye gufata indege, aho agomba kubahirizwa na Guverinoma zose."
+    ],
+    "r_logp_score": [
+      12.232198715209961
+    ],
+    "score": [
+      -120.55455017089844
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Umuryango mpuzamahanga ushinzwe ingendo za gisivile ] , ( ICAO ) uherutse gutangaza amabwiriza akwiye kwifashishwa nabantu bagiye gufata indege , aho agomba kubahirizwa na Guverinoma zose ."
+    ]
+  },
+  {
+    "idx": 50,
+    "src_lang": [
+      "[ Ben ] and Chance",
+      "Ben and [ Chance ]"
+    ],
+    "template": "Ben na Chance",
+    "tgt_lang": [
+      "[ Ben ] na Chance",
+      "Ben na [ Chance ]"
+    ],
+    "r_logp_score": [
+      4.9185309410095215,
+      3.148101329803467
+    ],
+    "score": [
+      -3.2303266525268555,
+      -3.645395278930664
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Ben ] na Chance",
+      "Ben na [ Chance ]"
+    ]
+  },
+  {
+    "idx": 51,
+    "src_lang": [
+      "Photos by [ Niyonzima Moses ]"
+    ],
+    "template": "Amafoto : Niyonzima Moses",
+    "tgt_lang": [
+      "Amafoto : [ Niyonzima Moses ]"
+    ],
+    "r_logp_score": [
+      11.710772514343262
+    ],
+    "score": [
+      -15.062433242797852
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Amafoto : [ Niyonzima Moses ]"
+    ]
+  },
+  {
+    "idx": 52,
+    "src_lang": [
+      "[ Amanda Fung ] and Kavutse Olivier are featured in Beauty for Ashes and Prayer House",
+      "Amanda Fung and [ Kavutse Olivier ] are featured in Beauty for Ashes and Prayer House",
+      "Amanda Fung and Kavutse Olivier are featured in Beauty for Ashes and [ Prayer House ]"
+    ],
+    "template": "Amanda Fung na Kavutse Olivier babarizwa muri Beauty for Ashes na Prayer House",
+    "tgt_lang": [
+      "[ Amanda Fung ] na Kavutse Olivier babarizwa muri Beauty for Ashes na Prayer House",
+      "Amanda Fung na [ Kavutse Olivier ] babarizwa muri Beauty for Ashes na Prayer House",
+      "Amanda Fung na Kavutse Olivier babarizwa muri Beauty for Ashes na [ Prayer House ]"
+    ],
+    "r_logp_score": [
+      7.988385200500488,
+      18.427934646606445,
+      0.85050368309021
+    ],
+    "score": [
+      -12.70252513885498,
+      -14.751077651977539,
+      -12.104910850524902
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Amanda Fung ] na Kavutse Olivier babarizwa muri Beauty for Ashes na Prayer House",
+      "Amanda Fung na [ Kavutse Olivier ] babarizwa muri Beauty for Ashes na Prayer House",
+      "Amanda Fung na Kavutse Olivier babarizwa muri Beauty for Ashes na [ Prayer House ]"
+    ]
+  },
+  {
+    "idx": 53,
+    "src_lang": [
+      "Last year's [ ICCA ] report ranked Rwanda second only to Cape Town, South Africa, in the ranking released on 13 May 2019, which shows how cities were praised for hosting international conferences in 2018.",
+      "Last year's ICCA report ranked [ Rwanda ] second only to Cape Town, South Africa, in the ranking released on 13 May 2019, which shows how cities were praised for hosting international conferences in 2018.",
+      "Last year's ICCA report ranked Rwanda second only to [ Cape Town, ] South Africa, in the ranking released on 13 May 2019, which shows how cities were praised for hosting international conferences in 2018.",
+      "Last year's ICCA report ranked Rwanda second only to Cape Town, [ South Africa, ] in the ranking released on 13 May 2019, which shows how cities were praised for hosting international conferences in 2018."
+    ],
+    "template": "Raporo ya ICCA y’umwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri n’ubundi inyuma y’Umujyi wa Cape Town muri Afurika y’Epfo , ku rutonde rwasohotse ku wa 13 Gicurasi 2019 , rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018 .",
+    "tgt_lang": [
+      "Raporo ya [ ICCA ] yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+      "Raporo ya ICCA yumwaka ushize yerekana ko [ u Rwanda ] rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+      "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa [ Cape Town ] muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+      "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri [ Afurika yEpfo, ] ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018."
+    ],
+    "r_logp_score": [
+      3.8740744590759277,
+      5.1069746017456055,
+      6.190208435058594,
+      2.1836776733398438
+    ],
+    "score": [
+      -93.31304931640625,
+      -93.23028564453125,
+      -99.57145690917969,
+      -93.70736694335938
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Raporo ya [ ICCA ] yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo , ku rutonde rwasohotse ku wa 13 Gicurasi 2019 , rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018 .",
+      "Raporo ya ICCA yumwaka ushize yerekana ko [ u Rwanda ] rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo , ku rutonde rwasohotse ku wa 13 Gicurasi 2019 , rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018 .",
+      "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa [ Cape Town ] muri Afurika yEpfo , ku rutonde rwasohotse ku wa 13 Gicurasi 2019 , rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018 .",
+      "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri [ Afurika yEpfo , ] ku rutonde rwasohotse ku wa 13 Gicurasi 2019 , rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018 ."
+    ]
+  },
+  {
+    "idx": 54,
+    "src_lang": [
+      "[ Facebook ] users were asked to take a link to the song Replay on YouTube and share it with their friends."
+    ],
+    "template": "Mu gihe abo kuri Facebook basabwe gufata link y’indirimbo Isubireho kuri YouTube bakabisangiza inshuti zabo .",
+    "tgt_lang": [
+      "Mu gihe abo kuri [ Facebook ] basabwe gufata link yindirimbo Isubireho kuri YouTube bakabisangiza inshuti zabo."
+    ],
+    "r_logp_score": [
+      7.75388240814209
+    ],
+    "score": [
+      -70.58016204833984
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Mu gihe abo kuri [ Facebook ] basabwe gufata link yindirimbo Isubireho kuri YouTube bakabisangiza inshuti zabo ."
+    ]
+  },
+  {
+    "template": "Kuva umuhango wo Kwita Izina watangizwa mu 2005 , abana b’ingagi 281 bamaze guhabwa amazina .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Bivuze ko kugira ngo umuntu ashobore kubona ingagi , bigomba gusaba amafaranga menshi , kubera ko amafaranga naba make abantu benshi bazajya kuzireba kandi ntabwo ari byiza mu kuzibungabunga .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 57,
+    "src_lang": [
+      "On Tuesday, the [ RDB ] reported that foreigners continue to see Rwanda as a great place to visit.",
+      "On Tuesday, the RDB reported that foreigners continue to see [ Rwanda ] as a great place to visit."
+    ],
+    "template": "Kuri uyu wa Kabiri , RDB yatangaje ko abanyamahanga bakomeje kubona u Rwanda nk’ahantu heza ho gusura .",
+    "tgt_lang": [
+      "Kuri uyu wa Kabiri, [ RDB ] yatangaje ko abanyamahanga bakomeje kubona u Rwanda nkahantu heza ho gusura.",
+      "Kuri uyu wa Kabiri, RDB yatangaje ko abanyamahanga bakomeje kubona u [ Rwanda ] nkahantu heza ho gusura."
+    ],
+    "r_logp_score": [
+      2.3810195922851562,
+      4.722526550292969
+    ],
+    "score": [
+      -27.409914016723633,
+      -36.73378372192383
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Kuri uyu wa Kabiri , [ RDB ] yatangaje ko abanyamahanga bakomeje kubona u Rwanda nkahantu heza ho gusura .",
+      "Kuri uyu wa Kabiri , RDB yatangaje ko abanyamahanga bakomeje kubona u [ Rwanda ] nkahantu heza ho gusura ."
+    ]
+  },
+  {
+    "idx": 58,
+    "src_lang": [
+      "[ Manzi & Eunice ] describe singing as a duo because they love it and are also known as two singers who live together."
+    ],
+    "template": "Manzi & Eunice bavuga ko kuririmbana ari babiri babitewe n’uko babikunda ndetse bakaba babisanzwemo nk’abantu babiri b’abaririmbyi babana .",
+    "tgt_lang": [
+      "[ Manzi & Eunice ] bavuga ko kuririmbana ari babiri babitewe nuko babikunda ndetse bakaba babisanzwemo nkabantu babiri babaririmbyi babana."
+    ],
+    "r_logp_score": [
+      6.5997395515441895
+    ],
+    "score": [
+      -91.16388702392578
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Manzi & Eunice ] bavuga ko kuririmbana ari babiri babitewe nuko babikunda ndetse bakaba babisanzwemo nkabantu babiri babaririmbyi babana ."
+    ]
+  },
+  {
+    "idx": 59,
+    "src_lang": [
+      "[ RDB ] reports that this was due to a campaign including the Tembera u Rwanda campaign carried out two years ago.",
+      "RDB reports that this was due to a campaign including the [ Tembera u Rwanda ] campaign carried out two years ago."
+    ],
+    "template": "RDB itangaza ko byatewe n’ubukangurambaga burimo ubwa Tembera u Rwanda bwakozwe mu myaka ibiri ishize .",
+    "tgt_lang": [
+      "[ RDB ] itangaza ko byatewe nubukangurambaga burimo ubwa Tembera u Rwanda bwakozwe mu myaka ibiri ishize.",
+      "RDB itangaza ko byatewe nubukangurambaga burimo ubwa [ Tembera u Rwanda ] bwakozwe mu myaka ibiri ishize."
+    ],
+    "r_logp_score": [
+      2.3810195922851562,
+      26.275327682495117
+    ],
+    "score": [
+      -34.72341537475586,
+      -36.05038070678711
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ RDB ] itangaza ko byatewe nubukangurambaga burimo ubwa Tembera u Rwanda bwakozwe mu myaka ibiri ishize .",
+      "RDB itangaza ko byatewe nubukangurambaga burimo ubwa [ Tembera u Rwanda ] bwakozwe mu myaka ibiri ishize ."
+    ]
+  },
+  {
+    "idx": 60,
+    "src_lang": [
+      "There are seven for one person or accompanied with one bed each, a large living room and other amenities, and another called [ Kataza House ] with four bedrooms."
+    ],
+    "template": "Zirimo zirindwi zagenewe umuntu umwe cyangwa uherekejwe kuko buri imwe ifite uburiri bumwe , uruganiriro rwagutse n’ibindi byangombwa nkenerwa , hakaba indi imwe yiswe Kataza House yo igizwe n’ibyumba bine byo kuraramo .",
+    "tgt_lang": [
+      "Zirimo zirindwi zagenewe umuntu umwe cyangwa uherekejwe kuko buri imwe ifite uburiri bumwe, uruganiriro rwagutse nibindi byangombwa nkenerwa, hakaba indi imwe yiswe [ Kataza House ] yo igizwe nibyumba bine byo kuraramo."
+    ],
+    "r_logp_score": [
+      4.888351917266846
+    ],
+    "score": [
+      -139.81622314453125
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Zirimo zirindwi zagenewe umuntu umwe cyangwa uherekejwe kuko buri imwe ifite uburiri bumwe , uruganiriro rwagutse nibindi byangombwa nkenerwa , hakaba indi imwe yiswe [ Kataza House ] yo igizwe nibyumba bine byo kuraramo ."
+    ]
+  },
+  {
+    "template": "Guhera tariki 9 Werurwe kugeza tariki 15 Werurwe , hahererekanyijwe miliyari 10 .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 62,
+    "src_lang": [
+      "This beach is located in the [ Exuma District ] of the Bahamas.",
+      "This beach is located in the Exuma District of the [ Bahamas. ]"
+    ],
+    "template": "Iyi beach iherereye mu karere ka Exuma mu gihugu cya Bahamas .",
+    "tgt_lang": [
+      "Iyi beach iherereye mu [ karere ka Exuma ] mu gihugu cya Bahamas.",
+      "Iyi beach iherereye mu karere ka Exuma mu gihugu cya [ Bahamas ]."
+    ],
+    "r_logp_score": [
+      4.172053337097168,
+      7.776573657989502
+    ],
+    "score": [
+      -35.844051361083984,
+      -25.371797561645508
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Iyi beach iherereye mu [ karere ka Exuma ] mu gihugu cya Bahamas .",
+      "Iyi beach iherereye mu karere ka Exuma mu gihugu cya [ Bahamas ] ."
+    ]
+  },
+  {
+    "idx": 63,
+    "src_lang": [
+      "Volcanic kangaroos are rare in the world, with only about 880 remaining, with [ Rwanda ] holding 62% of them."
+    ],
+    "template": "Ingagi zo mu birunga ni nke ku Isi , hasigaye izigera kuri 880 gusa , u Rwanda rukagiramo 62 % yazo .",
+    "tgt_lang": [
+      "Ingagi zo mu birunga ni nke ku Isi, hasigaye izigera kuri 880 gusa, u [ Rwanda ] rukagiramo 62 % yazo."
+    ],
+    "r_logp_score": [
+      4.722526550292969
+    ],
+    "score": [
+      -67.50196838378906
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ingagi zo mu birunga ni nke ku Isi , hasigaye izigera kuri 880 gusa , u [ Rwanda ] rukagiramo 62 % yazo ."
+    ]
+  },
+  {
+    "template": "Bibarwa ko rusanganwe inguzanyo za miliyari 137 Frw .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Ambara uberwe bijyanye n’igihe : Imyambaro 10 abagore bakwambara bakaberwa muri iyi mpeshyi",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 66,
+    "src_lang": [
+      "The [ Radisson Blu Hotel ] was named the safest and most reputable hotel after an audit of more than 220 criteria for classifying a hotel as safe."
+    ],
+    "template": "Radisson Blu Hotel yahawe igihembo cya hoteli itekanye kandi yiyubashye nyuma y’igenzura yakorewe ku ngingo zisaga 220 zishingirwaho kugira ngo hoteli runaka ishyirwe mu zitekanye .",
+    "tgt_lang": [
+      "[ Radisson Blu Hotel ] yahawe igihembo cya hoteli itekanye kandi yiyubashye nyuma yigenzura yakorewe ku ngingo zisaga 220 zishingirwaho kugira ngo hoteli runaka ishyirwe mu zitekanye."
+    ],
+    "r_logp_score": [
+      7.451802730560303
+    ],
+    "score": [
+      -101.24388122558594
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Radisson Blu Hotel ] yahawe igihembo cya hoteli itekanye kandi yiyubashye nyuma yigenzura yakorewe ku ngingo zisaga 220 zishingirwaho kugira ngo hoteli runaka ishyirwe mu zitekanye ."
+    ]
+  },
+  {
+    "idx": 67,
+    "src_lang": [
+      "[ MTN Rwanda ] announced new rates for mobile money transfers after three months of the free service in Rwanda to promote the use of technology to prevent the spread of the coronavirus pandemic.",
+      "MTN Rwanda announced new rates for mobile money transfers after three months of the free service in [ Rwanda ] to promote the use of technology to prevent the spread of the coronavirus pandemic."
+    ],
+    "template": "MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma y’uko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda mu kwimakaza ikoreshwa ry’ikoranabuhanga hirindwa ikwirakwira ry’icyorezo cya Coronavirus .",
+    "tgt_lang": [
+      "[ MTN Rwanda ] yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda mu kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus.",
+      "MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu [ Rwanda ] mu kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus."
+    ],
+    "r_logp_score": [
+      4.544909954071045,
+      4.722526550292969
+    ],
+    "score": [
+      -73.24942779541016,
+      -78.08222961425781
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ MTN Rwanda ] yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda mu kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus .",
+      "MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu [ Rwanda ] mu kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus ."
+    ]
+  },
+  {
+    "idx": 68,
+    "src_lang": [
+      "A short distance away, the entrance road surrounded by palm trees continues to the waters of [ Lake Kivu, ] including a distance of about 800 meters, which is said to have been the way through which Kandt and others who lived there passed to and from the boat.",
+      "A short distance away, the entrance road surrounded by palm trees continues to the waters of Lake Kivu, including a distance of about 800 meters, which is said to have been the way through which [ Kandt ] and others who lived there passed to and from the boat."
+    ],
+    "template": "Hirya gato , ka gahanda kinjiramo gakikijwe n’imikindo karakomeza kugera ku mazi y’ikiyaga cya Kivu , harimo urugendo nk’urwa metero 800 , bivuga ko yari inzira Kandt n’abandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato .",
+    "tgt_lang": [
+      "Hirya gato, ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi y [ikiyaga cya Kivu, ] harimo urugendo nkurwa metero 800, bivuga ko yari inzira Kandt nabandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato.",
+      "Hirya gato, ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi yikiyaga cya Kivu, harimo urugendo nkurwa metero 800, bivuga ko yari inzira [ Kandt ] nabandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato."
+    ],
+    "r_logp_score": [
+      2.3219692707061768,
+      5.141246318817139
+    ],
+    "score": [
+      -143.850830078125,
+      -139.09677124023438
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Hirya gato , ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi [ yikiyaga cya Kivu , ] harimo urugendo nkurwa metero 800 , bivuga ko yari inzira Kandt nabandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato .",
+      "Hirya gato , ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi yikiyaga cya Kivu , harimo urugendo nkurwa metero 800 , bivuga ko yari inzira [ Kandt ] nabandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato ."
+    ]
+  },
+  {
+    "idx": 69,
+    "src_lang": [
+      "[ Kaliza ] said that in 2018 the number of tourists coming to Rwanda from the UK increased by 5%.",
+      "Kaliza said that in 2018 the number of tourists coming to [ Rwanda ] from the UK increased by 5%.",
+      "Kaliza said that in 2018 the number of tourists coming to Rwanda from the [ UK ] increased by 5%."
+    ],
+    "template": "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 % .",
+    "tgt_lang": [
+      "[ Kaliza ] yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 %.",
+      "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu [ Rwanda ] biyongereyeho 5 %.",
+      "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 [ % ]."
+    ],
+    "r_logp_score": [
+      7.004894733428955,
+      4.722526550292969,
+      15.659525871276855
+    ],
+    "score": [
+      -39.4232292175293,
+      -46.97602462768555,
+      -49.881099700927734
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Kaliza ] yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 % .",
+      "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu [ Rwanda ] biyongereyeho 5 % .",
+      "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 [ % ] ."
+    ]
+  },
+  {
+    "idx": 70,
+    "src_lang": [
+      "In addition to the activities depicting [ Kandt's ] journey, they also visited other attractions that were produced by tour operators including the former court of King Kigeli IV of Rwabugiri, the nature palace in Karongi, fishing tourism and more.",
+      "In addition to the activities depicting Kandt's journey, they also visited other attractions that were produced by tour operators including the former court of King [ Kigeli IV ] of Rwabugiri, the nature palace in Karongi, fishing tourism and more.",
+      "In addition to the activities depicting Kandt's journey, they also visited other attractions that were produced by tour operators including the former court of King Kigeli IV of [ Rwabugiri, ] the nature palace in Karongi, fishing tourism and more.",
+      "In addition to the activities depicting Kandt's journey, they also visited other attractions that were produced by tour operators including the former court of King Kigeli IV of Rwabugiri, the nature palace in [ Karongi, ] fishing tourism and more."
+    ],
+    "template": "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt , banasuye ibindi bice nyaburanga byabyazwa umusaruro n’abafasha abakerarugendo birimo ahahoze urugo rw’Umwami Kigeli IV Rwabugiri , ingoro y’ibidukikije i Karongi , ubukerarugendo bushingiye ku burobyi n’ibindi .",
+    "tgt_lang": [
+      "Uretse ibyo bikorwa bishushanya urugendo rwa [ Kandt ], banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri, ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+      "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami [ Kigeli IV ] Rwabugiri, ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+      "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV [ Rwabugiri, ] ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+      "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri, ingoro yibidukikije i [ Karongi, ] ubukerarugendo bushingiye ku burobyi nibindi."
+    ],
+    "r_logp_score": [
+      11.138733863830566,
+      6.103202819824219,
+      13.722152709960938,
+      5.489764213562012
+    ],
+    "score": [
+      -126.81253814697266,
+      -122.82516479492188,
+      -120.65277862548828,
+      -129.21298217773438
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Uretse ibyo bikorwa bishushanya urugendo rwa [ Kandt ] , banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri , ingoro yibidukikije i Karongi , ubukerarugendo bushingiye ku burobyi nibindi .",
+      "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt , banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami [ Kigeli IV ] Rwabugiri , ingoro yibidukikije i Karongi , ubukerarugendo bushingiye ku burobyi nibindi .",
+      "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt , banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV [ Rwabugiri , ] ingoro yibidukikije i Karongi , ubukerarugendo bushingiye ku burobyi nibindi .",
+      "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt , banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri , ingoro yibidukikije i [ Karongi , ] ubukerarugendo bushingiye ku burobyi nibindi ."
+    ]
+  },
+  {
+    "template": "Ishushanya umukobwa uba warananiye iwabo akajya ararana n’abasore mu ma hoteli , kugeza aho bamufashe ku ngufu bakamukoresha imibonano mpuzabitsina barenze umwe .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "6 Frw , mu gihe abantu babiri bishyura $ 3500 .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "n’ahandi ritaragera kugira ngo aho bagikoresha amafaranga biveho .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Ntabwo imodoka wabona uko uyigezamo .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 75,
+    "src_lang": [
+      "It is a journey that starts from the [ Priki of the Volcanoes, ] which is home to many animals including the golden tiger and the half-black tiger, and continues with Richard Kandt's other routes through Rwanda.",
+      "It is a journey that starts from the Priki of the Volcanoes, which is home to many animals including the golden tiger and the half-black tiger, and continues with [ Richard Kandt's ] other routes through Rwanda.",
+      "It is a journey that starts from the Priki of the Volcanoes, which is home to many animals including the golden tiger and the half-black tiger, and continues with Richard Kandt's other routes through [ Rwanda. ]"
+    ],
+    "template": "Ni urugendo rwahereye muri Priki y’Ibirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe n’ajya gusa n’ikigina n’umukara , bakomereza n’izindi nzira Richard Kandt yanyuzemo mu Rwanda .",
+    "tgt_lang": [
+      "Ni urugendo rwahereye muri [ Priki yIbirunga ] icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira Richard Kandt yanyuzemo mu Rwanda.",
+      "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira [ Richard Kandt ] yanyuzemo mu Rwanda.",
+      "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira Richard Kandt yanyuzemo mu [ Rwanda ]."
+    ],
+    "r_logp_score": [
+      12.622065544128418,
+      14.701946258544922,
+      9.58558464050293
+    ],
+    "score": [
+      -149.2165069580078,
+      -151.3020782470703,
+      -149.41261291503906
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ni urugendo rwahereye muri [ Priki yIbirunga ] icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara , bakomereza nizindi nzira Richard Kandt yanyuzemo mu Rwanda .",
+      "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara , bakomereza nizindi nzira [ Richard Kandt ] yanyuzemo mu Rwanda .",
+      "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara , bakomereza nizindi nzira Richard Kandt yanyuzemo mu [ Rwanda ] ."
+    ]
+  },
+  {
+    "template": "Yakomeje ati “ Ntabwo tuzatangirira ku biciro biri hejuru , tugomba gutangirira hasi wenda umuntu akagenda azamuka bitewe n’uko abantu bagenda baza .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 77,
+    "src_lang": [
+      "Among the factors that have made [ Rwanda ] one of the best hosts for international conferences is that it is a safe, clean country, which has simplified the process of issuing visas and so on."
+    ],
+    "template": "Mu bituma u Rwanda ruza imbere mu bihugu byakira neza inama mpuzamahanga harimo kuba ari igihugu gitekanye , kirangwa n’isuku , kikaba cyaranoroheje uburyo bwo gutanga visa n’ibindi .",
+    "tgt_lang": [
+      "Mu bituma u [ Rwanda ] ruza imbere mu bihugu byakira neza inama mpuzamahanga harimo kuba ari igihugu gitekanye, kirangwa nisuku, kikaba cyaranoroheje uburyo bwo gutanga visa nibindi."
+    ],
+    "r_logp_score": [
+      4.722526550292969
+    ],
+    "score": [
+      -85.91619873046875
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Mu bituma u [ Rwanda ] ruza imbere mu bihugu byakira neza inama mpuzamahanga harimo kuba ari igihugu gitekanye , kirangwa nisuku , kikaba cyaranoroheje uburyo bwo gutanga visa nibindi ."
+    ]
+  },
+  {
+    "idx": 78,
+    "src_lang": [
+      "The tower's CEO, [ Patrick Branco Ruivo, ] says that since its closure in March, the Eiffel Tower has lost $30 million, the longest shutdown since World War II.",
+      "The tower's CEO, Patrick Branco Ruivo, says that since its closure in March, the [ Eiffel Tower ] has lost $30 million, the longest shutdown since World War II."
+    ],
+    "template": "Umuyobozi Mukuru w’uyu munara , Patrick Branco Ruivo , avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura , Tour Eiffel yahombye miliyoni $ 30 , igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma y’Intambara ya Kabiri y’Isi .",
+    "tgt_lang": [
+      "Umuyobozi Mukuru wuyu munara, [ Patrick Branco Ruivo, ] avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura, Tour Eiffel yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi.",
+      "Umuyobozi Mukuru wuyu munara, Patrick Branco Ruivo, avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura, [ Tour Eiffel ] yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi."
+    ],
+    "r_logp_score": [
+      7.187302112579346,
+      9.778387069702148
+    ],
+    "score": [
+      -165.72645568847656,
+      -169.79234313964844
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Umuyobozi Mukuru wuyu munara , [ Patrick Branco Ruivo , ] avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura , Tour Eiffel yahombye miliyoni $ 30 , igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi .",
+      "Umuyobozi Mukuru wuyu munara , Patrick Branco Ruivo , avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura , [ Tour Eiffel ] yahombye miliyoni $ 30 , igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi ."
+    ]
+  },
+  {
+    "template": "Ingabire yatweretse imyambaro y’abakobwa n’abagore bifuza kurimba muri ibi bihe by’impeshyi ayishyize mu byiciro bitatu ;",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 80,
+    "src_lang": [
+      "The house is located in [ Nyamasheke ] District of Shangi District, Kandt moved to Kigali in 1907, when he was appointed Rezida of Rwanda.",
+      "The house is located in Nyamasheke District of [ Shangi District, ] Kandt moved to Kigali in 1907, when he was appointed Rezida of Rwanda.",
+      "The house is located in Nyamasheke District of Shangi District, [ Kandt ] moved to Kigali in 1907, when he was appointed Rezida of Rwanda.",
+      "The house is located in Nyamasheke District of Shangi District, Kandt moved to [ Kigali ] in 1907, when he was appointed Rezida of Rwanda.",
+      "The house is located in Nyamasheke District of Shangi District, Kandt moved to Kigali in 1907, when he was appointed [ Rezida ] of Rwanda.",
+      "The house is located in Nyamasheke District of Shangi District, Kandt moved to Kigali in 1907, when he was appointed Rezida of [ Rwanda. ]"
+    ],
+    "template": "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi , Kandt , yaje kuruvamo ajya kuba i Kigali mu 1907 , ubwo yagirwaga Rezida w’u Rwanda .",
+    "tgt_lang": [
+      "Uru rugo ruherereye mu Karere ka [ Nyamasheke ] mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+      "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa [ Shangi, ] Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+      "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, [ Kandt ], yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+      "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i [ Kigali ] mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+      "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga [ Rezida ] wu Rwanda.",
+      "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida w [u Rwanda ]."
+    ],
+    "r_logp_score": [
+      12.662252426147461,
+      15.148456573486328,
+      5.1412458419799805,
+      4.165876865386963,
+      4.181295394897461,
+      9.22035026550293
+    ],
+    "score": [
+      -87.30708312988281,
+      -88.10757446289062,
+      -85.0621337890625,
+      -85.1994400024414,
+      -83.40118408203125,
+      -86.44550323486328
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Uru rugo ruherereye mu Karere ka [ Nyamasheke ] mu Murenge wa Shangi , Kandt , yaje kuruvamo ajya kuba i Kigali mu 1907 , ubwo yagirwaga Rezida wu Rwanda .",
+      "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa [ Shangi , ] Kandt , yaje kuruvamo ajya kuba i Kigali mu 1907 , ubwo yagirwaga Rezida wu Rwanda .",
+      "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi , [ Kandt ] , yaje kuruvamo ajya kuba i Kigali mu 1907 , ubwo yagirwaga Rezida wu Rwanda .",
+      "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi , Kandt , yaje kuruvamo ajya kuba i [ Kigali ] mu 1907 , ubwo yagirwaga Rezida wu Rwanda .",
+      "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi , Kandt , yaje kuruvamo ajya kuba i Kigali mu 1907 , ubwo yagirwaga [ Rezida ] wu Rwanda .",
+      "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi , Kandt , yaje kuruvamo ajya kuba i Kigali mu 1907 , ubwo yagirwaga Rezida [ wu Rwanda ] ."
+    ]
+  },
+  {
+    "template": "Benshi mu bakiliya barwo akenshi babaga ari abanyamahanga ariko ingamba zashyizweho zo kwirinda coronavirus zishobora gukoma mu nkokora urwo rwego , kuko abakerarugendo mpuzamahanga bizatwara igihe ngo batangire kugaruka .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Nko kuva ku wa 1 Nyakanga kugeza ku wa 30 Nzeri 2020 , abashaka gukora urugendo rw’amasaha abiri muri kajugujugu R44 y’imyanya itatu , igiciro cyavuye ku $ 1600 kiba $ 1120 naho muri A119 y’imyanya itandatu cyavuye ku $ 4000 kiba $ 2800 .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 83,
+    "src_lang": [
+      "A spokesman for the park, [ Isaac Phaahla, ] told CNN It was rare to see them lying in the street during the day because of the constant traffic that forced them to flee into the",
+      "A spokesman for the park, Isaac Phaahla, told [ CNN ] It was rare to see them lying in the street during the day because of the constant traffic that forced them to flee into the"
+    ],
+    "template": "Umuvugizi w’iyo pariki , Isaac Phaahla yabwiye CNN ati “ Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya n’uruza bigatuma zihungira mu bihuru .",
+    "tgt_lang": [
+      "Umuvugizi wiyo pariki, [ Isaac Phaahla ] yabwiye CNN ati  Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru.",
+      "Umuvugizi wiyo pariki, Isaac Phaahla yabwiye [ CNN ] ati  Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru."
+    ],
+    "r_logp_score": [
+      12.182741165161133,
+      5.11904764175415
+    ],
+    "score": [
+      -103.54612731933594,
+      -101.12867736816406
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Umuvugizi wiyo pariki , [ Isaac Phaahla ] yabwiye CNN ati Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru .",
+      "Umuvugizi wiyo pariki , Isaac Phaahla yabwiye [ CNN ] ati Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru ."
+    ]
+  },
+  {
+    "idx": 84,
+    "src_lang": [
+      "You have 72 hours to cast your vote and name one of [ Rwanda's ] new baby mountain gorillas."
+    ],
+    "template": "You've got 72 hours to cast your vote and name one of Rwanda's new baby mountain gorillas .",
+    "tgt_lang": [
+      "You've got 72 hours to cast your vote and name one of [ Rwanda's ] new baby mountain gorillas."
+    ],
+    "r_logp_score": [
+      1.940871000289917
+    ],
+    "score": [
+      -41.898494720458984
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "You've got 72 hours to cast your vote and name one of [ Rwanda's ] new baby mountain gorillas ."
+    ]
+  },
+  {
+    "template": "Bwavuze ko yari yari afite ihungabana ryinshi’ ari naryo ryatumye ahitamo kwiyambura ubuzima .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 86,
+    "src_lang": [
+      "The head of the [ Ministry of Cultural Heritage of Rwanda, ] Amb Robert Masozera, said that promoting tourism based on the Kandt expedition was not to promote his achievements as it was not good but the destination was a good place to grow and expand tourism beyond the jungle and parks.",
+      "The head of the Ministry of Cultural Heritage of Rwanda, Amb [ Robert Masozera, ] said that promoting tourism based on the Kandt expedition was not to promote his achievements as it was not good but the destination was a good place to grow and expand tourism beyond the jungle and parks.",
+      "The head of the Ministry of Cultural Heritage of Rwanda, Amb Robert Masozera, said that promoting tourism based on the [ Kandt ] expedition was not to promote his achievements as it was not good but the destination was a good place to grow and expand tourism beyond the jungle and parks."
+    ],
+    "template": "Umuyobozi w’Ingoro z’Umurage w’u Rwanda , Amb Robert Masozera , yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt ‘atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki’ .",
+    "tgt_lang": [
+      "Umuyobozi w [Ingoro zUmurage wu Rwanda, ] Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki.",
+      "Umuyobozi wIngoro zUmurage wu Rwanda, Amb [ Robert Masozera, ] yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki.",
+      "Umuyobozi wIngoro zUmurage wu Rwanda, Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa [ Kandt ] atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki."
+    ],
+    "r_logp_score": [
+      8.849323272705078,
+      10.422784805297852,
+      5.1412458419799805
+    ],
+    "score": [
+      -161.9085693359375,
+      -164.9149169921875,
+      -164.9438934326172
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Umuyobozi [ wIngoro zUmurage wu Rwanda , ] Amb Robert Masozera , yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki .",
+      "Umuyobozi wIngoro zUmurage wu Rwanda , Amb [ Robert Masozera , ] yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki .",
+      "Umuyobozi wIngoro zUmurage wu Rwanda , Amb Robert Masozera , yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa [ Kandt ] atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki ."
+    ]
+  },
+  {
+    "idx": 87,
+    "src_lang": [
+      "In 2018, [ Rwanda ] was visited by 1 million tourists."
+    ],
+    "template": "Mu 2018 , u Rwanda rwasuwe n’abakerarugendo miliyoni 1 .",
+    "tgt_lang": [
+      "Mu 2018, u [ Rwanda ] rwasuwe nabakerarugendo miliyoni 1."
+    ],
+    "r_logp_score": [
+      4.722521781921387
+    ],
+    "score": [
+      -41.34037399291992
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Mu 2018 , u [ Rwanda ] rwasuwe nabakerarugendo miliyoni 1 ."
+    ]
+  },
+  {
+    "template": "Urakomanga ugategereza ko abasore bahakora baza kukubaza ikikugenza bakaguha uburenganzira bwo kujyamo , bivuze ko hari n’ubwo bashobora kubukwima bitewe n’impamvu runaka .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 89,
+    "src_lang": [
+      "The ingagi baby named [ Icyamamare ] began to be sought for a name through National Geographic",
+      "The ingagi baby named Icyamamare began to be sought for a name through [ National Geographic ]"
+    ],
+    "template": "Umwana w’ingagi yitwa Icyamamare yatangiye gushakirwa izina binyuze kuri National Geographic",
+    "tgt_lang": [
+      "Umwana wingagi yitwa [ Icyamamare ] yatangiye gushakirwa izina binyuze kuri National Geographic",
+      "Umwana wingagi yitwa Icyamamare yatangiye gushakirwa izina binyuze kuri [ National Geographic ]"
+    ],
+    "r_logp_score": [
+      30.885046005249023,
+      7.476008415222168
+    ],
+    "score": [
+      -31.139543533325195,
+      -28.829620361328125
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Umwana wingagi yitwa [ Icyamamare ] yatangiye gushakirwa izina binyuze kuri National Geographic",
+      "Umwana wingagi yitwa Icyamamare yatangiye gushakirwa izina binyuze kuri [ National Geographic ]"
+    ]
+  },
+  {
+    "template": "Yakomeje ati “ Ibyumba birateguye , umuntu akeneye icyumba ashobora kukibona , ariko kuva bafungura nta mukiliya [ uraboneka ] .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 91,
+    "src_lang": [
+      "Among them are the [ Golden Monkeys of Volcanoes National Park. ]"
+    ],
+    "template": "Muri ibyo harimo Inkima zifite ibara rya Zahabu ( Golden Monkies ) ziba muri Pariki y’Ibirunga .",
+    "tgt_lang": [
+      "Muri ibyo harimo [ Inkima zifite ibara rya Zahabu ( Golden Monkies ) ziba muri Pariki yIbirunga ]."
+    ],
+    "r_logp_score": [
+      15.664005279541016
+    ],
+    "score": [
+      -113.30318450927734
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Muri ibyo harimo [ Inkima zifite ibara rya Zahabu ( Golden Monkies ) ziba muri Pariki yIbirunga ] ."
+    ]
+  },
+  {
+    "template": "Ku rugendo rw’iminota 30 , igiciro cyavuye ku $ 500 ku ndege y’imyanya itatu kigera ku $ 350 , naho ku y’imyanya itandatu kiva ku $ 1000 kigera ku $ 700 .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Bivuze ko kuva igihe twongereye ibiciro by’ingagi , amafaranga tubona ubu ngubu aruta amafaranga twabonaga mbere yuko twongera igiciro no mu bihe ba mukerarugendo baba ari bake .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Nyuma y’itangazwa ry’ibyo biciro , abantu bavuze byinshi ko Abanyarwanda batazajya babasha kwishyura ayo mafaranga , ariko baza gushyirirwaho gahunda zihariye zibafasha kwitegereza ibyiza igihugu cyabo gifite .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 95,
+    "src_lang": [
+      "[ Hurley ] posted on Instagram expressing her grief over the death of Steve Bing.",
+      "Hurley posted on Instagram expressing her grief over the death of [ Steve Bing. ]"
+    ],
+    "template": "Hurley babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda n’urupfu rwa Steve Bing .",
+    "tgt_lang": [
+      "[ Hurley ] babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda nurupfu rwa Steve Bing.",
+      "Hurley babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda nurupfu rwa [ Steve Bing ]."
+    ],
+    "r_logp_score": [
+      1.8016579151153564,
+      10.352331161499023
+    ],
+    "score": [
+      -61.181732177734375,
+      -59.50469207763672
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Hurley ] babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda nurupfu rwa Steve Bing .",
+      "Hurley babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda nurupfu rwa [ Steve Bing ] ."
+    ]
+  },
+  {
+    "idx": 96,
+    "src_lang": [
+      "Otherwise, the way of travel in the provinces is that one buys a ticket from perhaps [ Kigali ] to Musanze, we are looking at how it can be integrated with it is used in Kigali, but there is also the use of a phone so that it can also work as a card and this technology we have already achieved.",
+      "Otherwise, the way of travel in the provinces is that one buys a ticket from perhaps Kigali to [ Musanze, ] we are looking at how it can be integrated with it is used in Kigali, but there is also the use of a phone so that it can also work as a card and this technology we have already achieved.",
+      "Otherwise, the way of travel in the provinces is that one buys a ticket from perhaps Kigali to Musanze, we are looking at how it can be integrated with it is used in [ Kigali, ] but there is also the use of a phone so that it can also work as a card and this technology we have already achieved."
+    ],
+    "template": "Ati “ Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i Musanze , turimo kureba uko byahuzwa n’irikoreshwa i Kigali , ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nk’ikarita kandi iryo koranabuhanga tumaze kurigera kure .",
+    "tgt_lang": [
+      "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i [ Kigali ] akajya i Musanze, turimo kureba uko byahuzwa nirikoreshwa i Kigali, ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+      "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i [ Musanze, ] turimo kureba uko byahuzwa nirikoreshwa i Kigali, ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+      "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i Musanze, turimo kureba uko byahuzwa nirikoreshwa i [ Kigali, ] ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure."
+    ],
+    "r_logp_score": [
+      4.165876865386963,
+      21.794015884399414,
+      2.6146883964538574
+    ],
+    "score": [
+      -141.8677520751953,
+      -141.73184204101562,
+      -139.8585968017578
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ati Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i [ Kigali ] akajya i Musanze , turimo kureba uko byahuzwa nirikoreshwa i Kigali , ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure .",
+      "Ati Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i [ Musanze , ] turimo kureba uko byahuzwa nirikoreshwa i Kigali , ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure .",
+      "Ati Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i Musanze , turimo kureba uko byahuzwa nirikoreshwa i [ Kigali , ] ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure ."
+    ]
+  },
+  {
+    "idx": 97,
+    "src_lang": [
+      "You walk about 50 meters to some old houses built in the 1930s, when [ Rwanda ] was under the control of the Belgians but apparently they were among the most modern in their time."
+    ],
+    "template": "Ugenda nka metero 50 ukagera ku nzu zimaze igihe zubatswe mu 1930 , mu gihe u Rwanda rwagenzurwaga n’Ababiligi ariko bigaragara ko mu gihe cyazo zari mu zigezweho .",
+    "tgt_lang": [
+      "Ugenda nka metero 50 ukagera ku nzu zimaze igihe zubatswe mu 1930, mu gihe u [ Rwanda ] rwagenzurwaga nAbabiligi ariko bigaragara ko mu gihe cyazo zari mu zigezweho."
+    ],
+    "r_logp_score": [
+      4.722521781921387
+    ],
+    "score": [
+      -84.54634094238281
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ugenda nka metero 50 ukagera ku nzu zimaze igihe zubatswe mu 1930 , mu gihe u [ Rwanda ] rwagenzurwaga nAbabiligi ariko bigaragara ko mu gihe cyazo zari mu zigezweho ."
+    ]
+  },
+  {
+    "idx": 98,
+    "src_lang": [
+      "A researcher at the [ National Institute of Cultural Heritage, ] Mugabowagahunde Maurice, said it was in this house that Kandt did his research.",
+      "A researcher at the National Institute of Cultural Heritage, [ Mugabowagahunde ] Maurice, said it was in this house that Kandt did his research.",
+      "A researcher at the National Institute of Cultural Heritage, Mugabowagahunde [ Maurice, ] said it was in this house that Kandt did his research.",
+      "A researcher at the National Institute of Cultural Heritage, Mugabowagahunde Maurice, said it was in this house that [ Kandt ] did his research."
+    ],
+    "template": "Umushakashatsi mu kigo cy’igihugu cy’ingoro z’Umurage , Mugabowagahunde Maurice , yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye .",
+    "tgt_lang": [
+      "Umushakashatsi mu [ kigo cyigihugu cyingoro zUmurage, ] Mugabowagahunde Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+      "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, [ Mugabowagahunde ] Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+      "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde [ Maurice, ] yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+      "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde Maurice, yavuze ko muri uru rugo ariho [ Kandt ] yakoreraga ubushakashatsi butandukanye."
+    ],
+    "r_logp_score": [
+      20.39451026916504,
+      19.072490692138672,
+      1.344430685043335,
+      5.1412458419799805
+    ],
+    "score": [
+      -82.43263244628906,
+      -75.7243881225586,
+      -78.49775695800781,
+      -76.31477355957031
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Umushakashatsi mu [ kigo cyigihugu cyingoro zUmurage , ] Mugabowagahunde Maurice , yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye .",
+      "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage , [ Mugabowagahunde ] Maurice , yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye .",
+      "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage , Mugabowagahunde [ Maurice , ] yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye .",
+      "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage , Mugabowagahunde Maurice , yavuze ko muri uru rugo ariho [ Kandt ] yakoreraga ubushakashatsi butandukanye ."
+    ]
+  },
+  {
+    "idx": 99,
+    "src_lang": [
+      "The benefits of the [ RDB ] collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as Youtube increased by 100%, Instagram increased by 507%, Twitter increased by 72% and Facebook increased by 30%.",
+      "The benefits of the RDB collaboration are also evident in the number of visitors to Visit [ Rwanda, ] where the number of followers on social media platforms such as Youtube increased by 100%, Instagram increased by 507%, Twitter increased by 72% and Facebook increased by 30%.",
+      "The benefits of the RDB collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as [ Youtube ] increased by 100%, Instagram increased by 507%, Twitter increased by 72% and Facebook increased by 30%.",
+      "The benefits of the RDB collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as Youtube increased by 100%, [ Instagram ] increased by 507%, Twitter increased by 72% and Facebook increased by 30%.",
+      "The benefits of the RDB collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as Youtube increased by 100%, Instagram increased by 507%, [ Twitter ] increased by 72% and Facebook increased by 30%.",
+      "The benefits of the RDB collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as Youtube increased by 100%, Instagram increased by 507%, Twitter increased by 72% and [ Facebook ] increased by 30%."
+    ],
+    "template": "Inyungu kandi y’ubwo bufatanye RDB igaragaza ko ibonekera mu mubare w’abatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 % , kuri Instagram biyongeye ku kigero cya 507 % , kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+    "tgt_lang": [
+      "Inyungu kandi yubwo bufatanye [ RDB ] igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+      "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura [ u Rwanda ] ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+      "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka [ Youtube ] ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+      "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri [ Instagram ] biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+      "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri [ Twitter ] biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+      "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri [ Facebook ] biyongeyere ku kigero cya"
+    ],
+    "r_logp_score": [
+      2.3810105323791504,
+      7.942437171936035,
+      10.16940689086914,
+      7.885926723480225,
+      6.07339334487915,
+      7.753885746002197
+    ],
+    "score": [
+      -214.9613800048828,
+      -222.1952667236328,
+      -211.0631866455078,
+      -212.70408630371094,
+      -213.70448303222656,
+      -214.00567626953125
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Inyungu kandi yubwo bufatanye [ RDB ] igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 % , kuri Instagram biyongeye ku kigero cya 507 % , kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+      "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura [ u Rwanda ] ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 % , kuri Instagram biyongeye ku kigero cya 507 % , kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+      "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka [ Youtube ] ababikurikira biyongereye ku kigero cya cya 100 % , kuri Instagram biyongeye ku kigero cya 507 % , kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+      "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 % , kuri [ Instagram ] biyongeye ku kigero cya 507 % , kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+      "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 % , kuri Instagram biyongeye ku kigero cya 507 % , kuri [ Twitter ] biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+      "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 % , kuri Instagram biyongeye ku kigero cya 507 % , kuri Twitter biyongera ku kigero cya 72 % naho kuri [ Facebook ] biyongeyere ku kigero cya"
+    ]
+  }
+]

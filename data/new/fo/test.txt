@@ -1,0 +1,915 @@
+Gáta NOUN
+: PUNCT
+Ein DET
+gáta NOUN
+er VERB
+ein DET
+stutt ADJ
+søga NOUN
+, PUNCT
+sum PRON
+endar VERB
+við ADP
+einum DET
+spurningi NOUN
+. PUNCT
+
+Pávin NOUN
+er VERB
+hægsti ADJ
+myndugleiki NOUN
+fyri ADP
+róma- NOUN
+kirkjuni NOUN
+. PUNCT
+
+Ein DET
+trummuspælari NOUN
+við ADP
+navnið NOUN
+Chad PROPN
+Smith PROPN
+kom VERB
+við ADP
+í ADP
+tónleikabólkinum NOUN
+. PUNCT
+
+Tey PRON
+eru VERB
+eisini ADV
+undir ADP
+Grønlandi PROPN
+og CCONJ
+Føroyum PROPN
+. PUNCT
+
+Hann PRON
+var VERB
+eirindaleysur ADJ
+einaræðisharri NOUN
+. PUNCT
+
+Mitt ADV
+í ADP
+Moskva PROPN
+er VERB
+Kreml PROPN
+, PUNCT
+russiska ADJ
+tinginum NOUN
+. PUNCT
+
+Hansara PRON
+stóri ADJ
+áhugi NOUN
+er VERB
+tónleikur NOUN
+. PUNCT
+
+Í ADP
+Íslandi NOUN
+er VERB
+stovnurin NOUN
+fleiri ADJ
+ferðir NOUN
+so ADV
+stórur ADJ
+. PUNCT
+
+Høvuðsstaður NOUN
+er VERB
+Lilongwe PROPN
+. PUNCT
+
+Fram X
+við ADP
+strondini NOUN
+eru VERB
+mong ADJ
+stór ADJ
+oljureinsiverk NOUN
+. PUNCT
+
+Hernaðarstýrið NOUN
+var VERB
+frá ADP
+1962 NUM
+til ADP
+2011 NUM
+. PUNCT
+
+Høvuðsstaðurin NOUN
+í ADP
+Noregi PROPN
+er VERB
+Oslo PROPN
+. PUNCT
+
+Hetta PRON
+var VERB
+ein DET
+góð ADJ
+avgerð NOUN
+. PUNCT
+
+Luzern PROPN
+og CCONJ
+Lugano PROPN
+eru VERB
+viðgitnir ADJ
+ferðamannabýir NOUN
+. PUNCT
+
+Stórur ADJ
+tørvur NOUN
+er VERB
+á ADP
+útbúgving NOUN
+og CCONJ
+heilsuhjálp NOUN
+. PUNCT
+
+Naksos PROPN
+er VERB
+kent VERB
+fyri ADP
+síni DET
+eplir NOUN
+í ADP
+restini NOUN
+av ADP
+Grikkalandi PROPN
+. PUNCT
+
+Mismunur NOUN
+verður VERB
+í ADP
+stóran ADJ
+mun NOUN
+gjørdur VERB
+mótvegis ADP
+kvinnum NOUN
+. PUNCT
+
+Hann PRON
+er VERB
+vakur ADJ
+býur NOUN
+við ADP
+prýðiligum ADJ
+bygningum NOUN
+og CCONJ
+vakstrargørðum NOUN
+. PUNCT
+
+Norðmenn NOUN
+eru VERB
+stoltir ADJ
+av ADP
+sínum DET
+tjóðardegi NOUN
+. PUNCT
+
+Har ADV
+eru VERB
+eisini ADV
+stór ADJ
+margarin- NOUN
+og CCONJ
+sápuvirki NOUN
+. PUNCT
+
+Seyður NOUN
+á ADP
+vegnum NOUN
+er VERB
+ein DET
+stórur ADJ
+trupulleiki NOUN
+í ADP
+Føroyum PROPN
+. PUNCT
+
+Bjørnin NOUN
+er VERB
+størsta ADJ
+rovdýrið NOUN
+í ADP
+West PROPN
+Virginia PROPN
+. PUNCT
+
+Meginparturin NOUN
+av ADP
+fólkinum NOUN
+eru VERB
+lutherskar ADJ
+. PUNCT
+
+Hetta PRON
+verður VERB
+ofta ADV
+nevnt VERB
+at PART
+hava VERB
+“ PUNCT
+formansskapin NOUN
+í ADP
+ES NOUN
+” PUNCT
+. PUNCT
+
+Høvuðsstaður NOUN
+er VERB
+Mariehamn PROPN
+. PUNCT
+
+Avgerðin NOUN
+um ADP
+at PART
+gevast VERB
+í ADP
+filmsídnaðinum NOUN
+. PUNCT
+
+Eftir ADP
+tað PRON
+flutti VERB
+hon PRON
+til ADP
+Bergens PROPN
+, PUNCT
+og CCONJ
+tók VERB
+cand. NOUN
+polit NOUN
+. PUNCT
+
+Nógvir ADJ
+indiánar NOUN
+í ADP
+Utah PROPN
+vóru VERB
+eisini ADV
+dugnaligir ADJ
+handverkarar NOUN
+. PUNCT
+
+Høvuðsstaður NOUN
+er VERB
+Kiel PROPN
+. PUNCT
+
+So ADV
+varð VERB
+. PUNCT
+
+Tronga ADJ
+sundið NOUN
+við ADP
+Gibraltar PROPN
+er VERB
+einasta ADJ
+farleið NOUN
+úr ADP
+Miðjarðarhavi PROPN
+í ADP
+Atlantshav PROPN
+. PUNCT
+
+Nú ADV
+á ADP
+døgum NOUN
+eru VERB
+indiánarnir NOUN
+í ADP
+minniluta NOUN
+allastaðni ADV
+í ADP
+USA NOUN
+. PUNCT
+
+Har ADV
+er VERB
+nógv ADJ
+gull NOUN
+og CCONJ
+kopar NOUN
+. PUNCT
+
+Konservatisma NOUN
+er VERB
+í ADP
+stóran ADJ
+mun NOUN
+grundað VERB
+á ADP
+liberalismu NOUN
+. PUNCT
+
+Í ADP
+dag NOUN
+er VERB
+fótbóltsvøllur NOUN
+, PUNCT
+har ADV
+Holið NOUN
+var VERB
+. PUNCT
+
+Hon PRON
+hevur VERB
+eisini ADV
+teknað VERB
+nógv ADJ
+frímerki NOUN
+og CCONJ
+jólamerki NOUN
+. PUNCT
+
+Í ADP
+Kalifornia PROPN
+er VERB
+deyðarevsing NOUN
+. PUNCT
+
+Hon PRON
+fer VERB
+aftan ADP
+á ADP
+djóraætinum NOUN
+, PUNCT
+ið SCONJ
+eisini ADV
+fer VERB
+uppeftir ADV
+um ADP
+náttina NOUN
+. PUNCT
+
+Men CCONJ
+tó ADV
+eru VERB
+undantøk NOUN
+. PUNCT
+
+Greinarnar NOUN
+eru VERB
+taktar ADJ
+uttan ADV
+við ADP
+grasi NOUN
+og CCONJ
+leyvi NOUN
+. PUNCT
+
+Meginparturin NOUN
+av ADP
+fólkinum NOUN
+er VERB
+katolikkar NOUN
+. PUNCT
+
+Hon PRON
+vann VERB
+gullnál NOUN
+. PUNCT
+
+Floygdir ADJ
+ungar NOUN
+eru VERB
+littir ADJ
+sum SCONJ
+bøgan NOUN
+. PUNCT
+
+Og CCONJ
+soleiðis ADV
+bleiv VERB
+tað PRON
+eisini ADV
+. PUNCT
+
+Aalborg PROPN
+er VERB
+vinarbýur NOUN
+hjá ADP
+Fuglafirði PROPN
+. PUNCT
+
+Denver PROPN
+: PUNCT
+Denver PROPN
+er VERB
+býur NOUN
+í ADP
+Colorado PROPN
+. PUNCT
+
+Og CCONJ
+hon PRON
+kom VERB
+at PART
+virka VERB
+í ADP
+bestu ADJ
+semju NOUN
+við ADP
+fólkakirkjuna NOUN
+. PUNCT
+
+Í ADP
+2011 NUM
+vóru VERB
+14 NUM
+nýggir ADJ
+bussar NOUN
+keyptir VERB
+til ADP
+býbusskoyringini NOUN
+hjá ADP
+Tórshavnar PROPN
+kommunu NOUN
+. PUNCT
+
+Um ADP
+orðið NOUN
+. PUNCT
+
+Hegri NOUN
+stendur VERB
+í ADP
+kjallara NOUN
+. PUNCT
+
+Nuuk PROPN
+er VERB
+nútíðarbýur NOUN
+í ADP
+menning NOUN
+. PUNCT
+
+Størsti ADJ
+býur NOUN
+í ADP
+Sælandi PROPN
+er VERB
+Keypmannahavn PROPN
+. PUNCT
+
+Landsstýrið NOUN
+er VERB
+hægsti ADJ
+umsitingarligi ADJ
+myndugleiki NOUN
+í ADP
+Føroyum PROPN
+. PUNCT
+
+26 NUM
+kommunur NOUN
+eru VERB
+í ADP
+Rogaland PROPN
+og CCONJ
+Stavanger PROPN
+er VERB
+fyrisitingarbýur NOUN
+í ADP
+fylkinum NOUN
+. PUNCT
+
+Í ADP
+2012 NUM
+er VERB
+hann PRON
+venjari NOUN
+hjá ADP
+B71 NUM
+, PUNCT
+sum PRON
+spælir VERB
+í ADP
+1. ADJ
+deild NOUN
+. PUNCT
+
+Aðrir ADJ
+trúarbólkar NOUN
+í ADP
+Føroyum PROPN
+eru VERB
+t.d. NOUN
+islam NOUN
+. PUNCT
+
+Búskaparligu ADJ
+broytingarnar NOUN
+vóru VERB
+eisini ADV
+stórar ADJ
+. PUNCT
+
+Høvuðsstaðurin NOUN
+og CCONJ
+størsti ADJ
+býurin NOUN
+er VERB
+Providence PROPN
+. PUNCT
+
+Høvuðsstaðurin NOUN
+er VERB
+Oslo PROPN
+. PUNCT
+
+Meginparturin NOUN
+av ADP
+fólkinum NOUN
+í ADP
+Butan PROPN
+býr VERB
+á ADP
+bygd NOUN
+og CCONJ
+livir VERB
+av ADP
+landbúnaði NOUN
+. PUNCT
+
+Hon PRON
+er VERB
+nú ADV
+alfriðað VERB
+. PUNCT
+
+Føroyskt ADJ
+mál NOUN
+: PUNCT
+Føroyskt ADJ
+er VERB
+høvuðsmálið NOUN
+í ADP
+Føroyum PROPN
+. PUNCT
+
+Tá X
+ið SCONJ
+kommunisman NOUN
+kom VERB
+til ADP
+Russlands PROPN
+. PUNCT
+
+Endamál NOUN
+felagsins NOUN
+er VERB
+at PART
+varðveita VERB
+gomlu ADJ
+føroysku ADJ
+bátamentanina NOUN
+. PUNCT
+
+Sí VERB
+dømini NOUN
+fyri ADP
+at PART
+síggja VERB
+gongdina NOUN
+. PUNCT
+
+Í ADP
+895 NUM
+var VERB
+ungarskt ADJ
+landnám NOUN
+. PUNCT
+
+Í ADP
+stórbýum NOUN
+sum ADP
+Keypmannahavn PROPN
+er VERB
+nógv ADJ
+fartan NOUN
+aftur ADV
+og CCONJ
+fram ADV
+. PUNCT
+
+Nú ADV
+er VERB
+landið NOUN
+betur ADV
+kent VERB
+fyri ADP
+at PART
+vera VERB
+miðstøð NOUN
+fyri ADP
+evropeiskar ADJ
+rúmdarverkætlanir NOUN
+. PUNCT
+
+Kuldin NOUN
+sýnist VERB
+ikki ADV
+at PART
+rína VERB
+á ADP
+honum PRON
+. PUNCT
+
+Fólkatalið NOUN
+er VERB
+í ADP
+dag NOUN
+102 NUM
+. PUNCT
+
+Kongadagur NOUN
+: PUNCT
+Kongadagur NOUN
+er VERB
+11. ADJ
+februar NOUN
+. PUNCT
+
+Atlanta PROPN
+er VERB
+høvuðsstaðurin NOUN
+og CCONJ
+størsti ADJ
+býurin NOUN
+. PUNCT
+
+Akførini NOUN
+hjá ADP
+sløkkiliðnum NOUN
+eru VERB
+somuleiðis ADV
+í ADP
+ringum ADJ
+standi NOUN
+. PUNCT
+
+Býurin NOUN
+er VERB
+handils- NOUN
+og CCONJ
+samferðslumiðdepilin NOUN
+í ADP
+lutstatinum NOUN
+. PUNCT
+
+Bisjkek PROPN
+er VERB
+bæði CCONJ
+høvuðsstaður NOUN
+og CCONJ
+størsti ADJ
+býur NOUN
+í ADP
+Kirgisistan PROPN
+. PUNCT
+
+Endaliga ADJ
+støðan NOUN
+sæst VERB
+í ADP
+klombrunum NOUN
+. PUNCT
+
+Summir DET
+soppar NOUN
+liva VERB
+sum SCONJ
+snultarar NOUN
+á ADP
+dýrum ADJ
+og CCONJ
+plantum NOUN
+. PUNCT
+
+Ferðavinnan NOUN
+hevur VERB
+stóran ADJ
+týdning NOUN
+fyri ADP
+Áland NOUN
+. PUNCT
+
+Barbara PROPN
+byggir VERB
+á ADP
+skaldsøgu NOUN
+eftir ADP
+Jørgen PROPN
+- PUNCT
+Frantz PROPN
+Jacobsen PROPN
+. PUNCT
+
+Býurin NOUN
+var VERB
+høvuðsstaður NOUN
+í ADP
+ríkinum NOUN
+leingi ADV
+. PUNCT
+
+Svarið NOUN
+er VERB
+ein DET
+kúgv NOUN
+. PUNCT
+
+Tað PRON
+eru VERB
+36 NUM
+kommunur NOUN
+í ADP
+Møre PROPN
+og CCONJ
+Romsdal PROPN
+. PUNCT
+
+Høvuðsstaðurin NOUN
+er VERB
+Harrisburg PROPN
+og CCONJ
+størsti ADJ
+býurin NOUN
+er VERB
+Philadelphia PROPN
+. PUNCT
+
+Tvær NUM
+ferðir NOUN
+varð VERB
+hann PRON
+útnevndur VERB
+Ársins NOUN
+evropeiski ADJ
+fótbóltsleikari NOUN
+. PUNCT
+
+Hetta PRON
+kom VERB
+í ADP
+lag NOUN
+við ADP
+kongsbrævi NOUN
+, PUNCT
+dagfest VERB
+19. ADJ
+mars NOUN
+. PUNCT
+
+Í ADP
+Panama PROPN
+eru VERB
+nógvar ADJ
+áir NOUN
+. PUNCT
+
+Týskland PROPN
+var VERB
+fallið NOUN
+. PUNCT
+
+Á ADP
+mongum ADJ
+oyggjum NOUN
+eru VERB
+amerikanskar ADJ
+hernaðarstøðir NOUN
+. PUNCT
+
+Barnablaðið PROPN
+: PUNCT
+Barnablaðið PROPN
+er VERB
+eitt DET
+føroyskt ADJ
+tíðarrit NOUN
+fyri ADP
+børn NOUN
+. PUNCT
+
+Men CCONJ
+hetta PRON
+var VERB
+honum PRON
+ikki ADV
+nokk ADV
+. PUNCT
+
+Í ADP
+2014 NUM
+eru VERB
+164 X
+130 NUM
+menn NOUN
+og CCONJ
+162 X
+920 NUM
+kvinnur NOUN
+. PUNCT
+
+Fyrr ADV
+vóru VERB
+stórir ADJ
+skógir NOUN
+á ADP
+Fílabeinsstrondini NOUN
+. PUNCT
+
+Har ADV
+áin NOUN
+rennur VERB
+í ADP
+havið NOUN
+, PUNCT
+eru VERB
+stórar ADJ
+fruktagóðar ADJ
+oyrar NOUN
+. PUNCT
+
+Á ADP
+tunguni NOUN
+eru VERB
+smáar ADJ
+tenn NOUN
+. PUNCT
+
+Undir ADP
+ABC-samgonguni NOUN
+varð VERB
+Samvit NOUN
+í ADP
+2009 NUM
+lagt VERB
+undir ADP
+Uttanríkisráðið NOUN
+. PUNCT
+
+Funningur PROPN
+var VERB
+nýggjársbygd NOUN
+. PUNCT
+
+Í ADP
+2010 NUM
+var VERB
+fólkatalið NOUN
+í ADP
+býnum NOUN
+9.065 NUM
+. PUNCT
+
+Høgar ADJ
+brekkur NOUN
+eru VERB
+fram X
+við ADP
+strondini NOUN
+, PUNCT
+og CCONJ
+í ADP
+dølunum NOUN
+eru VERB
+umstøðurnar NOUN
+góðar ADJ
+til ADP
+landbúnað NOUN
+. PUNCT
+
+Men CCONJ
+búskapar- NOUN
+og CCONJ
+ídnaðarmiðdepilin NOUN
+í ADP
+landinum NOUN
+er VERB
+Johannesburg PROPN
+, PUNCT
+eisini ADV
+nevndur VERB
+" PUNCT
+Gullbýurin NOUN
+" PUNCT
+. PUNCT
+
+Betesda PROPN
+: PUNCT
+Betesda PROPN
+er VERB
+brøðrasamkoma NOUN
+í ADP
+Klaksvík PROPN
+. PUNCT
+

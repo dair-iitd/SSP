@@ -1,0 +1,4 @@
+Provide the person in the following sentence. If there are none, respond with 'None'. If there are multiple, separate them with semicolons.
+
+{{sentence}}
+Person: 

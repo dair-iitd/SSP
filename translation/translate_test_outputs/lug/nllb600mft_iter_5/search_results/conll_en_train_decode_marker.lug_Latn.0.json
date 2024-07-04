@@ -1,0 +1,1492 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "He left behind two children and a wife, [ Patience Kyomugisha ] but the death of her husband, found her to have gone on holiday to Saudi Arabia.",
+      "He left behind two children and a wife, Patience Kyomugisha but the death of her husband, found her to have gone on holiday to [ Saudi Arabia. ]"
+    ],
+    "src_entities": [
+      "Patience Kyomugisha",
+      "Saudi Arabia."
+    ],
+    "template": "Yalesse abaana babiri nomukyala , Patience Kyomugisha wabula ono okufa kwa bba , kwamusanze yagenda ku kyeyo e Saudi Arabia .",
+    "tgt_lang": [
+      [
+        "Yalesse abaana babiri nomukyala, [ Patience Kyomugisha ] wabula ono okufa kwa bba, kwamusanze yagenda ku kyeyo e Saudi Arabia.",
+        "Yalesse abaana babiri nomukyala [, Patience Kyomugisha ] wabula ono okufa kwa bba, kwamusanze yagenda ku kyeyo e Saudi Arabia.",
+        "Yalesse abaana babiri nomukyala, [ ] Patience Kyomugisha wabula ono okufa kwa bba, kwamusanze yagenda ku kyeyo e Saudi Arabia.",
+        "Yalesse abaana babiri nomukyala, [ Patience ] Kyomugisha wabula ono okufa kwa bba, kwamusanze yagenda ku kyeyo e Saudi Arabia.",
+        "Yalesse abaana babiri nomukyala, [ Patience Kyomugisha wabula ono ] okufa kwa bba, kwamusanze yagenda ku kyeyo e Saudi Arabia."
+      ],
+      [
+        "Yalesse abaana babiri nomukyala, Patience Kyomugisha wabula ono okufa kwa bba, kwamusanze yagenda ku kyeyo e [ Saudi Arabia ].",
+        "Yalesse abaana babiri nomukyala, Patience Kyomugisha wabula ono okufa kwa bba, kwamusanze yagenda ku kyeyo e [ Saudi Arabia. ]",
+        "Yalesse abaana babiri nomukyala, Patience Kyomugisha wabula ono okufa kwa bba, kwamusanze yagenda ku kyeyo [ e Saudi Arabia ].",
+        "Yalesse abaana babiri nomukyala, Patience Kyomugisha wabula ono okufa kwa bba, kwamusanze yagenda ku kyeyo [ e Saudi Arabia. ]",
+        "Yalesse abaana babiri nomukyala, Patience Kyomugisha wabula ono okufa kwa bba, kwamusanze yagenda ku kyeyo e Saudi Arabia [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Patience Kyomugisha",
+        ", Patience Kyomugisha",
+        "",
+        "Patience",
+        "Patience Kyomugisha wabula ono"
+      ],
+      [
+        "Saudi Arabia",
+        "Saudi Arabia.",
+        "e Saudi Arabia",
+        "e Saudi Arabia.",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -73.81659698486328,
+        -82.2424087524414,
+        -85.71021270751953,
+        -89.5892562866211,
+        -90.12846374511719
+      ],
+      [
+        -72.56163024902344,
+        -74.26444244384766,
+        -75.09635925292969,
+        -77.09629821777344,
+        -81.45248413085938
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "[ Museveni ] in his final letter said that the next time he sends a message, he will reach out to the LDU members who have changed their ways.",
+      "Museveni in his final letter said that the next time he sends a message, he will reach out to the [ LDU ] members who have changed their ways."
+    ],
+    "src_entities": [
+      "Museveni",
+      "LDU"
+    ],
+    "template": "Museveni mu bbaluwa ye yamalirizza agamba nti lwanaddako okuweereza obubaka , agenda kusitukira mu ba LDU abasiiwuuse empisa .",
+    "tgt_lang": [
+      [
+        "[ Museveni ] mu bbaluwa ye yamalirizza agamba nti lwanaddako okuweereza obubaka, agenda kusitukira mu ba LDU abasiiwuuse empisa.",
+        "[ ] Museveni mu bbaluwa ye yamalirizza agamba nti lwanaddako okuweereza obubaka, agenda kusitukira mu ba LDU abasiiwuuse empisa.",
+        "[ Museveni mu bbaluwa ye yamalirizza agamba nti lwanaddako okuweereza obubaka, agenda kusitukira mu ba LDU abasiiwuuse empisa. ]",
+        "[ Museveni mu bbaluwa ye yamalirizza agamba ] nti lwanaddako okuweereza obubaka, agenda kusitukira mu ba LDU abasiiwuuse empisa.",
+        "[ Museveni mu bbaluwa ye yamalirizza agamba nti lwanaddako okuweereza obubaka, agenda kusitukira mu ba LDU abasiiwuuse empisa ]."
+      ],
+      [
+        "Museveni mu bbaluwa ye yamalirizza agamba nti lwanaddako okuweereza obubaka, agenda kusitukira mu ba [ LDU ] abasiiwuuse empisa.",
+        "Museveni mu bbaluwa ye yamalirizza agamba nti lwanaddako okuweereza obubaka, agenda kusitukira mu [ ba LDU ] abasiiwuuse empisa.",
+        "Museveni mu bbaluwa ye yamalirizza agamba nti lwanaddako okuweereza obubaka, agenda kusitukira mu ba [ ] LDU abasiiwuuse empisa.",
+        "Museveni mu bbaluwa ye yamalirizza agamba nti lwanaddako okuweereza obubaka, agenda kusitukira mu ba LDU abasiiwuuse empisa [. ]",
+        "Museveni mu bbaluwa ye yamalirizza agamba nti lwanaddako okuweereza obubaka, agenda kusitukira mu ba LDU abasiiwuuse [ empisa. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Museveni",
+        "",
+        "Museveni mu bbaluwa ye yamalirizza agamba nti lwanaddako okuweereza obubaka, agenda kusitukira mu ba LDU abasiiwuuse empisa.",
+        "Museveni mu bbaluwa ye yamalirizza agamba",
+        "Museveni mu bbaluwa ye yamalirizza agamba nti lwanaddako okuweereza obubaka, agenda kusitukira mu ba LDU abasiiwuuse empisa"
+      ],
+      [
+        "LDU",
+        "ba LDU",
+        "",
+        ".",
+        "empisa."
+      ]
+    ],
+    "score": [
+      [
+        -86.43354034423828,
+        -97.29622650146484,
+        -104.91573333740234,
+        -107.62944030761719,
+        -108.47709655761719
+      ],
+      [
+        -88.53611755371094,
+        -93.47991943359375,
+        -98.96592712402344,
+        -101.68858337402344,
+        -101.87956237792969
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "This is in addition to the most difficult case in which [ Sweden ] is accusing him of 53 million Swedish kronor in Ugandan dollars is more than 23 billion and now the total amount of money Mbuga is accusing him of more than 32 billion.",
+      "This is in addition to the most difficult case in which Sweden is accusing him of 53 million Swedish kronor in Ugandan dollars is more than 23 billion and now the total amount of money [ Mbuga ] is accusing him of more than 32 billion."
+    ],
+    "src_entities": [
+      "Sweden",
+      "Mbuga"
+    ],
+    "template": "Kuno kwossa nomusango ogusinga obuzibu ogwe Sweden mwe bamuvunaanira okufera obukadde 53 obwensimbi ze Sweden Kronor mu za Uganda zisukka obuwumbi 23 era nga kati ssente zonna awamu Mbuga ze bamuvunaana okufera zisukka obuwumbi 32 .",
+    "tgt_lang": [
+      [
+        "Kuno kwossa nomusango ogusinga obuzibu ogwe [ Sweden ] mwe bamuvunaanira okufera obukadde 53 obwensimbi ze Sweden Kronor mu za Uganda zisukka obuwumbi 23 era nga kati ssente zonna awamu Mbuga ze bamuvunaana okufera zisukka obuwumbi 32.",
+        "Kuno kwossa nomusango ogusinga obuzibu ogwe Sweden mwe bamuvunaanira okufera obukadde 53 obwensimbi ze Sweden [ Kronor ] mu za Uganda zisukka obuwumbi 23 era nga kati ssente zonna awamu Mbuga ze bamuvunaana okufera zisukka obuwumbi 32.",
+        "Kuno kwossa nomusango ogusinga obuzibu ogwe Sweden mwe bamuvunaanira okufera obukadde 53 obwensimbi ze Sweden [ Kronor mu za Uganda ] zisukka obuwumbi 23 era nga kati ssente zonna awamu Mbuga ze bamuvunaana okufera zisukka obuwumbi 32.",
+        "Kuno kwossa nomusango ogusinga obuzibu ogwe Sweden mwe bamuvunaanira okufera obukadde 53 obwensimbi ze Sweden [ Kronor mu za Uganda zisukka obuwumbi 23 ] era nga kati ssente zonna awamu Mbuga ze bamuvunaana okufera zisukka obuwumbi 32.",
+        "Kuno kwossa nomusango ogusinga obuzibu ogwe Sweden mwe bamuvunaanira okufera obukadde 53 obwensimbi ze Sweden Kronor mu za Uganda zisukka obuwumbi 23 era nga kati ssente zonna [ awamu ] Mbuga ze bamuvunaana okufera zisukka obuwumbi 32."
+      ],
+      [
+        "Kuno kwossa nomusango ogusinga obuzibu ogwe Sweden mwe bamuvunaanira okufera obukadde 53 obwensimbi ze Sweden Kronor mu za Uganda zisukka obuwumbi 23 era nga kati ssente zonna awamu [ Mbuga ] ze bamuvunaana okufera zisukka obuwumbi 32.",
+        "Kuno kwossa nomusango ogusinga obuzibu ogwe Sweden mwe bamuvunaanira okufera obukadde 53 obwensimbi ze Sweden Kronor mu za Uganda zisukka obuwumbi 23 era nga kati ssente zonna [ awamu Mbuga ] ze bamuvunaana okufera zisukka obuwumbi 32.",
+        "Kuno kwossa nomusango ogusinga obuzibu ogwe Sweden mwe bamuvunaanira okufera obukadde 53 obwensimbi ze Sweden Kronor mu za Uganda zisukka obuwumbi 23 era nga kati ssente zonna [ awamu ] Mbuga ze bamuvunaana okufera zisukka obuwumbi 32.",
+        "Kuno kwossa nomusango ogusinga obuzibu ogwe Sweden mwe bamuvunaanira okufera obukadde 53 obwensimbi ze Sweden Kronor mu za Uganda zisukka obuwumbi 23 era nga kati ssente zonna awamu [ ] Mbuga ze bamuvunaana okufera zisukka obuwumbi 32.",
+        "Kuno kwossa nomusango ogusinga obuzibu ogwe Sweden mwe bamuvunaanira okufera obukadde 53 obwensimbi ze Sweden Kronor mu za Uganda zisukka obuwumbi 23 era nga kati ssente zonna awamu [ Mbuga ze bamuvunaana okufera ] zisukka obuwumbi 32."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Sweden",
+        "Kronor",
+        "Kronor mu za Uganda",
+        "Kronor mu za Uganda zisukka obuwumbi 23",
+        "awamu"
+      ],
+      [
+        "Mbuga",
+        "awamu Mbuga",
+        "awamu",
+        "",
+        "Mbuga ze bamuvunaana okufera"
+      ]
+    ],
+    "score": [
+      [
+        -154.611083984375,
+        -160.30638122558594,
+        -162.46978759765625,
+        -168.14341735839844,
+        -170.22618103027344
+      ],
+      [
+        -151.76296997070312,
+        -156.45828247070312,
+        -159.61109924316406,
+        -162.90342712402344,
+        -165.420654296875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 3,
+    "src_lang": [],
+    "template": "Wabula abatuuze bakukkulumidde abaakoze ekikwekweto nga bagamba nti tebaasoose kutegeezebwako nti bakuggalwa era bangi ne bafiirwa emmaali yaabwe gye bandibadde bataasa nga batemezeddwaako .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "Sheikh [ Abdul Hakim Kayongo ] of Kibuli informed that Kalyango asked him to help bury his son in his limbo Nkoowe I say that the tribe had driven him to Mbuye because of his immigration.",
+      "Sheikh Abdul Hakim Kayongo of [ Kibuli ] informed that Kalyango asked him to help bury his son in his limbo Nkoowe I say that the tribe had driven him to Mbuye because of his immigration.",
+      "Sheikh Abdul Hakim Kayongo of Kibuli informed that [ Kalyango ] asked him to help bury his son in his limbo Nkoowe I say that the tribe had driven him to Mbuye because of his immigration.",
+      "Sheikh Abdul Hakim Kayongo of Kibuli informed that Kalyango asked him to help bury his son in his limbo [ Nkoowe ] I say that the tribe had driven him to Mbuye because of his immigration.",
+      "Sheikh Abdul Hakim Kayongo of Kibuli informed that Kalyango asked him to help bury his son in his limbo Nkoowe I say that the tribe had driven him to [ Mbuye ] because of his immigration."
+    ],
+    "src_entities": [
+      "Abdul Hakim Kayongo",
+      "Kibuli",
+      "Kalyango",
+      "Nkoowe",
+      "Mbuye"
+    ],
+    "template": "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka .",
+    "tgt_lang": [
+      [
+        "Sheikh [ Abdul Hakim Kayongo ] owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka.",
+        "Sheikh [ Abdul Hakim Kayongo owe Kibuli ] yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka.",
+        "Sheikh [ Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olw ]okusiramuka.",
+        "Sheikh [ Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka ].",
+        "Sheikh [ Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka. ]"
+      ],
+      [
+        "Sheikh Abdul Hakim Kayongo owe [ Kibuli ] yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo [ owe Kibuli ] yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo owe [ ] Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo owe Kibuli [ ] yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo [ ] owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka."
+      ],
+      [
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti [ Kalyango ] yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti [ ] Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango [ yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olw ]okusiramuka.",
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango [ yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka ].",
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango [ yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka. ]"
+      ],
+      [
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye [ Nkoowe ] ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo [ ye Nkoowe ] ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo [ ] ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye [ ] Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe [ ] ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka."
+      ],
+      [
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e [ Mbuye ] olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba [ e Mbuye ] olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti ab [ekika kye baamugoba e Mbuye ] olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika [ kye baamugoba e Mbuye ] olwokusiramuka.",
+        "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba [ ] e Mbuye olwokusiramuka."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Abdul Hakim Kayongo",
+        "Abdul Hakim Kayongo owe Kibuli",
+        "Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olw",
+        "Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka",
+        "Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka."
+      ],
+      [
+        "Kibuli",
+        "owe Kibuli",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kalyango",
+        "",
+        "yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olw",
+        "yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka",
+        "yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka."
+      ],
+      [
+        "Nkoowe",
+        "ye Nkoowe",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mbuye",
+        "e Mbuye",
+        "ekika kye baamugoba e Mbuye",
+        "kye baamugoba e Mbuye",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -77.77349853515625,
+        -89.58553314208984,
+        -98.74271392822266,
+        -100.87201690673828,
+        -101.39228057861328
+      ],
+      [
+        -79.3663558959961,
+        -83.76834106445312,
+        -89.3155746459961,
+        -91.50789642333984,
+        -93.49254608154297
+      ],
+      [
+        -80.14068603515625,
+        -90.12493896484375,
+        -98.40361022949219,
+        -100.00647735595703,
+        -100.66869354248047
+      ],
+      [
+        -80.02044677734375,
+        -86.2763900756836,
+        -88.63590240478516,
+        -88.75721740722656,
+        -92.18284606933594
+      ],
+      [
+        -79.19783020019531,
+        -79.30988311767578,
+        -87.48094940185547,
+        -88.22677612304688,
+        -89.68169403076172
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "[ Galiwango ] was charged with kidnapping a child under file number SD 0715022019 after which the child was returned to his parents."
+    ],
+    "src_entities": [
+      "Galiwango"
+    ],
+    "template": "Galiwango yaguddwako omusango gwokuwamba omwana oguli ku fayiro namba SD 0715022019 oluvanyuma omwana nadizzibwa bazadde be .",
+    "tgt_lang": [
+      [
+        "[ Galiwango ] yaguddwako omusango gwokuwamba omwana oguli ku fayiro namba SD 0715022019 oluvanyuma omwana nadizzibwa bazadde be.",
+        "[ ] Galiwango yaguddwako omusango gwokuwamba omwana oguli ku fayiro namba SD 0715022019 oluvanyuma omwana nadizzibwa bazadde be.",
+        "[ Galiwango yaguddwako omusango gwokuwamba omwana oguli ku fayiro namba SD 0715022019 oluvanyuma omwana nad ]izzibwa bazadde be.",
+        "[ Galiwango yaguddwako omusango gwokuwamba omwana oguli ku fayiro namba SD 0715022019 oluvanyuma omwana ] nadizzibwa bazadde be.",
+        "[ Galiwango yaguddwako omusango gwokuwamba omwana oguli ku fayiro namba SD 0715022019 ] oluvanyuma omwana nadizzibwa bazadde be."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Galiwango",
+        "",
+        "Galiwango yaguddwako omusango gwokuwamba omwana oguli ku fayiro namba SD 0715022019 oluvanyuma omwana nad",
+        "Galiwango yaguddwako omusango gwokuwamba omwana oguli ku fayiro namba SD 0715022019 oluvanyuma omwana",
+        "Galiwango yaguddwako omusango gwokuwamba omwana oguli ku fayiro namba SD 0715022019"
+      ]
+    ],
+    "score": [
+      [
+        -64.52979278564453,
+        -74.53706359863281,
+        -83.28374481201172,
+        -85.01963806152344,
+        -85.4062728881836
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [],
+    "template": "bitakolwako akeediimo kaddamu .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "[ Ronald Akandwanaho ] refused to discuss the matter with his superiors."
+    ],
+    "src_entities": [
+      "Ronald Akandwanaho"
+    ],
+    "template": "Ronald Akandwanaho yagaanyi okwogera ku nsonga eno najulizabakama be .",
+    "tgt_lang": [
+      [
+        "[ Ronald Akandwanaho ] yagaanyi okwogera ku nsonga eno najulizabakama be.",
+        "Ronald Akandwanaho yagaanyi okwogera ku nsonga eno najuliza [bakama be ].",
+        "Ronald Akandwanaho yagaanyi okwogera ku nsonga eno najuliza [bakama ] be.",
+        "Ronald Akandwanaho yagaanyi okwogera ku nsonga eno najuliza [bakama be. ]",
+        "[ ] Ronald Akandwanaho yagaanyi okwogera ku nsonga eno najulizabakama be."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ronald Akandwanaho",
+        "bakama be",
+        "bakama",
+        "bakama be.",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -58.68112564086914,
+        -65.43877410888672,
+        -66.88587951660156,
+        -67.80470275878906,
+        -69.15081787109375
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 8,
+    "src_lang": [
+      "Written by [ Herbert Musoke ] from Harriet Nakabaale of Camp Green in Kawaala.",
+      "Written by Herbert Musoke from [ Harriet Nakabaale ] of Camp Green in Kawaala.",
+      "Written by Herbert Musoke from Harriet Nakabaale of [ Camp Green ] in Kawaala.",
+      "Written by Herbert Musoke from Harriet Nakabaale of Camp Green in [ Kawaala. ]"
+    ],
+    "src_entities": [
+      "Herbert Musoke",
+      "Harriet Nakabaale",
+      "Camp Green",
+      "Kawaala."
+    ],
+    "template": "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale owa Camp green e Kawaala .",
+    "tgt_lang": [
+      [
+        "Biwandiikiddwa [ Herbert Musoke ] okuva ku Harriet Nakabaale owa Camp green e Kawaala.",
+        "[ Biwandiikiddwa Herbert Musoke ] okuva ku Harriet Nakabaale owa Camp green e Kawaala.",
+        "Biwandiikiddwa [ Herbert Musoke okuva ku ] Harriet Nakabaale owa Camp green e Kawaala.",
+        "Biwandiikiddwa [ Herbert Musoke okuva ku Harriet Nakabaale owa Camp green e Kawaala ].",
+        "Biwandiikiddwa [ Herbert Musoke okuva ku Harriet Nakabaale owa Camp green e Kawaala. ]"
+      ],
+      [
+        "Biwandiikiddwa Herbert Musoke okuva ku [ Harriet Nakabaale ] owa Camp green e Kawaala.",
+        "Biwandiikiddwa Herbert Musoke okuva [ ku Harriet Nakabaale ] owa Camp green e Kawaala.",
+        "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale [ ] owa Camp green e Kawaala.",
+        "Biwandiikiddwa Herbert Musoke okuva ku [ ] Harriet Nakabaale owa Camp green e Kawaala.",
+        "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale [ owa Camp green e Kawaala ]."
+      ],
+      [
+        "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale owa [ Camp green ] e Kawaala.",
+        "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale [ owa Camp green ] e Kawaala.",
+        "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale owa [ ] Camp green e Kawaala.",
+        "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale [ ] owa Camp green e Kawaala.",
+        "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale owa [ Camp green e Kawaala ]."
+      ],
+      [
+        "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale owa Camp green e [ Kawaala ].",
+        "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale owa Camp green e [ Kawaala. ]",
+        "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale owa Camp green [ e Kawaala ].",
+        "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale owa Camp green [ e Kawaala. ]",
+        "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale owa Camp green e [ ] Kawaala."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Herbert Musoke",
+        "Biwandiikiddwa Herbert Musoke",
+        "Herbert Musoke okuva ku",
+        "Herbert Musoke okuva ku Harriet Nakabaale owa Camp green e Kawaala",
+        "Herbert Musoke okuva ku Harriet Nakabaale owa Camp green e Kawaala."
+      ],
+      [
+        "Harriet Nakabaale",
+        "ku Harriet Nakabaale",
+        "",
+        "",
+        "owa Camp green e Kawaala"
+      ],
+      [
+        "Camp green",
+        "owa Camp green",
+        "",
+        "",
+        "Camp green e Kawaala"
+      ],
+      [
+        "Kawaala",
+        "Kawaala.",
+        "e Kawaala",
+        "e Kawaala.",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -24.053251266479492,
+        -31.96333885192871,
+        -44.780174255371094,
+        -46.71299743652344,
+        -46.80847930908203
+      ],
+      [
+        -25.909225463867188,
+        -28.521347045898438,
+        -35.12012481689453,
+        -36.07765579223633,
+        -38.79340744018555
+      ],
+      [
+        -26.232933044433594,
+        -31.436094284057617,
+        -35.970550537109375,
+        -38.37028121948242,
+        -38.750850677490234
+      ],
+      [
+        -23.00680923461914,
+        -24.707603454589844,
+        -28.138669967651367,
+        -30.755449295043945,
+        -33.16988754272461
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "He urged people to know more about corruption and fight it and said that this corruption has hampered the implementation of the [ NRM ] manifesto."
+    ],
+    "src_entities": [
+      "NRM"
+    ],
+    "template": "Yasabye abantu okumanya ennyo ebikwata ku nguzi nokugirwanyisa nagamba ntikino obuli bwenguzi bukosezza ebyokussa mu nkola manifesito ya NRM .",
+    "tgt_lang": [
+      [
+        "Yasabye abantu okumanya ennyo ebikwata ku nguzi nokugirwanyisa nagamba ntikino obuli bwenguzi bukosezza ebyokussa mu nkola manifesito ya [ NRM ].",
+        "Yasabye abantu okumanya ennyo ebikwata ku nguzi nokugirwanyisa nagamba ntikino obuli bwenguzi bukosezza ebyokussa mu nkola manifesito [ ya NRM ].",
+        "Yasabye abantu okumanya ennyo ebikwata ku nguzi nokugirwanyisa nagamba ntikino obuli bwenguzi bukosezza ebyokussa mu nkola manifesito ya [ NRM. ]",
+        "Yasabye abantu okumanya ennyo ebikwata ku nguzi nokugirwanyisa nagamba ntikino obuli bwenguzi bukosezza ebyokussa mu nkola [ manifesito ya NRM ].",
+        "Yasabye abantu okumanya ennyo ebikwata ku nguzi nokugirwanyisa nagamba ntikino obuli bwenguzi bukosezza ebyokussa mu nkola [ manifesito ] ya NRM."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "NRM",
+        "ya NRM",
+        "NRM.",
+        "manifesito ya NRM",
+        "manifesito"
+      ]
+    ],
+    "score": [
+      [
+        -98.83727264404297,
+        -103.82840728759766,
+        -104.61363983154297,
+        -105.84281158447266,
+        -107.36167907714844
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "This was held in the square by the representative of the committee at the offices of the [ Kampala ] ministry and here he explained that the government is preparing to cancel the contract of Nabugabo because the contract was due to expire in June 2019.",
+      "This was held in the square by the representative of the committee at the offices of the Kampala ministry and here he explained that the government is preparing to cancel the contract of [ Nabugabo ] because the contract was due to expire in June 2019."
+    ],
+    "src_entities": [
+      "Kampala",
+      "Nabugabo"
+    ],
+    "template": "Bino byabade mu kibangirizi omutuuzibwa enkiiko ku offiisi za minisitule ya Kampala era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu kontulakiti ya Nabugabo kubanga ekyalina endagaano egenda okuggwaako mu June 2019 .",
+    "tgt_lang": [
+      [
+        "Bino byabade mu kibangirizi omutuuzibwa enkiiko ku offiisi za minisitule ya [ Kampala ] era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu kontulakiti ya Nabugabo kubanga ekyalina endagaano egenda okuggwaako mu June 2019.",
+        "Bino byabade mu kibangirizi omutuuzibwa enkiiko ku offiisi za minisitule [ ya Kampala ] era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu kontulakiti ya Nabugabo kubanga ekyalina endagaano egenda okuggwaako mu June 2019.",
+        "Bino byabade mu kibangirizi omutuuzibwa enkiiko ku offiisi za minisitule [ ya Kampala era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu kontulakiti ya Nabugabo kubanga ekyalina endagaano egenda okuggwaako mu June 2019. ]",
+        "Bino byabade mu kibangirizi omutuuzibwa enkiiko ku offiisi za minisitule [ ya Kampala era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu kontulakiti ya Nabugabo kubanga ekyalina endagaano egenda okuggwaako mu June ] 2019.",
+        "Bino byabade mu kibangirizi omutuuzibwa enkiiko ku offiisi za minisitule [ ya Kampala era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu kontulakiti ya Nabugabo kubanga ekyalina endagaano egenda okuggwaako mu June 2019 ]."
+      ],
+      [
+        "Bino byabade mu kibangirizi omutuuzibwa enkiiko ku offiisi za minisitule ya Kampala era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu kontulakiti ya [ Nabugabo ] kubanga ekyalina endagaano egenda okuggwaako mu June 2019.",
+        "Bino byabade mu kibangirizi omutuuzibwa enkiiko ku offiisi za minisitule ya Kampala era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu kontulakiti [ ya Nabugabo ] kubanga ekyalina endagaano egenda okuggwaako mu June 2019.",
+        "Bino byabade mu kibangirizi omutuuzibwa enkiiko ku offiisi za minisitule ya Kampala era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu [ kontulakiti ya Nabugabo ] kubanga ekyalina endagaano egenda okuggwaako mu June 2019.",
+        "Bino byabade mu kibangirizi omutuuzibwa enkiiko ku offiisi za minisitule ya Kampala era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu kontulakiti ya [ ] Nabugabo kubanga ekyalina endagaano egenda okuggwaako mu June 2019.",
+        "Bino byabade mu kibangirizi omutuuzibwa enkiiko ku offiisi za minisitule ya Kampala era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu [ kontulakiti ] ya Nabugabo kubanga ekyalina endagaano egenda okuggwaako mu June 2019."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kampala",
+        "ya Kampala",
+        "ya Kampala era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu kontulakiti ya Nabugabo kubanga ekyalina endagaano egenda okuggwaako mu June 2019.",
+        "ya Kampala era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu kontulakiti ya Nabugabo kubanga ekyalina endagaano egenda okuggwaako mu June",
+        "ya Kampala era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu kontulakiti ya Nabugabo kubanga ekyalina endagaano egenda okuggwaako mu June 2019"
+      ],
+      [
+        "Nabugabo",
+        "ya Nabugabo",
+        "kontulakiti ya Nabugabo",
+        "",
+        "kontulakiti"
+      ]
+    ],
+    "score": [
+      [
+        -154.41856384277344,
+        -155.02159118652344,
+        -174.530029296875,
+        -174.96986389160156,
+        -175.17474365234375
+      ],
+      [
+        -152.38319396972656,
+        -159.12582397460938,
+        -160.29483032226562,
+        -163.94500732421875,
+        -167.57196044921875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "However, a spokesperson for the Police in [ Kampala ] and the surrounding area said that the Police will not accept this because they as an agency are responsible for providing protection to all candidates so I warned the FDC, to immediately stop the activities of the youth group they have done.",
+      "However, a spokesperson for the Police in Kampala and the surrounding area said that the Police will not accept this because they as an agency are responsible for providing protection to all candidates so I warned the [ FDC, ] to immediately stop the activities of the youth group they have done."
+    ],
+    "src_entities": [
+      "Kampala",
+      "FDC,"
+    ],
+    "template": "Wabula omwogezi wa Poliisi mu Kampala nemiriraano yagambye nti kino Poliisi tegenda kukikkiriza kubanga bo ngekitongole be bavunaanyizibwa ku kyokuwa abeesimbyewo bonna obukuumi bwatyo nalabula aba FDC , okuyimiriza amangu ddala emirimu gyakabinja kabavubuka ke bakoze .",
+    "tgt_lang": [
+      [
+        "Wabula omwogezi wa Poliisi mu [ Kampala ] nemiriraano yagambye nti kino Poliisi tegenda kukikkiriza kubanga bo ngekitongole be bavunaanyizibwa ku kyokuwa abeesimbyewo bonna obukuumi bwatyo nalabula aba FDC, okuyimiriza amangu ddala emirimu gyakabinja kabavubuka ke bakoze.",
+        "Wabula omwogezi wa Poliisi mu [ ] Kampala nemiriraano yagambye nti kino Poliisi tegenda kukikkiriza kubanga bo ngekitongole be bavunaanyizibwa ku kyokuwa abeesimbyewo bonna obukuumi bwatyo nalabula aba FDC, okuyimiriza amangu ddala emirimu gyakabinja kabavubuka ke bakoze.",
+        "Wabula omwogezi wa Poliisi mu Kampala [ ] nemiriraano yagambye nti kino Poliisi tegenda kukikkiriza kubanga bo ngekitongole be bavunaanyizibwa ku kyokuwa abeesimbyewo bonna obukuumi bwatyo nalabula aba FDC, okuyimiriza amangu ddala emirimu gyakabinja kabavubuka ke bakoze.",
+        "Wabula omwogezi wa Poliisi mu Kampala [ nemiriraano ] yagambye nti kino Poliisi tegenda kukikkiriza kubanga bo ngekitongole be bavunaanyizibwa ku kyokuwa abeesimbyewo bonna obukuumi bwatyo nalabula aba FDC, okuyimiriza amangu ddala emirimu gyakabinja kabavubuka ke bakoze.",
+        "Wabula omwogezi wa Poliisi mu [ Kampala nemiriraano ] yagambye nti kino Poliisi tegenda kukikkiriza kubanga bo ngekitongole be bavunaanyizibwa ku kyokuwa abeesimbyewo bonna obukuumi bwatyo nalabula aba FDC, okuyimiriza amangu ddala emirimu gyakabinja kabavubuka ke bakoze."
+      ],
+      [
+        "Wabula omwogezi wa Poliisi mu Kampala nemiriraano yagambye nti kino Poliisi tegenda kukikkiriza kubanga bo ngekitongole be bavunaanyizibwa ku kyokuwa abeesimbyewo bonna obukuumi bwatyo nalabula aba [ FDC, ] okuyimiriza amangu ddala emirimu gyakabinja kabavubuka ke bakoze.",
+        "Wabula omwogezi wa Poliisi mu Kampala nemiriraano yagambye nti kino Poliisi tegenda kukikkiriza kubanga bo ngekitongole be bavunaanyizibwa ku kyokuwa abeesimbyewo bonna obukuumi bwatyo nalabula [ aba FDC, ] okuyimiriza amangu ddala emirimu gyakabinja kabavubuka ke bakoze.",
+        "Wabula omwogezi wa Poliisi mu Kampala nemiriraano yagambye nti kino Poliisi tegenda kukikkiriza kubanga bo ngekitongole be bavunaanyizibwa ku kyokuwa abeesimbyewo bonna obukuumi bwatyo nalabula aba FDC, okuyimiriza amangu ddala emirimu gyakabinja kabavubuka ke bakoze [ ].",
+        "Wabula omwogezi wa Poliisi mu Kampala nemiriraano yagambye nti kino Poliisi tegenda kukikkiriza kubanga bo ngekitongole be bavunaanyizibwa ku kyokuwa abeesimbyewo bonna obukuumi bwatyo nalabula aba FDC, okuyimiriza amangu ddala emirimu gyakabinja kabavubuka ke bakoze [. ]",
+        "Wabula omwogezi wa Poliisi mu Kampala nemiriraano yagambye nti kino Poliisi tegenda kukikkiriza kubanga bo ngekitongole be bavunaanyizibwa ku kyokuwa abeesimbyewo bonna obukuumi bwatyo nalabula aba FDC, okuyimiriza amangu ddala emirimu gyakabinja kabavubuka [ ke bakoze ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kampala",
+        "",
+        "",
+        "nemiriraano",
+        "Kampala nemiriraano"
+      ],
+      [
+        "FDC,",
+        "aba FDC,",
+        "",
+        ".",
+        "ke bakoze"
+      ]
+    ],
+    "score": [
+      [
+        -117.70891571044922,
+        -128.23104858398438,
+        -128.8768768310547,
+        -130.52645874023438,
+        -130.632080078125
+      ],
+      [
+        -121.325439453125,
+        -123.73870849609375,
+        -132.59461975097656,
+        -134.78848266601562,
+        -136.104248046875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [],
+    "template": "18 Ekiragiro kya kkooti kiteekeddwa okulaga ebikwata ku muntu asengula omulala ku ttaka .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "Some of the businessmen working at the [ Zai Plaza ] building are afraid to enter it after the KACITA group opened their stores to them by the wealthy Yanga.",
+      "Some of the businessmen working at the Zai Plaza building are afraid to enter it after the [ KACITA ] group opened their stores to them by the wealthy Yanga.",
+      "Some of the businessmen working at the Zai Plaza building are afraid to enter it after the KACITA group opened their stores to them by the wealthy [ Yanga. ]"
+    ],
+    "src_entities": [
+      "Zai Plaza",
+      "KACITA",
+      "Yanga."
+    ],
+    "template": "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde .",
+    "tgt_lang": [
+      [
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya [ Zai Plaza ] nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde.",
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe [ kya Zai Plaza ] nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde.",
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya [ Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde ].",
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya [ Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde. ]",
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya [ Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe ] omugagga Yanga ge yabadde aggadde."
+      ],
+      [
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya [ KACITA ] okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde.",
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya Zai Plaza nga batidde okukiyingira oluvannyuma lw [ekibiina kya KACITA ] okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde.",
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina [ kya KACITA ] okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde.",
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya Zai Plaza nga batidde okukiyingira oluvannyuma lw [ekibiina kya ] KACITA okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde.",
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya [ ] KACITA okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde."
+      ],
+      [
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe omugagga [ Yanga ] ge yabadde aggadde.",
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe omugagga [ Yanga ge yabadde aggadde ].",
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde [ ].",
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde [. ]",
+        "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe omugagga [ Yanga ge yabadde aggadde. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Zai Plaza",
+        "kya Zai Plaza",
+        "Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde",
+        "Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde.",
+        "Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe"
+      ],
+      [
+        "KACITA",
+        "ekibiina kya KACITA",
+        "kya KACITA",
+        "ekibiina kya",
+        ""
+      ],
+      [
+        "Yanga",
+        "Yanga ge yabadde aggadde",
+        "",
+        ".",
+        "Yanga ge yabadde aggadde."
+      ]
+    ],
+    "score": [
+      [
+        -202.8126220703125,
+        -208.61219787597656,
+        -218.6458740234375,
+        -220.54226684570312,
+        -221.999267578125
+      ],
+      [
+        -202.60302734375,
+        -204.10789489746094,
+        -204.93048095703125,
+        -209.88906860351562,
+        -211.33297729492188
+      ],
+      [
+        -200.8582763671875,
+        -204.20095825195312,
+        -205.3406524658203,
+        -206.49917602539062,
+        -207.0779266357422
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "They hired a Russian woman [ Nurkhan Niiazova, ] owner of Nat Metals DMCC, for $4.5 million and $4.5 million in troubled shares.",
+      "They hired a Russian woman Nurkhan Niiazova, owner of [ Nat Metals DMCC, ] for $4.5 million and $4.5 million in troubled shares."
+    ],
+    "src_entities": [
+      "Nurkhan Niiazova,",
+      "Nat Metals DMCC,"
+    ],
+    "template": "Baakola ddiiru ku mukyala Omurussia Nurkhan Niiazova nnannyini kkampuni ya Nat Metals DMCC ne bafuna ddoola obukadde buna nekitundu ddoola 4 , 500 , 000 engabana nereeta obuzibu .",
+    "tgt_lang": [
+      [
+        "Baakola ddiiru ku mukyala Omurussia [ Nurkhan Niiazova ] nnannyini kkampuni ya Nat Metals DMCC ne bafuna ddoola obukadde buna nekitundu ddoola 4, 500, 000 engabana nereeta obuzibu.",
+        "Baakola ddiiru ku mukyala Omurussia [ Nurkhan Niiazova nnannyini kkampuni ya Nat Metals DMCC ] ne bafuna ddoola obukadde buna nekitundu ddoola 4, 500, 000 engabana nereeta obuzibu.",
+        "Baakola ddiiru ku mukyala Omurussia Nurkhan Niiazova [ nnannyini kkampuni ya Nat Metals DMCC ] ne bafuna ddoola obukadde buna nekitundu ddoola 4, 500, 000 engabana nereeta obuzibu.",
+        "Baakola ddiiru ku mukyala Omurussia [ Nurkhan Niiazova nnannyini kkampuni ya Nat Metals DMCC ne bafuna ddoola obukadde buna ] nekitundu ddoola 4, 500, 000 engabana nereeta obuzibu.",
+        "Baakola ddiiru ku mukyala Omurussia [ Nurkhan Niiazova nnannyini kkampuni ya Nat Metals DMCC ne bafuna ddoola obukadde buna nekitundu ] ddoola 4, 500, 000 engabana nereeta obuzibu."
+      ],
+      [
+        "Baakola ddiiru ku mukyala Omurussia Nurkhan Niiazova nnannyini kkampuni ya [ Nat Metals DMCC ] ne bafuna ddoola obukadde buna nekitundu ddoola 4, 500, 000 engabana nereeta obuzibu.",
+        "Baakola ddiiru ku mukyala Omurussia Nurkhan Niiazova nnannyini [ kkampuni ya Nat Metals DMCC ] ne bafuna ddoola obukadde buna nekitundu ddoola 4, 500, 000 engabana nereeta obuzibu.",
+        "Baakola ddiiru ku mukyala Omurussia Nurkhan Niiazova nnannyini kkampuni ya [ ] Nat Metals DMCC ne bafuna ddoola obukadde buna nekitundu ddoola 4, 500, 000 engabana nereeta obuzibu.",
+        "Baakola ddiiru ku mukyala Omurussia Nurkhan Niiazova nnannyini kkampuni [ ya Nat Metals DMCC ] ne bafuna ddoola obukadde buna nekitundu ddoola 4, 500, 000 engabana nereeta obuzibu.",
+        "Baakola ddiiru ku mukyala Omurussia Nurkhan Niiazova nnannyini kkampuni ya [ Nat Metals DMCC ne ] bafuna ddoola obukadde buna nekitundu ddoola 4, 500, 000 engabana nereeta obuzibu."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Nurkhan Niiazova",
+        "Nurkhan Niiazova nnannyini kkampuni ya Nat Metals DMCC",
+        "nnannyini kkampuni ya Nat Metals DMCC",
+        "Nurkhan Niiazova nnannyini kkampuni ya Nat Metals DMCC ne bafuna ddoola obukadde buna",
+        "Nurkhan Niiazova nnannyini kkampuni ya Nat Metals DMCC ne bafuna ddoola obukadde buna nekitundu"
+      ],
+      [
+        "Nat Metals DMCC",
+        "kkampuni ya Nat Metals DMCC",
+        "",
+        "ya Nat Metals DMCC",
+        "Nat Metals DMCC ne"
+      ]
+    ],
+    "score": [
+      [
+        -146.699462890625,
+        -154.88356018066406,
+        -156.03140258789062,
+        -164.49429321289062,
+        -166.120849609375
+      ],
+      [
+        -148.8582763671875,
+        -156.1039581298828,
+        -156.36807250976562,
+        -156.61343383789062,
+        -156.79061889648438
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "The building now competes very well with popular tourist attractions, especially the [ Arabian Desert ] covered with mountainous sand and where the state-owned tourism company Arabian Adventure has decided to set up a shuttle bus to take passengers to other places.",
+      "The building now competes very well with popular tourist attractions, especially the Arabian Desert covered with mountainous sand and where the state-owned tourism company [ Arabian Adventure ] has decided to set up a shuttle bus to take passengers to other places."
+    ],
+    "src_entities": [
+      "Arabian Desert",
+      "Arabian Adventure"
+    ],
+    "template": "lEkizimbe kino kati kivuganya bulungi nnyo n'ebifo ebibadde bimanyiddwa ennyo mu kukung'aanya abalambuzi naddala eddungu erimanyiddwa nga Arabian Desert erijjudde omusenyu ogwakola obusozi era ng'eno ne kkampuni ya gavumenti ekola ku by'obulambuzi eya Arabian Adventure gye yasalawo okuteeka emmotoka ezirambuza abantu we zisimbula ne zibatwala mu bifo ebirala . .",
+    "tgt_lang": [
+      [
+        "lEkizimbe kino kati kivuganya bulungi nnyo n'ebifo ebibadde bimanyiddwa ennyo mu kukung'aanya abalambuzi naddala eddungu erimanyiddwa nga [ Arabian Desert ] erijjudde omusenyu ogwakola obusozi era ng'eno ne kkampuni ya gavumenti ekola ku by'obulambuzi eya Arabian Adventure gye yasalawo okuteeka emmotoka ezirambuza abantu we zisimbula ne zibatwala mu bifo ebirala..",
+        "lEkizimbe kino kati kivuganya bulungi nnyo n'ebifo ebibadde bimanyiddwa ennyo mu kukung'aanya abalambuzi naddala [ eddungu erimanyiddwa nga Arabian Desert ] erijjudde omusenyu ogwakola obusozi era ng'eno ne kkampuni ya gavumenti ekola ku by'obulambuzi eya Arabian Adventure gye yasalawo okuteeka emmotoka ezirambuza abantu we zisimbula ne zibatwala mu bifo ebirala..",
+        "lEkizimbe kino kati kivuganya bulungi nnyo n'ebifo ebibadde bimanyiddwa ennyo mu kukung'aanya abalambuzi naddala eddungu erimanyiddwa nga Arabian Desert erijjudde omusenyu ogwakola obusozi era ng'eno ne kkampuni ya gavumenti ekola ku by'obulambuzi eya Arabian Adventure gye yasalawo okuteeka emmotoka ezirambuza abantu we zisimbula ne zibatwala mu bifo ebirala. [. ]",
+        "lEkizimbe kino kati kivuganya bulungi nnyo n'ebifo ebibadde bimanyiddwa ennyo mu kukung'aanya abalambuzi naddala eddungu erimanyiddwa nga Arabian Desert erijjudde omusenyu ogwakola obusozi era ng'eno ne kkampuni ya gavumenti ekola ku by'obulambuzi eya Arabian Adventure gye yasalawo okuteeka emmotoka ezirambuza abantu we zisimbula ne zibatwala mu bifo ebirala. [ ].",
+        "lEkizimbe kino kati kivuganya bulungi nnyo n'ebifo ebibadde bimanyiddwa ennyo mu kukung'aanya abalambuzi naddala eddungu erimanyiddwa nga Arabian Desert erijjudde omusenyu ogwakola obusozi era ng'eno ne kkampuni ya gavumenti ekola ku by'obulambuzi eya Arabian Adventure gye yasalawo okuteeka emmotoka ezirambuza abantu we zisimbula ne zibatwala mu bifo ebirala.. [ ]"
+      ],
+      [
+        "lEkizimbe kino kati kivuganya bulungi nnyo n'ebifo ebibadde bimanyiddwa ennyo mu kukung'aanya abalambuzi naddala eddungu erimanyiddwa nga Arabian Desert erijjudde omusenyu ogwakola obusozi era ng'eno ne kkampuni ya gavumenti ekola ku by'obulambuzi eya [ Arabian Adventure ] gye yasalawo okuteeka emmotoka ezirambuza abantu we zisimbula ne zibatwala mu bifo ebirala..",
+        "lEkizimbe kino kati kivuganya bulungi nnyo n'ebifo ebibadde bimanyiddwa ennyo mu kukung'aanya abalambuzi naddala eddungu erimanyiddwa nga Arabian Desert erijjudde omusenyu ogwakola obusozi era ng'eno ne kkampuni ya gavumenti ekola ku by'obulambuzi [ eya Arabian Adventure ] gye yasalawo okuteeka emmotoka ezirambuza abantu we zisimbula ne zibatwala mu bifo ebirala..",
+        "lEkizimbe kino kati kivuganya bulungi nnyo n'ebifo ebibadde bimanyiddwa ennyo mu kukung'aanya abalambuzi naddala eddungu erimanyiddwa nga Arabian Desert erijjudde omusenyu ogwakola obusozi era ng'eno ne kkampuni ya gavumenti ekola ku by'obulambuzi [ ] eya Arabian Adventure gye yasalawo okuteeka emmotoka ezirambuza abantu we zisimbula ne zibatwala mu bifo ebirala..",
+        "lEkizimbe kino kati kivuganya bulungi nnyo n'ebifo ebibadde bimanyiddwa ennyo mu kukung'aanya abalambuzi naddala eddungu erimanyiddwa nga Arabian Desert erijjudde omusenyu ogwakola obusozi era ng'eno ne kkampuni ya gavumenti ekola ku by'obulambuzi eya Arabian Adventure gye yasalawo okuteeka emmotoka ezirambuza abantu we zisimbula ne zibatwala mu bifo ebirala [.. ]",
+        "lEkizimbe kino kati kivuganya bulungi nnyo n'ebifo ebibadde bimanyiddwa ennyo mu kukung'aanya abalambuzi naddala eddungu erimanyiddwa nga Arabian Desert erijjudde omusenyu ogwakola obusozi era ng'eno ne kkampuni ya gavumenti ekola ku by'obulambuzi eya Arabian Adventure gye yasalawo okuteeka emmotoka ezirambuza abantu we zisimbula ne zibatwala mu bifo ebirala. [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Arabian Desert",
+        "eddungu erimanyiddwa nga Arabian Desert",
+        ".",
+        "",
+        ""
+      ],
+      [
+        "Arabian Adventure",
+        "eya Arabian Adventure",
+        "",
+        "..",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -209.5124053955078,
+        -212.4115753173828,
+        -219.80905151367188,
+        -221.28094482421875,
+        -222.21165466308594
+      ],
+      [
+        -209.22450256347656,
+        -215.50453186035156,
+        -217.83209228515625,
+        -218.60523986816406,
+        -218.71275329589844
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "The exhibition at the Harvest Money Expo 2019 in [ Namboole. ]"
+    ],
+    "src_entities": [
+      "Namboole."
+    ],
+    "template": "Ekiri mu mwoleso gwa Harvest Money Expo 2019 e Namboole .",
+    "tgt_lang": [
+      [
+        "Ekiri mu mwoleso gwa Harvest Money Expo 2019 e [ Namboole. ]",
+        "Ekiri mu mwoleso gwa Harvest Money Expo 2019 e [ Namboole ].",
+        "Ekiri mu mwoleso gwa Harvest Money Expo 2019 [ e Namboole. ]",
+        "Ekiri mu mwoleso gwa Harvest Money Expo 2019 [ e Namboole ].",
+        "Ekiri mu mwoleso gwa Harvest Money Expo 2019 e Namboole [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Namboole.",
+        "Namboole",
+        "e Namboole.",
+        "e Namboole",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -24.03899574279785,
+        -25.7559871673584,
+        -27.684429168701172,
+        -28.19044303894043,
+        -31.28746223449707
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "He asked the [ LC ] to distribute them well so that they can be consumed by every citizen in the area."
+    ],
+    "src_entities": [
+      "LC"
+    ],
+    "template": "Yasabye aba LC okuzigaba obulungi zisobole okumala buli mutuuze mu kitundu .",
+    "tgt_lang": [
+      [
+        "Yasabye aba [ LC ] okuzigaba obulungi zisobole okumala buli mutuuze mu kitundu.",
+        "Yasabye [ aba LC ] okuzigaba obulungi zisobole okumala buli mutuuze mu kitundu.",
+        "Yasabye [ ] aba LC okuzigaba obulungi zisobole okumala buli mutuuze mu kitundu.",
+        "Yasabye aba [ ] LC okuzigaba obulungi zisobole okumala buli mutuuze mu kitundu.",
+        "Y [asabye aba LC ] okuzigaba obulungi zisobole okumala buli mutuuze mu kitundu."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "LC",
+        "aba LC",
+        "",
+        "",
+        "asabye aba LC"
+      ]
+    ],
+    "score": [
+      [
+        -37.06455612182617,
+        -37.395416259765625,
+        -44.29820251464844,
+        -47.082740783691406,
+        -47.524131774902344
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "[ Kabanda ] and her husband Charles Kabanda told the parents that the responsibility of caring for two children is to raise them in a moral way to be useful in the world.",
+      "Kabanda and her husband [ Charles Kabanda ] told the parents that the responsibility of caring for two children is to raise them in a moral way to be useful in the world."
+    ],
+    "src_entities": [
+      "Kabanda",
+      "Charles Kabanda"
+    ],
+    "template": "Kabanda ne bba Charles Kabanda baategeezezza abazadde nti obuvunaanyizibwa bwokulabirira abaana bwa babiri nga babakuliza mu mpisa bafuuke aboomugaso mu nsi .",
+    "tgt_lang": [
+      [
+        "[ Kabanda ] ne bba Charles Kabanda baategeezezza abazadde nti obuvunaanyizibwa bwokulabirira abaana bwa babiri nga babakuliza mu mpisa bafuuke aboomugaso mu nsi.",
+        "Kabanda [ ] ne bba Charles Kabanda baategeezezza abazadde nti obuvunaanyizibwa bwokulabirira abaana bwa babiri nga babakuliza mu mpisa bafuuke aboomugaso mu nsi.",
+        "Kabanda ne bba Charles Kabanda baategeezezza abazadde nti obuvunaanyizibwa bwokulabirira abaana bwa babiri nga babakuliza mu mpisa bafuuke aboomugaso mu nsi [. ]",
+        "Kabanda ne bba Charles Kabanda baategeezezza abazadde nti obuvunaanyizibwa bwokulabirira abaana bwa babiri nga babakuliza mu mpisa bafuuke aboomugaso mu nsi [ ].",
+        "Kabanda ne bba Charles Kabanda baategeezezza abazadde nti obuvunaanyizibwa bw [okulabirira abaana bwa babiri nga babakuliza mu mpisa bafuuke aboomugaso mu nsi. ]"
+      ],
+      [
+        "Kabanda ne bba [ Charles Kabanda ] baategeezezza abazadde nti obuvunaanyizibwa bwokulabirira abaana bwa babiri nga babakuliza mu mpisa bafuuke aboomugaso mu nsi.",
+        "Kabanda ne bba [ ] Charles Kabanda baategeezezza abazadde nti obuvunaanyizibwa bwokulabirira abaana bwa babiri nga babakuliza mu mpisa bafuuke aboomugaso mu nsi.",
+        "Kabanda ne bba Charles Kabanda baategeezezza abazadde nti obuvunaanyizibwa bw [ ]okulabirira abaana bwa babiri nga babakuliza mu mpisa bafuuke aboomugaso mu nsi.",
+        "Kabanda ne bba [ Charles Kabanda baategeezezza abazadde nti obuvunaanyizibwa bw ]okulabirira abaana bwa babiri nga babakuliza mu mpisa bafuuke aboomugaso mu nsi.",
+        "Kabanda ne bba Charles Kabanda baategeezezza abazadde nti obuvunaanyizibwa bw [okulabirira abaana bwa babiri ] nga babakuliza mu mpisa bafuuke aboomugaso mu nsi."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kabanda",
+        "",
+        ".",
+        "",
+        "okulabirira abaana bwa babiri nga babakuliza mu mpisa bafuuke aboomugaso mu nsi."
+      ],
+      [
+        "Charles Kabanda",
+        "",
+        "",
+        "Charles Kabanda baategeezezza abazadde nti obuvunaanyizibwa bw",
+        "okulabirira abaana bwa babiri"
+      ]
+    ],
+    "score": [
+      [
+        -68.02029418945312,
+        -79.86016845703125,
+        -91.0416488647461,
+        -91.40635681152344,
+        -91.68244934082031
+      ],
+      [
+        -80.49755859375,
+        -93.46914672851562,
+        -96.034423828125,
+        -96.32872772216797,
+        -98.24464416503906
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 19,
+    "src_lang": [],
+    "template": "Ono era abategeezezza ngenteekateeka yokubasenda bwetagenda kutaliza mugagga era olukiiko we lugweeredde , talina kyanyeze ku kyakufunira abo abanaaba basendeddwa ekifo ekyolukale we banaaddukanyiza emirimu gyabwe .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "And [ Ssempijja ] said that different regions like Nateete and Lubaga all know that the DP cannot be defeated because people know the benefits of a system of truth and justice.",
+      "And Ssempijja said that different regions like [ Nateete ] and Lubaga all know that the DP cannot be defeated because people know the benefits of a system of truth and justice.",
+      "And Ssempijja said that different regions like Nateete and [ Lubaga ] all know that the DP cannot be defeated because people know the benefits of a system of truth and justice.",
+      "And Ssempijja said that different regions like Nateete and Lubaga all know that the [ DP ] cannot be defeated because people know the benefits of a system of truth and justice."
+    ],
+    "src_entities": [
+      "Ssempijja",
+      "Nateete",
+      "Lubaga",
+      "DP"
+    ],
+    "template": "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya .",
+    "tgt_lang": [
+      [
+        "Ate [ Ssempijja ] yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya.",
+        "Ate Ssempijja [ yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya. ]",
+        "Ate Ssempijja [ yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya ].",
+        "Ate [ Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya. ]",
+        "Ate [ Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya ]."
+      ],
+      [
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga [ Nateete ] ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya.",
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo [ nga Nateete ] ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya.",
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga [ Nateete ne Lubaga ] wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya.",
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga [ Nateete ne Lubaga wonna ] bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya.",
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga [ Nateete ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya ]."
+      ],
+      [
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne [ Lubaga ] wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya.",
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne [ Lubaga wonna ] bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya.",
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne [ Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima ] nobwenkanya.",
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne [ Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya ].",
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne [ Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya. ]"
+      ],
+      [
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti [ DP ] tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya.",
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti [ ] DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya.",
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti [ DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima ] nobwenkanya.",
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti [ DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya ].",
+        "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti [ DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ssempijja",
+        "yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya.",
+        "yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya",
+        "Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya.",
+        "Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya"
+      ],
+      [
+        "Nateete",
+        "nga Nateete",
+        "Nateete ne Lubaga",
+        "Nateete ne Lubaga wonna",
+        "Nateete ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya"
+      ],
+      [
+        "Lubaga",
+        "Lubaga wonna",
+        "Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima",
+        "Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya",
+        "Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya."
+      ],
+      [
+        "DP",
+        "",
+        "DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima",
+        "DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya",
+        "DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya."
+      ]
+    ],
+    "score": [
+      [
+        -61.98472595214844,
+        -82.77721405029297,
+        -83.19571685791016,
+        -83.38487243652344,
+        -83.71903228759766
+      ],
+      [
+        -58.149658203125,
+        -66.33561706542969,
+        -70.245361328125,
+        -77.63172149658203,
+        -81.07085418701172
+      ],
+      [
+        -59.23221969604492,
+        -64.98933410644531,
+        -75.89349365234375,
+        -76.41989135742188,
+        -76.7222900390625
+      ],
+      [
+        -59.476688385009766,
+        -70.79173278808594,
+        -83.93295288085938,
+        -85.03560638427734,
+        -85.49414825439453
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [],
+    "template": "Omusango gwa kuddamu okuwulirwa nga 2372020 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "CP [ Eria Luwalira ] and SPC Harman Kinobe are Kammengo police officers who arrived at the home of Paul Mukasa 30, a resident of Ndoddo in the Kammengo district of Mpigi on the charge of cutting a neighbor's head.",
+      "CP Eria Luwalira and [ SPC ] Harman Kinobe are Kammengo police officers who arrived at the home of Paul Mukasa 30, a resident of Ndoddo in the Kammengo district of Mpigi on the charge of cutting a neighbor's head.",
+      "CP Eria Luwalira and SPC [ Harman Kinobe ] are Kammengo police officers who arrived at the home of Paul Mukasa 30, a resident of Ndoddo in the Kammengo district of Mpigi on the charge of cutting a neighbor's head.",
+      "CP Eria Luwalira and SPC Harman Kinobe are [ Kammengo ] police officers who arrived at the home of Paul Mukasa 30, a resident of Ndoddo in the Kammengo district of Mpigi on the charge of cutting a neighbor's head.",
+      "CP Eria Luwalira and SPC Harman Kinobe are Kammengo police officers who arrived at the home of [ Paul Mukasa ] 30, a resident of Ndoddo in the Kammengo district of Mpigi on the charge of cutting a neighbor's head.",
+      "CP Eria Luwalira and SPC Harman Kinobe are Kammengo police officers who arrived at the home of Paul Mukasa 30, a resident of [ Ndoddo ] in the Kammengo district of Mpigi on the charge of cutting a neighbor's head.",
+      "CP Eria Luwalira and SPC Harman Kinobe are Kammengo police officers who arrived at the home of Paul Mukasa 30, a resident of Ndoddo in the [ Kammengo ] district of Mpigi on the charge of cutting a neighbor's head.",
+      "CP Eria Luwalira and SPC Harman Kinobe are Kammengo police officers who arrived at the home of Paul Mukasa 30, a resident of Ndoddo in the Kammengo district of [ Mpigi ] on the charge of cutting a neighbor's head."
+    ],
+    "src_entities": [
+      "Eria Luwalira",
+      "SPC",
+      "Harman Kinobe",
+      "Kammengo",
+      "Paul Mukasa",
+      "Ndoddo",
+      "Kammengo",
+      "Mpigi"
+    ],
+    "template": "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe .",
+    "tgt_lang": [
+      [
+        "CP [ Eria Luwalira ] ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP [ ] Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP [ Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we ] baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP [ Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe. ]",
+        "CP [ Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe ]."
+      ],
+      [
+        "CP Eria Luwalira ne [ SPC ] Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne [ ] SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne [ SPC Harman Kinobe ] abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne [ SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we ] baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne [ SPC Harman Kinobe abasirikale ba poliisi ye Kammengo aba ]akedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe."
+      ],
+      [
+        "CP Eria Luwalira ne SPC [ Harman Kinobe ] abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC [ ] Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC [ Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we ] baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale [ enkumbi ] ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale [ ] enkumbi ku mutwe."
+      ],
+      [
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi [ ye Kammengo ] abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye [ Kammengo ] abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe [ ].",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale [ enkumbi ] ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe [. ]"
+      ],
+      [
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga [ Paul Mukasa ] 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga [ Paul Mukasa 30 ] omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa [ 30 ] omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga [ ] Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa [ ] 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe."
+      ],
+      [
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we [ Ndoddo ] mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we [ ] Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo [ mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we ] baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo [ mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe ].",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo [ mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe. ]"
+      ],
+      [
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye [ Kammengo ] mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola [ ye Kammengo ] mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu [ ggombolola ye Kammengo ] mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola [ ] ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye [ ] Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe."
+      ],
+      [
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu [ Mpigi ] ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo [ mu Mpigi ] ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu [ ] Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo [ ] mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi [ ] ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Eria Luwalira",
+        "",
+        "Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we",
+        "Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe.",
+        "Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe"
+      ],
+      [
+        "SPC",
+        "",
+        "SPC Harman Kinobe",
+        "SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we",
+        "SPC Harman Kinobe abasirikale ba poliisi ye Kammengo aba"
+      ],
+      [
+        "Harman Kinobe",
+        "",
+        "Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we",
+        "enkumbi",
+        ""
+      ],
+      [
+        "ye Kammengo",
+        "Kammengo",
+        "",
+        "enkumbi",
+        "."
+      ],
+      [
+        "Paul Mukasa",
+        "Paul Mukasa 30",
+        "30",
+        "",
+        ""
+      ],
+      [
+        "Ndoddo",
+        "",
+        "mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we",
+        "mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe",
+        "mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe."
+      ],
+      [
+        "Kammengo",
+        "ye Kammengo",
+        "ggombolola ye Kammengo",
+        "",
+        ""
+      ],
+      [
+        "Mpigi",
+        "mu Mpigi",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -166.3352508544922,
+        -178.2123260498047,
+        -184.9119110107422,
+        -192.00218200683594,
+        -192.4900665283203
+      ],
+      [
+        -166.83050537109375,
+        -180.154296875,
+        -185.9065399169922,
+        -189.99154663085938,
+        -197.69326782226562
+      ],
+      [
+        -168.96420288085938,
+        -181.41648864746094,
+        -186.05072021484375,
+        -190.6837615966797,
+        -192.01220703125
+      ],
+      [
+        -173.5599822998047,
+        -175.3026885986328,
+        -186.781982421875,
+        -186.91737365722656,
+        -187.8236846923828
+      ],
+      [
+        -166.97793579101562,
+        -175.34713745117188,
+        -176.34176635742188,
+        -178.39724731445312,
+        -179.86109924316406
+      ],
+      [
+        -165.88397216796875,
+        -175.9607696533203,
+        -183.23355102539062,
+        -188.54595947265625,
+        -189.0303192138672
+      ],
+      [
+        -170.28515625,
+        -171.1681365966797,
+        -177.08229064941406,
+        -179.64071655273438,
+        -180.40130615234375
+      ],
+      [
+        -167.19776916503906,
+        -173.4734344482422,
+        -179.0447235107422,
+        -181.63473510742188,
+        -182.53355407714844
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "Sheikh [ Guggwa ] is a man who has been in the air and no one has been able to go."
+    ],
+    "src_entities": [
+      "Guggwa"
+    ],
+    "template": "Sheikh Guggwa ye muntu abadde mu bbanga era talina watasobola kugenda .",
+    "tgt_lang": [
+      [
+        "Sheikh [ Guggwa ] ye muntu abadde mu bbanga era talina watasobola kugenda.",
+        "Sheikh Guggwa [ ye muntu abadde mu bbanga era talina watasobola kugenda ].",
+        "Sheikh Guggwa [ ye muntu abadde mu bbanga ] era talina watasobola kugenda.",
+        "Sheikh [ Guggwa ye muntu abadde mu bbanga era talina watasobola kugenda ].",
+        "Sheikh Guggwa [ ye muntu abadde mu bbanga era talina watasobola kugenda. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Guggwa",
+        "ye muntu abadde mu bbanga era talina watasobola kugenda",
+        "ye muntu abadde mu bbanga",
+        "Guggwa ye muntu abadde mu bbanga era talina watasobola kugenda",
+        "ye muntu abadde mu bbanga era talina watasobola kugenda."
+      ]
+    ],
+    "score": [
+      [
+        -35.91080093383789,
+        -56.57943344116211,
+        -56.716182708740234,
+        -57.28417205810547,
+        -57.342994689941406
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "And [ Latif's ] camp hopes to get support from Bobi Wine and People Power, killing some mayors in Kampala Municipalities.",
+      "And Latif's camp hopes to get support from [ Bobi Wine ] and People Power, killing some mayors in Kampala Municipalities.",
+      "And Latif's camp hopes to get support from Bobi Wine and [ People Power, ] killing some mayors in Kampala Municipalities.",
+      "And Latif's camp hopes to get support from Bobi Wine and People Power, killing some mayors in [ Kampala ] Municipalities."
+    ],
+    "src_entities": [
+      "Latif's",
+      "Bobi Wine",
+      "People Power,",
+      "Kampala"
+    ],
+    "template": "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba People Power , kwossa bameeya abamu mu Munisipaali za Kampala .",
+    "tgt_lang": [
+      [
+        "Ate enkambi ya [ Latif ] erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba People Power, kwossa bameeya abamu mu Munisipaali za Kampala.",
+        "Ate [ ] enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba People Power, kwossa bameeya abamu mu Munisipaali za Kampala.",
+        "Ate [ enkambi ya Latif ] erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba People Power, kwossa bameeya abamu mu Munisipaali za Kampala.",
+        "Ate enkambi [ ya Latif ] erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba People Power, kwossa bameeya abamu mu Munisipaali za Kampala.",
+        "Ate [ enkambi ya ] Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba People Power, kwossa bameeya abamu mu Munisipaali za Kampala."
+      ],
+      [
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa [ Bobi Wine ] naba People Power, kwossa bameeya abamu mu Munisipaali za Kampala.",
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva [ ewa Bobi Wine ] naba People Power, kwossa bameeya abamu mu Munisipaali za Kampala.",
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa [ Bobi Wine naba People Power ], kwossa bameeya abamu mu Munisipaali za Kampala.",
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine [ naba People Power ], kwossa bameeya abamu mu Munisipaali za Kampala.",
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine [ ] naba People Power, kwossa bameeya abamu mu Munisipaali za Kampala."
+      ],
+      [
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba [ People Power, ] kwossa bameeya abamu mu Munisipaali za Kampala.",
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba [ People Power ], kwossa bameeya abamu mu Munisipaali za Kampala.",
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba [ People Power, kwossa bameeya abamu mu Munisipaali za Kampala. ]",
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine [ naba People Power, ] kwossa bameeya abamu mu Munisipaali za Kampala.",
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba [ People Power, kwossa bameeya abamu mu Munisipaali za Kampala ]."
+      ],
+      [
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba People Power, kwossa bameeya abamu mu Munisipaali za [ Kampala ].",
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba People Power, kwossa bameeya abamu mu Munisipaali [ za Kampala ].",
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba People Power, kwossa bameeya abamu mu [ ] Munisipaali za Kampala.",
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba People Power, kwossa bameeya abamu mu [ Munisipaali za Kampala ].",
+        "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba People Power, kwossa bameeya abamu mu Munisipaali za [ Kampala. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Latif",
+        "",
+        "enkambi ya Latif",
+        "ya Latif",
+        "enkambi ya"
+      ],
+      [
+        "Bobi Wine",
+        "ewa Bobi Wine",
+        "Bobi Wine naba People Power",
+        "naba People Power",
+        ""
+      ],
+      [
+        "People Power,",
+        "People Power",
+        "People Power, kwossa bameeya abamu mu Munisipaali za Kampala.",
+        "naba People Power,",
+        "People Power, kwossa bameeya abamu mu Munisipaali za Kampala"
+      ],
+      [
+        "Kampala",
+        "za Kampala",
+        "",
+        "Munisipaali za Kampala",
+        "Kampala."
+      ]
+    ],
+    "score": [
+      [
+        -70.0517578125,
+        -70.20780944824219,
+        -70.7293472290039,
+        -71.3328628540039,
+        -73.95707702636719
+      ],
+      [
+        -63.47549819946289,
+        -66.46410369873047,
+        -73.61971282958984,
+        -74.07662963867188,
+        -74.3971176147461
+      ],
+      [
+        -64.12257385253906,
+        -71.23296356201172,
+        -74.45478820800781,
+        -74.97372436523438,
+        -75.59834289550781
+      ],
+      [
+        -65.28648376464844,
+        -67.90034484863281,
+        -71.65995025634766,
+        -71.7446517944336,
+        -73.22328186035156
+      ]
+    ],
+    "flag": 1
+  }
+]

@@ -1,0 +1,1158 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "The concert, which was organized by the [ Fire Base Crew ] based in One love Beach, lasted for one hour and 45 minutes before they sang on the water and returned to land.",
+      "The concert, which was organized by the Fire Base Crew based in [ One love Beach, ] lasted for one hour and 45 minutes before they sang on the water and returned to land."
+    ],
+    "src_entities": [
+      "Fire Base Crew",
+      "One love Beach,"
+    ],
+    "template": "Konsati eno eyategeddwa obulungi nga ttiimu ya Fire Base Crew esinziira ku One love Beach yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu .",
+    "tgt_lang": [
+      [
+        "Konsati eno eyategeddwa obulungi nga ttiimu ya [ Fire Base Crew ] esinziira ku One love Beach yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu.",
+        "Konsati eno eyategeddwa obulungi nga [ ttiimu ya Fire Base Crew ] esinziira ku One love Beach yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu.",
+        "Konsati eno eyategeddwa obulungi [ nga ttiimu ya Fire Base Crew ] esinziira ku One love Beach yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu.",
+        "Konsati eno eyategeddwa obulungi nga ttiimu [ ya Fire Base Crew ] esinziira ku One love Beach yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu.",
+        "Konsati eno eyategeddwa [ obulungi nga ttiimu ya Fire Base Crew ] esinziira ku One love Beach yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu."
+      ],
+      [
+        "Konsati eno eyategeddwa obulungi nga ttiimu ya Fire Base Crew esinziira ku [ One love Beach ] yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu.",
+        "Konsati eno eyategeddwa obulungi nga ttiimu ya Fire Base Crew esinziira [ ku One love Beach ] yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu.",
+        "Konsati eno eyategeddwa obulungi nga ttiimu ya Fire Base Crew esinziira [ ] ku One love Beach yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu.",
+        "Konsati eno eyategeddwa obulungi nga ttiimu ya Fire Base Crew esinziira ku [ One love Beach yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu ].",
+        "Konsati eno eyategeddwa obulungi nga ttiimu ya Fire Base Crew esinziira ku [ One love Beach yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Fire Base Crew",
+        "ttiimu ya Fire Base Crew",
+        "nga ttiimu ya Fire Base Crew",
+        "ya Fire Base Crew",
+        "obulungi nga ttiimu ya Fire Base Crew"
+      ],
+      [
+        "One love Beach",
+        "ku One love Beach",
+        "",
+        "One love Beach yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu",
+        "One love Beach yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu."
+      ]
+    ],
+    "score": [
+      [
+        -98.46073150634766,
+        -102.78424072265625,
+        -103.93722534179688,
+        -103.99981689453125,
+        -104.05422973632812
+      ],
+      [
+        -98.75716400146484,
+        -101.08699798583984,
+        -105.10769653320312,
+        -114.18248748779297,
+        -116.06087493896484
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "[ Ssekikubo ] and his fellow NRM MPs who were in the ninth parliament who were accused of being NRM members until Wilfred Niwagaba and Barnabas Tinkasimire were expelled from this group for things related to speaking NRM mafukule.",
+      "Ssekikubo and his fellow [ NRM ] MPs who were in the ninth parliament who were accused of being NRM members until Wilfred Niwagaba and Barnabas Tinkasimire were expelled from this group for things related to speaking NRM mafukule.",
+      "Ssekikubo and his fellow NRM MPs who were in the ninth parliament who were accused of being [ NRM ] members until Wilfred Niwagaba and Barnabas Tinkasimire were expelled from this group for things related to speaking NRM mafukule.",
+      "Ssekikubo and his fellow NRM MPs who were in the ninth parliament who were accused of being NRM members until [ Wilfred Niwagaba ] and Barnabas Tinkasimire were expelled from this group for things related to speaking NRM mafukule.",
+      "Ssekikubo and his fellow NRM MPs who were in the ninth parliament who were accused of being NRM members until Wilfred Niwagaba and [ Barnabas Tinkasimire ] were expelled from this group for things related to speaking NRM mafukule.",
+      "Ssekikubo and his fellow NRM MPs who were in the ninth parliament who were accused of being NRM members until Wilfred Niwagaba and Barnabas Tinkasimire were expelled from this group for things related to speaking [ NRM ] mafukule."
+    ],
+    "src_entities": [
+      "Ssekikubo",
+      "NRM",
+      "NRM",
+      "Wilfred Niwagaba",
+      "Barnabas Tinkasimire",
+      "NRM"
+    ],
+    "template": "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule .",
+    "tgt_lang": [
+      [
+        "[ Ssekikubo ] ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule.",
+        "Ssekikubo [ ] ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule.",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM [ amafukuule ].",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM ama [fukuule ].",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM [ ] amafukuule."
+      ],
+      [
+        "Ssekikubo ne babaka banne [ aba NRM ] abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule.",
+        "Ssekikubo ne babaka banne aba [ NRM ] abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule.",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM ama [fukuule ].",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM ama [ ]fukuule.",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM ama [fukuule. ]"
+      ],
+      [
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba [ NRM ] bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule.",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya [ aba NRM ] bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule.",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM [ bakiwagi ] okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule.",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM [ amafukuule ].",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM ama [fukuule ]."
+      ],
+      [
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza [ Wilfred Niwagaba ] ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule.",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi [ okugeza Wilfred Niwagaba ] ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule.",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza [ Wilfred Niwagaba ne Barnabas Tinkasimire ] baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule.",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM [ amafukuule ].",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM ama [fukuule ]."
+      ],
+      [
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne [ Barnabas Tinkasimire ] baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule.",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire [ ] baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule.",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM [ amafukuule ].",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire [ baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule ].",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM ama [fukuule ]."
+      ],
+      [
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga [ NRM ] amafukuule.",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM [ amafukuule ].",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga [ NRM amafukuule ].",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogerar [anga NRM ] amafukuule.",
+        "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM [ amafukuule. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ssekikubo",
+        "",
+        "amafukuule",
+        "fukuule",
+        ""
+      ],
+      [
+        "aba NRM",
+        "NRM",
+        "fukuule",
+        "",
+        "fukuule."
+      ],
+      [
+        "NRM",
+        "aba NRM",
+        "bakiwagi",
+        "amafukuule",
+        "fukuule"
+      ],
+      [
+        "Wilfred Niwagaba",
+        "okugeza Wilfred Niwagaba",
+        "Wilfred Niwagaba ne Barnabas Tinkasimire",
+        "amafukuule",
+        "fukuule"
+      ],
+      [
+        "Barnabas Tinkasimire",
+        "",
+        "amafukuule",
+        "baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule",
+        "fukuule"
+      ],
+      [
+        "NRM",
+        "amafukuule",
+        "NRM amafukuule",
+        "anga NRM",
+        "amafukuule."
+      ]
+    ],
+    "score": [
+      [
+        -141.6628875732422,
+        -150.70816040039062,
+        -157.95697021484375,
+        -162.30081176757812,
+        -163.59231567382812
+      ],
+      [
+        -144.807373046875,
+        -145.94839477539062,
+        -158.0124053955078,
+        -163.3710174560547,
+        -163.5111846923828
+      ],
+      [
+        -141.87652587890625,
+        -142.57142639160156,
+        -144.23899841308594,
+        -149.3811492919922,
+        -153.70362854003906
+      ],
+      [
+        -139.34378051757812,
+        -146.4082794189453,
+        -149.64259338378906,
+        -155.33502197265625,
+        -158.77159118652344
+      ],
+      [
+        -140.80674743652344,
+        -150.6318359375,
+        -154.94775390625,
+        -156.69082641601562,
+        -158.0936737060547
+      ],
+      [
+        -138.77734375,
+        -147.27609252929688,
+        -148.97715759277344,
+        -153.125244140625,
+        -153.17677307128906
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "[ RDC ] Tuka appealed to them to join him in spreading the gospel among the people to further prevent the spread of COVID 19 so as not to delay Karungu has reached this time without infecting even one person as a result of contagion.",
+      "RDC [ Tuka ] appealed to them to join him in spreading the gospel among the people to further prevent the spread of COVID 19 so as not to delay Karungu has reached this time without infecting even one person as a result of contagion.",
+      "RDC Tuka appealed to them to join him in spreading the gospel among the people to further prevent the spread of COVID 19 so as not to delay [ Karungu ] has reached this time without infecting even one person as a result of contagion."
+    ],
+    "src_entities": [
+      "RDC",
+      "Tuka",
+      "Karungu"
+    ],
+    "template": "RDC Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu .",
+    "tgt_lang": [
+      [
+        "[ RDC ] Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu.",
+        "RDC [ Tuka ]ikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu.",
+        "[ RDC Tuka ]ikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu.",
+        "RDC [ ] Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu.",
+        "[ ] RDC Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu."
+      ],
+      [
+        "RDC [ Tukaikiriza ] yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu.",
+        "RDC [ Tuka ]ikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu.",
+        "RDC [ ] Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu.",
+        "RDC [ Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu. ]",
+        "RDC [ Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu ]."
+      ],
+      [
+        "RDC Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda [ Kalungu ] etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu.",
+        "RDC Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda [ ] Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu.",
+        "RDC Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu [ ] etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu.",
+        "RDC Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda [ Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu ].",
+        "RDC Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda [ Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "RDC",
+        "Tuka",
+        "RDC Tuka",
+        "",
+        ""
+      ],
+      [
+        "Tukaikiriza",
+        "Tuka",
+        "",
+        "Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu.",
+        "Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu"
+      ],
+      [
+        "Kalungu",
+        "",
+        "",
+        "Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu",
+        "Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu."
+      ]
+    ],
+    "score": [
+      [
+        -184.79299926757812,
+        -198.0452423095703,
+        -200.5756378173828,
+        -201.4664764404297,
+        -202.96066284179688
+      ],
+      [
+        -184.4298858642578,
+        -184.7267303466797,
+        -200.8820343017578,
+        -203.8268585205078,
+        -204.2535858154297
+      ],
+      [
+        -186.22967529296875,
+        -193.11212158203125,
+        -193.5559539794922,
+        -200.84506225585938,
+        -202.0828094482422
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 3,
+    "src_lang": [],
+    "template": "Oluvanyuma baamuwewenyudde kibooko 100 ne bamuggyako enkoko ne bamuleka nagenda nga bagamba nti ne bwe banaamusiba era ajja kuddamu kubanga obubbi alinga eyayonka obuyonke .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "The soldiers arrested [ Nicholas Tsekaza, ] the owner of a gambling establishment where his children were few."
+    ],
+    "src_entities": [
+      "Nicholas Tsekaza,"
+    ],
+    "template": "Abaserikale baakutte Nicholas Ssekajja nnannyini kifo kya zzaala abaana we bakeera .",
+    "tgt_lang": [
+      [
+        "Abaserikale baakutte [ Nicholas Ssekajja ] nnannyini kifo kya zzaala abaana we bakeera.",
+        "Abaserikale baakutte [ Nicholas ] Ssekajja nnannyini kifo kya zzaala abaana we bakeera.",
+        "Abaserikale baakutte [ ] Nicholas Ssekajja nnannyini kifo kya zzaala abaana we bakeera.",
+        "Abaserikale baakutte Nicholas Ssekajja [ ] nnannyini kifo kya zzaala abaana we bakeera.",
+        "Abaserikale baakutte Nicholas [ Ssekajja ] nnannyini kifo kya zzaala abaana we bakeera."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Nicholas Ssekajja",
+        "Nicholas",
+        "",
+        "",
+        "Ssekajja"
+      ]
+    ],
+    "score": [
+      [
+        -64.88088989257812,
+        -69.90101623535156,
+        -73.12223052978516,
+        -74.85233306884766,
+        -75.03585052490234
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "[ ALI Ssekabembe, ] the lawyer of Majjaka said that they will go to court this week.",
+      "ALI Ssekabembe, the lawyer of [ Majjaka ] said that they will go to court this week."
+    ],
+    "src_entities": [
+      "ALI Ssekabembe,",
+      "Majjaka"
+    ],
+    "template": "TUGENDA MU KKOOTI Ali Ssekabembe , looya wa Majjanja yagambye nti , mu wiiki eno bajja kugenda mu kkooti .",
+    "tgt_lang": [
+      [
+        "TUGENDA MU KKOOTI [ Ali Ssekabembe, ] looya wa Majjanja yagambye nti, mu wiiki eno bajja kugenda mu kkooti.",
+        "TUGENDA MU KKOOTI [ Ali Ssekabembe ], looya wa Majjanja yagambye nti, mu wiiki eno bajja kugenda mu kkooti.",
+        "[ TUGENDA MU KKOOTI ] Ali Ssekabembe, looya wa Majjanja yagambye nti, mu wiiki eno bajja kugenda mu kkooti.",
+        "TUGENDA MU KKOOTI Ali Ssekabembe, [ ] looya wa Majjanja yagambye nti, mu wiiki eno bajja kugenda mu kkooti.",
+        "[ TUGENDA MU KKOOTI Ali Ssekabembe, ] looya wa Majjanja yagambye nti, mu wiiki eno bajja kugenda mu kkooti."
+      ],
+      [
+        "TUGENDA MU KKOOTI Ali Ssekabembe, looya wa [ Majjanja ] yagambye nti, mu wiiki eno bajja kugenda mu kkooti.",
+        "TUGENDA MU KKOOTI [ Ali Ssekabembe, looya wa Majjanja ] yagambye nti, mu wiiki eno bajja kugenda mu kkooti.",
+        "TUGENDA MU KKOOTI Ali Ssekabembe, looya wa Majjanja [ ] yagambye nti, mu wiiki eno bajja kugenda mu kkooti.",
+        "[ TUGENDA MU KKOOTI ] Ali Ssekabembe, looya wa Majjanja yagambye nti, mu wiiki eno bajja kugenda mu kkooti.",
+        "TUGENDA MU KKOOTI Ali Ssekabembe, looya wa Majjanja [ yagambye ] nti, mu wiiki eno bajja kugenda mu kkooti."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ali Ssekabembe,",
+        "Ali Ssekabembe",
+        "TUGENDA MU KKOOTI",
+        "",
+        "TUGENDA MU KKOOTI Ali Ssekabembe,"
+      ],
+      [
+        "Majjanja",
+        "Ali Ssekabembe, looya wa Majjanja",
+        "",
+        "TUGENDA MU KKOOTI",
+        "yagambye"
+      ]
+    ],
+    "score": [
+      [
+        -95.94093322753906,
+        -97.6562728881836,
+        -98.24156188964844,
+        -100.4675521850586,
+        -102.28469848632812
+      ],
+      [
+        -88.28639221191406,
+        -96.4572982788086,
+        -97.52185821533203,
+        -98.2145767211914,
+        -99.05813598632812
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [],
+    "template": "Wabula oluvannyuma yamala nagitwala mu kakiiko kyokka nga terambika buvunaanyizibwa bwe .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 7,
+    "src_lang": [],
+    "template": "Yategeezezza nti ku Lwokusatu lwokka , yawandiise abawala abasukka mu 20 abaamutuukiridde ku ofiisi ye kyokka ngabalala nga 40 beewandiisizza ku mukutu gwempaka zino ku yintanenti ogwa www . misscurvyuganda . com omugatte gwabakyala abaakewandiisa guli mu 200 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 8,
+    "src_lang": [],
+    "template": "Kitegeeza nti ogenda kufuna 41 , 190 , 000 oba 41 , 370 , 000 . BYOLINA OKWETEGEREZAlOlina okufuna olulyo olutuufu . l Oyinza okwetaaga oikukebera ettaka , okugeza waliwo olulyo olutadda Kyaggwel Olina okubala sizoni nosimbira awatuufu . l Zirian lwe zigwe ebbeeyi bokisi ennamba negula emitwalo omusanvul Olina kugukola nga mulimu",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "The chairman of the village, [ Charles Malinzi, ] said that it is unfair to let the 65-year-old start at 80 because they too are old and cannot support themselves."
+    ],
+    "src_entities": [
+      "Charles Malinzi,"
+    ],
+    "template": "Ssentebe wekyalo kino , Charles Malinzi yategeezezza nti si kya bwenkanya okulekayo abemyaka 65 ne batandikira ku 80 kubanga na bano babeera bakaddiye nga tebakyasobola kweyimirizaawo . Kyokka abakadde abawerako baakonkomadde olwokummibwa ssente zino olwobutaba na densite nabatannaweza myaka 80 .",
+    "tgt_lang": [
+      [
+        "Ssentebe wekyalo kino, [ Charles Malinzi ] yategeezezza nti si kya bwenkanya okulekayo abemyaka 65 ne batandikira ku 80 kubanga na bano babeera bakaddiye nga tebakyasobola kweyimirizaawo. Kyokka abakadde abawerako baakonkomadde olwokummibwa ssente zino olwobutaba na densite nabatannaweza myaka 80.",
+        "Ssentebe wekyalo kino [, Charles Malinzi ] yategeezezza nti si kya bwenkanya okulekayo abemyaka 65 ne batandikira ku 80 kubanga na bano babeera bakaddiye nga tebakyasobola kweyimirizaawo. Kyokka abakadde abawerako baakonkomadde olwokummibwa ssente zino olwobutaba na densite nabatannaweza myaka 80.",
+        "Ssentebe wekyalo kino, [ Charles Malinzi yategeezezza nti si kya bwenkanya okulekayo abemyaka 65 ne batandikira ku 80 kubanga na bano babeera bakaddiye nga tebakyasobola kweyimirizaawo. Kyokka abakadde abawerako baakonkomadde olwokummibwa ssente zino olwobutaba na densite ] nabatannaweza myaka 80.",
+        "Ssentebe wekyalo kino, Charles Malinzi [ yategeezezza nti si kya bwenkanya okulekayo abemyaka 65 ne batandikira ku 80 kubanga na bano babeera bakaddiye nga tebakyasobola kweyimirizaawo. Kyokka abakadde abawerako baakonkomadde olwokummibwa ssente zino olwobutaba na densite ] nabatannaweza myaka 80.",
+        "Ssentebe wekyalo kino, Charles Malinzi [ yategeezezza nti si kya bwenkanya okulekayo abemyaka 65 ne batandikira ku 80 kubanga na bano babeera bakaddiye nga tebakyasobola kweyimirizaawo. ] Kyokka abakadde abawerako baakonkomadde olwokummibwa ssente zino olwobutaba na densite nabatannaweza myaka 80."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Charles Malinzi",
+        ", Charles Malinzi",
+        "Charles Malinzi yategeezezza nti si kya bwenkanya okulekayo abemyaka 65 ne batandikira ku 80 kubanga na bano babeera bakaddiye nga tebakyasobola kweyimirizaawo. Kyokka abakadde abawerako baakonkomadde olwokummibwa ssente zino olwobutaba na densite",
+        "yategeezezza nti si kya bwenkanya okulekayo abemyaka 65 ne batandikira ku 80 kubanga na bano babeera bakaddiye nga tebakyasobola kweyimirizaawo. Kyokka abakadde abawerako baakonkomadde olwokummibwa ssente zino olwobutaba na densite",
+        "yategeezezza nti si kya bwenkanya okulekayo abemyaka 65 ne batandikira ku 80 kubanga na bano babeera bakaddiye nga tebakyasobola kweyimirizaawo."
+      ]
+    ],
+    "score": [
+      [
+        -233.44625854492188,
+        -241.97108459472656,
+        -251.1533203125,
+        -251.37603759765625,
+        -252.4260711669922
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "Some of the students who passed were [ Justine Nakiyingi ] who got 14 in GELsub Maths, Shamirah Nabbanja who got 14 in BCMICT, Sandra Nabaleke who got 10 in DEGsub Maths and Richard Kiyingi who got 13 in BCMICT.",
+      "Some of the students who passed were Justine Nakiyingi who got 14 in GELsub Maths, [ Shamirah Nabbanja ] who got 14 in BCMICT, Sandra Nabaleke who got 10 in DEGsub Maths and Richard Kiyingi who got 13 in BCMICT.",
+      "Some of the students who passed were Justine Nakiyingi who got 14 in GELsub Maths, Shamirah Nabbanja who got 14 in BCMICT, [ Sandra Nabaleke ] who got 10 in DEGsub Maths and Richard Kiyingi who got 13 in BCMICT.",
+      "Some of the students who passed were Justine Nakiyingi who got 14 in GELsub Maths, Shamirah Nabbanja who got 14 in BCMICT, Sandra Nabaleke who got 10 in DEGsub Maths and [ Richard Kiyingi ] who got 13 in BCMICT."
+    ],
+    "src_entities": [
+      "Justine Nakiyingi",
+      "Shamirah Nabbanja",
+      "Sandra Nabaleke",
+      "Richard Kiyingi"
+    ],
+    "template": "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths , Shamirah Nabbanja eyafunye 14 mu BCMICT , Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT .",
+    "tgt_lang": [
+      [
+        "Abamu ku bayizi abaayise ye [ Justine Nakiyingi ] eyafunye 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT.",
+        "Abamu ku bayizi abaayise [ ye Justine Nakiyingi ] eyafunye 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT.",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye [ 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye ] 13 mu BCMICT.",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye [ 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT ].",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye [ 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT. ]"
+      ],
+      [
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, [ Shamirah Nabbanja ] eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT.",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths [, Shamirah Nabbanja ] eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT.",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, [ Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT. ]",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, [ Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ] ne Richard Kiyingi eyafunye 13 mu BCMICT.",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, [ Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT ]."
+      ],
+      [
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, [ Sandra Nabaleke ] eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT.",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT [, Sandra Nabaleke ] eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT.",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, [ Sandra Nabaleke eyafunye 10 mu DEGsub Maths ] ne Richard Kiyingi eyafunye 13 mu BCMICT.",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, [ Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT. ]",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, [ Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT ]."
+      ],
+      [
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne [ Richard Kiyingi ] eyafunye 13 mu BCMICT.",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths [ ne Richard Kiyingi ] eyafunye 13 mu BCMICT.",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne [ Richard Kiyingi eyafunye ] 13 mu BCMICT.",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne [ Richard Kiyingi eyafunye 13 mu BCMICT. ]",
+        "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne [ Richard Kiyingi eyafunye 13 mu BCMICT ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Justine Nakiyingi",
+        "ye Justine Nakiyingi",
+        "14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye",
+        "14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT",
+        "14 mu GELsub Maths, Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT."
+      ],
+      [
+        "Shamirah Nabbanja",
+        ", Shamirah Nabbanja",
+        "Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT.",
+        "Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths",
+        "Shamirah Nabbanja eyafunye 14 mu BCMICT, Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT"
+      ],
+      [
+        "Sandra Nabaleke",
+        ", Sandra Nabaleke",
+        "Sandra Nabaleke eyafunye 10 mu DEGsub Maths",
+        "Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT.",
+        "Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT"
+      ],
+      [
+        "Richard Kiyingi",
+        "ne Richard Kiyingi",
+        "Richard Kiyingi eyafunye",
+        "Richard Kiyingi eyafunye 13 mu BCMICT.",
+        "Richard Kiyingi eyafunye 13 mu BCMICT"
+      ]
+    ],
+    "score": [
+      [
+        -25.290016174316406,
+        -32.82235336303711,
+        -45.579627990722656,
+        -46.333003997802734,
+        -47.421226501464844
+      ],
+      [
+        -23.281810760498047,
+        -34.57728958129883,
+        -48.975345611572266,
+        -49.1012077331543,
+        -49.108699798583984
+      ],
+      [
+        -25.24395179748535,
+        -37.04125213623047,
+        -40.40478515625,
+        -50.50554656982422,
+        -50.63958740234375
+      ],
+      [
+        -23.896089553833008,
+        -33.18252944946289,
+        -42.246097564697266,
+        -43.08113479614258,
+        -43.24275207519531
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 11,
+    "src_lang": [],
+    "template": "Nagamba nti tewali kyetaagisa kukuba Bannayuganda batalina musango bbomu .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 12,
+    "src_lang": [
+      "His friend who set himself on fire has bought a car with the number [ UAE. ]"
+    ],
+    "src_entities": [
+      "UAE."
+    ],
+    "template": "Omugenzi we yeekumiriddeko omuliro abadde yaakagula emmotoka wish nnamba UAE .",
+    "tgt_lang": [
+      [
+        "Omugenzi we yeekumiriddeko omuliro abadde yaakagula emmotoka wish nnamba [ UAE ].",
+        "Omugenzi we yeekumiriddeko omuliro abadde yaakagula emmotoka wish nnamba [ UAE. ]",
+        "Omugenzi we yeekumiriddeko omuliro abadde yaakagula emmotoka [ wish nnamba UAE ].",
+        "Omugenzi we yeekumiriddeko omuliro abadde yaakagula emmotoka wish nnamba [ ] UAE.",
+        "Omugenzi we yeekumiriddeko omuliro abadde yaakagula emmotoka [ wish nnamba UAE. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "UAE",
+        "UAE.",
+        "wish nnamba UAE",
+        "",
+        "wish nnamba UAE."
+      ]
+    ],
+    "score": [
+      [
+        -75.53730010986328,
+        -79.46759033203125,
+        -85.33845520019531,
+        -87.13025665283203,
+        -88.0618667602539
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 13,
+    "src_lang": [],
+    "template": "wabula nasaba banna kibiina okukomya okubalwanisa entalo zebyobufuzi .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 14,
+    "src_lang": [],
+    "template": "Ekikwekweto kino tekitalizza ba bbooda ababadde batisse abasukka mu muntu omu ate nga tebambadde masiki .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 15,
+    "src_lang": [],
+    "template": "Wadde ngebikemo bingi naye nninze amale kunjatulira nti yankoowa olwo nange mmuviire .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "As Pastor [ Lukau ] continues to deteriorate, three funeral service companies, Kingdom Blue, Kings Queens Funeral Services and Black Phoenix, have filed a lawsuit against him accusing him of playing on their reputation.",
+      "As Pastor Lukau continues to deteriorate, three funeral service companies, [ Kingdom Blue, ] Kings Queens Funeral Services and Black Phoenix, have filed a lawsuit against him accusing him of playing on their reputation.",
+      "As Pastor Lukau continues to deteriorate, three funeral service companies, Kingdom Blue, [ Kings Queens Funeral Services ] and Black Phoenix, have filed a lawsuit against him accusing him of playing on their reputation.",
+      "As Pastor Lukau continues to deteriorate, three funeral service companies, Kingdom Blue, Kings Queens Funeral Services and [ Black Phoenix, ] have filed a lawsuit against him accusing him of playing on their reputation."
+    ],
+    "src_entities": [
+      "Lukau",
+      "Kingdom Blue,",
+      "Kings Queens Funeral Services",
+      "Black Phoenix,"
+    ],
+    "template": "Paasita Lukau byongedde okumwonoonekera , kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue , Kings Queens Funeral Services ne Black Phoenix , ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe .",
+    "tgt_lang": [
+      [
+        "Paasita [ Lukau ] byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "[ Paasita Lukau ] byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "[ Paasita ] Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "Paasita [ Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe ].",
+        "Paasita [ Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe. ]"
+      ],
+      [
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli [ Kingdom Blue, ] Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli [ Kingdom Blue ], Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli [ Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe ].",
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli [ Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira ] nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli [ Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe. ]"
+      ],
+      [
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, [ Kings Queens Funeral Services ] ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, [ ] Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue [, Kings Queens Funeral Services ] ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, [ Kings ] Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, [ Kings Queens Funeral Services ne Black Phoenix, ] ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe."
+      ],
+      [
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, Kings Queens Funeral Services ne [ Black Phoenix, ] ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, Kings Queens Funeral Services ne [ Black Phoenix ], ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix [, ] ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "[ Paasita Lukau ] byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe.",
+        "Paasita Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, [ ] ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Lukau",
+        "Paasita Lukau",
+        "Paasita",
+        "Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe",
+        "Lukau byongedde okumwonoonekera, kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe."
+      ],
+      [
+        "Kingdom Blue,",
+        "Kingdom Blue",
+        "Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe",
+        "Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira",
+        "Kingdom Blue, Kings Queens Funeral Services ne Black Phoenix, ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe."
+      ],
+      [
+        "Kings Queens Funeral Services",
+        "",
+        ", Kings Queens Funeral Services",
+        "Kings",
+        "Kings Queens Funeral Services ne Black Phoenix,"
+      ],
+      [
+        "Black Phoenix,",
+        "Black Phoenix",
+        ",",
+        "Paasita Lukau",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -114.05487060546875,
+        -117.05519104003906,
+        -120.61872863769531,
+        -132.30162048339844,
+        -132.4535675048828
+      ],
+      [
+        -113.64761352539062,
+        -117.73178100585938,
+        -133.57049560546875,
+        -133.77554321289062,
+        -134.22384643554688
+      ],
+      [
+        -115.38357543945312,
+        -125.1126480102539,
+        -125.23660278320312,
+        -127.2626953125,
+        -129.67581176757812
+      ],
+      [
+        -113.58085632324219,
+        -119.14741516113281,
+        -121.48685455322266,
+        -121.80268859863281,
+        -122.10686492919922
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "[ Emmanuel Lutaia ] also attended with Pokino Vincent Mayiga.",
+      "Emmanuel Lutaia also attended with [ Pokino ] Vincent Mayiga.",
+      "Emmanuel Lutaia also attended with Pokino [ Vincent Mayiga. ]"
+    ],
+    "src_entities": [
+      "Emmanuel Lutaia",
+      "Pokino",
+      "Vincent Mayiga."
+    ],
+    "template": "Emmanuel Lutaaya era nga gwetabiddwaako ne Pokino Vincent Mayiga .",
+    "tgt_lang": [
+      [
+        "[ Emmanuel Lutaaya ] era nga gwetabiddwaako ne Pokino Vincent Mayiga.",
+        "[ Emmanuel Lutaaya era ] nga gwetabiddwaako ne Pokino Vincent Mayiga.",
+        "[ Emmanuel Lutaaya era nga gwetabiddwaako ne Pokino Vincent Mayiga. ]",
+        "[ Emmanuel Lutaaya era nga ] gwetabiddwaako ne Pokino Vincent Mayiga.",
+        "[ Emmanuel Lutaaya era nga gwetabiddwaako ne Pokino Vincent Mayiga ]."
+      ],
+      [
+        "Emmanuel Lutaaya era nga gwetabiddwaako ne [ Pokino ] Vincent Mayiga.",
+        "Emmanuel Lutaaya era nga gwetabiddwaako ne [ ] Pokino Vincent Mayiga.",
+        "Emmanuel Lutaaya era nga gwetabiddwaako ne Pokino [ Vincent Mayiga ].",
+        "Emmanuel Lutaaya era nga gwetabiddwaako ne Pokino [ ] Vincent Mayiga.",
+        "Emmanuel Lutaaya era nga gwetabiddwaako ne [ Pokino Vincent Mayiga ]."
+      ],
+      [
+        "Emmanuel Lutaaya era nga gwetabiddwaako ne Pokino [ Vincent Mayiga ].",
+        "Emmanuel Lutaaya era nga gwetabiddwaako ne Pokino [ Vincent Mayiga. ]",
+        "Emmanuel Lutaaya era nga gwetabiddwaako ne Pokino [ ] Vincent Mayiga.",
+        "Emmanuel Lutaaya era nga gwetabiddwaako ne Pokino Vincent Mayiga [. ]",
+        "Emmanuel Lutaaya era nga gwetabiddwaako ne Pokino Vincent Mayiga [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Emmanuel Lutaaya",
+        "Emmanuel Lutaaya era",
+        "Emmanuel Lutaaya era nga gwetabiddwaako ne Pokino Vincent Mayiga.",
+        "Emmanuel Lutaaya era nga",
+        "Emmanuel Lutaaya era nga gwetabiddwaako ne Pokino Vincent Mayiga"
+      ],
+      [
+        "Pokino",
+        "",
+        "Vincent Mayiga",
+        "",
+        "Pokino Vincent Mayiga"
+      ],
+      [
+        "Vincent Mayiga",
+        "Vincent Mayiga.",
+        "",
+        ".",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -39.54402542114258,
+        -51.3667106628418,
+        -53.1143913269043,
+        -54.842288970947266,
+        -55.49464797973633
+      ],
+      [
+        -38.867347717285156,
+        -52.01621627807617,
+        -53.94013595581055,
+        -54.47001266479492,
+        -55.332794189453125
+      ],
+      [
+        -38.465415954589844,
+        -39.821285247802734,
+        -49.86736297607422,
+        -52.59554672241211,
+        -52.89234924316406
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 18,
+    "src_lang": [],
+    "template": "Bagenda kuwandiika obutabo mu nnimi ezenjawulo kiyamba abayizi okutegeera obulungi .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "However, [ Sheik ] Mugerwa also said that while mosques are still on lockdown due to the Covid19 pandemic, Muslims must put aside their divisions and come out with a united voice to join with the leaders of other religions to persuade the Government to open mosques.",
+      "However, Sheik [ Mugerwa ] also said that while mosques are still on lockdown due to the Covid19 pandemic, Muslims must put aside their divisions and come out with a united voice to join with the leaders of other religions to persuade the Government to open mosques."
+    ],
+    "src_entities": [
+      "Sheik",
+      "Mugerwa"
+    ],
+    "template": "Wabula Sheik Mugerwa era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19 , Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule amasinzizo .",
+    "tgt_lang": [
+      [
+        "Wabula [ Sheik ] Mugerwa era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19, Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule amasinzizo.",
+        "Wabula [ ] Sheik Mugerwa era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19, Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule amasinzizo.",
+        "Wabula [ Sheik Mugerwa ] era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19, Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule amasinzizo.",
+        "Wabula Sheik [ Mugerwa ] era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19, Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule amasinzizo.",
+        "[ Wabula Sheik ] Mugerwa era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19, Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule amasinzizo."
+      ],
+      [
+        "Wabula Sheik [ Mugerwa ] era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19, Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule amasinzizo.",
+        "Wabula [ Sheik Mugerwa ] era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19, Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule amasinzizo.",
+        "Wabula Sheik [ Mugerwa era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19, Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule amasinzizo. ]",
+        "Wabula Sheik [ Mugerwa era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19, Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule amasinzizo ].",
+        "Wabula Sheik [ Mugerwa era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19, Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule ] amasinzizo."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Sheik",
+        "",
+        "Sheik Mugerwa",
+        "Mugerwa",
+        "Wabula Sheik"
+      ],
+      [
+        "Mugerwa",
+        "Sheik Mugerwa",
+        "Mugerwa era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19, Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule amasinzizo.",
+        "Mugerwa era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19, Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule amasinzizo",
+        "Mugerwa era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19, Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule"
+      ]
+    ],
+    "score": [
+      [
+        -118.83453369140625,
+        -127.98601531982422,
+        -131.54649353027344,
+        -133.582763671875,
+        -133.68357849121094
+      ],
+      [
+        -115.89856719970703,
+        -128.1525115966797,
+        -140.1640625,
+        -142.04151916503906,
+        -145.04002380371094
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "The party has also postponed the registration of members who want to stand for the party card but I warned them not to go and remove the paper from the [ People Power Party ] because JEEMA is working with them and they will sit to vote for the opponent to whom they give the card everywhere.",
+      "The party has also postponed the registration of members who want to stand for the party card but I warned them not to go and remove the paper from the People Power Party because [ JEEMA ] is working with them and they will sit to vote for the opponent to whom they give the card everywhere."
+    ],
+    "src_entities": [
+      "People Power Party",
+      "JEEMA"
+    ],
+    "template": "Ekibiina era kiguddewo okuwandiisa bammemba abaagala okwesimbirawo ku kaadi yekibiina wabula nabalabula obutagenda ate kuggyayo mpapula mu Kisinde kya People Power kubanga JEEMA ekolera wamu nabo era bajja kutuula okusunsula balabe gwe bawa kaadi ku buli kifo .",
+    "tgt_lang": [
+      [
+        "Ekibiina era kiguddewo okuwandiisa bammemba abaagala okwesimbirawo ku kaadi yekibiina wabula nabalabula obutagenda ate kuggyayo mpapula mu [ Kisinde kya People Power ] kubanga JEEMA ekolera wamu nabo era bajja kutuula okusunsula balabe gwe bawa kaadi ku buli kifo.",
+        "Ekibiina era kiguddewo okuwandiisa bammemba abaagala okwesimbirawo ku kaadi yekibiina wabula nabalabula obutagenda ate kuggyayo mpapula [ mu Kisinde kya People Power ] kubanga JEEMA ekolera wamu nabo era bajja kutuula okusunsula balabe gwe bawa kaadi ku buli kifo.",
+        "Ekibiina era kiguddewo okuwandiisa bammemba abaagala okwesimbirawo ku kaadi yekibiina wabula nabalabula obutagenda ate kuggyayo mpapula mu Kisinde kya [ People Power ] kubanga JEEMA ekolera wamu nabo era bajja kutuula okusunsula balabe gwe bawa kaadi ku buli kifo.",
+        "Ekibiina era kiguddewo okuwandiisa bammemba abaagala okwesimbirawo ku kaadi yekibiina wabula nabalabula obutagenda ate kuggyayo mpapula mu Kisinde [ kya People Power ] kubanga JEEMA ekolera wamu nabo era bajja kutuula okusunsula balabe gwe bawa kaadi ku buli kifo.",
+        "Ekibiina era kiguddewo okuwandiisa bammemba abaagala okwesimbirawo ku kaadi yekibiina wabula nabalabula obutagenda ate kuggyayo mpapula mu [ ] Kisinde kya People Power kubanga JEEMA ekolera wamu nabo era bajja kutuula okusunsula balabe gwe bawa kaadi ku buli kifo."
+      ],
+      [
+        "Ekibiina era kiguddewo okuwandiisa bammemba abaagala okwesimbirawo ku kaadi yekibiina wabula nabalabula obutagenda ate kuggyayo mpapula mu Kisinde kya People Power kubanga [ JEEMA ] ekolera wamu nabo era bajja kutuula okusunsula balabe gwe bawa kaadi ku buli kifo.",
+        "Ekibiina era kiguddewo okuwandiisa bammemba abaagala okwesimbirawo ku kaadi yekibiina wabula nabalabula obutagenda ate kuggyayo mpapula mu Kisinde kya People Power kubanga [ ] JEEMA ekolera wamu nabo era bajja kutuula okusunsula balabe gwe bawa kaadi ku buli kifo.",
+        "Ekibiina era kiguddewo okuwandiisa bammemba abaagala okwesimbirawo ku kaadi yekibiina wabula nabalabula obutagenda ate kuggyayo mpapula mu Kisinde kya People Power kubanga JEEMA [ ] ekolera wamu nabo era bajja kutuula okusunsula balabe gwe bawa kaadi ku buli kifo.",
+        "Ekibiina era kiguddewo okuwandiisa bammemba abaagala okwesimbirawo ku kaadi yekibiina wabula nabalabula obutagenda ate kuggyayo mpapula mu Kisinde kya People Power kubanga JEEMA [ ekolera wamu nabo ] era bajja kutuula okusunsula balabe gwe bawa kaadi ku buli kifo.",
+        "Ekibiina era kiguddewo okuwandiisa bammemba abaagala okwesimbirawo ku kaadi yekibiina wabula nabalabula obutagenda ate kuggyayo mpapula mu Kisinde kya People Power kubanga JEEMA [ ekolera wamu ] nabo era bajja kutuula okusunsula balabe gwe bawa kaadi ku buli kifo."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kisinde kya People Power",
+        "mu Kisinde kya People Power",
+        "People Power",
+        "kya People Power",
+        ""
+      ],
+      [
+        "JEEMA",
+        "",
+        "",
+        "ekolera wamu nabo",
+        "ekolera wamu"
+      ]
+    ],
+    "score": [
+      [
+        -130.3981170654297,
+        -131.55931091308594,
+        -133.46083068847656,
+        -134.0066375732422,
+        -140.06211853027344
+      ],
+      [
+        -129.8457489013672,
+        -139.15354919433594,
+        -141.4520721435547,
+        -143.13877868652344,
+        -145.62139892578125
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [],
+    "template": "Yasabye abayizi okukomya ehhombo yokusoma okufuna empapula wabula basome kufuna obukugu obunaabasobozesa okwetandikirawo emirimu basobole okweyimirizzaawo mu kifo kyokwewuuba nga baginoonya .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "[ Ronald Katende, ] Nabasumba's husband and father of two orphans who were found dead in the house, said that since his wife died and was buried, he decided not to rest and joined the police and they began a hunt until he was released in Nansana where he had fled.",
+      "Ronald Katende, [ Nabasumba's ] husband and father of two orphans who were found dead in the house, said that since his wife died and was buried, he decided not to rest and joined the police and they began a hunt until he was released in Nansana where he had fled.",
+      "Ronald Katende, Nabasumba's husband and father of two orphans who were found dead in the house, said that since his wife died and was buried, he decided not to rest and joined the police and they began a hunt until he was released in [ Nansana ] where he had fled."
+    ],
+    "src_entities": [
+      "Ronald Katende,",
+      "Nabasumba's",
+      "Nansana"
+    ],
+    "template": "Ronald Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti , okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e Nansana gyabadde yaddukira .",
+    "tgt_lang": [
+      [
+        "[ Ronald Katende ] bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e Nansana gyabadde yaddukira.",
+        "[ Ronald ] Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e Nansana gyabadde yaddukira.",
+        "[ Ronald Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamuk ]ukunudde e Nansana gyabadde yaddukira.",
+        "[ Ronald Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e Nansana gyabadde yaddukira. ]",
+        "[ Ronald Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e Nansana gyabadde yaddukira ]."
+      ],
+      [
+        "Ronald Katende bba wa [ Nabasumba ] era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e Nansana gyabadde yaddukira.",
+        "Ronald Katende bba [ wa Nabasumba ] era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e Nansana gyabadde yaddukira.",
+        "Ronald Katende [ ] bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e Nansana gyabadde yaddukira.",
+        "Ronald Katende bba wa [ Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamuk ]ukunudde e Nansana gyabadde yaddukira.",
+        "Ronald Katende bba wa [ Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e Nansana gyabadde yaddukira. ]"
+      ],
+      [
+        "Ronald Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e [ Nansana ] gyabadde yaddukira.",
+        "Ronald Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde [ e Nansana ] gyabadde yaddukira.",
+        "Ronald Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e [ Nansana gyabadde yaddukira. ]",
+        "Ronald Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e [ Nansana gyabadde yaddukira ].",
+        "Ronald Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde [ e Nansana gyabadde yaddukira ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ronald Katende",
+        "Ronald",
+        "Ronald Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamuk",
+        "Ronald Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e Nansana gyabadde yaddukira.",
+        "Ronald Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e Nansana gyabadde yaddukira"
+      ],
+      [
+        "Nabasumba",
+        "wa Nabasumba",
+        "",
+        "Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamuk",
+        "Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti, okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e Nansana gyabadde yaddukira."
+      ],
+      [
+        "Nansana",
+        "e Nansana",
+        "Nansana gyabadde yaddukira.",
+        "Nansana gyabadde yaddukira",
+        "e Nansana gyabadde yaddukira"
+      ]
+    ],
+    "score": [
+      [
+        -112.44825744628906,
+        -119.7961196899414,
+        -129.9065399169922,
+        -130.3449249267578,
+        -134.17422485351562
+      ],
+      [
+        -114.2149658203125,
+        -116.53063201904297,
+        -119.91265106201172,
+        -131.9547576904297,
+        -133.73057556152344
+      ],
+      [
+        -109.71886444091797,
+        -111.17798614501953,
+        -117.85292053222656,
+        -118.75642395019531,
+        -118.97980499267578
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "As a leader I feel compelled to take a little bit of [ nina ] and share it with the people around me and I urge my fellow leaders and other Muslims to do something because whatever you give Allah will reward you.",
+      "As a leader I feel compelled to take a little bit of nina and share it with the people around me and I urge my fellow leaders and other Muslims to do something because whatever you give [ Allah ] will reward you."
+    ],
+    "src_entities": [
+      "nina",
+      "Allah"
+    ],
+    "template": "Ngomukulembeze kinkakatako okutoola ku katono ke nina ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba Allah akusasulamu empeera Ntege bwagambye .",
+    "tgt_lang": [
+      [
+        "Ngomukulembeze kinkakatako okutoola ku katono ke [ nina ] ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba Allah akusasulamu empeera Ntege bwagambye.",
+        "Ngomukulembeze kinkakatako okutoola ku katono [ ke nina ] ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba Allah akusasulamu empeera Ntege bwagambye.",
+        "Ngomukulembeze kinkakatako okutoola ku katono ke [ nina ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba Allah akusasulamu empeera Ntege bwagambye ].",
+        "Ngomukulembeze kinkakatako okutoola ku katono ke [ nina ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba Allah akusasulamu empeera ] Ntege bwagambye.",
+        "Ngomukulembeze kinkakatako okutoola ku katono ke [ nina ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba Allah akusasulamu empeera Ntege bwagambye. ]"
+      ],
+      [
+        "Ngomukulembeze kinkakatako okutoola ku katono ke nina ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba [ Allah ] akusasulamu empeera Ntege bwagambye.",
+        "Ngomukulembeze kinkakatako okutoola ku katono ke nina ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba Allah akusasulamu empeera [ Ntege bwagambye ].",
+        "Ngomukulembeze kinkakatako okutoola ku katono ke nina ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli [ bwogaba Allah ] akusasulamu empeera Ntege bwagambye.",
+        "Ngomukulembeze kinkakatako okutoola ku katono ke nina ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba [ Allah akusasulamu ] empeera Ntege bwagambye.",
+        "Ngomukulembeze kinkakatako okutoola ku katono ke nina ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba Allah akusasulamu empeera [ Ntege bwagambye. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "nina",
+        "ke nina",
+        "nina ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba Allah akusasulamu empeera Ntege bwagambye",
+        "nina ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba Allah akusasulamu empeera",
+        "nina ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba Allah akusasulamu empeera Ntege bwagambye."
+      ],
+      [
+        "Allah",
+        "Ntege bwagambye",
+        "bwogaba Allah",
+        "Allah akusasulamu",
+        "Ntege bwagambye."
+      ]
+    ],
+    "score": [
+      [
+        -212.2752685546875,
+        -216.77305603027344,
+        -231.76983642578125,
+        -232.2241668701172,
+        -232.2260284423828
+      ],
+      [
+        -220.43536376953125,
+        -226.5704345703125,
+        -227.42149353027344,
+        -227.4956512451172,
+        -228.21458435058594
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "Later, the relatives of [ Namugumya ] asked the police to forgive their man and agreed to treat the girl until she recovered but the police told them that this does not absolve the case."
+    ],
+    "src_entities": [
+      "Namugumya"
+    ],
+    "template": "Oluvannyuma abenganda za Namugumya baasabye poliisi esonyiwe omuntu waabwe ne bakkirizza okujjanjaba omuwala okutuusa lwa nawona kyokka poliisi yabategeezezza nti kino tekiggyawo omusango .",
+    "tgt_lang": [
+      [
+        "Oluvannyuma abenganda za [ Namugumya ] baasabye poliisi esonyiwe omuntu waabwe ne bakkirizza okujjanjaba omuwala okutuusa lwa nawona kyokka poliisi yabategeezezza nti kino tekiggyawo omusango.",
+        "Oluvannyuma abenganda [ za Namugumya ] baasabye poliisi esonyiwe omuntu waabwe ne bakkirizza okujjanjaba omuwala okutuusa lwa nawona kyokka poliisi yabategeezezza nti kino tekiggyawo omusango.",
+        "Oluvannyuma abenganda za Namugumya [ baasabye poliisi esonyiwe omuntu waabwe ne bakkirizza okujjanjaba omuwala okutuusa lwa nawona kyokka poliisi yabategeezezza nti kino tekiggyawo omusango ].",
+        "Oluvannyuma abenganda za Namugumya [ baasabye poliisi esonyiwe omuntu waabwe ne bakkirizza okujjanjaba omuwala okutuusa lwa nawona kyokka poliisi yabategeezezza nti kino tekiggyawo omusango. ]",
+        "Oluvannyuma abenganda za Namugumya [ baasabye poliisi esonyiwe omuntu waabwe ne bakkirizza okujjanjaba omuwala okutuusa lwa nawona ] kyokka poliisi yabategeezezza nti kino tekiggyawo omusango."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Namugumya",
+        "za Namugumya",
+        "baasabye poliisi esonyiwe omuntu waabwe ne bakkirizza okujjanjaba omuwala okutuusa lwa nawona kyokka poliisi yabategeezezza nti kino tekiggyawo omusango",
+        "baasabye poliisi esonyiwe omuntu waabwe ne bakkirizza okujjanjaba omuwala okutuusa lwa nawona kyokka poliisi yabategeezezza nti kino tekiggyawo omusango.",
+        "baasabye poliisi esonyiwe omuntu waabwe ne bakkirizza okujjanjaba omuwala okutuusa lwa nawona"
+      ]
+    ],
+    "score": [
+      [
+        -77.57339477539062,
+        -82.41385650634766,
+        -101.97305297851562,
+        -102.05180358886719,
+        -102.75023651123047
+      ]
+    ],
+    "flag": 1
+  }
+]

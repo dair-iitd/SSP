@@ -1,0 +1,1170 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "Attorneys from other Alaigbo states attended this special ceremony at the [ Government House ] of the state."
+    ],
+    "src_entities": [
+      "Government House"
+    ],
+    "template": "Okiwu ndị steeti Alaigbo ndị ọzọ bịara emume a pụrụ iche n'Obi gọọmentị nke steeti ahụ .",
+    "tgt_lang": [
+      [
+        "Okiwu ndị steeti Alaigbo ndị ọzọ bịara emume a pụrụ iche [ n'Obi gọọmentị ] nke steeti ahụ.",
+        "Okiwu ndị steeti Alaigbo ndị ọzọ bịara emume a pụrụ iche n'Obi [ gọọmentị ] nke steeti ahụ.",
+        "Okiwu ndị steeti Alaigbo ndị ọzọ bịara emume a pụrụ iche n' [Obi gọọmentị ] nke steeti ahụ.",
+        "Okiwu ndị steeti Alaigbo ndị ọzọ bịara emume a pụrụ iche [ n'Obi gọọmentị nke steeti ahụ ].",
+        "Okiwu ndị steeti Alaigbo ndị ọzọ bịara emume a pụrụ iche n'Obi [ gọọmentị nke steeti ahụ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "n'Obi gọọmentị",
+        "gọọmentị",
+        "Obi gọọmentị",
+        "n'Obi gọọmentị nke steeti ahụ",
+        "gọọmentị nke steeti ahụ"
+      ]
+    ],
+    "score": [
+      [
+        -47.663875579833984,
+        -48.410606384277344,
+        -50.25515365600586,
+        -51.478065490722656,
+        -52.067813873291016
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "More than 30 people were rescued from the rubble of a collapsed building in [ Nyagatare ] in Rwanda in 2013.",
+      "More than 30 people were rescued from the rubble of a collapsed building in Nyagatare in [ Rwanda ] in 2013."
+    ],
+    "src_entities": [
+      "Nyagatare",
+      "Rwanda"
+    ],
+    "template": "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na Nyagatare dị na Rwanda n'afọ 2013 .",
+    "tgt_lang": [
+      [
+        "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na [ Nyagatare ] dị na Rwanda n'afọ 2013.",
+        "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara [ na Nyagatare ] dị na Rwanda n'afọ 2013.",
+        "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara [ na Nyagatare dị na Rwanda n'afọ 2013 ].",
+        "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na [ Nyagatare dị na Rwanda n'afọ 2013 ].",
+        "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na [ Nyagatare dị na Rwanda ] n'afọ 2013."
+      ],
+      [
+        "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na Nyagatare dị na [ Rwanda ] n'afọ 2013.",
+        "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na Nyagatare dị [ na Rwanda ] n'afọ 2013.",
+        "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na Nyagatare [ dị na Rwanda ] n'afọ 2013.",
+        "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na Nyagatare dị na [ Rwanda n'afọ 2013 ].",
+        "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na Nyagatare dị [ na Rwanda n'afọ 2013 ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Nyagatare",
+        "na Nyagatare",
+        "na Nyagatare dị na Rwanda n'afọ 2013",
+        "Nyagatare dị na Rwanda n'afọ 2013",
+        "Nyagatare dị na Rwanda"
+      ],
+      [
+        "Rwanda",
+        "na Rwanda",
+        "dị na Rwanda",
+        "Rwanda n'afọ 2013",
+        "na Rwanda n'afọ 2013"
+      ]
+    ],
+    "score": [
+      [
+        -47.69526672363281,
+        -51.32910919189453,
+        -51.87709426879883,
+        -51.877098083496094,
+        -52.2854118347168
+      ],
+      [
+        -48.834716796875,
+        -51.670745849609375,
+        -54.91862869262695,
+        -55.379634857177734,
+        -56.4305534362793
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 2,
+    "src_lang": [],
+    "template": "Mapụ ebe ọdachi ndí omekataraihepụụjọ",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "One gunman, believed to be [ Brenton Tarant, ] appeared to be firing into a mosque."
+    ],
+    "src_entities": [
+      "Brenton Tarant,"
+    ],
+    "template": "Otu onye ji egbe so na mkpakpa ahụ nke a na - enyo na ọ bụ Brenton Tarant gosiri onwe ya dịka ọ na - akwa mgbọ n'ime ụlọụka Alakụba .",
+    "tgt_lang": [
+      [
+        "Otu onye ji egbe so na mkpakpa ahụ nke a na - enyo na ọ bụ [ Brenton Tarant ] gosiri onwe ya dịka ọ na - akwa mgbọ n'ime ụlọụka Alakụba.",
+        "Otu onye ji egbe so na mkpakpa ahụ [ nke a na - enyo na ọ bụ Brenton Tarant ] gosiri onwe ya dịka ọ na - akwa mgbọ n'ime ụlọụka Alakụba.",
+        "Otu onye ji egbe so na mkpakpa ahụ nke a [ na - enyo na ọ bụ Brenton Tarant ] gosiri onwe ya dịka ọ na - akwa mgbọ n'ime ụlọụka Alakụba.",
+        "Otu onye ji egbe so na mkpakpa ahụ nke a na - enyo na ọ bụ [ Brenton Tarant gosiri ] onwe ya dịka ọ na - akwa mgbọ n'ime ụlọụka Alakụba.",
+        "Otu onye ji egbe so na mkpakpa ahụ nke a na - enyo na ọ bụ [ ] Brenton Tarant gosiri onwe ya dịka ọ na - akwa mgbọ n'ime ụlọụka Alakụba."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Brenton Tarant",
+        "nke a na - enyo na ọ bụ Brenton Tarant",
+        "na - enyo na ọ bụ Brenton Tarant",
+        "Brenton Tarant gosiri",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -95.0353775024414,
+        -102.17680358886719,
+        -102.75394439697266,
+        -104.5240249633789,
+        -105.11544036865234
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "[ Barca ] beat Madrid on the head",
+      "Barca beat [ Madrid ] on the head"
+    ],
+    "src_entities": [
+      "Barca",
+      "Madrid"
+    ],
+    "template": "Barca tụrụ Madrid ọkpọ n'isi",
+    "tgt_lang": [
+      [
+        "[ Barca ] tụrụ Madrid ọkpọ n'isi",
+        "[ Barca tụrụ Madrid ọkpọ n'isi ]",
+        "[ Barca tụrụ ] Madrid ọkpọ n'isi",
+        "[ ] Barca tụrụ Madrid ọkpọ n'isi",
+        "[ Barca tụrụ Madrid ọkpọ ] n'isi"
+      ],
+      [
+        "Barca tụrụ [ Madrid ] ọkpọ n'isi",
+        "Barca tụrụ [ Madrid ọkpọ ] n'isi",
+        "Barca [ tụrụ Madrid ] ọkpọ n'isi",
+        "Barca [ tụrụ Madrid ọkpọ ] n'isi",
+        "Barca tụrụ Madrid ọkpọ [ n'isi ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Barca",
+        "Barca tụrụ Madrid ọkpọ n'isi",
+        "Barca tụrụ",
+        "",
+        "Barca tụrụ Madrid ọkpọ"
+      ],
+      [
+        "Madrid",
+        "Madrid ọkpọ",
+        "tụrụ Madrid",
+        "tụrụ Madrid ọkpọ",
+        "n'isi"
+      ]
+    ],
+    "score": [
+      [
+        -11.759584426879883,
+        -20.275590896606445,
+        -21.909622192382812,
+        -22.573843002319336,
+        -22.940773010253906
+      ],
+      [
+        -10.258866310119629,
+        -18.91529655456543,
+        -19.002784729003906,
+        -21.702564239501953,
+        -21.898645401000977
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "More than 54 houses collapsed in 2017 in [ Nigeria. ]"
+    ],
+    "src_entities": [
+      "Nigeria."
+    ],
+    "template": "Ihe karịrị ụlọ iri ise na anọ dara ada n'afọ 2017 na Naịjirịa .",
+    "tgt_lang": [
+      [
+        "Ihe karịrị ụlọ iri ise na anọ dara ada n'afọ 2017 na [ Naịjirịa ].",
+        "Ihe karịrị ụlọ iri ise na anọ dara ada n'afọ 2017 na [ Naịjirịa. ]",
+        "Ihe karịrị ụlọ iri ise na anọ dara ada n'afọ 2017 [ na Naịjirịa ].",
+        "Ihe karịrị ụlọ iri ise na anọ dara ada n'afọ 2017 [ na Naịjirịa. ]",
+        "Ihe karịrị ụlọ iri ise na anọ dara ada n'afọ 2017 na Naịjirịa [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Naịjirịa",
+        "Naịjirịa.",
+        "na Naịjirịa",
+        "na Naịjirịa.",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -13.805556297302246,
+        -14.416888236999512,
+        -18.29151153564453,
+        -19.496355056762695,
+        -20.826940536499023
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [
+      "It is not known what it is but it is thought that [ Gokmen ] Tanis is working with the green terrorists.",
+      "It is not known what it is but it is thought that Gokmen [ Tanis ] is working with the green terrorists."
+    ],
+    "src_entities": [
+      "Gokmen",
+      "Tanis"
+    ],
+    "template": "Amambeghi ihe ọ bụ n'uche mana e chere na Gokmen Tanis na ndị oyi ndụ egwu na - arụkọ ọrụ .",
+    "tgt_lang": [
+      [
+        "Amambeghi ihe ọ bụ n'uche mana e chere na [ Gokmen ] Tanis na ndị oyi ndụ egwu na - arụkọ ọrụ.",
+        "Amambeghi ihe ọ bụ n'uche mana e chere na Gokmen [ Tanis ] na ndị oyi ndụ egwu na - arụkọ ọrụ.",
+        "Amambeghi ihe ọ bụ n'uche mana e chere na Gokmen [ ] Tanis na ndị oyi ndụ egwu na - arụkọ ọrụ.",
+        "Amambeghi ihe ọ bụ n'uche mana e chere na [ Gokmen Tanis ] na ndị oyi ndụ egwu na - arụkọ ọrụ.",
+        "Amambeghi ihe ọ bụ n'uche mana e chere na [ ] Gokmen Tanis na ndị oyi ndụ egwu na - arụkọ ọrụ."
+      ],
+      [
+        "Amambeghi ihe ọ bụ n'uche mana e chere na Gokmen [ Tanis ] na ndị oyi ndụ egwu na - arụkọ ọrụ.",
+        "Amambeghi ihe ọ bụ n'uche mana e chere na Gokmen [ ] Tanis na ndị oyi ndụ egwu na - arụkọ ọrụ.",
+        "Amambeghi ihe ọ bụ n'uche mana e chere na Gokmen Tanis [ ] na ndị oyi ndụ egwu na - arụkọ ọrụ.",
+        "Amambeghi ihe ọ bụ n'uche mana e chere na Gokmen [ Tanis na ndị oyi ndụ egwu ] na - arụkọ ọrụ.",
+        "Amambeghi ihe ọ bụ n'uche mana e chere na Gokmen Tanis na [ ndị oyi ndụ egwu ] na - arụkọ ọrụ."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Gokmen",
+        "Tanis",
+        "",
+        "Gokmen Tanis",
+        ""
+      ],
+      [
+        "Tanis",
+        "",
+        "",
+        "Tanis na ndị oyi ndụ egwu",
+        "ndị oyi ndụ egwu"
+      ]
+    ],
+    "score": [
+      [
+        -62.17027282714844,
+        -71.6776351928711,
+        -75.31635284423828,
+        -75.4710922241211,
+        -76.38348388671875
+      ],
+      [
+        -60.19223403930664,
+        -73.97109985351562,
+        -78.57115936279297,
+        -79.33883666992188,
+        -79.84764862060547
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "[ Olisa Agbakoba ] is the attorney general in Nigeria has called on Atiku Abubakar to accept the results of the presidential election.",
+      "Olisa Agbakoba is the attorney general in [ Nigeria ] has called on Atiku Abubakar to accept the results of the presidential election.",
+      "Olisa Agbakoba is the attorney general in Nigeria has called on [ Atiku Abubakar ] to accept the results of the presidential election."
+    ],
+    "src_entities": [
+      "Olisa Agbakoba",
+      "Nigeria",
+      "Atiku Abubakar"
+    ],
+    "template": "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala .",
+    "tgt_lang": [
+      [
+        "[ Olisa Agbakoba ] bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala.",
+        "[ Olisa Agbakoba bụ ] onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala.",
+        "[ Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala. ]",
+        "[ Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala ].",
+        "[ Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ] ọkwa onyeisiala."
+      ],
+      [
+        "Olisa Agbakoba bụ onye ọkaiwu ukwu na [ Naịjirịa ] akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala.",
+        "Olisa Agbakoba bụ onye ọkaiwu ukwu [ na Naịjirịa ] akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala.",
+        "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa [ ] akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala.",
+        "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka [ ọkwa onyeisiala ].",
+        "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka [ ọkwa onyeisiala. ]"
+      ],
+      [
+        "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola [ Atiku Abubakar ] ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala.",
+        "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar [ ] ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala.",
+        "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola [ Atiku Abubakar ka ] ọ nabata mpụtara ntuliaka ọkwa onyeisiala.",
+        "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola [ Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala ].",
+        "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola [ Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Olisa Agbakoba",
+        "Olisa Agbakoba bụ",
+        "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala.",
+        "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala",
+        "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka"
+      ],
+      [
+        "Naịjirịa",
+        "na Naịjirịa",
+        "",
+        "ọkwa onyeisiala",
+        "ọkwa onyeisiala."
+      ],
+      [
+        "Atiku Abubakar",
+        "",
+        "Atiku Abubakar ka",
+        "Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala",
+        "Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala."
+      ]
+    ],
+    "score": [
+      [
+        -29.729490280151367,
+        -37.60559844970703,
+        -46.588531494140625,
+        -53.90818786621094,
+        -55.980587005615234
+      ],
+      [
+        -30.041881561279297,
+        -32.39253616333008,
+        -39.097537994384766,
+        -42.52210235595703,
+        -45.145263671875
+      ],
+      [
+        -27.706512451171875,
+        -40.678531646728516,
+        -46.147552490234375,
+        -46.2625846862793,
+        -47.62047576904297
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 8,
+    "src_lang": [
+      "[ Barca ] defeated Madrid by a single goal in their El Classico match last night.",
+      "Barca defeated [ Madrid ] by a single goal in their El Classico match last night."
+    ],
+    "src_entities": [
+      "Barca",
+      "Madrid"
+    ],
+    "template": "Barca ji otu ọkpụ goolu merie Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ .",
+    "tgt_lang": [
+      [
+        "[ Barca ] ji otu ọkpụ goolu merie Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ.",
+        "[ ] Barca ji otu ọkpụ goolu merie Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ.",
+        "[ Barca ji otu ọkpụ goolu merie Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ. ]",
+        "[ Barca ji otu ọkpụ goolu merie Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ ].",
+        "Barca ji otu ọkpụ goolu merie Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ [ ]."
+      ],
+      [
+        "Barca ji otu ọkpụ goolu merie [ Madrid ] n'asọmpi El Classico ha gbara n'abalị ụnyaahụ.",
+        "Barca ji otu [ ọkpụ goolu merie Madrid ] n'asọmpi El Classico ha gbara n'abalị ụnyaahụ.",
+        "Barca ji otu ọkpụ goolu merie [ Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ ].",
+        "Barca ji otu ọkpụ goolu merie Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ [ ].",
+        "Barca ji otu ọkpụ goolu merie [ Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Barca",
+        "",
+        "Barca ji otu ọkpụ goolu merie Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ.",
+        "Barca ji otu ọkpụ goolu merie Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ",
+        ""
+      ],
+      [
+        "Madrid",
+        "ọkpụ goolu merie Madrid",
+        "Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ",
+        "",
+        "Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ."
+      ]
+    ],
+    "score": [
+      [
+        -26.72295379638672,
+        -36.36949157714844,
+        -45.355064392089844,
+        -47.855533599853516,
+        -49.809814453125
+      ],
+      [
+        -27.26576042175293,
+        -34.71949768066406,
+        -44.776947021484375,
+        -48.16754150390625,
+        -48.22064971923828
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "In his speech, [ Jacob ] said that it was less than two percent."
+    ],
+    "src_entities": [
+      "Jacob"
+    ],
+    "template": "N'okwu ya , Yakubu kwuru na o rughị pasent abụọ .",
+    "tgt_lang": [
+      [
+        "N'okwu ya, [ Yakubu ] kwuru na o rughị pasent abụọ.",
+        "[ N'okwu ya, Yakubu ] kwuru na o rughị pasent abụọ.",
+        "N'okwu ya, [ Yakubu kwuru ] na o rughị pasent abụọ.",
+        "[ N'okwu ya ], Yakubu kwuru na o rughị pasent abụọ.",
+        "[ N'okwu ya, ] Yakubu kwuru na o rughị pasent abụọ."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Yakubu",
+        "N'okwu ya, Yakubu",
+        "Yakubu kwuru",
+        "N'okwu ya",
+        "N'okwu ya,"
+      ]
+    ],
+    "score": [
+      [
+        -16.179710388183594,
+        -23.10884666442871,
+        -25.791458129882812,
+        -27.681814193725586,
+        -27.72356414794922
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "[ APC ] Primaries: Riots erupted in Enugwu",
+      "APC Primaries: Riots erupted in [ Enugwu ]"
+    ],
+    "src_entities": [
+      "APC",
+      "Enugwu"
+    ],
+    "template": "APC Primaries : Ọgbaghara dapụtara n'Enugwu",
+    "tgt_lang": [
+      [
+        "[ APC ] Primaries : Ọgbaghara dapụtara n'Enugwu",
+        "[ APC Primaries ] : Ọgbaghara dapụtara n'Enugwu",
+        "APC [ Primaries ] : Ọgbaghara dapụtara n'Enugwu",
+        "[ APC Primaries : Ọgbaghara dapụtara n'Enugwu ]",
+        "APC [ Primaries : Ọgbaghara dapụtara n'Enugwu ]"
+      ],
+      [
+        "APC Primaries : Ọgbaghara dapụtara [ n'Enugwu ]",
+        "APC Primaries : Ọgbaghara dapụtara n' [Enugwu ]",
+        "APC Primaries : Ọgbaghara dapụtara n'Enugwu [ ]",
+        "APC Primaries : Ọgbaghara dapụtara [ ] n'Enugwu",
+        "APC Primaries : Ọgbaghara dapụtara n' [ ]Enugwu"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "APC",
+        "APC Primaries",
+        "Primaries",
+        "APC Primaries : Ọgbaghara dapụtara n'Enugwu",
+        "Primaries : Ọgbaghara dapụtara n'Enugwu"
+      ],
+      [
+        "n'Enugwu",
+        "Enugwu",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -16.704526901245117,
+        -29.807897567749023,
+        -30.397123336791992,
+        -32.182796478271484,
+        -32.858314514160156
+      ],
+      [
+        -21.873172760009766,
+        -26.754098892211914,
+        -27.06999969482422,
+        -30.940357208251953,
+        -34.68814468383789
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "He criticized the way in which those in power are attacking the members of the [ PDP ] party and those who compare their votes and are asking people to come out in full to vote in the gubernatorial election."
+    ],
+    "src_entities": [
+      "PDP"
+    ],
+    "template": "Ọ katọrọ etu ndị nọ na ọchịchị si wakpo ndị nọ na pati PDP ma ndị na - atụnyere ha vootu ma na - arịọ ka ndị mmadụ pụta n'uju tụọ vootu na ntuliaka nke ọkwa gọvanọ .",
+    "tgt_lang": [
+      [
+        "Ọ katọrọ etu ndị nọ na ọchịchị si wakpo ndị nọ na pati [ PDP ] ma ndị na - atụnyere ha vootu ma na - arịọ ka ndị mmadụ pụta n'uju tụọ vootu na ntuliaka nke ọkwa gọvanọ.",
+        "Ọ katọrọ etu ndị nọ na ọchịchị si wakpo ndị nọ na [ pati PDP ] ma ndị na - atụnyere ha vootu ma na - arịọ ka ndị mmadụ pụta n'uju tụọ vootu na ntuliaka nke ọkwa gọvanọ.",
+        "Ọ katọrọ etu ndị nọ na ọchịchị si wakpo ndị nọ na pati [ PDP ma ndị na - atụnyere ha vootu ma na - arịọ ka ndị mmadụ pụta n'uju tụọ vootu na ntuliaka nke ọkwa gọvanọ ].",
+        "Ọ katọrọ etu ndị nọ na ọchịchị si wakpo ndị nọ na pati [ PDP ma ndị na - atụnyere ha vootu ma na - arịọ ka ndị mmadụ pụta n'uju tụọ vootu na ntuliaka nke ọkwa gọvanọ. ]",
+        "Ọ katọrọ etu ndị nọ na ọchịchị si wakpo ndị nọ na pati [ PDP ma ndị na - atụnyere ha vootu ma na - arịọ ka ndị mmadụ pụta n'uju ] tụọ vootu na ntuliaka nke ọkwa gọvanọ."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "PDP",
+        "pati PDP",
+        "PDP ma ndị na - atụnyere ha vootu ma na - arịọ ka ndị mmadụ pụta n'uju tụọ vootu na ntuliaka nke ọkwa gọvanọ",
+        "PDP ma ndị na - atụnyere ha vootu ma na - arịọ ka ndị mmadụ pụta n'uju tụọ vootu na ntuliaka nke ọkwa gọvanọ.",
+        "PDP ma ndị na - atụnyere ha vootu ma na - arịọ ka ndị mmadụ pụta n'uju"
+      ]
+    ],
+    "score": [
+      [
+        -62.26204299926758,
+        -71.1205825805664,
+        -83.4902572631836,
+        -84.7280044555664,
+        -85.5406494140625
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [],
+    "template": "Na nkọwa ya , asambodo mmeri ga - enye onye ahụ ikike ịbanye ebe o nwetere mmeri ịchị .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "The priest [ Alph Lukau ] stands by the coffin, laying his hands on the stomach of the man he claims to have resurrected"
+    ],
+    "src_entities": [
+      "Alph Lukau"
+    ],
+    "template": "Ụkọchukwu Alph Lukau kwụ n'akụkụ akpati ozu , tụkwasị aka n'elu afọ nwoke o kwuru na ọ kpọlitere n'ozu",
+    "tgt_lang": [
+      [
+        "Ụkọchukwu [ Alph Lukau ] kwụ n'akụkụ akpati ozu, tụkwasị aka n'elu afọ nwoke o kwuru na ọ kpọlitere n'ozu",
+        "Ụkọchukwu [ Alph Lukau kwụ ] n'akụkụ akpati ozu, tụkwasị aka n'elu afọ nwoke o kwuru na ọ kpọlitere n'ozu",
+        "Ụkọchukwu [ Alph Lukau kwụ n'akụkụ akpati ozu, tụkwasị aka n'elu afọ nwoke o kwuru na ọ kpọlitere n'ozu ]",
+        "Ụkọchukwu Alph Lukau kwụ n'akụkụ akpati ozu, tụkwasị aka n'elu afọ nwoke o kwuru na ọ kpọlitere n' [ozu ]",
+        "Ụkọchukwu Alph Lukau kwụ n'akụkụ akpati ozu, tụkwasị aka n'elu afọ nwoke o kwuru na ọ kpọlitere n'ozu [ ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Alph Lukau",
+        "Alph Lukau kwụ",
+        "Alph Lukau kwụ n'akụkụ akpati ozu, tụkwasị aka n'elu afọ nwoke o kwuru na ọ kpọlitere n'ozu",
+        "ozu",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -57.97708511352539,
+        -68.30827331542969,
+        -75.78703308105469,
+        -79.60132598876953,
+        -79.72083282470703
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "[ Godswill Akpabio ] ruled Akwa Ibom State from 2007 to 2015.",
+      "Godswill Akpabio ruled [ Akwa Ibom State ] from 2007 to 2015."
+    ],
+    "src_entities": [
+      "Godswill Akpabio",
+      "Akwa Ibom State"
+    ],
+    "template": "Godswill Akpabio chịrị Akwa Ibom steeti site n'afọ 2007 rue afọ 2015 .",
+    "tgt_lang": [
+      [
+        "[ Godswill Akpabio ] chịrị Akwa Ibom steeti site n'afọ 2007 rue afọ 2015.",
+        "[ ] Godswill Akpabio chịrị Akwa Ibom steeti site n'afọ 2007 rue afọ 2015.",
+        "[ Godswill Akpabio chịrị Akwa Ibom steeti site n'afọ 2007 rue afọ 2015 ].",
+        "[ Godswill Akpabio chịrị Akwa Ibom steeti site n'afọ 2007 rue afọ 2015. ]",
+        "Godswill Akpabio chịrị Akwa Ibom steeti site n'afọ 2007 rue [ afọ 2015 ]."
+      ],
+      [
+        "Godswill Akpabio chịrị [ Akwa Ibom steeti ] site n'afọ 2007 rue afọ 2015.",
+        "Godswill Akpabio chịrị [ Akwa Ibom steeti site n'afọ 2007 rue afọ 2015 ].",
+        "Godswill Akpabio chịrị Akwa Ibom [ steeti ] site n'afọ 2007 rue afọ 2015.",
+        "Godswill Akpabio chịrị [ Akwa Ibom ] steeti site n'afọ 2007 rue afọ 2015.",
+        "Godswill Akpabio chịrị Akwa Ibom [ steeti site n'afọ 2007 rue afọ 2015 ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Godswill Akpabio",
+        "",
+        "Godswill Akpabio chịrị Akwa Ibom steeti site n'afọ 2007 rue afọ 2015",
+        "Godswill Akpabio chịrị Akwa Ibom steeti site n'afọ 2007 rue afọ 2015.",
+        "afọ 2015"
+      ],
+      [
+        "Akwa Ibom steeti",
+        "Akwa Ibom steeti site n'afọ 2007 rue afọ 2015",
+        "steeti",
+        "Akwa Ibom",
+        "steeti site n'afọ 2007 rue afọ 2015"
+      ]
+    ],
+    "score": [
+      [
+        -13.963154792785645,
+        -27.83887481689453,
+        -32.711517333984375,
+        -35.50638198852539,
+        -36.27848434448242
+      ],
+      [
+        -11.966214179992676,
+        -15.088827133178711,
+        -17.529342651367188,
+        -18.949750900268555,
+        -19.135698318481445
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "[ Gbenga Daniel ] has resigned from politics,"
+    ],
+    "src_entities": [
+      "Gbenga Daniel"
+    ],
+    "template": "Gbenga Daniel agbaala ndọrọndọrọ ọchịchị \"\"\"\" arụkwaghịm \"\"\"\" ,",
+    "tgt_lang": [
+      [
+        "[ Gbenga Daniel ] agbaala ndọrọndọrọ ọchịchị \"\"\"\" arụkwaghịm \"\"\"\",",
+        "[ ] Gbenga Daniel agbaala ndọrọndọrọ ọchịchị \"\"\"\" arụkwaghịm \"\"\"\",",
+        "Gbenga Daniel agbaala ndọrọndọrọ ọchịchị [ \"\"\"\" arụkwaghịm \"\"\"\" ],",
+        "Gbenga Daniel agbaala ndọrọndọrọ ọchịchị \"\"\"\" [ arụkwaghịm ] \"\"\"\",",
+        "Gbenga Daniel [ ] agbaala ndọrọndọrọ ọchịchị \"\"\"\" arụkwaghịm \"\"\"\","
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Gbenga Daniel",
+        "",
+        "\"\"\"\" arụkwaghịm \"\"\"\"",
+        "arụkwaghịm",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -53.12714767456055,
+        -62.958248138427734,
+        -64.23998260498047,
+        -64.51353454589844,
+        -65.55451202392578
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "[ Wike ] also promised to build a house for them and to participate in his ministry."
+    ],
+    "src_entities": [
+      "Wike"
+    ],
+    "template": "Wike kwekwara nkwa iwuru ha ụlọ ma tinyekwa aka n'akwamozu ya .",
+    "tgt_lang": [
+      [
+        "[ Wike ] kwekwara nkwa iwuru ha ụlọ ma tinyekwa aka n'akwamozu ya.",
+        "Wike [ ] kwekwara nkwa iwuru ha ụlọ ma tinyekwa aka n'akwamozu ya.",
+        "[ ] Wike kwekwara nkwa iwuru ha ụlọ ma tinyekwa aka n'akwamozu ya.",
+        "Wike kwekwara nkwa iwuru ha ụlọ ma tinyekwa aka n'akwamozu ya [ ].",
+        "Wike kwekwara nkwa iwuru ha ụlọ ma tinyekwa aka n'akw [amozu ] ya."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Wike",
+        "",
+        "",
+        "",
+        "amozu"
+      ]
+    ],
+    "score": [
+      [
+        -39.68980407714844,
+        -52.41607666015625,
+        -53.23201370239258,
+        -69.92559051513672,
+        -73.88492584228516
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "[ Arsenal ] and Tottenham played each other in a draw, which resulted in a championship.",
+      "Arsenal and [ Tottenham ] played each other in a draw, which resulted in a championship."
+    ],
+    "src_entities": [
+      "Arsenal",
+      "Tottenham"
+    ],
+    "template": "Arsenal na Tottenham gbara onwe ha onye laba , onye laba na ya bụ asọmpị .",
+    "tgt_lang": [
+      [
+        "[ Arsenal ] na Tottenham gbara onwe ha onye laba, onye laba na ya bụ asọmpị.",
+        "[ Arsenal na Tottenham ] gbara onwe ha onye laba, onye laba na ya bụ asọmpị.",
+        "[ ] Arsenal na Tottenham gbara onwe ha onye laba, onye laba na ya bụ asọmpị.",
+        "Arsenal [ na Tottenham ] gbara onwe ha onye laba, onye laba na ya bụ asọmpị.",
+        "[ Arsenal na ] Tottenham gbara onwe ha onye laba, onye laba na ya bụ asọmpị."
+      ],
+      [
+        "Arsenal na [ Tottenham ] gbara onwe ha onye laba, onye laba na ya bụ asọmpị.",
+        "Arsenal na Tottenham gbara onwe ha onye laba, onye laba [ na ya bụ asọmpị ].",
+        "Arsenal na Tottenham gbara onwe ha onye laba, [ onye laba na ya bụ asọmpị ].",
+        "Arsenal na Tottenham gbara onwe ha onye laba, [ onye laba ] na ya bụ asọmpị.",
+        "Arsenal na Tottenham gbara onwe ha onye laba, [ onye laba na ya bụ asọmpị. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Arsenal",
+        "Arsenal na Tottenham",
+        "",
+        "na Tottenham",
+        "Arsenal na"
+      ],
+      [
+        "Tottenham",
+        "na ya bụ asọmpị",
+        "onye laba na ya bụ asọmpị",
+        "onye laba",
+        "onye laba na ya bụ asọmpị."
+      ]
+    ],
+    "score": [
+      [
+        -55.66492462158203,
+        -65.74747467041016,
+        -66.50220489501953,
+        -67.67939758300781,
+        -69.6292495727539
+      ],
+      [
+        -57.12073516845703,
+        -63.65187072753906,
+        -64.36491394042969,
+        -64.49427795410156,
+        -64.98668670654297
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 18,
+    "src_lang": [],
+    "template": "Ụlọ ahụ daranụ nwere ogogo ise ma bụrụkwa ụlọ oriri mgbe ọ dara gbuo mmadụ 11 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 19,
+    "src_lang": [],
+    "template": "Ndị mmadụ anwụọla n'IDP camp ,",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "Accord supports [ APGA ] in the State Budget"
+    ],
+    "src_entities": [
+      "APGA"
+    ],
+    "template": "Accord na - akwado APGA n'Abia Steeti",
+    "tgt_lang": [
+      [
+        "Accord na - akwado [ APGA ] n'Abia Steeti",
+        "Accord na - akwado [ APGA n'Abia Steeti ]",
+        "[ Accord na - akwado APGA ] n'Abia Steeti",
+        "Accord na - akwado APGA [ n'Abia Steeti ]",
+        "Accord [ na - akwado APGA ] n'Abia Steeti"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "APGA",
+        "APGA n'Abia Steeti",
+        "Accord na - akwado APGA",
+        "n'Abia Steeti",
+        "na - akwado APGA"
+      ]
+    ],
+    "score": [
+      [
+        -28.238086700439453,
+        -35.98675537109375,
+        -39.83522415161133,
+        -39.87498092651367,
+        -40.612098693847656
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "As witnessed by [ Eze Ugochukwu ] told BBC Igbo, this young man, Nsorom Nnamdi, received two guns from the Ojiegbe people who were two young men with a gun.",
+      "As witnessed by Eze Ugochukwu told [ BBC Igbo, ] this young man, Nsorom Nnamdi, received two guns from the Ojiegbe people who were two young men with a gun.",
+      "As witnessed by Eze Ugochukwu told BBC Igbo, this young man, [ Nsorom Nnamdi, ] received two guns from the Ojiegbe people who were two young men with a gun.",
+      "As witnessed by Eze Ugochukwu told BBC Igbo, this young man, Nsorom Nnamdi, received two guns from the [ Ojiegbe ] people who were two young men with a gun."
+    ],
+    "src_entities": [
+      "Eze Ugochukwu",
+      "BBC Igbo,",
+      "Nsorom Nnamdi,",
+      "Ojiegbe"
+    ],
+    "template": "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu , egbe . Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo , nwaamadị a bụ Nsorom Nnamdi , natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+    "tgt_lang": [
+      [
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ [ Eze Ugochukwu ] gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ [ Eze Ugochukwu gwara BBC Igbo ], nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee [ bụ Eze Ugochukwu ] gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ [ Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum ]",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ [ Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe ] a bụ ụmụokorobịa abụọ ji ogbatumtum"
+      ],
+      [
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara [ BBC Igbo, ] nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara [ BBC Igbo ], nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, [ ] nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, [ nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum ]",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, [ nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe ] a bụ ụmụokorobịa abụọ ji ogbatumtum"
+      ],
+      [
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ [ Nsorom Nnamdi, ] natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, [ ] natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, nwaamadị [ a bụ Nsorom Nnamdi, ] natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ [ egbe ] abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ [ Nsorom Nnamdi ], natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum"
+      ],
+      [
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị [ Ojiegbe ] a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka [ ndị Ojiegbe ] a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị [ Ojiegbe a ] bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka [ ndị Ojiegbe a ] bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Ndị [ Ojiegbe ] a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Eze Ugochukwu",
+        "Eze Ugochukwu gwara BBC Igbo",
+        "bụ Eze Ugochukwu",
+        "Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe"
+      ],
+      [
+        "BBC Igbo,",
+        "BBC Igbo",
+        "",
+        "nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+        "nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe"
+      ],
+      [
+        "Nsorom Nnamdi,",
+        "",
+        "a bụ Nsorom Nnamdi,",
+        "egbe",
+        "Nsorom Nnamdi"
+      ],
+      [
+        "Ojiegbe",
+        "ndị Ojiegbe",
+        "Ojiegbe a",
+        "ndị Ojiegbe a",
+        "Ojiegbe"
+      ]
+    ],
+    "score": [
+      [
+        -217.11277770996094,
+        -227.93727111816406,
+        -228.57196044921875,
+        -237.76475524902344,
+        -239.6199188232422
+      ],
+      [
+        -224.6934051513672,
+        -228.2799072265625,
+        -231.76353454589844,
+        -242.85418701171875,
+        -247.4044952392578
+      ],
+      [
+        -225.17918395996094,
+        -231.55984497070312,
+        -231.857421875,
+        -232.4798583984375,
+        -233.67808532714844
+      ],
+      [
+        -227.27374267578125,
+        -229.53451538085938,
+        -233.6468048095703,
+        -234.50534057617188,
+        -235.06805419921875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "He also criticized statements that governor [ Rochas Okorocha ] is regretting supporting the AA party in the upcoming elections.",
+      "He also criticized statements that governor Rochas Okorocha is regretting supporting the [ AA ] party in the upcoming elections."
+    ],
+    "src_entities": [
+      "Rochas Okorocha",
+      "AA"
+    ],
+    "template": "Ọ katọkwara okwu na - ekwu na gọvanọ Rochas Okorocha na - echegharị maka ịkwado pati AA na ntuliaka na - abịanụ .",
+    "tgt_lang": [
+      [
+        "Ọ katọkwara okwu na - ekwu na gọvanọ [ Rochas Okorocha ] na - echegharị maka ịkwado pati AA na ntuliaka na - abịanụ.",
+        "Ọ katọkwara okwu na - ekwu na [ gọvanọ Rochas Okorocha ] na - echegharị maka ịkwado pati AA na ntuliaka na - abịanụ.",
+        "Ọ katọkwara okwu na - ekwu na gọvanọ [ Rochas Okorocha na - echegharị maka ịkwado pati ] AA na ntuliaka na - abịanụ.",
+        "Ọ katọkwara okwu na - ekwu na gọvanọ [ Rochas Okorocha na - echegharị maka ịkwado pati AA na ntuliaka na - abịanụ. ]",
+        "Ọ katọkwara okwu na - ekwu na gọvanọ [ Rochas Okorocha na - echegharị maka ịkwado pati AA na ntuliaka na - abịanụ ]."
+      ],
+      [
+        "Ọ katọkwara okwu na - ekwu na gọvanọ Rochas Okorocha na - echegharị maka ịkwado pati [ AA ] na ntuliaka na - abịanụ.",
+        "Ọ katọkwara okwu na - ekwu na gọvanọ Rochas Okorocha na - echegharị maka ịkwado pati AA [ ] na ntuliaka na - abịanụ.",
+        "Ọ katọkwara okwu na - ekwu na gọvanọ Rochas Okorocha na - echegharị maka ịkwado pati [ ] AA na ntuliaka na - abịanụ.",
+        "Ọ katọkwara okwu na - ekwu na gọvanọ Rochas Okorocha na - echegharị maka ịkwado [ pati AA ] na ntuliaka na - abịanụ.",
+        "Ọ katọkwara okwu na - ekwu na gọvanọ Rochas Okorocha na - echegharị maka ịkwado pati AA [ na ntuliaka na - abịanụ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Rochas Okorocha",
+        "gọvanọ Rochas Okorocha",
+        "Rochas Okorocha na - echegharị maka ịkwado pati",
+        "Rochas Okorocha na - echegharị maka ịkwado pati AA na ntuliaka na - abịanụ.",
+        "Rochas Okorocha na - echegharị maka ịkwado pati AA na ntuliaka na - abịanụ"
+      ],
+      [
+        "AA",
+        "",
+        "",
+        "pati AA",
+        "na ntuliaka na - abịanụ"
+      ]
+    ],
+    "score": [
+      [
+        -24.02125358581543,
+        -35.86421585083008,
+        -47.75123596191406,
+        -48.04969787597656,
+        -48.12591552734375
+      ],
+      [
+        -25.710769653320312,
+        -36.25399398803711,
+        -37.70181655883789,
+        -38.214805603027344,
+        -42.2907829284668
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [],
+    "template": "Ọchụchụ ya na - abịa naanị ụbọchị narị na isii e wechara ya n'ọrụ .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "The King also told [ BBC Igbo ] that Nsorom Nnamdi has been taken to the emergency room of the Federal Medical Center in Owere.",
+      "The King also told BBC Igbo that [ Nsorom Nnamdi ] has been taken to the emergency room of the Federal Medical Center in Owere.",
+      "The King also told BBC Igbo that Nsorom Nnamdi has been taken to the emergency room of the [ Federal Medical Center ] in Owere.",
+      "The King also told BBC Igbo that Nsorom Nnamdi has been taken to the emergency room of the Federal Medical Center in [ Owere. ]"
+    ],
+    "src_entities": [
+      "BBC Igbo",
+      "Nsorom Nnamdi",
+      "Federal Medical Center",
+      "Owere."
+    ],
+    "template": "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere .",
+    "tgt_lang": [
+      [
+        "Eze gwakwara [ BBC Igbo ] na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere.",
+        "Eze gwakwara [ BBC ] Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere.",
+        "Eze gwakwara [ BBC Igbo na ] akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere.",
+        "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ [ Federal Medical Center ] dị n'Owere.",
+        "Eze gwakwara [ ] BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere."
+      ],
+      [
+        "Eze gwakwara BBC Igbo na akpọrọla [ Nsorom Nnamdi ] gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere.",
+        "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi [ ] gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere.",
+        "Eze gwakwara BBC Igbo na akpọrọla [ Nsorom Nnamdi gawa ] n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere.",
+        "Eze gwakwara BBC Igbo na akpọrọla [ ] Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere.",
+        "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi [ gawa ] n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere."
+      ],
+      [
+        "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ [ Federal Medical Center ] dị n'Owere.",
+        "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke [ ụlọọgwụ Federal Medical Center ] dị n'Owere.",
+        "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal [ Medical Center ] dị n'Owere.",
+        "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ [ Federal Medical Center dị ] n'Owere.",
+        "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ [ Federal Medical Center dị n'Owere ]."
+      ],
+      [
+        "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị [ n'Owere. ]",
+        "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị [ n'Owere ].",
+        "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n' [Owere. ]",
+        "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere [ ].",
+        "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n' [Owere ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "BBC Igbo",
+        "BBC",
+        "BBC Igbo na",
+        "Federal Medical Center",
+        ""
+      ],
+      [
+        "Nsorom Nnamdi",
+        "",
+        "Nsorom Nnamdi gawa",
+        "",
+        "gawa"
+      ],
+      [
+        "Federal Medical Center",
+        "ụlọọgwụ Federal Medical Center",
+        "Medical Center",
+        "Federal Medical Center dị",
+        "Federal Medical Center dị n'Owere"
+      ],
+      [
+        "n'Owere.",
+        "n'Owere",
+        "Owere.",
+        "",
+        "Owere"
+      ]
+    ],
+    "score": [
+      [
+        -47.95951461791992,
+        -57.464576721191406,
+        -58.78681945800781,
+        -60.34425354003906,
+        -60.92729568481445
+      ],
+      [
+        -49.6586799621582,
+        -61.31418228149414,
+        -62.18701934814453,
+        -63.25430679321289,
+        -63.77119827270508
+      ],
+      [
+        -47.988128662109375,
+        -51.96480178833008,
+        -56.70783615112305,
+        -60.53679275512695,
+        -60.558799743652344
+      ],
+      [
+        -53.61421203613281,
+        -54.18381881713867,
+        -55.165462493896484,
+        -55.3288459777832,
+        -55.39999008178711
+      ]
+    ],
+    "flag": 1
+  }
+]

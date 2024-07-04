@@ -1,0 +1,2789 @@
+[
+  {
+    "src_lang": "The spread of Ebola is slowing down",
+    "src_entities": [],
+    "template": "Yaduwar Cutar Ebola ta Ragu",
+    "text_to_decode": [
+      {
+        "text": "The spread of Ebola is slowing down",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The United States Signs the Most Effective Trade Agreement With Its Neighbors",
+    "src_entities": [
+      "United States"
+    ],
+    "template": "Amurka Ta Cimma Yarjejeniyar Cinikayya Mafi Inganci Da Makwabtanta",
+    "text_to_decode": [
+      {
+        "text": "The [ United States ] Signs the Most Effective Trade Agreement With Its Neighbors",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          9,
+          10,
+          12,
+          13,
+          15
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It - in - it at the White House between Trump and the top Democrats",
+    "src_entities": [
+      "White House",
+      "Trump"
+    ],
+    "template": "An Yi Sa - In - Sa A Fadar White House Tsakanin Trump Da Manyan Democrat",
+    "text_to_decode": [
+      {
+        "text": "It - in - it at the [ White House ] between Trump and the top Democrats",
+        "candidates": [
+          2,
+          3,
+          4,
+          7,
+          8,
+          9,
+          10,
+          12
+        ]
+      },
+      {
+        "text": "It - in - it at the White House between [ Trump ] and the top Democrats",
+        "candidates": [
+          19,
+          14,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "After the U.S. Attorney and Trade Representative only said they withdrew their initial consent, they would not include the question of whether a person is a citizen or a non-citizen in the questionnaire.",
+    "src_entities": [
+      "U.S."
+    ],
+    "template": "Bayan da ma’aikatan shari’ar da na cinikayya na Amurka kawai suka ce sun janye abinda tun farko suka amince , ba zasu saka tambayar ko mutum dan kasa ba ne ko ba dan kasa ba a cikin takardun tambayoyin .",
+    "text_to_decode": [
+      {
+        "text": "After the [ U.S. ] Attorney and Trade Representative only said they withdrew their initial consent, they would not include the question of whether a person is a citizen or a non-citizen in the questionnaire.",
+        "candidates": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It was an attempt to stop Lebanese and Palestinian protesters from throwing stones at the embassy.",
+    "src_entities": [],
+    "template": "Matakin kokari ne na dakatar da ‘yan Lebanon da Falasdinawa masu zanga - zanga wadanda su ka yi ta jifa kan ofishin Jakadancin .",
+    "text_to_decode": [
+      {
+        "text": "It was an attempt to stop Lebanese and Palestinian protesters from throwing stones at the embassy.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "However, the authorities have not confirmed what kind of substance \"\"\"\" was used in the",
+    "src_entities": [],
+    "template": "Sai dai hukumomi ba su ba da tabbacin wane irin “ abu \"\"\"\" aka yi amfani da shi wajen aukuwar wannan lamari ba .",
+    "text_to_decode": [
+      {
+        "text": "However, the authorities have not confirmed what kind of substance \"\"\"\" was used in the",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": ", industries and power stations.",
+    "src_entities": [],
+    "template": ", masana’antu da kuma tashoshin samar da makamashi .",
+    "text_to_decode": [
+      {
+        "text": ", industries and power stations.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Those considering seeking help in Florida may be surprised.",
+    "src_entities": [
+      "Florida"
+    ],
+    "template": "Masu tunanin samun taimako a Florida za su sha mamaki .",
+    "text_to_decode": [
+      {
+        "text": "Those considering seeking help in [ Florida ] may be surprised.",
+        "candidates": [
+          2,
+          10,
+          12,
+          7
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "A statement released on Tuesday said Treasury Secretary Steven Mnuchin and Trade Minister Robert Lighizer will meet with Deputy Prime Minister Liu He in Beijing on April 30.",
+    "src_entities": [
+      "Treasury",
+      "Steven Mnuchin",
+      "Robert Lighizer",
+      "Liu He",
+      "Beijing"
+    ],
+    "template": "Sanarwar da aka fitar jiya Talata , ta ce sakataren ma’aikatar kudi Steven Mnuchin da jami’in cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu .",
+    "text_to_decode": [
+      {
+        "text": "A statement released on Tuesday said [ Treasury ] Secretary Steven Mnuchin and Trade Minister Robert Lighizer will meet with Deputy Prime Minister Liu He in Beijing on April 30.",
+        "candidates": [
+          11,
+          12,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22,
+          23,
+          29,
+          30,
+          31
+        ]
+      },
+      {
+        "text": "A statement released on Tuesday said Treasury Secretary [ Steven Mnuchin ] and Trade Minister Robert Lighizer will meet with Deputy Prime Minister Liu He in Beijing on April 30.",
+        "candidates": [
+          18,
+          22,
+          23,
+          57,
+          28,
+          61
+        ]
+      },
+      {
+        "text": "A statement released on Tuesday said Treasury Secretary Steven Mnuchin and Trade Minister [ Robert Lighizer ] will meet with Deputy Prime Minister Liu He in Beijing on April 30.",
+        "candidates": [
+          34,
+          61,
+          29
+        ]
+      },
+      {
+        "text": "A statement released on Tuesday said Treasury Secretary Steven Mnuchin and Trade Minister Robert Lighizer will meet with Deputy Prime Minister [ Liu He ] in Beijing on April 30.",
+        "candidates": [
+          45,
+          46,
+          48,
+          51,
+          57,
+          61
+        ]
+      },
+      {
+        "text": "A statement released on Tuesday said Treasury Secretary Steven Mnuchin and Trade Minister Robert Lighizer will meet with Deputy Prime Minister Liu He in [ Beijing ] on April 30.",
+        "candidates": [
+          46,
+          51,
+          52,
+          57,
+          58,
+          61
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Trump has denied most of Comey's accusations, including one that he fired Comey for refusing to stop his investigation into former national security adviser Michael Flynn.",
+    "src_entities": [
+      "Trump",
+      "Comey's",
+      "Comey",
+      "Michael Flynn."
+    ],
+    "template": "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey , ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro , Michael Flynn .",
+    "text_to_decode": [
+      {
+        "text": "[ Trump ] has denied most of Comey's accusations, including one that he fired Comey for refusing to stop his investigation into former national security adviser Michael Flynn.",
+        "candidates": [
+          2,
+          3,
+          7,
+          9,
+          10,
+          11,
+          14,
+          15,
+          17,
+          20,
+          21,
+          23,
+          25,
+          26,
+          27,
+          29,
+          47,
+          48,
+          51,
+          54
+        ]
+      },
+      {
+        "text": "Trump has denied most of [ Comey's ] accusations, including one that he fired Comey for refusing to stop his investigation into former national security adviser Michael Flynn.",
+        "candidates": [
+          7,
+          9,
+          10,
+          14,
+          15,
+          17,
+          18,
+          20
+        ]
+      },
+      {
+        "text": "Trump has denied most of Comey's accusations, including one that he fired [ Comey ] for refusing to stop his investigation into former national security adviser Michael Flynn.",
+        "candidates": [
+          25,
+          26,
+          27,
+          29,
+          30,
+          32
+        ]
+      },
+      {
+        "text": "Trump has denied most of Comey's accusations, including one that he fired Comey for refusing to stop his investigation into former national security adviser [ Michael Flynn. ]",
+        "candidates": [
+          10,
+          46,
+          15,
+          48,
+          17,
+          49,
+          51,
+          20,
+          52,
+          54,
+          25,
+          26
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Russia has repeatedly denied this accusation.",
+    "src_entities": [
+      "Russia"
+    ],
+    "template": "Rasha ta sha karyata wannan zargi .",
+    "text_to_decode": [
+      {
+        "text": "[ Russia ] has repeatedly denied this accusation.",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          10
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In Comey's statement, he wrote that the president was concerned about allegations that he colluded with Russia to help win the presidential election and the issue of a video of Trump and a number of independent Russian women.",
+    "src_entities": [
+      "Comey's",
+      "Russia",
+      "Trump"
+    ],
+    "template": "A cikin bayanan Comey ya rubuta cewa , shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha .",
+    "text_to_decode": [
+      {
+        "text": "In [ Comey's ] statement, he wrote that the president was concerned about allegations that he colluded with Russia to help win the presidential election and the issue of a video of Trump and a number of independent Russian women.",
+        "candidates": [
+          2,
+          4,
+          5,
+          7,
+          8,
+          10,
+          12,
+          15
+        ]
+      },
+      {
+        "text": "In Comey's statement, he wrote that the president was concerned about allegations that he colluded with [ Russia ] to help win the presidential election and the issue of a video of Trump and a number of independent Russian women.",
+        "candidates": [
+          24,
+          26,
+          27,
+          28,
+          30
+        ]
+      },
+      {
+        "text": "In Comey's statement, he wrote that the president was concerned about allegations that he colluded with Russia to help win the presidential election and the issue of a video of [ Trump ] and a number of independent Russian women.",
+        "candidates": [
+          42,
+          46
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Weather forecasters say that the storm, which lasted from Tuesday night to Wednesday morning, may have become a national historic event.",
+    "src_entities": [],
+    "template": "Masu hasashen yanayi sun ce mai yiwuwa , wannan yanayi da ya fara daga daren Talata zuwa wayewar garin Laraba , ya zama tarihi a kasar .",
+    "text_to_decode": [
+      {
+        "text": "Weather forecasters say that the storm, which lasted from Tuesday night to Wednesday morning, may have become a national historic event.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The minister also revealed that an estimated 47 million Naira has been spent on the purchase of wet mosquito nets called LLINs, and the purchase of hearing nets aimed at controlling malaria has already begun.",
+    "src_entities": [],
+    "template": "Ministan ya kuma bayyana cewa , an kiyasta kashe Naira miliyan 47 wajen sayen gidajen sauro da aka jika da magani da ake kira LLINs , kuma tuni aka fara sayen gidajen sauron da nufin shawo kan cutar zazzabin cizon sauro .",
+    "text_to_decode": [
+      {
+        "text": "The minister also revealed that an estimated 47 million Naira has been spent on the purchase of wet mosquito nets called LLINs, and the purchase of hearing nets aimed at controlling malaria has already begun.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Chicken Odor Can Kill the Mosquito that Carries Malaria",
+    "src_entities": [],
+    "template": "Warin Kaji Na Iya Korar Jinsin Sauro Mai Sanya Cutar Maleriya",
+    "text_to_decode": [
+      {
+        "text": "Chicken Odor Can Kill the Mosquito that Carries Malaria",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "For example, when plumbing and rental facilities were installed at a school in Nigeria, the number of children attending increased from 320 to 538.",
+    "src_entities": [
+      "Nigeria,"
+    ],
+    "template": "Alal ga misali , a lokacin da aka ja famfo aka kuma gina wuraren ba - haya a wata makaranta a Najeriya , yawan yaran dake zuwa makarantar ya karu daga 320 zuwa 538 .",
+    "text_to_decode": [
+      {
+        "text": "For example, when plumbing and rental facilities were installed at a school in [ Nigeria, ] the number of children attending increased from 320 to 538.",
+        "candidates": [
+          5,
+          37,
+          10,
+          24,
+          25,
+          27,
+          28,
+          29,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "the average.",
+    "src_entities": [],
+    "template": "matsakaita .",
+    "text_to_decode": [
+      {
+        "text": "the average.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "U.S.-Russian Summit Started",
+    "src_entities": [],
+    "template": "An Fara Shirin Taron Koli Tsakanin Kasashen Amurka Da Rasha",
+    "text_to_decode": [
+      {
+        "text": "U.S.-Russian Summit Started",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "A $82 million malaria campaign launched in Nigeria",
+    "src_entities": [
+      "Nigeria"
+    ],
+    "template": "An kaddamar da wani shirin yaki da zazzabin cizon sauro da zai ci dala miliyan 82 a Najeriya",
+    "text_to_decode": [
+      {
+        "text": "A $82 million malaria campaign launched in [ Nigeria ]",
+        "candidates": [
+          3,
+          7,
+          8,
+          9,
+          11,
+          18,
+          19,
+          20,
+          21,
+          25,
+          26
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Lebanese security officials used hot water and old ladies' beds outside the US Embassy in Beirut.",
+    "src_entities": [
+      "US",
+      "Beirut."
+    ],
+    "template": "Jami’an tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin Amurka da ke birnin Beirut .",
+    "text_to_decode": [
+      {
+        "text": "Lebanese security officials used hot water and old ladies' beds outside the [ US ] Embassy in Beirut.",
+        "candidates": [
+          22,
+          24,
+          27,
+          30,
+          33
+        ]
+      },
+      {
+        "text": "Lebanese security officials used hot water and old ladies' beds outside the US Embassy in [ Beirut. ]",
+        "candidates": [
+          24,
+          27,
+          28,
+          30,
+          31,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "According to him, the impact of the malaria epidemic is huge, with Nigeria losing about N132 billion on prevention, research and treatment of the disease.",
+    "src_entities": [
+      "Nigeria"
+    ],
+    "template": "Bisa ga cewarshi , koma bayan da cutar malariya take kawowa yana da yawan gaske , kasancewa Najeriya tana asarar kimanin Naira biliyan dari da talatin da biyu wajen rigakafi da bincike da kuma jinyar cutar .",
+    "text_to_decode": [
+      {
+        "text": "According to him, the impact of the malaria epidemic is huge, with [ Nigeria ] losing about N132 billion on prevention, research and treatment of the disease.",
+        "candidates": [
+          23,
+          24
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "However, the U.S. Supreme Court has already ruled that the government's arguments for including the citizenship question are not satisfactory, given the real reasons why it should be questioned in the decennial U.S. Census.",
+    "src_entities": [
+      "U.S. Supreme Court",
+      "U.S."
+    ],
+    "template": "Sai dai kotun kolin Amurka tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba , na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jama’a a Amurka da ake yi duk bayan shekaru goma .",
+    "text_to_decode": [
+      {
+        "text": "However, the [ U.S. Supreme Court ] has already ruled that the government's arguments for including the citizenship question are not satisfactory, given the real reasons why it should be questioned in the decennial U.S. Census.",
+        "candidates": [
+          2,
+          34,
+          4,
+          6,
+          8,
+          9,
+          41,
+          12,
+          44,
+          14,
+          45,
+          47,
+          48,
+          27,
+          31,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "However, the U.S. Supreme Court has already ruled that the government's arguments for including the citizenship question are not satisfactory, given the real reasons why it should be questioned in the decennial [ U.S. ] Census.",
+        "candidates": [
+          8,
+          9,
+          44,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          57,
+          59
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In a speech yesterday at the conference, US Secretary of State Hillary Clinton said the United States has limited its ability to recognize a nation that is free of the disease.",
+    "src_entities": [
+      "US",
+      "Hillary Clinton",
+      "United States"
+    ],
+    "template": "A jawabin da tayi jiya awurin taron , Sakatariyar Ma'aikatar harkokin wajern Amurka Hillary Clinton tace Amurka ta daura damarar ganin cewa an sani al’ummar da bata da wannan cuta .",
+    "text_to_decode": [
+      {
+        "text": "In a speech yesterday at the conference, [ US ] Secretary of State Hillary Clinton said the United States has limited its ability to recognize a nation that is free of the disease.",
+        "candidates": [
+          34,
+          11,
+          12,
+          16,
+          21,
+          23,
+          24,
+          25,
+          26,
+          28,
+          30,
+          31
+        ]
+      },
+      {
+        "text": "In a speech yesterday at the conference, US Secretary of State [ Hillary Clinton ] said the United States has limited its ability to recognize a nation that is free of the disease.",
+        "candidates": [
+          34,
+          21,
+          23,
+          24,
+          25,
+          26,
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      {
+        "text": "In a speech yesterday at the conference, US Secretary of State Hillary Clinton said the [ United States ] has limited its ability to recognize a nation that is free of the disease.",
+        "candidates": [
+          34,
+          35,
+          36,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Speaking at a press conference at the end of last week's programme, Mr Bright Ekweremadu, managing director of the Society for Family Health, explained that running the programme became necessary when a national health survey conducted in 2008 showed that 17% of pregnant women were delivering in hospital in Gombe state.",
+    "src_entities": [
+      "Bright Ekweremadu,",
+      "Society for Family Health,",
+      "Gombe"
+    ],
+    "template": "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya , Mr Bright Ekweremadu , manajin darektan cibiyar Society for family Health , ya bayyana cewa , gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe .",
+    "text_to_decode": [
+      {
+        "text": "Speaking at a press conference at the end of last week's programme, Mr [ Bright Ekweremadu, ] managing director of the Society for Family Health, explained that running the programme became necessary when a national health survey conducted in 2008 showed that 17% of pregnant women were delivering in hospital in Gombe state.",
+        "candidates": [
+          16,
+          18,
+          19,
+          20,
+          25,
+          26,
+          27,
+          31
+        ]
+      },
+      {
+        "text": "Speaking at a press conference at the end of last week's programme, Mr Bright Ekweremadu, managing director of the [ Society for Family Health, ] explained that running the programme became necessary when a national health survey conducted in 2008 showed that 17% of pregnant women were delivering in hospital in Gombe state.",
+        "candidates": [
+          35,
+          41,
+          31,
+          33
+        ]
+      },
+      {
+        "text": "Speaking at a press conference at the end of last week's programme, Mr Bright Ekweremadu, managing director of the Society for Family Health, explained that running the programme became necessary when a national health survey conducted in 2008 showed that 17% of pregnant women were delivering in hospital in [ Gombe ] state.",
+        "candidates": [
+          84,
+          85,
+          87,
+          80
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In January of this year, 2018, the two governments launched a number of major projects to improve the lives of Niger's people, especially in rural areas, through a program called MCCompact that allocated US$437 million, in addition to the US$18 million that Niger received to fight malaria.",
+    "src_entities": [
+      "Niger's",
+      "Niger"
+    ],
+    "template": "A watan Janairu ta wannan shekarar , 2018 , gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jama’ar Nijer musamman a yankunan karkaka , ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka , banda miliyan 18 da Amurka ta talllafawa Nijer domin yaki da masassarar cizon sauro .",
+    "text_to_decode": [
+      {
+        "text": "In January of this year, 2018, the two governments launched a number of major projects to improve the lives of [ Niger's ] people, especially in rural areas, through a program called MCCompact that allocated US$437 million, in addition to the US$18 million that Niger received to fight malaria.",
+        "candidates": [
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "text": "In January of this year, 2018, the two governments launched a number of major projects to improve the lives of Niger's people, especially in rural areas, through a program called MCCompact that allocated US$437 million, in addition to the US$18 million that [ Niger ] received to fight malaria.",
+        "candidates": [
+          67,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          78
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He explained that the MAPS programme in Nigeria is the malaria prevention programme implemented by hfi360, and the most comprehensive of its kind.",
+    "src_entities": [
+      "Nigeria"
+    ],
+    "template": "Ya bayyana cewa , shirin MAPS a Najeriya shine shirin rigakafin zazzabin cizon sauro da cibiyar hfi360 take aiwatarwa , kuma wanda yafi kowanne zurfi .",
+    "text_to_decode": [
+      {
+        "text": "He explained that the MAPS programme in [ Nigeria ] is the malaria prevention programme implemented by hfi360, and the most comprehensive of its kind.",
+        "candidates": [
+          5,
+          6,
+          10,
+          11,
+          13
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Schools and offices have been closed, scheduled flights canceled and rescue operations are already underway - rescuing some stranded people.",
+    "src_entities": [],
+    "template": "An rufe makarantu da ofisoshi , an soke dubabban tafiye - tafiyen jiragen sama kuma tuni masu ayyukan ceto ke ta fadi - tashin ceto wasu mutane da su ka makale .",
+    "text_to_decode": [
+      {
+        "text": "Schools and offices have been closed, scheduled flights canceled and rescue operations are already underway - rescuing some stranded people.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Being, women are the closest to small children, besides, they can raise the social fabric.",
+    "src_entities": [],
+    "template": "Kasancewa , mata sune suka fi kusa da kananan yara , banda haka kuma , sun iya tada tsimin al’umma .",
+    "text_to_decode": [
+      {
+        "text": "Being, women are the closest to small children, besides, they can raise the social fabric.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "It also denied work permits to all asylum seekers who entered the United States illegally.",
+    "src_entities": [
+      "United States"
+    ],
+    "template": "Sai kuma hana izinin yin aiki ga duk masu neman mafakar da suka shigo Amurka ta barauniyar hanya .",
+    "text_to_decode": [
+      {
+        "text": "It also denied work permits to all asylum seekers who entered the [ United States ] illegally.",
+        "candidates": [
+          4,
+          5,
+          17,
+          18,
+          19,
+          20,
+          21,
+          24
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "A Way to Stop the Spread of AIDS Found",
+    "src_entities": [],
+    "template": "An Gano Hanyar Hana Cutar Kanjamau Yaduwa",
+    "text_to_decode": [
+      {
+        "text": "A Way to Stop the Spread of AIDS Found",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The vice president is scheduled to meet with Kim Yo Jong, the sister of President Kim Jon Un and Kim Yong Nam, the country's future president.",
+    "src_entities": [
+      "Kim Yo Jong,",
+      "Kim Jon Un",
+      "Kim Yong Nam,"
+    ],
+    "template": "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban Kim Jon Un da kuma Kim Yong Nam , wanda yake shugaban kasar na jeka na yi ka .",
+    "text_to_decode": [
+      {
+        "text": "The vice president is scheduled to meet with [ Kim Yo Jong, ] the sister of President Kim Jon Un and Kim Yong Nam, the country's future president.",
+        "candidates": [
+          12,
+          15,
+          8
+        ]
+      },
+      {
+        "text": "The vice president is scheduled to meet with Kim Yo Jong, the sister of President [ Kim Jon Un ] and Kim Yong Nam, the country's future president.",
+        "candidates": [
+          34,
+          35,
+          36,
+          15,
+          19,
+          20,
+          21,
+          24,
+          28,
+          29,
+          31,
+          33
+        ]
+      },
+      {
+        "text": "The vice president is scheduled to meet with Kim Yo Jong, the sister of President Kim Jon Un and [ Kim Yong Nam, ] the country's future president.",
+        "candidates": [
+          35,
+          36,
+          37,
+          38,
+          39,
+          20,
+          23,
+          24,
+          25,
+          28,
+          29,
+          31,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "7 in the state of Gombe",
+    "src_entities": [
+      "Gombe"
+    ],
+    "template": "7 a jihar Gombe",
+    "text_to_decode": [
+      {
+        "text": "7 in the state of [ Gombe ]",
+        "candidates": [
+          2,
+          4,
+          5,
+          7
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Trump goes to Dayton, El Paso for comfort",
+    "src_entities": [
+      "Trump",
+      "Dayton,",
+      "El Paso"
+    ],
+    "template": "Trump Ya Je Biranen Dayton , El Paso Domin Yin Ta'aziyya",
+    "text_to_decode": [
+      {
+        "text": "[ Trump ] goes to Dayton, El Paso for comfort",
+        "candidates": [
+          2,
+          3,
+          5,
+          6,
+          10
+        ]
+      },
+      {
+        "text": "Trump goes to [ Dayton, ] El Paso for comfort",
+        "candidates": [
+          3,
+          5,
+          6,
+          7,
+          8,
+          10
+        ]
+      },
+      {
+        "text": "Trump goes to Dayton, [ El Paso ] for comfort",
+        "candidates": [
+          3,
+          5,
+          6,
+          10,
+          11,
+          13
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Americans Vote for Half of the Term",
+    "src_entities": [],
+    "template": "Amurkawa Na Zaben Rabin Wa'adi",
+    "text_to_decode": [
+      {
+        "text": "Americans Vote for Half of the Term",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "In another experiment, the catheter was placed near the auditory chamber.",
+    "src_entities": [],
+    "template": "A wani gwajin kuma , kazar aka sanya kusa da gidan sauron .",
+    "text_to_decode": [
+      {
+        "text": "In another experiment, the catheter was placed near the auditory chamber.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Katsalanda's 2016 election research leader will ask President Trump questions",
+    "src_entities": [
+      "Katsalanda's",
+      "Trump"
+    ],
+    "template": "Jagoran Binciken Katsalanda A Zaben 2016 Zai Yiwa Shugaba Trump Tambayoyi",
+    "text_to_decode": [
+      {
+        "text": "[ Katsalanda's ] 2016 election research leader will ask President Trump questions",
+        "candidates": [
+          2,
+          4,
+          6,
+          7,
+          9,
+          10,
+          13,
+          15
+        ]
+      },
+      {
+        "text": "Katsalanda's 2016 election research leader will ask President [ Trump ] questions",
+        "candidates": [
+          7,
+          9,
+          10,
+          15,
+          16,
+          18
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Today is the day when the World Health Organization declared Nigeria free of the Ebola virus.",
+    "src_entities": [
+      "World Health Organization",
+      "Nigeria"
+    ],
+    "template": "Yau ce ranar da hukumar kiwon lafiya ta duniya ta fadi cewa kasar Najeriya ta rabu da cutar Ebola .",
+    "text_to_decode": [
+      {
+        "text": "Today is the day when the [ World Health Organization ] declared Nigeria free of the Ebola virus.",
+        "candidates": [
+          6,
+          7,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "text": "Today is the day when the World Health Organization declared [ Nigeria ] free of the Ebola virus.",
+        "candidates": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          22
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "How many times have we contacted the legislatures of the country to understand their concerns and do our best to explain our policies to them.",
+    "src_entities": [],
+    "template": "Yace sau tari muna tuntubar majalisun kasar domin mu fahimci damuwarsu kuma mu yi iya kokarinmu mu yi musu bayani a kan manufofin mu .",
+    "text_to_decode": [
+      {
+        "text": "How many times have we contacted the legislatures of the country to understand their concerns and do our best to explain our policies to them.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "* News from the international center for disease control.",
+    "src_entities": [],
+    "template": "* Sako daga cibiyar yaki da cutuka ta kasa da kasa .",
+    "text_to_decode": [
+      {
+        "text": "* News from the international center for disease control.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "and sixteen.",
+    "src_entities": [],
+    "template": "da goma sha shida .",
+    "text_to_decode": [
+      {
+        "text": "and sixteen.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Gunman Shoots at Jews in the United States",
+    "src_entities": [
+      "United States"
+    ],
+    "template": "Dan Bindiga Ya Bude Wuta Akan Yahudawa a Amurka",
+    "text_to_decode": [
+      {
+        "text": "Gunman Shoots at Jews in the [ United States ]",
+        "candidates": [
+          2,
+          3,
+          7,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Why are there so many problems that lead to the death of both parents and their babies?",
+    "src_entities": [],
+    "template": "Abinda yasa ake samun matsaloli da yake kai da rasa rayukan iyayen da kuma jariransu .",
+    "text_to_decode": [
+      {
+        "text": "Why are there so many problems that lead to the death of both parents and their babies?",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "indicates that the US system does not follow good immigration policies and law and order.",
+    "src_entities": [
+      "US"
+    ],
+    "template": "’ yana mai nuni da cewa tsarin Amurka ba ya bin kyawawan manufofin shige da fici da kuma doka da oda .",
+    "text_to_decode": [
+      {
+        "text": "indicates that the [ US ] system does not follow good immigration policies and law and order.",
+        "candidates": [
+          2,
+          5,
+          6,
+          11,
+          12,
+          15,
+          19,
+          28
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Regarding those who are now lying down he said no one can say whether they will survive or not.",
+    "src_entities": [],
+    "template": "Dangane da wadanda suke kwance yanzu yace babu wanda zai ce zasu rayu ko ba zasu rayu ba .",
+    "text_to_decode": [
+      {
+        "text": "Regarding those who are now lying down he said no one can say whether they will survive or not.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Netanyahu made this clear before leaving his country yesterday for a meeting with European Leaders.",
+    "src_entities": [
+      "Netanyahu"
+    ],
+    "template": "Natanyahu bayyana hakan ne gabanin ya bar kasarsa jiya don ganawa da Shugabannin yankin Turai .",
+    "text_to_decode": [
+      {
+        "text": "[ Netanyahu ] made this clear before leaving his country yesterday for a meeting with European Leaders.",
+        "candidates": [
+          2,
+          5,
+          6,
+          7,
+          19,
+          23
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "According to him, adolescent girls are at a higher risk of contracting HIV due to the environment in which they grow up and the culture that encourages them to have sex with older men.",
+    "src_entities": [],
+    "template": "Bisa ga cewarshi , ‘yan matan da suka ballaga suna cikin hatsarin kamuwa da cutar kanjamau sabili da irin yanayin da suke girma ciki da al’ada da ke sa su yi jima’I mazan da suka girme su .",
+    "text_to_decode": [
+      {
+        "text": "According to him, adolescent girls are at a higher risk of contracting HIV due to the environment in which they grow up and the culture that encourages them to have sex with older men.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "On Wednesday, President Trump will make another visit to the southwestern border city of El Paso, Texas, where more than 20 people were also killed over the weekend.",
+    "src_entities": [
+      "Trump",
+      "El Paso,",
+      "Texas,"
+    ],
+    "template": "A yau Laraba shugaba Trump , zai kai wata ziyarar garin El Paso na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar , wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20 .",
+    "text_to_decode": [
+      {
+        "text": "On Wednesday, President [ Trump ] will make another visit to the southwestern border city of El Paso, Texas, where more than 20 people were also killed over the weekend.",
+        "candidates": [
+          3,
+          6,
+          8,
+          9,
+          12,
+          15,
+          19
+        ]
+      },
+      {
+        "text": "On Wednesday, President Trump will make another visit to the southwestern border city of [ El Paso, ] Texas, where more than 20 people were also killed over the weekend.",
+        "candidates": [
+          19,
+          23,
+          16
+        ]
+      },
+      {
+        "text": "On Wednesday, President Trump will make another visit to the southwestern border city of El Paso, [ Texas, ] where more than 20 people were also killed over the weekend.",
+        "candidates": [
+          47,
+          48,
+          18,
+          19,
+          20,
+          23
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Saidai and another man named Alhaji Garba Tela said it was a political rally, where people from six states gathered to promote the name of President Jonathan.",
+    "src_entities": [
+      "Saidai",
+      "Garba Tela",
+      "Jonathan."
+    ],
+    "template": "Saidai kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa , inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan .",
+    "text_to_decode": [
+      {
+        "text": "[ Saidai ] and another man named Alhaji Garba Tela said it was a political rally, where people from six states gathered to promote the name of President Jonathan.",
+        "candidates": [
+          2,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "text": "Saidai and another man named Alhaji [ Garba Tela ] said it was a political rally, where people from six states gathered to promote the name of President Jonathan.",
+        "candidates": [
+          11,
+          6,
+          15
+        ]
+      },
+      {
+        "text": "Saidai and another man named Alhaji Garba Tela said it was a political rally, where people from six states gathered to promote the name of President [ Jonathan. ]",
+        "candidates": [
+          34,
+          40,
+          39,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Listen to the full report of Abdulwahab Mohammed:",
+    "src_entities": [
+      "Abdulwahab Mohammed:"
+    ],
+    "template": "Saurari Cikakken rahoton Abdulwahab Mohammed :",
+    "text_to_decode": [
+      {
+        "text": "Listen to the full report of [ Abdulwahab Mohammed: ]",
+        "candidates": [
+          12,
+          13,
+          14,
+          9
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "US President Who Is the World's Most Ridiculous Immigration Policy",
+    "src_entities": [
+      "US"
+    ],
+    "template": "Shugaban Amurka Yace Duniya Na Yiwa Tsarin Dokar Shige Da Ficenta Dariya",
+    "text_to_decode": [
+      {
+        "text": "[ US ] President Who Is the World's Most Ridiculous Immigration Policy",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The documents, which the White House is likely to release to the public on Thursday, allegedly contain documents from the Justice Department, which reveal bias against President Trump.",
+    "src_entities": [
+      "White House",
+      "Justice Department,",
+      "Trump."
+    ],
+    "template": "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jama’a , suna dauke da bayanan ma’aikatar shari’ar kasar , wadanda suka bayyana son kai da aka nunawa shugaba Trump .",
+    "text_to_decode": [
+      {
+        "text": "The documents, which the [ White House ] is likely to release to the public on Thursday, allegedly contain documents from the Justice Department, which reveal bias against President Trump.",
+        "candidates": [
+          9,
+          10,
+          12,
+          13,
+          17,
+          18,
+          19,
+          21,
+          22,
+          26,
+          27,
+          28,
+          29,
+          31
+        ]
+      },
+      {
+        "text": "The documents, which the White House is likely to release to the public on Thursday, allegedly contain documents from the [ Justice Department, ] which reveal bias against President Trump.",
+        "candidates": [
+          36,
+          37,
+          41,
+          42,
+          43,
+          44,
+          45,
+          26,
+          29,
+          31
+        ]
+      },
+      {
+        "text": "The documents, which the White House is likely to release to the public on Thursday, allegedly contain documents from the Justice Department, which reveal bias against President [ Trump. ]",
+        "candidates": [
+          36,
+          54,
+          55,
+          57,
+          58,
+          28,
+          29,
+          31
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "However, of those who were treated immediately, only one spouse was infected with the virus.",
+    "src_entities": [],
+    "template": "To amma daga cikin wadanda suka fara jinya nan da nan mata da miji daya ne kawai suka harbu da kwayar cutar .",
+    "text_to_decode": [
+      {
+        "text": "However, of those who were treated immediately, only one spouse was infected with the virus.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "13 Russians, 3 Companies and Katsalandan Indicted in US Election",
+    "src_entities": [
+      "US"
+    ],
+    "template": "An Tuhumi 'Yan Kasar Rasha 13 Da Kamfanoni 3 Da Katsalandan A Zaben Amurka",
+    "text_to_decode": [
+      {
+        "text": "13 Russians, 3 Companies and Katsalandan Indicted in [ US ] Election",
+        "candidates": [
+          21,
+          23,
+          24
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "An outbreak of malaria occurs when the climate changes to be favorable for mosquitoes in areas where people do not have immunity to the disease.",
+    "src_entities": [],
+    "template": "A kan samu barkewar annobar cutar Maleriya idan yanayi ya sauya ya zamo mai kyau ga sauro a wuraren da mutane ba su da kariyar garkuwar jiki ga wannan cuta ta Maleriya .",
+    "text_to_decode": [
+      {
+        "text": "An outbreak of malaria occurs when the climate changes to be favorable for mosquitoes in areas where people do not have immunity to the disease.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Org on the Internet, says that this water and pollution problem kills more people than all the people killed by guns in the world combined.",
+    "src_entities": [
+      "Org"
+    ],
+    "template": "Org \"\"\"\" a kan Internet , yace wannan matsala ta ruwa da rashin tsabtar muhalli tana kashe mutane fiye da dukkan mutanen da ake kashewa da bindigogi a yake - yake .",
+    "text_to_decode": [
+      {
+        "text": "[ Org ] on the Internet, says that this water and pollution problem kills more people than all the people killed by guns in the world combined.",
+        "candidates": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The American Civil Liberties Union (ACLU) has responded to Trump's posts, saying Trump's proposed policy violates the US Constitution's protection of the public.",
+    "src_entities": [
+      "American Civil Liberties Union",
+      "Trump's",
+      "Trump's"
+    ],
+    "template": "Kungiyar kare hakkokin jamm’a ta Amurka da ake kira American Civil Liberties Union da turanci , ta maida martani akan sakonnin na Trump , tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jama’a .",
+    "text_to_decode": [
+      {
+        "text": "The [ American Civil Liberties Union ] (ACLU) has responded to Trump's posts, saying Trump's proposed policy violates the US Constitution's protection of the public.",
+        "candidates": [
+          2,
+          4,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          21,
+          22,
+          24,
+          25,
+          26,
+          31
+        ]
+      },
+      {
+        "text": "The American Civil Liberties Union (ACLU) has responded to [ Trump's ] posts, saying Trump's proposed policy violates the US Constitution's protection of the public.",
+        "candidates": [
+          34,
+          33
+        ]
+      },
+      {
+        "text": "The American Civil Liberties Union (ACLU) has responded to Trump's posts, saying [ Trump's ] proposed policy violates the US Constitution's protection of the public.",
+        "candidates": [
+          39,
+          40,
+          41,
+          42,
+          45
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "To ensure the health of the animals, centres have also been set up in the state's local government departments where herders will take the animals to be vaccinated according to the deputy governor.",
+    "src_entities": [],
+    "template": "Domin tabbatar da lafiyar dabbobin , an kuma samar da cibiyoyi a sassan kananan hukumomin jihar da makiyaya zasu kai dabbobin ayi masu rigakafin a cewar mataimakin gwamnan .",
+    "text_to_decode": [
+      {
+        "text": "To ensure the health of the animals, centres have also been set up in the state's local government departments where herders will take the animals to be vaccinated according to the deputy governor.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "• The sense of smell is vital for survival.",
+    "src_entities": [],
+    "template": "• In kunne yaji gaggan jiki ya tsira .",
+    "text_to_decode": [
+      {
+        "text": "• The sense of smell is vital for survival.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Nigerian Governors Forum asks for support of women's organizations in the fight against Polio",
+    "src_entities": [
+      "Nigerian Governors Forum"
+    ],
+    "template": "Dandalin Gwamnonin Najeriya ya nemi goyon bayan kungiyoyin mata a yaki da cutar Polio",
+    "text_to_decode": [
+      {
+        "text": "[ Nigerian Governors Forum ] asks for support of women's organizations in the fight against Polio",
+        "candidates": [
+          2,
+          3,
+          5
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "• Use gloves when caring for people with Ebola.",
+    "src_entities": [],
+    "template": "• Kayi amfani da gulob lokacin da kake kula da wadanda ke dauke da cutar Ebola .",
+    "text_to_decode": [
+      {
+        "text": "• Use gloves when caring for people with Ebola.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The World Health Organization has called on governments to protect the rights of their mentally disabled citizens who face discrimination and exclusion.",
+    "src_entities": [
+      "World Health Organization"
+    ],
+    "template": "Hukumar lafiya ta duniya tayi kira ga gwamnatoci su kare ‘yancin al’ummarsu dake da tabuwar hankali dake fuskantar wariya da kuma kuntatawa .",
+    "text_to_decode": [
+      {
+        "text": "The [ World Health Organization ] has called on governments to protect the rights of their mentally disabled citizens who face discrimination and exclusion.",
+        "candidates": [
+          2,
+          3,
+          5,
+          6,
+          9,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20,
+          22,
+          24,
+          27,
+          29,
+          30,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Earlier in his address to the people of Rivers State, Governor Amaechi explained that the campaign titled in English Women Against Polio \"\"\"\" (WAP) - Women Fighting Polio - is the second of four groups to be implemented with the aim of raising awareness among Nigerians about the impact of the disease and aiming to eradicate it",
+    "src_entities": [
+      "Rivers State,",
+      "Amaechi"
+    ],
+    "template": "Tun farko a cikin jawabin da yayi ga al’ummar jihar Rivers , gwamna Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci “ Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan al’ummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya .",
+    "text_to_decode": [
+      {
+        "text": "Earlier in his address to the people of [ Rivers State, ] Governor Amaechi explained that the campaign titled in English Women Against Polio \"\"\"\" (WAP) - Women Fighting Polio - is the second of four groups to be implemented with the aim of raising awareness among Nigerians about the impact of the disease and aiming to eradicate it",
+        "candidates": [
+          36,
+          42,
+          11,
+          43,
+          14,
+          15,
+          47,
+          17,
+          18,
+          48,
+          49,
+          31
+        ]
+      },
+      {
+        "text": "Earlier in his address to the people of Rivers State, Governor [ Amaechi ] explained that the campaign titled in English Women Against Polio \"\"\"\" (WAP) - Women Fighting Polio - is the second of four groups to be implemented with the aim of raising awareness among Nigerians about the impact of the disease and aiming to eradicate it",
+        "candidates": [
+          20,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "All the small species of this important malaria mosquito bite humans only at night.",
+    "src_entities": [],
+    "template": "Dukkan kananan jinsuna wannan sauro mai yada cutar Maleriya dake da muhimmanci , ba su cizon mutane sai da daddare .",
+    "text_to_decode": [
+      {
+        "text": "All the small species of this important malaria mosquito bite humans only at night.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Some federal and state courts challenging the Trump administration's move to include the question of citizenship or non-citizenship in the census are asking the court to clarify the decision for them.",
+    "src_entities": [
+      "Trump"
+    ],
+    "template": "Wasu kotunan tarayya da kuma jihohi da suke kalubalantar matakin da gwamnatin Trump ta dauka na ta saka tambayar ko mutum dan kasa ne ko ba dan kasa ba , a kidayar jama’a suna neman kotu ta fayyace musu matakin .",
+    "text_to_decode": [
+      {
+        "text": "Some federal and state courts challenging the [ Trump ] administration's move to include the question of citizenship or non-citizenship in the census are asking the court to clarify the decision for them.",
+        "candidates": [
+          17,
+          19,
+          23,
+          24,
+          25,
+          26
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "If the patient is delayed in reaching the hospital, they are less likely to survive or die.",
+    "src_entities": [],
+    "template": "Idan an yi jinkiri ba'a kawo wanda ya kamu da cutar asibiti ba su ne suke tsira da kyar ko su mutu .",
+    "text_to_decode": [
+      {
+        "text": "If the patient is delayed in reaching the hospital, they are less likely to survive or die.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Investigators are looking into whether President Trump sought to undermine the FBI investigation after firing former FBI director James Comey.",
+    "src_entities": [
+      "Trump",
+      "FBI",
+      "FBI",
+      "James Comey."
+    ],
+    "template": "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI , James Comey , daga aiki",
+    "text_to_decode": [
+      {
+        "text": "Investigators are looking into whether President [ Trump ] sought to undermine the FBI investigation after firing former FBI director James Comey.",
+        "candidates": [
+          34,
+          8,
+          10,
+          12,
+          13,
+          15,
+          24,
+          27,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "Investigators are looking into whether President Trump sought to undermine the [ FBI ] investigation after firing former FBI director James Comey.",
+        "candidates": [
+          34,
+          15,
+          21,
+          24,
+          25,
+          27,
+          32
+        ]
+      },
+      {
+        "text": "Investigators are looking into whether President Trump sought to undermine the FBI investigation after firing former [ FBI ] director James Comey.",
+        "candidates": [
+          21,
+          24,
+          25,
+          26,
+          27,
+          32
+        ]
+      },
+      {
+        "text": "Investigators are looking into whether President Trump sought to undermine the FBI investigation after firing former FBI director [ James Comey. ]",
+        "candidates": [
+          34,
+          21,
+          24,
+          25,
+          27,
+          28,
+          31,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The Director expressed concern that the provision of these opportunities could open the way for other young people to get involved in assha activities, and urged the community to contribute towards achieving the goal of protecting the lives and health of the citizens.",
+    "src_entities": [],
+    "template": "Darektan ya bayyana damuwa ganin samar da wannnan damar zata iya budewa wadansu matasa kafar shiga ayyukan assha , ya kuma shawarci al’umma su bada gudummuwa domin cimma burin kare rayuka da lafiyar ‘yammata .",
+    "text_to_decode": [
+      {
+        "text": "The Director expressed concern that the provision of these opportunities could open the way for other young people to get involved in assha activities, and urged the community to contribute towards achieving the goal of protecting the lives and health of the citizens.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Increased Taxes on Copper and Steel May Not Affect Some Countries",
+    "src_entities": [],
+    "template": "Da Alama Karin Haraji Akan Tama Da Karafa Ba Zai Shafi Wasu Kasashe Ba",
+    "text_to_decode": [
+      {
+        "text": "Increased Taxes on Copper and Steel May Not Affect Some Countries",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Professor Abdulsalam Nasidi one of the leaders of the fight against Ebola explains what they have done to cure the people.",
+    "src_entities": [
+      "Abdulsalam Nasidi"
+    ],
+    "template": "Farfasa Abdulsalam Nasidi daya daga cikin shugabannin yaki da cutar ta ebola yayi bayani akan abun da suka yi wajen warkar da mutanen .",
+    "text_to_decode": [
+      {
+        "text": "Professor [ Abdulsalam Nasidi ] one of the leaders of the fight against Ebola explains what they have done to cure the people.",
+        "candidates": [
+          3,
+          5,
+          9,
+          12,
+          26,
+          31
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The initiative was also supported by about 695 drivers members of the National Union of Transport Workers (NURTW) who donated their vehicles to take women and babies in need of urgent care.",
+    "src_entities": [
+      "National Union of Transport Workers"
+    ],
+    "template": "Shirin ya kuma sami goyon bayan kimanin direbobi 695 membobin kungiyar ma’aikatar sufuri ta kasa ( NURTW ) wadanda suka bada gudummuwar motocinsu domin daukar mata da jariran da suke bukatar kulawa ta gaggawa .",
+    "text_to_decode": [
+      {
+        "text": "The initiative was also supported by about 695 drivers members of the [ National Union of Transport Workers ] (NURTW) who donated their vehicles to take women and babies in need of urgent care.",
+        "candidates": [
+          35,
+          36,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          31,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The meeting followed his meeting with North Korean leader Kim Jong Un, which was unsuccessful, and a damning testimony by his former lawyer, Michael Cohen, before the US Congress.",
+    "src_entities": [
+      "Kim Jong Un,",
+      "Michael Cohen,",
+      "US Congress."
+    ],
+    "template": "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un , wacce ba ta yi nasara ba , da kuma kazamar shaidar da tsohon lauyansa , Michael Cohen ya bayar a gaban majalisar dokokin Amurka .",
+    "text_to_decode": [
+      {
+        "text": "The meeting followed his meeting with North Korean leader [ Kim Jong Un, ] which was unsuccessful, and a damning testimony by his former lawyer, Michael Cohen, before the US Congress.",
+        "candidates": [
+          35,
+          40,
+          11,
+          45,
+          14,
+          17,
+          18,
+          24,
+          27
+        ]
+      },
+      {
+        "text": "The meeting followed his meeting with North Korean leader Kim Jong Un, which was unsuccessful, and a damning testimony by his former lawyer, [ Michael Cohen, ] before the US Congress.",
+        "candidates": [
+          35,
+          36,
+          38,
+          40,
+          43,
+          24,
+          27,
+          29
+        ]
+      },
+      {
+        "text": "The meeting followed his meeting with North Korean leader Kim Jong Un, which was unsuccessful, and a damning testimony by his former lawyer, Michael Cohen, before the [ US Congress. ]",
+        "candidates": [
+          38,
+          42,
+          43,
+          44,
+          45,
+          17,
+          18,
+          24,
+          27
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "However, the magazine has so far found no evidence to believe this accusation.",
+    "src_entities": [],
+    "template": "Sai dai mujallar tace zuwa yanzu bata sami wani shaida da zai gaskanta wannan zargi ba .",
+    "text_to_decode": [
+      {
+        "text": "However, the magazine has so far found no evidence to believe this accusation.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "He also praised the decision of the al-Barnawi faction of Boko Haram to ease their fight.",
+    "src_entities": [
+      "al-Barnawi",
+      "Boko Haram"
+    ],
+    "template": "Ya kuma yaba da shawarar da bangaren al - Barnawi na Boko Haram ya yanke na sassautawa a gwagwarmayarsu .",
+    "text_to_decode": [
+      {
+        "text": "He also praised the decision of the [ al-Barnawi ] faction of Boko Haram to ease their fight.",
+        "candidates": [
+          10,
+          11,
+          12,
+          14
+        ]
+      },
+      {
+        "text": "He also praised the decision of the al-Barnawi faction of [ Boko Haram ] to ease their fight.",
+        "candidates": [
+          10,
+          11,
+          15,
+          29,
+          30
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "A recent study suggests that women who quit menstruation who smoke, or have smoked in the past, are at a higher risk of developing breast cancer.",
+    "src_entities": [],
+    "template": "Wani sabon bincike na nuni da cewa , matan da suka daina al’ada wadanda suke shan taba sigari , ko suka taba sha a can baya , sun fi fuskantar kasadar kamuwa da cutar sankarar nono .",
+    "text_to_decode": [
+      {
+        "text": "A recent study suggests that women who quit menstruation who smoke, or have smoked in the past, are at a higher risk of developing breast cancer.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "US House of Representatives to continue hearing on Russian investigation",
+    "src_entities": [
+      "US House of Representatives"
+    ],
+    "template": "'Yan Majalisar Wakilan Amurka Zasu Ci Gaba Da Jin Bahasi Akan Binciken Rasha",
+    "text_to_decode": [
+      {
+        "text": "[ US House of Representatives ] to continue hearing on Russian investigation",
+        "candidates": [
+          2,
+          3,
+          5,
+          7,
+          8
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Democrats accuse Republicans of leaking confidential data",
+    "src_entities": [],
+    "template": "'Yan Jami'iyar Democrat Sun Zargi 'Yan Republican Da Sauya Bayanan Sirri",
+    "text_to_decode": [
+      {
+        "text": "Democrats accuse Republicans of leaking confidential data",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "President Trump announced that the ceremony, held in honor of the United States, would highlight the importance of the country's military might, and his speech would be broadcast from the steps of the Lincoln Memorial.",
+    "src_entities": [
+      "Trump",
+      "United States,",
+      "Lincoln Memorial."
+    ],
+    "template": "Shugaba Trump ya sanar da cewa , za a gudanar da sarawar , da ake yi wa Amurka , don nuna muhimmancin karfin ikon sojojin kasar , kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial .",
+    "text_to_decode": [
+      {
+        "text": "President [ Trump ] announced that the ceremony, held in honor of the United States, would highlight the importance of the country's military might, and his speech would be broadcast from the steps of the Lincoln Memorial.",
+        "candidates": [
+          2,
+          4,
+          9,
+          10,
+          12,
+          14,
+          15,
+          16,
+          17,
+          19,
+          20
+        ]
+      },
+      {
+        "text": "President Trump announced that the ceremony, held in honor of the [ United States, ] would highlight the importance of the country's military might, and his speech would be broadcast from the steps of the Lincoln Memorial.",
+        "candidates": [
+          18,
+          20,
+          21
+        ]
+      },
+      {
+        "text": "President Trump announced that the ceremony, held in honor of the United States, would highlight the importance of the country's military might, and his speech would be broadcast from the steps of the [ Lincoln Memorial. ]",
+        "candidates": [
+          40,
+          41,
+          43,
+          45,
+          46,
+          47
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Representative Adam Schiff revealed in a letter to committee chairman Devin Nunes on Wednesday that Democrats had discovered that the information contained in the documents had been tampered with, which he described as \"disturbing\".",
+    "src_entities": [
+      "Adam Schiff",
+      "Devin Nunes"
+    ],
+    "template": "Dan majalisar wakilai , Adam Schiff ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin Devin Nunes a jiya Laraba cewa , ‘yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun , lamarin da ya kwatanta a matsayin “ mai ta da hankali .",
+    "text_to_decode": [
+      {
+        "text": "Representative [ Adam Schiff ] revealed in a letter to committee chairman Devin Nunes on Wednesday that Democrats had discovered that the information contained in the documents had been tampered with, which he described as \"disturbing\".",
+        "candidates": [
+          2,
+          35,
+          36,
+          6,
+          7,
+          9,
+          28,
+          29,
+          33
+        ]
+      },
+      {
+        "text": "Representative Adam Schiff revealed in a letter to committee chairman [ Devin Nunes ] on Wednesday that Democrats had discovered that the information contained in the documents had been tampered with, which he described as \"disturbing\".",
+        "candidates": [
+          53,
+          28,
+          29,
+          24
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Ambassador Eric Whitaker said, the leaders of the two countries have full cooperation to enable them to successfully achieve this goal.",
+    "src_entities": [
+      "Eric Whitaker"
+    ],
+    "template": "Jakaden Eric Whitaker yace , gwamantocin kasashen biyu na da cikaken hadin kan da zai basu damar nasarar cimma wannan guri .",
+    "text_to_decode": [
+      {
+        "text": "Ambassador [ Eric Whitaker ] said, the leaders of the two countries have full cooperation to enable them to successfully achieve this goal.",
+        "candidates": [
+          3,
+          4,
+          7,
+          9,
+          11,
+          15,
+          17,
+          18,
+          21,
+          22,
+          26
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "After announcing support for farmers, Trump reacted to the loss of U.S. trade with China, while answering questions from a group of concerned journalists.",
+    "src_entities": [
+      "Trump",
+      "U.S.",
+      "China,"
+    ],
+    "template": "Bayan sanar da tallafi ga manoma , Trump ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da China , yayin da yake amsa tambayoyi da wani rukunin ‘yan jarida kakilan .",
+    "text_to_decode": [
+      {
+        "text": "After announcing support for farmers, [ Trump ] reacted to the loss of U.S. trade with China, while answering questions from a group of concerned journalists.",
+        "candidates": [
+          35,
+          36,
+          37,
+          41,
+          10,
+          11,
+          12,
+          13,
+          17,
+          21,
+          22,
+          25
+        ]
+      },
+      {
+        "text": "After announcing support for farmers, Trump reacted to the loss of [ U.S. ] trade with China, while answering questions from a group of concerned journalists.",
+        "candidates": [
+          21,
+          22,
+          23,
+          25,
+          26,
+          27
+        ]
+      },
+      {
+        "text": "After announcing support for farmers, Trump reacted to the loss of U.S. trade with [ China, ] while answering questions from a group of concerned journalists.",
+        "candidates": [
+          5,
+          41,
+          10,
+          44,
+          13,
+          45,
+          46,
+          25,
+          26,
+          29,
+          30
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In the indictment, filed by federal investigators, it was alleged that a Russian-based, Kremlin-affiliated Internet analytics company and 12 of its employees engaged in activities aimed at interfering with elections and the political system of the United States since the turn of the millennium.",
+    "src_entities": [
+      "United States"
+    ],
+    "template": "A cikin takardar tuhumar da masu taimakawa gwamnatin tarayya tantance laifi suka bayar , an yi zargin cewa , wani kamfanin nazarin hanyar sadarwar internet dake da cibiya a Rasha , wanda kuma yake da alaka da Kremlin , da ma'aikatansa goma sha biyu sun gudanar da wadansu ayyuka da nufin yin katsalandan a zabe , da kuma tsarin siyasar Amurka daga shekara ta dubu",
+    "text_to_decode": [
+      {
+        "text": "In the indictment, filed by federal investigators, it was alleged that a Russian-based, Kremlin-affiliated Internet analytics company and 12 of its employees engaged in activities aimed at interfering with elections and the political system of the [ United States ] since the turn of the millennium.",
+        "candidates": [
+          73,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "As some expected, the meeting turned out to be a platform to distract President Trump from the minor events of the past week, as the Robert Mueller Commission's investigation into alleged collusion between the Trump campaign and Russia seemed poised to conclude.",
+    "src_entities": [
+      "Trump",
+      "Robert Mueller Commission's",
+      "Trump",
+      "Russia"
+    ],
+    "template": "Kamar dai yadda wasu suka yi tsammani , taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude , yayin da ake ganin alamar cewa , binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai , tsakanin kwamitin yakin neman zaben Trump da Rasha , ya kusa kawowa karshe .",
+    "text_to_decode": [
+      {
+        "text": "As some expected, the meeting turned out to be a platform to distract President [ Trump ] from the minor events of the past week, as the Robert Mueller Commission's investigation into alleged collusion between the Trump campaign and Russia seemed poised to conclude.",
+        "candidates": [
+          41,
+          44,
+          45,
+          17,
+          18,
+          21,
+          23,
+          25
+        ]
+      },
+      {
+        "text": "As some expected, the meeting turned out to be a platform to distract President Trump from the minor events of the past week, as the [ Robert Mueller Commission's ] investigation into alleged collusion between the Trump campaign and Russia seemed poised to conclude.",
+        "candidates": [
+          38,
+          41,
+          42,
+          43,
+          44,
+          45,
+          47,
+          48,
+          50,
+          53
+        ]
+      },
+      {
+        "text": "As some expected, the meeting turned out to be a platform to distract President Trump from the minor events of the past week, as the Robert Mueller Commission's investigation into alleged collusion between the [ Trump ] campaign and Russia seemed poised to conclude.",
+        "candidates": [
+          66,
+          67,
+          60,
+          62,
+          64,
+          65
+        ]
+      },
+      {
+        "text": "As some expected, the meeting turned out to be a platform to distract President Trump from the minor events of the past week, as the Robert Mueller Commission's investigation into alleged collusion between the Trump campaign and [ Russia ] seemed poised to conclude.",
+        "candidates": [
+          74,
+          69,
+          70
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In the next few days, the US Congress will begin hearings on Robert Mueller's report on his investigation into Russian interference in the 2016 US presidential election.",
+    "src_entities": [
+      "US Congress",
+      "Robert Mueller's",
+      "US"
+    ],
+    "template": "Nan da wasu ‘yan kwanaki masu zuwa ne , majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016 .",
+    "text_to_decode": [
+      {
+        "text": "In the next few days, the [ US Congress ] will begin hearings on Robert Mueller's report on his investigation into Russian interference in the 2016 US presidential election.",
+        "candidates": [
+          5,
+          7,
+          8,
+          9,
+          11,
+          12,
+          13,
+          14,
+          15,
+          20
+        ]
+      },
+      {
+        "text": "In the next few days, the US Congress will begin hearings on [ Robert Mueller's ] report on his investigation into Russian interference in the 2016 US presidential election.",
+        "candidates": [
+          21,
+          22,
+          24,
+          25,
+          30
+        ]
+      },
+      {
+        "text": "In the next few days, the US Congress will begin hearings on Robert Mueller's report on his investigation into Russian interference in the 2016 [ US ] presidential election.",
+        "candidates": [
+          39,
+          42,
+          44,
+          45,
+          46,
+          47
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "• Avoid contact with anyone who has died of Ebola.",
+    "src_entities": [],
+    "template": "• Kada ka taba wanda ya mutu da cutar Ebola .",
+    "text_to_decode": [
+      {
+        "text": "• Avoid contact with anyone who has died of Ebola.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Deborah Ramirez's wife, 53, alleged that the incident occurred in the 1983-84 academic year, at Yale University during a party.",
+    "src_entities": [
+      "Deborah Ramirez's",
+      "Yale University"
+    ],
+    "template": "Matar Deborah Ramirez , 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84 , a jami'ar Yale a lokacin wata liyafa .",
+    "text_to_decode": [
+      {
+        "text": "[ Deborah Ramirez's ] wife, 53, alleged that the incident occurred in the 1983-84 academic year, at Yale University during a party.",
+        "candidates": [
+          2,
+          4,
+          8,
+          9,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18
+        ]
+      },
+      {
+        "text": "Deborah Ramirez's wife, 53, alleged that the incident occurred in the 1983-84 academic year, at [ Yale University ] during a party.",
+        "candidates": [
+          36,
+          38,
+          25,
+          27,
+          29,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "On Tuesday, Americans flocked to the polls to cast their ballots in the election of new lawmakers, an election that is also expected to decide the fate of Donald Trump's presidency, which has divided voters.",
+    "src_entities": [
+      "Donald Trump's"
+    ],
+    "template": "A yau Talata Amurkawa sun dunguma zuwa rumfunan zabe domin kada kuri’unsu a zaben sabbin ‘yan majalisar dokoki , zaben da ake ganin har ila yau zai yanke hukunci kan irin kamin ludayin shugabancin Donald Trump , lamarin da ya raba kawunan masu kada kuri’un .",
+    "text_to_decode": [
+      {
+        "text": "On Tuesday, Americans flocked to the polls to cast their ballots in the election of new lawmakers, an election that is also expected to decide the fate of [ Donald Trump's ] presidency, which has divided voters.",
+        "candidates": [
+          44,
+          45,
+          46,
+          48,
+          50,
+          52,
+          53,
+          57
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The White House said Deputy Prime Minister Liu would lead a delegation of Chinese officials to Washington next week for further talks on May 8.",
+    "src_entities": [
+      "White House",
+      "Liu",
+      "Washington"
+    ],
+    "template": "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jami’an China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu .",
+    "text_to_decode": [
+      {
+        "text": "The [ White House ] said Deputy Prime Minister Liu would lead a delegation of Chinese officials to Washington next week for further talks on May 8.",
+        "candidates": [
+          2,
+          4,
+          36,
+          39,
+          41,
+          26,
+          29,
+          30
+        ]
+      },
+      {
+        "text": "The White House said Deputy Prime Minister [ Liu ] would lead a delegation of Chinese officials to Washington next week for further talks on May 8.",
+        "candidates": [
+          36,
+          39,
+          41,
+          12,
+          14,
+          15,
+          26,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "text": "The White House said Deputy Prime Minister Liu would lead a delegation of Chinese officials to [ Washington ] next week for further talks on May 8.",
+        "candidates": [
+          36,
+          39,
+          41,
+          23,
+          25,
+          28,
+          29,
+          30
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In the state of North Dakota, the temperature was below 32 degrees Celsius, while it was below 52 degrees in other parts of Minnesota.",
+    "src_entities": [
+      "North Dakota,",
+      "Minnesota."
+    ],
+    "template": "A can yankin jihar Dakota ta Arewa , sanyin iskar , ya kai kasa da maki 32 na ma’aunin digrin Celcius , yayin da ya kai kasa da maki 52 a wasu yankunan jihar Minnesota .",
+    "text_to_decode": [
+      {
+        "text": "In the state of [ North Dakota, ] the temperature was below 32 degrees Celsius, while it was below 52 degrees in other parts of Minnesota.",
+        "candidates": [
+          3,
+          4,
+          5,
+          6,
+          9,
+          10,
+          12,
+          14,
+          16,
+          19,
+          20,
+          21,
+          22,
+          23,
+          25,
+          27
+        ]
+      },
+      {
+        "text": "In the state of North Dakota, the temperature was below 32 degrees Celsius, while it was below 52 degrees in other parts of [ Minnesota. ]",
+        "candidates": [
+          3,
+          4,
+          9,
+          10,
+          14,
+          16,
+          17,
+          19,
+          22,
+          23,
+          25,
+          26,
+          27,
+          28,
+          30,
+          41,
+          43,
+          44,
+          45
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "This exhibition was released by the Judicial Branch of the Congress and was later made available to the press.",
+    "src_entities": [
+      "Judicial Branch of the Congress"
+    ],
+    "template": "Bangaren shari'a na Majalisa ne dai suka fitar da wannan takardun nuni wanda daga baya manema labarai suka samu .",
+    "text_to_decode": [
+      {
+        "text": "This exhibition was released by the [ Judicial Branch of the Congress ] and was later made available to the press.",
+        "candidates": [
+          2,
+          4,
+          7,
+          8,
+          12,
+          13,
+          14,
+          17,
+          18,
+          22,
+          25,
+          30
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It is better.",
+    "src_entities": [],
+    "template": "abun ya fi .",
+    "text_to_decode": [
+      {
+        "text": "It is better.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The Democratic National Committee has informed the Federal Bureau of Investigation (FBI) that it has successfully thwarted an attempted theft of voter records.",
+    "src_entities": [
+      "Democratic National Committee",
+      "Federal Bureau of Investigation"
+    ],
+    "template": "Kwamitin gudanarwa na Jam’iyyar Democrat ya sanar da hukumar binciken manyan laifuka na kasar ( FBI ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuri’a .",
+    "text_to_decode": [
+      {
+        "text": "The [ Democratic National Committee ] has informed the Federal Bureau of Investigation (FBI) that it has successfully thwarted an attempted theft of voter records.",
+        "candidates": [
+          2,
+          4,
+          6,
+          7,
+          8,
+          10,
+          12,
+          15,
+          17,
+          22,
+          25,
+          27
+        ]
+      },
+      {
+        "text": "The Democratic National Committee has informed the [ Federal Bureau of Investigation ] (FBI) that it has successfully thwarted an attempted theft of voter records.",
+        "candidates": [
+          15,
+          16,
+          17,
+          18,
+          21,
+          23,
+          24,
+          25,
+          27
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "\"\"\"\"On Sunday, a friend of Trump from the U.S. Senate urged him to open the cabinet at least temporarily and then try again with the Democrats.",
+    "src_entities": [
+      "Trump",
+      "U.S. Senate"
+    ],
+    "template": "\"\"\"\" Jiya Lahadi , wani aminin Trump daga cikin 'yan majalisar dattawan Amurka ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat .",
+    "text_to_decode": [
+      {
+        "text": "\"\"\"\"On Sunday, a friend of [ Trump ] from the U.S. Senate urged him to open the cabinet at least temporarily and then try again with the Democrats.",
+        "candidates": [
+          8,
+          10,
+          12,
+          44,
+          14,
+          15,
+          45,
+          20
+        ]
+      },
+      {
+        "text": "\"\"\"\"On Sunday, a friend of Trump from the [ U.S. Senate ] urged him to open the cabinet at least temporarily and then try again with the Democrats.",
+        "candidates": [
+          14,
+          15,
+          16,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "On Monday, the 24th day of closure of some federal government departments began.",
+    "src_entities": [],
+    "template": "Yau dinnan Litini , aka shiga rana ta 24 da rufe wasu ma'aikatun gwamnatin tarayya .",
+    "text_to_decode": [
+      {
+        "text": "On Monday, the 24th day of closure of some federal government departments began.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The air traffic controllers said that they had heard his name called Rich, telling him to get off the plane.",
+    "src_entities": [
+      "Rich,"
+    ],
+    "template": "Masu kula da zirga zirga jiragen sama sun ce sun ji ana kirarsa da suna Rich , ana ce masa ya sauka da jirgin .",
+    "text_to_decode": [
+      {
+        "text": "The air traffic controllers said that they had heard his name called [ Rich, ] telling him to get off the plane.",
+        "candidates": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          28,
+          30
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Indeed, research from around the world shows that patients with mental illness in hospitals are subjected to various forms of violence, including abuse and confinement, deprivation of food and water, imprisonment in unsanitary conditions, deprivation of comfort, and torture for years, sometimes lives.",
+    "src_entities": [],
+    "template": "Tace , bincike a duk fadin duniya ya nuna cewa , masu tabuwar hankali da ake kwantarwa a asibitai suna fuskantar tashin hankali ta fanni dabam dabam da suka hada da cin zarafinsu da dauresu , da hanasu abinci da ruwan sha , da kyalesu cikin yanayin rashin tsabta , da dauresu a hanasu walwala , da kyaliya na tsawon shekaru , wadansu lokuta iya rayuwarsu .",
+    "text_to_decode": [
+      {
+        "text": "Indeed, research from around the world shows that patients with mental illness in hospitals are subjected to various forms of violence, including abuse and confinement, deprivation of food and water, imprisonment in unsanitary conditions, deprivation of comfort, and torture for years, sometimes lives.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "According to Michelle Funk, director of psychiatry at the World Health Organization, people with dementia are often overlooked.",
+    "src_entities": [
+      "Michelle Funk,",
+      "World Health Organization,"
+    ],
+    "template": "Jami’ar kula da masu tabuwar kwakwalwa a hukumar lafiya ta duniya Michelle Funk tace , sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali .",
+    "text_to_decode": [
+      {
+        "text": "According to [ Michelle Funk, ] director of psychiatry at the World Health Organization, people with dementia are often overlooked.",
+        "candidates": [
+          2,
+          4,
+          5,
+          36,
+          7,
+          8,
+          10,
+          12,
+          13,
+          14,
+          17,
+          19,
+          20,
+          23,
+          24,
+          25,
+          28
+        ]
+      },
+      {
+        "text": "According to Michelle Funk, director of psychiatry at the [ World Health Organization, ] people with dementia are often overlooked.",
+        "candidates": [
+          10,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          21,
+          23,
+          24,
+          26
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "A spokesperson for the Hausa department, Ladan Ibrahim Ayawa, quoted officials as saying that the man who died from the Ebola virus was named Patrick Sawyer, a 40-year-old Liberian national, who became ill when he arrived in Nigeria on Sunday from Monrovia.",
+    "src_entities": [
+      "Ladan Ibrahim Ayawa,",
+      "Patrick Sawyer,",
+      "Nigeria",
+      "Monrovia."
+    ],
+    "template": "Wakilin sashen Hausa , Ladan Ibrahim Ayawa , ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer , dan kasar Liberiya , mai shekaru 40 da haihuwa , wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia .",
+    "text_to_decode": [
+      {
+        "text": "A spokesperson for the Hausa department, [ Ladan Ibrahim Ayawa, ] quoted officials as saying that the man who died from the Ebola virus was named Patrick Sawyer, a 40-year-old Liberian national, who became ill when he arrived in Nigeria on Sunday from Monrovia.",
+        "candidates": [
+          2,
+          34,
+          39,
+          7,
+          8,
+          44
+        ]
+      },
+      {
+        "text": "A spokesperson for the Hausa department, Ladan Ibrahim Ayawa, quoted officials as saying that the man who died from the Ebola virus was named [ Patrick Sawyer, ] a 40-year-old Liberian national, who became ill when he arrived in Nigeria on Sunday from Monrovia.",
+        "candidates": [
+          34,
+          36,
+          39,
+          40,
+          42,
+          44,
+          45,
+          48
+        ]
+      },
+      {
+        "text": "A spokesperson for the Hausa department, Ladan Ibrahim Ayawa, quoted officials as saying that the man who died from the Ebola virus was named Patrick Sawyer, a 40-year-old Liberian national, who became ill when he arrived in [ Nigeria ] on Sunday from Monrovia.",
+        "candidates": [
+          60,
+          61,
+          62
+        ]
+      },
+      {
+        "text": "A spokesperson for the Hausa department, Ladan Ibrahim Ayawa, quoted officials as saying that the man who died from the Ebola virus was named Patrick Sawyer, a 40-year-old Liberian national, who became ill when he arrived in Nigeria on Sunday from [ Monrovia. ]",
+        "candidates": [
+          68,
+          61,
+          65
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "\"\"\"\"The Chinese official said, If this US move harms China's interests, China will join with other countries concerned in responding to protect their rights and",
+    "src_entities": [
+      "this",
+      "harms",
+      "interests,"
+    ],
+    "template": "\"\"\"\" Jami’in na kasar China ya ce , “ Idan wannan matakin na Amurka ya yi illa ga muradun China , kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare ‘yancinsu da kuma muradunsu .",
+    "text_to_decode": [
+      {
+        "text": "\"\"\"\"The Chinese official said, If [ this ] US move harms China's interests, China will join with other countries concerned in responding to protect their rights and",
+        "candidates": [
+          2,
+          3,
+          9,
+          12,
+          13,
+          16,
+          17,
+          19,
+          22
+        ]
+      },
+      {
+        "text": "\"\"\"\"The Chinese official said, If this US move [ harms ] China's interests, China will join with other countries concerned in responding to protect their rights and",
+        "candidates": [
+          12,
+          13,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          24,
+          29
+        ]
+      },
+      {
+        "text": "\"\"\"\"The Chinese official said, If this US move harms China's [ interests, ] China will join with other countries concerned in responding to protect their rights and",
+        "candidates": [
+          2,
+          3,
+          58,
+          48,
+          50,
+          19,
+          55,
+          24,
+          26,
+          27,
+          28
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "At least this experiment was planned in the year two thousand and fifteen, but the results of the study were presented early because of the unexpected anchor.",
+    "src_entities": [],
+    "template": "An shirya kamalla wannan gwaji ne a shekara ta dubu biyu da goma sha biyar , to amma an gabatar da sakamakon binciken da wuri ne a saboda anga abun ba zata .",
+    "text_to_decode": [
+      {
+        "text": "At least this experiment was planned in the year two thousand and fifteen, but the results of the study were presented early because of the unexpected anchor.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The U.S. Department of Justice said Wednesday night that the plan by the committee's chairman, Congressman Jarrold Nadler, to have the committee question Barr was inappropriate, and the department said Barr was still happy to meet directly with the committee on questions about Mueller.",
+    "src_entities": [
+      "U.S. Department of Justice",
+      "Jarrold Nadler,",
+      "Barr",
+      "Barr",
+      "Mueller."
+    ],
+    "template": "Ma’aikatar shari’ar Amurka , ta fada a daren jiya Laraba cewa , shirin da shugaban kwamitin , dan majalisa Jarrold Nadler ya yi na sa ‘yan kwamitin su yi wa Barr tambayoyi bai dace ba , ma’aikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da ‘yan kwamitin akan tambayoyin da za su yi masa game da Mueller .",
+    "text_to_decode": [
+      {
+        "text": "The [ U.S. Department of Justice ] said Wednesday night that the plan by the committee's chairman, Congressman Jarrold Nadler, to have the committee question Barr was inappropriate, and the department said Barr was still happy to meet directly with the committee on questions about Mueller.",
+        "candidates": [
+          2,
+          3,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          39,
+          40,
+          42
+        ]
+      },
+      {
+        "text": "The U.S. Department of Justice said Wednesday night that the plan by the committee's chairman, Congressman [ Jarrold Nadler, ] to have the committee question Barr was inappropriate, and the department said Barr was still happy to meet directly with the committee on questions about Mueller.",
+        "candidates": [
+          36,
+          83,
+          86,
+          28,
+          31
+        ]
+      },
+      {
+        "text": "The U.S. Department of Justice said Wednesday night that the plan by the committee's chairman, Congressman Jarrold Nadler, to have the committee question [ Barr ] was inappropriate, and the department said Barr was still happy to meet directly with the committee on questions about Mueller.",
+        "candidates": [
+          70,
+          39,
+          40,
+          71,
+          42,
+          43,
+          74,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          76,
+          54
+        ]
+      },
+      {
+        "text": "The U.S. Department of Justice said Wednesday night that the plan by the committee's chairman, Congressman Jarrold Nadler, to have the committee question Barr was inappropriate, and the department said [ Barr ] was still happy to meet directly with the committee on questions about Mueller.",
+        "candidates": [
+          68,
+          70,
+          59,
+          60,
+          62,
+          64,
+          65
+        ]
+      },
+      {
+        "text": "The U.S. Department of Justice said Wednesday night that the plan by the committee's chairman, Congressman Jarrold Nadler, to have the committee question Barr was inappropriate, and the department said Barr was still happy to meet directly with the committee on questions about [ Mueller. ]",
+        "candidates": [
+          38,
+          92,
+          40,
+          42,
+          43,
+          45,
+          82,
+          83,
+          86,
+          87,
+          89,
+          91,
+          60,
+          62
+        ]
+      }
+    ],
+    "flag": 1
+  }
+]

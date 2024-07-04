@@ -1,0 +1,1059 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "On 5 August 2019, it was announced that [ Radisson Blu ] Hotel and Convention Centre had won the award from Safehotels Alliance AB.",
+      "On 5 August 2019, it was announced that Radisson Blu Hotel and [ Convention Centre ] had won the award from Safehotels Alliance AB.",
+      "On 5 August 2019, it was announced that Radisson Blu Hotel and Convention Centre had won the award from [ Safehotels Alliance AB. ]"
+    ],
+    "src_entities": [
+      "Radisson Blu",
+      "Convention Centre",
+      "Safehotels Alliance AB."
+    ],
+    "template": "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and Convention Centre yegukanye iki gihembo gitangwa n’Ikigo Mpuzamahanga gihemba hoteli zifite ituze n’umutekano cyitwa Safehotels Alliance AB .",
+    "tgt_lang": [
+      [
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko [ Radisson Blu ] Hotel and Convention Centre yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB.",
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko [ ] Radisson Blu Hotel and Convention Centre yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB.",
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko [ Radisson Blu Hotel and Convention Centre ] yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB.",
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and Convention Centre yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB [ ].",
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and Convention Centre yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli [ zifite ituze numutekano ] cyitwa Safehotels Alliance AB."
+      ],
+      [
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and [ Convention Centre ] yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB.",
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel [ and Convention Centre ] yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB.",
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and [ ] Convention Centre yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB.",
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and [ Convention Centre yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa ] Safehotels Alliance AB.",
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and [ Convention Centre yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB ]."
+      ],
+      [
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and Convention Centre yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa [ Safehotels Alliance AB ].",
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and Convention Centre yegukanye iki gihembo gitangwa nIkigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa [ Safehotels Alliance AB. ]",
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and Convention Centre yegukanye iki gihembo gitangwa n [Ikigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB ].",
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and Convention Centre yegukanye iki gihembo gitangwa n [Ikigo Mpuzamahanga gihemba hoteli zifite ituze numutekano cyitwa Safehotels Alliance AB. ]",
+        "Ku wa 5 Kanama 2019 ni bwo byatangajwe ko Radisson Blu Hotel and Convention Centre yegukanye iki gihembo gitangwa n [Ikigo Mpuzamahanga gihemba hoteli zifite ituze numutekano ] cyitwa Safehotels Alliance AB."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Radisson Blu",
+        "",
+        "Radisson Blu Hotel and Convention Centre",
+        "",
+        "zifite ituze n<unk>umutekano"
+      ],
+      [
+        "Convention Centre",
+        "and Convention Centre",
+        "",
+        "Convention Centre yegukanye iki gihembo gitangwa n<unk>Ikigo Mpuzamahanga gihemba hoteli zifite ituze n<unk>umutekano cyitwa",
+        "Convention Centre yegukanye iki gihembo gitangwa n<unk>Ikigo Mpuzamahanga gihemba hoteli zifite ituze n<unk>umutekano cyitwa Safehotels Alliance AB"
+      ],
+      [
+        "Safehotels Alliance AB",
+        "Safehotels Alliance AB.",
+        "Ikigo Mpuzamahanga gihemba hoteli zifite ituze n<unk>umutekano cyitwa Safehotels Alliance AB",
+        "Ikigo Mpuzamahanga gihemba hoteli zifite ituze n<unk>umutekano cyitwa Safehotels Alliance AB.",
+        "Ikigo Mpuzamahanga gihemba hoteli zifite ituze n<unk>umutekano"
+      ]
+    ],
+    "score": [
+      [
+        -112.62882232666016,
+        -122.933837890625,
+        -123.54389190673828,
+        -132.37513732910156,
+        -132.88021850585938
+      ],
+      [
+        -115.22016143798828,
+        -125.61307525634766,
+        -126.0111083984375,
+        -138.82852172851562,
+        -139.10366821289062
+      ],
+      [
+        -112.07073211669922,
+        -114.68509674072266,
+        -115.88835906982422,
+        -116.55658721923828,
+        -117.9935531616211
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 1,
+    "src_lang": [],
+    "template": "Urwego rw’ama - hotel no kwakira abantu , ni zimwe mu zashegeshwe bikomeye n’ingamba zo gufunga ibikorwa mu kwirinda icyorezo cya COVID - 19 , ndetse bisaba ingufu nyinshi mu kuzahura ubukungu bwarwo .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 2,
+    "src_lang": [],
+    "template": "2 Frw zahererekanyijwe mu cyumweru cya mbere cya Mutarama 2020 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "[ Rwanda ] aims to earn $800 million from tourism by 2024, up from $438 million in 2017."
+    ],
+    "src_entities": [
+      "Rwanda"
+    ],
+    "template": "U Rwanda rufite intego yo kwinjiza miliyoni $ 800 avuye mu bukerarugendo mu 2024 , mu gihe mu wa 2017 bwinjije miliyoni $ 438 .",
+    "tgt_lang": [
+      [
+        "[ U Rwanda ] rufite intego yo kwinjiza miliyoni $ 800 avuye mu bukerarugendo mu 2024, mu gihe mu wa 2017 bwinjije miliyoni $ 438.",
+        "U [ Rwanda ] rufite intego yo kwinjiza miliyoni $ 800 avuye mu bukerarugendo mu 2024, mu gihe mu wa 2017 bwinjije miliyoni $ 438.",
+        "[ U Rwanda rufite intego yo kwinjiza miliyoni $ 800 avuye mu bukerarugendo mu 2024, mu gihe mu wa 2017 bwinjije miliyoni $ 438. ]",
+        "[ U Rwanda rufite intego yo kwinjiza miliyoni $ 800 avuye mu bukerarugendo mu 2024 ], mu gihe mu wa 2017 bwinjije miliyoni $ 438.",
+        "[ U Rwanda rufite intego yo kwinjiza miliyoni $ 800 avuye mu bukerarugendo mu 2024, mu gihe mu wa 2017 bwinjije miliyoni $ 438 ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "U Rwanda",
+        "Rwanda",
+        "U Rwanda rufite intego yo kwinjiza miliyoni $ 800 avuye mu bukerarugendo mu 2024, mu gihe mu wa 2017 bwinjije miliyoni $ 438.",
+        "U Rwanda rufite intego yo kwinjiza miliyoni $ 800 avuye mu bukerarugendo mu 2024",
+        "U Rwanda rufite intego yo kwinjiza miliyoni $ 800 avuye mu bukerarugendo mu 2024, mu gihe mu wa 2017 bwinjije miliyoni $ 438"
+      ]
+    ],
+    "score": [
+      [
+        -44.301963806152344,
+        -51.67438507080078,
+        -61.03361129760742,
+        -61.39064025878906,
+        -61.5847282409668
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 4,
+    "src_lang": [],
+    "template": "Ntizigera mu bushorishori ariko nanone biragoye ko wazisanga hasi ku butaka , zigerageza kujya hagati na hagati .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "[ Ramada ] is the largest hotel management company in the United Arab Emirates, but is owned by Wyndham Hotels and Resorts.",
+      "Ramada is the largest hotel management company in the [ United Arab Emirates, ] but is owned by Wyndham Hotels and Resorts.",
+      "Ramada is the largest hotel management company in the United Arab Emirates, but is owned by [ Wyndham Hotels and Resorts. ]"
+    ],
+    "src_entities": [
+      "Ramada",
+      "United Arab Emirates,",
+      "Wyndham Hotels and Resorts."
+    ],
+    "template": "Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe z’Abarabu mu bijyanye n’imicungire y’amahoteli , ariko igenzurwa n’indi yitwa Wyndham Hotels and Resorts .",
+    "tgt_lang": [
+      [
+        "[ Ramada ] ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa nindi yitwa Wyndham Hotels and Resorts.",
+        "[ ] Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa nindi yitwa Wyndham Hotels and Resorts.",
+        "[ Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa nindi yitwa Wyndham Hotels and Resorts. ]",
+        "[ Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli ], ariko igenzurwa nindi yitwa Wyndham Hotels and Resorts.",
+        "[ Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa nindi yitwa Wyndham Hotels and Resorts ]."
+      ],
+      [
+        "Ramada ni yo sosiyete ikomeye muri [ Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ] ariko igenzurwa nindi yitwa Wyndham Hotels and Resorts.",
+        "Ramada ni yo sosiyete ikomeye muri [ Leta Zunze Ubumwe zAbarabu ] mu bijyanye nimicungire yamahoteli, ariko igenzurwa nindi yitwa Wyndham Hotels and Resorts.",
+        "Ramada ni yo sosiyete ikomeye muri [ Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa nindi yitwa ] Wyndham Hotels and Resorts.",
+        "Ramada ni yo sosiyete ikomeye muri [ Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa nindi yitwa Wyndham Hotels and Resorts ].",
+        "Ramada ni yo sosiyete ikomeye muri [ Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa nindi yitwa Wyndham Hotels and Resorts. ]"
+      ],
+      [
+        "Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa nindi yitwa [ Wyndham Hotels and Resorts ].",
+        "Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa nindi yitwa [ Wyndham Hotels and Resorts. ]",
+        "Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa [ nindi yitwa Wyndham Hotels and Resorts ].",
+        "Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa n [indi yitwa Wyndham Hotels and Resorts ].",
+        "Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe zAbarabu mu bijyanye nimicungire yamahoteli, ariko igenzurwa n [indi yitwa ] Wyndham Hotels and Resorts."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ramada",
+        "",
+        "Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe z<unk>Abarabu mu bijyanye n<unk>imicungire y<unk>amahoteli, ariko igenzurwa n<unk>indi yitwa Wyndham Hotels and Resorts.",
+        "Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe z<unk>Abarabu mu bijyanye n<unk>imicungire y<unk>amahoteli",
+        "Ramada ni yo sosiyete ikomeye muri Leta Zunze Ubumwe z<unk>Abarabu mu bijyanye n<unk>imicungire y<unk>amahoteli, ariko igenzurwa n<unk>indi yitwa Wyndham Hotels and Resorts"
+      ],
+      [
+        "Leta Zunze Ubumwe z<unk>Abarabu mu bijyanye n<unk>imicungire y<unk>amahoteli,",
+        "Leta Zunze Ubumwe z<unk>Abarabu",
+        "Leta Zunze Ubumwe z<unk>Abarabu mu bijyanye n<unk>imicungire y<unk>amahoteli, ariko igenzurwa n<unk>indi yitwa",
+        "Leta Zunze Ubumwe z<unk>Abarabu mu bijyanye n<unk>imicungire y<unk>amahoteli, ariko igenzurwa n<unk>indi yitwa Wyndham Hotels and Resorts",
+        "Leta Zunze Ubumwe z<unk>Abarabu mu bijyanye n<unk>imicungire y<unk>amahoteli, ariko igenzurwa n<unk>indi yitwa Wyndham Hotels and Resorts."
+      ],
+      [
+        "Wyndham Hotels and Resorts",
+        "Wyndham Hotels and Resorts.",
+        "n<unk>indi yitwa Wyndham Hotels and Resorts",
+        "indi yitwa Wyndham Hotels and Resorts",
+        "indi yitwa"
+      ]
+    ],
+    "score": [
+      [
+        -75.75721740722656,
+        -85.96699523925781,
+        -88.91114807128906,
+        -88.976318359375,
+        -90.03433990478516
+      ],
+      [
+        -81.6213607788086,
+        -81.79100036621094,
+        -89.83654022216797,
+        -91.6019515991211,
+        -93.2088851928711
+      ],
+      [
+        -77.07440185546875,
+        -78.54202270507812,
+        -81.37370300292969,
+        -81.44669342041016,
+        -82.1715087890625
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [
+      "[ Singita Kwitonda Lodge ] was awarded $25 million."
+    ],
+    "src_entities": [
+      "Singita Kwitonda Lodge"
+    ],
+    "template": "Singita Kwitonda Lodge yashoweho miliyoni $ 25 .",
+    "tgt_lang": [
+      [
+        "[ Singita Kwitonda Lodge ] yashoweho miliyoni $ 25.",
+        "[ ] Singita Kwitonda Lodge yashoweho miliyoni $ 25.",
+        "[ Singita Kwitonda Lodge yashoweho ] miliyoni $ 25.",
+        "[ Singita Kwitonda Lodge yashoweho miliyoni $ 25. ]",
+        "[ Singita Kwitonda Lodge yashoweho miliyoni $ 25 ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Singita Kwitonda Lodge",
+        "",
+        "Singita Kwitonda Lodge yashoweho",
+        "Singita Kwitonda Lodge yashoweho miliyoni $ 25.",
+        "Singita Kwitonda Lodge yashoweho miliyoni $ 25"
+      ]
+    ],
+    "score": [
+      [
+        -30.384380340576172,
+        -36.180240631103516,
+        -38.70050048828125,
+        -39.84263610839844,
+        -39.92401885986328
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "The Government of [ Rwanda ] allocates 10% of tourism revenues to the residents of the surrounding parks."
+    ],
+    "src_entities": [
+      "Rwanda"
+    ],
+    "template": "Guverinoma y’u Rwanda igenera abaturiye hafi ya za pariki 10 % by’inyungu iva mu bukerarugendo .",
+    "tgt_lang": [
+      [
+        "Guverinoma y [u Rwanda ] igenera abaturiye hafi ya za pariki 10 % byinyungu iva mu bukerarugendo.",
+        "Guverinoma yu Rwanda [ ] igenera abaturiye hafi ya za pariki 10 % byinyungu iva mu bukerarugendo.",
+        "Guverinoma [ yu Rwanda ] igenera abaturiye hafi ya za pariki 10 % byinyungu iva mu bukerarugendo.",
+        "Guverinoma yu [ Rwanda ] igenera abaturiye hafi ya za pariki 10 % byinyungu iva mu bukerarugendo.",
+        "Guverinoma y [u ] Rwanda igenera abaturiye hafi ya za pariki 10 % byinyungu iva mu bukerarugendo."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "u Rwanda",
+        "",
+        "y<unk>u Rwanda",
+        "Rwanda",
+        "u"
+      ]
+    ],
+    "score": [
+      [
+        -75.1429214477539,
+        -76.62055969238281,
+        -77.77079772949219,
+        -77.8282241821289,
+        -79.37223815917969
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 8,
+    "src_lang": [],
+    "template": "3 , akaba asanga ari umusaruro ufatika .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 9,
+    "src_lang": [],
+    "template": "Ikindi ni uko abagenzi bazajya bagera ku Kibuga cy’Indege biteguye guhita bagenda ku buryo byagabanya ubucucike bigafasha ko mu gihe hari uwanduye atahura n’abandi ngo abe yabanduza .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "[ Manzi Nelson ] sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at Kigali SDA Bilingual church.",
+      "Manzi Nelson sings in the [ Ambassadors of Christ ] choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at Kigali SDA Bilingual church.",
+      "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife [ Irakiza Eunice ] is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at Kigali SDA Bilingual church.",
+      "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the [ Epee du Salut ] choir born in Gitwe but currently registered at Kigali SDA Bilingual church.",
+      "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in [ Gitwe ] but currently registered at Kigali SDA Bilingual church.",
+      "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at [ Kigali ] SDA Bilingual church.",
+      "Manzi Nelson sings in the Ambassadors of Christ choir and is one of its leaders while his wife Irakiza Eunice is one of the leading singers in the Epee du Salut choir born in Gitwe but currently registered at Kigali [ SDA Bilingual ] church."
+    ],
+    "src_entities": [
+      "Manzi Nelson",
+      "Ambassadors of Christ",
+      "Irakiza Eunice",
+      "Epee du Salut",
+      "Gitwe",
+      "Kigali",
+      "SDA Bilingual"
+    ],
+    "template": "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi b’imena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church .",
+    "tgt_lang": [
+      [
+        "[ Manzi Nelson ] aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Manzi Nelson [ ] aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "[ Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi b ]imena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "[ Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church. ]",
+        "[ Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church ]."
+      ],
+      [
+        "Manzi Nelson aririmba muri [ Ambassadors of Christ ] choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Manzi Nelson aririmba muri [ Ambassadors of Christ choir ] ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Manzi Nelson aririmba muri [ ] Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Manzi Nelson aririmba muri [ Ambassad ]ors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Manzi Nelson aririmba muri [ Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi b ]imena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church."
+      ],
+      [
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we [ Irakiza Eunice ] ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice [ ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church ].",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice [ ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church. ]",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we [ Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church. ]",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we [ Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church ]."
+      ],
+      [
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri [ Epee du Salut ] choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri [ Epee du Salut choir ] yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri [ ] Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut [ choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church ].",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut [ choir yavukiye i Gitwe ] gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church."
+      ],
+      [
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i [ Gitwe ] gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye [ i Gitwe ] gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye [ i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church ].",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe [ ] gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i [ Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church ]."
+      ],
+      [
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri [ Kigali ] SDA Bilingual church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa [ kuri Kigali ] SDA Bilingual church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri [ ] Kigali SDA Bilingual church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali [ ] SDA Bilingual church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali [ SDA Bilingual church ]."
+      ],
+      [
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali [ SDA Bilingual ] church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri [ Kigali SDA Bilingual ] church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali [ SDA Bilingual church ].",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa [ kuri Kigali SDA Bilingual ] church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi bimena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali [ ] SDA Bilingual church."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Manzi Nelson",
+        "",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi b<unk>",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi b<unk>imena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Manzi Nelson aririmba muri Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi b<unk>imena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church"
+      ],
+      [
+        "Ambassadors of Christ",
+        "Ambassadors of Christ choir",
+        "",
+        "Ambassad",
+        "Ambassadors of Christ choir ndetse ari no mu bayobozi bayo naho umugore we Irakiza Eunice ni umwe mu baririmbyi b<unk>"
+      ],
+      [
+        "Irakiza Eunice",
+        "ni umwe mu baririmbyi b<unk>imena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church",
+        "ni umwe mu baririmbyi b<unk>imena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Irakiza Eunice ni umwe mu baririmbyi b<unk>imena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church.",
+        "Irakiza Eunice ni umwe mu baririmbyi b<unk>imena muri Epee du Salut choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church"
+      ],
+      [
+        "Epee du Salut",
+        "Epee du Salut choir",
+        "",
+        "choir yavukiye i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church",
+        "choir yavukiye i Gitwe"
+      ],
+      [
+        "Gitwe",
+        "i Gitwe",
+        "i Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church",
+        "",
+        "Gitwe gusa kuri ubu ibarizwa kuri Kigali SDA Bilingual church"
+      ],
+      [
+        "Kigali",
+        "kuri Kigali",
+        "",
+        "",
+        "SDA Bilingual church"
+      ],
+      [
+        "SDA Bilingual",
+        "Kigali SDA Bilingual",
+        "SDA Bilingual church",
+        "kuri Kigali SDA Bilingual",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -77.25164031982422,
+        -89.24008178710938,
+        -98.3679428100586,
+        -101.48567962646484,
+        -102.91747283935547
+      ],
+      [
+        -80.53163146972656,
+        -93.78871154785156,
+        -95.29932403564453,
+        -101.66709899902344,
+        -103.3184585571289
+      ],
+      [
+        -77.48021697998047,
+        -98.48016357421875,
+        -99.7334213256836,
+        -100.70457458496094,
+        -100.8875732421875
+      ],
+      [
+        -78.98951721191406,
+        -90.65813446044922,
+        -92.14563751220703,
+        -103.04734802246094,
+        -106.12840270996094
+      ],
+      [
+        -75.76856994628906,
+        -77.02679443359375,
+        -91.69503021240234,
+        -91.86595916748047,
+        -92.945556640625
+      ],
+      [
+        -75.73471069335938,
+        -85.75294494628906,
+        -88.31365966796875,
+        -91.9065170288086,
+        -91.94876098632812
+      ],
+      [
+        -77.33612060546875,
+        -88.2798080444336,
+        -88.71711730957031,
+        -89.57252502441406,
+        -90.39895629882812
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "[ Naivasha Oakes, ] who is in charge of Rwanda's relationship with Arsenal, said that the figures for the value of profits Rwanda has already derived from the partnership, using various methods calculated by the relevant institutions.",
+      "Naivasha Oakes, who is in charge of [ Rwanda's ] relationship with Arsenal, said that the figures for the value of profits Rwanda has already derived from the partnership, using various methods calculated by the relevant institutions.",
+      "Naivasha Oakes, who is in charge of Rwanda's relationship with [ Arsenal, ] said that the figures for the value of profits Rwanda has already derived from the partnership, using various methods calculated by the relevant institutions.",
+      "Naivasha Oakes, who is in charge of Rwanda's relationship with Arsenal, said that the figures for the value of profits [ Rwanda ] has already derived from the partnership, using various methods calculated by the relevant institutions."
+    ],
+    "src_entities": [
+      "Naivasha Oakes,",
+      "Rwanda's",
+      "Arsenal,",
+      "Rwanda"
+    ],
+    "template": "Naivasha Oakes ushinzwe ubufatanye bw’u Rwanda n’ikipe ya Arsenal , yavuze ko iyo mibare y’agaciro k’inyungu u Rwanda rumaze kuvana muri ubwo bufatanye , hifashishijwe uburyo butandukanye bwabazwe n’ibigo bizobereye .",
+    "tgt_lang": [
+      [
+        "[ Naivasha Oakes ] ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes [ ] ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal [ ], yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye [, ] hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, [ ] hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye."
+      ],
+      [
+        "Naivasha Oakes ushinzwe ubufatanye [ bwu Rwanda ] nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye bw [u Rwanda ] nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye [ bwu Rwanda nikipe ya Arsenal ], yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye [ bwu Rwanda nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye. ]",
+        "Naivasha Oakes ushinzwe ubufatanye [ bwu Rwanda nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye ]."
+      ],
+      [
+        "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda n [ikipe ya Arsenal, ] yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda nikipe ya [ Arsenal, ] yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda nikipe ya [ Arsenal ], yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda n [ikipe ya Arsenal ], yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda n [ikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye. ]"
+      ],
+      [
+        "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu [ u Rwanda ] rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu [ ] u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu [ u Rwanda rumaze kuvana muri ubwo bufatanye ], hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye [ ], hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye.",
+        "Naivasha Oakes ushinzwe ubufatanye bwu Rwanda nikipe ya Arsenal, yavuze ko iyo mibare yagaciro kinyungu u Rwanda rumaze kuvana muri ubwo bufatanye [, ] hifashishijwe uburyo butandukanye bwabazwe nibigo bizobereye."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Naivasha Oakes",
+        "",
+        "",
+        ",",
+        ""
+      ],
+      [
+        "bw<unk>u Rwanda",
+        "u Rwanda",
+        "bw<unk>u Rwanda n<unk>ikipe ya Arsenal",
+        "bw<unk>u Rwanda n<unk>ikipe ya Arsenal, yavuze ko iyo mibare y<unk>agaciro k<unk>inyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe n<unk>ibigo bizobereye.",
+        "bw<unk>u Rwanda n<unk>ikipe ya Arsenal, yavuze ko iyo mibare y<unk>agaciro k<unk>inyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe n<unk>ibigo bizobereye"
+      ],
+      [
+        "ikipe ya Arsenal,",
+        "Arsenal,",
+        "Arsenal",
+        "ikipe ya Arsenal",
+        "ikipe ya Arsenal, yavuze ko iyo mibare y<unk>agaciro k<unk>inyungu u Rwanda rumaze kuvana muri ubwo bufatanye, hifashishijwe uburyo butandukanye bwabazwe n<unk>ibigo bizobereye."
+      ],
+      [
+        "u Rwanda",
+        "",
+        "u Rwanda rumaze kuvana muri ubwo bufatanye",
+        "",
+        ","
+      ]
+    ],
+    "score": [
+      [
+        -88.7601318359375,
+        -94.04307556152344,
+        -102.51123046875,
+        -103.66155242919922,
+        -104.36434936523438
+      ],
+      [
+        -94.6996078491211,
+        -95.22589111328125,
+        -99.34002685546875,
+        -107.12895965576172,
+        -107.32630920410156
+      ],
+      [
+        -94.08541870117188,
+        -94.96083068847656,
+        -96.93379211425781,
+        -97.70825958251953,
+        -108.07836151123047
+      ],
+      [
+        -90.05335998535156,
+        -98.68733215332031,
+        -103.09689331054688,
+        -107.7434310913086,
+        -108.29762268066406
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [
+      "Dr [ Kandt ] built this herb garden in Shangi, just north of Lake Kivu on 24 March 1899, after discovering the source of the Nile River, in the Nyungwe Forest.",
+      "Dr Kandt built this herb garden in [ Shangi, ] just north of Lake Kivu on 24 March 1899, after discovering the source of the Nile River, in the Nyungwe Forest.",
+      "Dr Kandt built this herb garden in Shangi, just north of [ Lake Kivu ] on 24 March 1899, after discovering the source of the Nile River, in the Nyungwe Forest.",
+      "Dr Kandt built this herb garden in Shangi, just north of Lake Kivu on 24 March 1899, after discovering the source of the [ Nile River, ] in the Nyungwe Forest.",
+      "Dr Kandt built this herb garden in Shangi, just north of Lake Kivu on 24 March 1899, after discovering the source of the Nile River, in the [ Nyungwe Forest. ]"
+    ],
+    "src_entities": [
+      "Kandt",
+      "Shangi,",
+      "Lake Kivu",
+      "Nile River,",
+      "Nyungwe Forest."
+    ],
+    "template": "Dr Kandt yubatse iyi nzu y’ibyatsi iherereye i Shangi , ruguru gato y’ikiyaga cya Kivu ku wa 24 Werurwe 1899 , nyuma yo kuvumbura isoko y’uruzi rwa Nile , mu ishyamba rya Nyungwe .",
+    "tgt_lang": [
+      [
+        "[ Dr Kandt ] yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+        "Dr [ Kandt ] yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+        "[ Dr ] Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+        "[ ] Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+        "Dr [ ] Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe."
+      ],
+      [
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i [ Shangi, ] ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye [ i Shangi, ] ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi [, ] ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i [ Shangi ], ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye [ i Shangi ], ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe."
+      ],
+      [
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato y [ikiyaga cya Kivu ] ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya [ Kivu ] ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato [ yikiyaga cya Kivu ] ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato y [ikiyaga ] cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe.",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru [ gato yikiyaga cya Kivu ] ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe."
+      ],
+      [
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa [ Nile, ] mu ishyamba rya Nyungwe.",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko y [uruzi rwa Nile, ] mu ishyamba rya Nyungwe.",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko [ yuruzi rwa Nile, ] mu ishyamba rya Nyungwe.",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa [ Nile ], mu ishyamba rya Nyungwe.",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa [ Nile, mu ishyamba rya Nyungwe ]."
+      ],
+      [
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu [ ishyamba rya Nyungwe ].",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya [ Nyungwe ].",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu [ ishyamba rya Nyungwe. ]",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya [ Nyungwe. ]",
+        "Dr Kandt yubatse iyi nzu yibyatsi iherereye i Shangi, ruguru gato yikiyaga cya Kivu ku wa 24 Werurwe 1899, nyuma yo kuvumbura isoko yuruzi rwa Nile, mu ishyamba rya Nyungwe [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Dr Kandt",
+        "Kandt",
+        "Dr",
+        "",
+        ""
+      ],
+      [
+        "Shangi,",
+        "i Shangi,",
+        ",",
+        "Shangi",
+        "i Shangi"
+      ],
+      [
+        "ikiyaga cya Kivu",
+        "Kivu",
+        "y<unk>ikiyaga cya Kivu",
+        "ikiyaga",
+        "gato y<unk>ikiyaga cya Kivu"
+      ],
+      [
+        "Nile,",
+        "uruzi rwa Nile,",
+        "y<unk>uruzi rwa Nile,",
+        "Nile",
+        "Nile, mu ishyamba rya Nyungwe"
+      ],
+      [
+        "ishyamba rya Nyungwe",
+        "Nyungwe",
+        "ishyamba rya Nyungwe.",
+        "Nyungwe.",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -83.28736114501953,
+        -83.95537567138672,
+        -86.72928619384766,
+        -89.08963775634766,
+        -90.8686752319336
+      ],
+      [
+        -75.6152114868164,
+        -76.47543334960938,
+        -80.47101593017578,
+        -80.73442077636719,
+        -80.98831176757812
+      ],
+      [
+        -77.26962280273438,
+        -81.08876037597656,
+        -81.32061004638672,
+        -83.43903350830078,
+        -84.51905822753906
+      ],
+      [
+        -75.35601806640625,
+        -75.5299072265625,
+        -77.16413879394531,
+        -82.65248107910156,
+        -85.98873901367188
+      ],
+      [
+        -73.70819091796875,
+        -73.93956756591797,
+        -76.47598266601562,
+        -78.02220153808594,
+        -79.05475616455078
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 13,
+    "src_lang": [],
+    "template": "Kubera kumarana igihe kinini nazo , bashobora kumenya icyerekezo zizaganamo umunsi ukurikiye .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "[ Fig Tree Bay ]"
+    ],
+    "src_entities": [
+      "Fig Tree Bay"
+    ],
+    "template": "Fig Tree Bay",
+    "tgt_lang": [
+      [
+        "[ Fig Tree Bay ]",
+        "[ Fig Tree ] Bay",
+        "[ ] Fig Tree Bay",
+        "[ Fig ] Tree Bay",
+        "Fig Tree Bay [ ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Fig Tree Bay",
+        "Fig Tree",
+        "",
+        "Fig",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -13.055351257324219,
+        -23.900779724121094,
+        -26.02667236328125,
+        -28.777599334716797,
+        -32.22500228881836
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 15,
+    "src_lang": [],
+    "template": "Yahakiriye abamisiyoneri bahasomera misa ya mbere",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "The National Museum says that after conducting a survey to identify the most beautiful parts of [ Rwanda ] visited by tourists, it has identified more than 500 of them, including 10 related to Dr Richard Kandt's visit.",
+      "The National Museum says that after conducting a survey to identify the most beautiful parts of Rwanda visited by tourists, it has identified more than 500 of them, including 10 related to Dr [ Richard Kandt's ] visit."
+    ],
+    "src_entities": [
+      "Rwanda",
+      "Richard Kandt's"
+    ],
+    "template": "Ikigo cy’igihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga by’u Rwanda abakerarugendo basura , bwagaragaje ibisaga 500 birimo 10 bifitanye isano n’urugendo rwa Dr Richard Kandt .",
+    "tgt_lang": [
+      [
+        "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga by [u Rwanda ] abakerarugendo basura, bwagaragaje ibisaga 500 birimo 10 bifitanye isano nurugendo rwa Dr Richard Kandt.",
+        "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga byu [ Rwanda ] abakerarugendo basura, bwagaragaje ibisaga 500 birimo 10 bifitanye isano nurugendo rwa Dr Richard Kandt.",
+        "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga byu Rwanda abakerarugendo basura, bwagaragaje ibisaga 500 birimo 10 bifitanye isano nurugendo rwa Dr Richard Kandt [ ].",
+        "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga byu Rwanda abakerarugendo basura, bwagaragaje ibisaga 500 birimo 10 bifitanye isano nurugendo rwa Dr [ Richard Kandt ].",
+        "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga byu Rwanda abakerarugendo basura, bwagaragaje ibisaga 500 birimo 10 bifitanye isano nurugendo rwa Dr [ Richard ] Kandt."
+      ],
+      [
+        "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga byu Rwanda abakerarugendo basura, bwagaragaje ibisaga 500 birimo 10 bifitanye isano nurugendo rwa Dr [ Richard Kandt ].",
+        "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga byu Rwanda abakerarugendo basura, bwagaragaje ibisaga 500 birimo 10 bifitanye isano nurugendo rwa [ Dr Richard Kandt ].",
+        "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga byu Rwanda abakerarugendo basura, bwagaragaje ibisaga 500 birimo 10 bifitanye isano nurugendo [ rwa Dr Richard Kandt ].",
+        "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga byu Rwanda abakerarugendo basura, bwagaragaje ibisaga 500 birimo 10 bifitanye isano n [urugendo rwa Dr Richard Kandt ].",
+        "Ikigo cyigihugu ndangamurage kigaragaza ko kimaze gukora ubushakashatsi bugamije kugaragaza ibice nyaburanga byu Rwanda abakerarugendo basura, bwagaragaje ibisaga 500 birimo 10 bifitanye isano nurugendo rwa Dr [ Richard Kandt. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "u Rwanda",
+        "Rwanda",
+        "",
+        "Richard Kandt",
+        "Richard"
+      ],
+      [
+        "Richard Kandt",
+        "Dr Richard Kandt",
+        "rwa Dr Richard Kandt",
+        "urugendo rwa Dr Richard Kandt",
+        "Richard Kandt."
+      ]
+    ],
+    "score": [
+      [
+        -95.58235931396484,
+        -98.20716094970703,
+        -107.01377868652344,
+        -107.79288482666016,
+        -109.80575561523438
+      ],
+      [
+        -100.44354248046875,
+        -102.8564453125,
+        -104.38842010498047,
+        -108.49266052246094,
+        -108.71208190917969
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "In [ South Africa's ] Kruger National Park, lions have been seen roaming the park's paths, in areas normally off limits.",
+      "In South Africa's [ Kruger National Park, ] lions have been seen roaming the park's paths, in areas normally off limits."
+    ],
+    "src_entities": [
+      "South Africa's",
+      "Kruger National Park,"
+    ],
+    "template": "Muri Pariki ya Kruger muri Afurika y’Epfo , intare ziri kugaragara zigandagaje mu mihanda yo muri pariki , ahantu zitapfaga kugera mu bihe bisanzwe .",
+    "tgt_lang": [
+      [
+        "Muri Pariki ya Kruger muri Afurika y [Epfo ], intare ziri kugaragara zigandagaje mu mihanda yo muri pariki, ahantu zitapfaga kugera mu bihe bisanzwe.",
+        "Muri Pariki ya Kruger muri [ Afurika yEpfo ], intare ziri kugaragara zigandagaje mu mihanda yo muri pariki, ahantu zitapfaga kugera mu bihe bisanzwe.",
+        "Muri Pariki ya [ ] Kruger muri Afurika yEpfo, intare ziri kugaragara zigandagaje mu mihanda yo muri pariki, ahantu zitapfaga kugera mu bihe bisanzwe.",
+        "Muri Pariki ya Kruger [ muri Afurika yEpfo ], intare ziri kugaragara zigandagaje mu mihanda yo muri pariki, ahantu zitapfaga kugera mu bihe bisanzwe.",
+        "Muri Pariki ya Kruger muri Afurika y [ ]Epfo, intare ziri kugaragara zigandagaje mu mihanda yo muri pariki, ahantu zitapfaga kugera mu bihe bisanzwe."
+      ],
+      [
+        "[ Muri Pariki ya Kruger muri Afurika yEpfo, ] intare ziri kugaragara zigandagaje mu mihanda yo muri pariki, ahantu zitapfaga kugera mu bihe bisanzwe.",
+        "Muri Pariki ya Kruger muri Afurika yEpfo [, ] intare ziri kugaragara zigandagaje mu mihanda yo muri pariki, ahantu zitapfaga kugera mu bihe bisanzwe.",
+        "[ Muri Pariki ya Kruger muri Afurika yEpfo ], intare ziri kugaragara zigandagaje mu mihanda yo muri pariki, ahantu zitapfaga kugera mu bihe bisanzwe.",
+        "Muri [ Pariki ya Kruger muri Afurika yEpfo, ] intare ziri kugaragara zigandagaje mu mihanda yo muri pariki, ahantu zitapfaga kugera mu bihe bisanzwe.",
+        "Muri [ Pariki ya Kruger muri Afurika yEpfo ], intare ziri kugaragara zigandagaje mu mihanda yo muri pariki, ahantu zitapfaga kugera mu bihe bisanzwe."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Epfo",
+        "Afurika y<unk>Epfo",
+        "",
+        "muri Afurika y<unk>Epfo",
+        ""
+      ],
+      [
+        "Muri Pariki ya Kruger muri Afurika y<unk>Epfo,",
+        ",",
+        "Muri Pariki ya Kruger muri Afurika y<unk>Epfo",
+        "Pariki ya Kruger muri Afurika y<unk>Epfo,",
+        "Pariki ya Kruger muri Afurika y<unk>Epfo"
+      ]
+    ],
+    "score": [
+      [
+        -120.78423309326172,
+        -121.25959777832031,
+        -121.86946868896484,
+        -123.62043762207031,
+        -123.626953125
+      ],
+      [
+        -121.38624572753906,
+        -122.49932098388672,
+        -123.32357788085938,
+        -123.8385238647461,
+        -124.91304779052734
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "As of December 2018, it had 811 hotels with 114 rooms, 614 in 63 countries operating under the name [ Ramada. ]"
+    ],
+    "src_entities": [
+      "Ramada."
+    ],
+    "template": "Kugeza mu Ukuboza 2018 , yari ifite amahoteli 811 afite ibyumba 114 , 614 mu bihugu 63 zikora mu izina rya Ramada .",
+    "tgt_lang": [
+      [
+        "Kugeza mu Ukuboza 2018, yari ifite amahoteli 811 afite ibyumba 114, 614 mu bihugu 63 zikora mu izina rya [ Ramada. ]",
+        "Kugeza mu Ukuboza 2018, yari ifite amahoteli 811 afite ibyumba 114, 614 mu bihugu 63 zikora mu izina rya [ Ramada ].",
+        "Kugeza mu Ukuboza 2018, yari ifite amahoteli 811 afite ibyumba 114, 614 mu bihugu 63 zikora mu izina [ rya Ramada. ]",
+        "Kugeza mu Ukuboza 2018, yari ifite amahoteli 811 afite ibyumba 114, 614 mu bihugu 63 zikora mu izina [ rya Ramada ].",
+        "Kugeza mu Ukuboza 2018, yari ifite amahoteli 811 afite ibyumba 114, 614 mu bihugu 63 zikora mu izina rya Ramada [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ramada.",
+        "Ramada",
+        "rya Ramada.",
+        "rya Ramada",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -23.966022491455078,
+        -24.840776443481445,
+        -31.180076599121094,
+        -31.792449951171875,
+        -35.480289459228516
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "Above them, where [ Kandt ] is said to have built the greenhouse, there is nothing left but fertile grass."
+    ],
+    "src_entities": [
+      "Kandt"
+    ],
+    "template": "Haruguru yazo aho bivugwa ko Kandt yari yarubatse iyo nzu y’ibyatsi harisanzuye nta kintu giteyemo uretse ibyatsi cyimeza .",
+    "tgt_lang": [
+      [
+        "Haruguru yazo aho bivugwa ko [ Kandt ] yari yarubatse iyo nzu yibyatsi harisanzuye nta kintu giteyemo uretse ibyatsi cyimeza.",
+        "Haruguru yazo aho bivugwa ko Kandt yari yarubatse iyo nzu yibyatsi [ harisanzuye ] nta kintu giteyemo uretse ibyatsi cyimeza.",
+        "Haruguru yazo aho bivugwa ko [ ] Kandt yari yarubatse iyo nzu yibyatsi harisanzuye nta kintu giteyemo uretse ibyatsi cyimeza.",
+        "Haruguru yazo aho bivugwa ko Kandt yari yarubatse iyo nzu y [ibyatsi ] harisanzuye nta kintu giteyemo uretse ibyatsi cyimeza.",
+        "Haruguru yazo aho bivugwa ko [ Kandt yari ] yarubatse iyo nzu yibyatsi harisanzuye nta kintu giteyemo uretse ibyatsi cyimeza."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kandt",
+        "harisanzuye",
+        "",
+        "ibyatsi",
+        "Kandt yari"
+      ]
+    ],
+    "score": [
+      [
+        -124.78197479248047,
+        -128.9490966796875,
+        -129.95291137695312,
+        -133.22120666503906,
+        -134.00729370117188
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 20,
+    "src_lang": [],
+    "template": "Gusa hari uruhande ubonamo ikawa bigaragara ko zatewe cyera ariko zidakoreye .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 21,
+    "src_lang": [],
+    "template": "Iyi pariki nabwo yaherukaga guhagarika ibikorwa byo kuyisura hagati ya Gicurasi na 2018 kugeza mu ntangiro z’umwaka ushize .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 22,
+    "src_lang": [],
+    "template": "9 Frw mu kugoboka ibikorwa by’ubukerarugendo no kwakira abantu , mu gihe cy’umwaka wose nyuma ya Coronavirus .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "[ France ] is one of the hardest hit countries by the coronavirus, with 29,731 deaths and 161,348 infections, although the severity continues to decline, while most activities are being resumed."
+    ],
+    "src_entities": [
+      "France"
+    ],
+    "template": "U Bufaransa buri mu bihugu byahungabanyijwe cyane na Coronavirus , aho habarwa abantu 29 731 bishwe n’iki cyorezo na 161 348 bacyanduye , gusa ubukana bwacyo bukomeje kugabanuka , ari nako ibikorwa byinshi bisubukurwa .",
+    "tgt_lang": [
+      [
+        "[ U Bufaransa ] buri mu bihugu byahungabanyijwe cyane na Coronavirus, aho habarwa abantu 29 731 bishwe niki cyorezo na 161 348 bacyanduye, gusa ubukana bwacyo bukomeje kugabanuka, ari nako ibikorwa byinshi bisubukurwa.",
+        "U [ Bufaransa ] buri mu bihugu byahungabanyijwe cyane na Coronavirus, aho habarwa abantu 29 731 bishwe niki cyorezo na 161 348 bacyanduye, gusa ubukana bwacyo bukomeje kugabanuka, ari nako ibikorwa byinshi bisubukurwa.",
+        "[ U Bufaransa buri mu bihugu byahungabanyijwe cyane na Coronavirus, aho habarwa abantu 29 731 bishwe niki cyorezo ] na 161 348 bacyanduye, gusa ubukana bwacyo bukomeje kugabanuka, ari nako ibikorwa byinshi bisubukurwa.",
+        "[ U Bufaransa buri mu bihugu byahungabanyijwe cyane na Coronavirus, aho habarwa abantu 29 731 bishwe niki cyorezo na 161 348 bacyanduye, gusa ubukana bwacyo bukomeje kugabanuka, ari nako ibikorwa byinshi bisubukurwa. ]",
+        "[ U Bufaransa buri mu bihugu byahungabanyijwe cyane na Coronavirus, aho habarwa abantu 29 731 bishwe niki cyorezo na 161 348 bacyanduye, gusa ubukana bwacyo bukomeje kugabanuka, ari nako ibikorwa byinshi bisubukurwa ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "U Bufaransa",
+        "Bufaransa",
+        "U Bufaransa buri mu bihugu byahungabanyijwe cyane na Coronavirus, aho habarwa abantu 29 731 bishwe n<unk>iki cyorezo",
+        "U Bufaransa buri mu bihugu byahungabanyijwe cyane na Coronavirus, aho habarwa abantu 29 731 bishwe n<unk>iki cyorezo na 161 348 bacyanduye, gusa ubukana bwacyo bukomeje kugabanuka, ari nako ibikorwa byinshi bisubukurwa.",
+        "U Bufaransa buri mu bihugu byahungabanyijwe cyane na Coronavirus, aho habarwa abantu 29 731 bishwe n<unk>iki cyorezo na 161 348 bacyanduye, gusa ubukana bwacyo bukomeje kugabanuka, ari nako ibikorwa byinshi bisubukurwa"
+      ]
+    ],
+    "score": [
+      [
+        -102.09964752197266,
+        -109.36542510986328,
+        -117.0191879272461,
+        -118.6612319946289,
+        -119.62178039550781
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 24,
+    "src_lang": [],
+    "template": "Kukinyonga ni ijana , kudingisa ni bitanu Mukamana urananiranye ngaho isubireho .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  }
+]

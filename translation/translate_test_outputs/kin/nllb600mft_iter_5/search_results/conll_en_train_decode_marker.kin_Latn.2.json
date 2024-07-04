@@ -1,0 +1,1050 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "[ Ben ] and Chance",
+      "Ben and [ Chance ]"
+    ],
+    "src_entities": [
+      "Ben",
+      "Chance"
+    ],
+    "template": "Ben na Chance",
+    "tgt_lang": [
+      [
+        "[ Ben ] na Chance",
+        "[ Ben na Chance ]",
+        "[ Ben na ] Chance",
+        "[ ] Ben na Chance",
+        "Ben [ na Chance ]"
+      ],
+      [
+        "Ben na [ Chance ]",
+        "Ben [ na Chance ]",
+        "[ Ben na Chance ]",
+        "Ben na [ ] Chance",
+        "[ ] Ben na Chance"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ben",
+        "Ben na Chance",
+        "Ben na",
+        "",
+        "na Chance"
+      ],
+      [
+        "Chance",
+        "na Chance",
+        "Ben na Chance",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -3.2303266525268555,
+        -11.667101860046387,
+        -14.467836380004883,
+        -16.694307327270508,
+        -20.409385681152344
+      ],
+      [
+        -3.645395278930664,
+        -10.055780410766602,
+        -11.425498008728027,
+        -12.566843032836914,
+        -14.439569473266602
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "Photos by [ Niyonzima Moses ]"
+    ],
+    "src_entities": [
+      "Niyonzima Moses"
+    ],
+    "template": "Amafoto : Niyonzima Moses",
+    "tgt_lang": [
+      [
+        "Amafoto : [ Niyonzima Moses ]",
+        "Amafoto [ : Niyonzima Moses ]",
+        "Amafoto : [ ] Niyonzima Moses",
+        "Amafoto : [ Niyonzima ] Moses",
+        "Amafoto [ ] : Niyonzima Moses"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Niyonzima Moses",
+        ": Niyonzima Moses",
+        "",
+        "Niyonzima",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -15.062433242797852,
+        -21.989307403564453,
+        -25.77061653137207,
+        -27.778718948364258,
+        -28.6646785736084
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "[ Amanda Fung ] and Kavutse Olivier are featured in Beauty for Ashes and Prayer House",
+      "Amanda Fung and [ Kavutse Olivier ] are featured in Beauty for Ashes and Prayer House",
+      "Amanda Fung and Kavutse Olivier are featured in Beauty for Ashes and [ Prayer House ]"
+    ],
+    "src_entities": [
+      "Amanda Fung",
+      "Kavutse Olivier",
+      "Prayer House"
+    ],
+    "template": "Amanda Fung na Kavutse Olivier babarizwa muri Beauty for Ashes na Prayer House",
+    "tgt_lang": [
+      [
+        "[ Amanda Fung ] na Kavutse Olivier babarizwa muri Beauty for Ashes na Prayer House",
+        "[ ] Amanda Fung na Kavutse Olivier babarizwa muri Beauty for Ashes na Prayer House",
+        "[ Amanda Fung na Kavutse Olivier babarizwa muri Beauty for Ashes na Prayer House ]",
+        "Amanda Fung na Kavutse Olivier babarizwa muri [ Beauty for Ashes na Prayer House ]",
+        "[ Amanda Fung na Kavutse Olivier ] babarizwa muri Beauty for Ashes na Prayer House"
+      ],
+      [
+        "Amanda Fung na [ Kavutse Olivier ] babarizwa muri Beauty for Ashes na Prayer House",
+        "Amanda Fung [ na Kavutse Olivier ] babarizwa muri Beauty for Ashes na Prayer House",
+        "Amanda Fung na [ Kavutse Olivier babarizwa muri Beauty for Ashes na Prayer House ]",
+        "Amanda Fung na Kavutse Olivier babarizwa muri [ Beauty for Ashes na Prayer House ]",
+        "Amanda Fung na [ ] Kavutse Olivier babarizwa muri Beauty for Ashes na Prayer House"
+      ],
+      [
+        "Amanda Fung na Kavutse Olivier babarizwa muri Beauty for Ashes na [ Prayer House ]",
+        "Amanda Fung na Kavutse Olivier babarizwa muri [ Beauty for Ashes na Prayer House ]",
+        "Amanda Fung na Kavutse Olivier babarizwa muri Beauty for Ashes na [ ] Prayer House",
+        "Amanda Fung na Kavutse Olivier babarizwa muri Beauty for Ashes na [ Prayer ] House",
+        "Amanda Fung na Kavutse Olivier babarizwa muri [ Beauty for Ashes na ] Prayer House"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Amanda Fung",
+        "",
+        "Amanda Fung na Kavutse Olivier babarizwa muri Beauty for Ashes na Prayer House",
+        "Beauty for Ashes na Prayer House",
+        "Amanda Fung na Kavutse Olivier"
+      ],
+      [
+        "Kavutse Olivier",
+        "na Kavutse Olivier",
+        "Kavutse Olivier babarizwa muri Beauty for Ashes na Prayer House",
+        "Beauty for Ashes na Prayer House",
+        ""
+      ],
+      [
+        "Prayer House",
+        "Beauty for Ashes na Prayer House",
+        "",
+        "Prayer",
+        "Beauty for Ashes na"
+      ]
+    ],
+    "score": [
+      [
+        -12.70252513885498,
+        -23.996578216552734,
+        -28.623891830444336,
+        -29.130626678466797,
+        -29.38916778564453
+      ],
+      [
+        -14.751077651977539,
+        -21.008033752441406,
+        -21.70049476623535,
+        -22.55469512939453,
+        -22.890275955200195
+      ],
+      [
+        -12.104910850524902,
+        -21.336254119873047,
+        -23.222984313964844,
+        -27.441974639892578,
+        -28.02008819580078
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "Last year's [ ICCA ] report ranked Rwanda second only to Cape Town, South Africa, in the ranking released on 13 May 2019, which shows how cities were praised for hosting international conferences in 2018.",
+      "Last year's ICCA report ranked [ Rwanda ] second only to Cape Town, South Africa, in the ranking released on 13 May 2019, which shows how cities were praised for hosting international conferences in 2018.",
+      "Last year's ICCA report ranked Rwanda second only to [ Cape Town, ] South Africa, in the ranking released on 13 May 2019, which shows how cities were praised for hosting international conferences in 2018.",
+      "Last year's ICCA report ranked Rwanda second only to Cape Town, [ South Africa, ] in the ranking released on 13 May 2019, which shows how cities were praised for hosting international conferences in 2018."
+    ],
+    "src_entities": [
+      "ICCA",
+      "Rwanda",
+      "Cape Town,",
+      "South Africa,"
+    ],
+    "template": "Raporo ya ICCA y’umwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri n’ubundi inyuma y’Umujyi wa Cape Town muri Afurika y’Epfo , ku rutonde rwasohotse ku wa 13 Gicurasi 2019 , rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018 .",
+    "tgt_lang": [
+      [
+        "Raporo [ ya ICCA ] yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "Raporo ya [ ICCA ] yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "Raporo [ ya ICCA yumwaka ushize ] yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "Raporo ya [ ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018 ].",
+        "Raporo [ ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018 ]."
+      ],
+      [
+        "Raporo ya ICCA yumwaka ushize yerekana ko [ u Rwanda ] rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo, [ ku rutonde rwasohotse ku wa 13 Gicurasi 2019 ], rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "Raporo ya ICCA yumwaka ushize yerekana ko [ u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018 ].",
+        "Raporo ya ICCA yumwaka ushize yerekana ko [ u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018. ]",
+        "Raporo ya ICCA yumwaka ushize yerekana ko [ u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga ] mu 2018."
+      ],
+      [
+        "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma y [Umujyi wa Cape Town ] muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma y [Umujyi wa Cape Town muri ] Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma y [Umujyi wa ] Cape Town muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma [ yUmujyi wa Cape Town ] muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa [ Cape Town ] muri Afurika yEpfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018."
+      ],
+      [
+        "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri [ Afurika yEpfo, ] ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri [ Afurika yEpfo ], ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo [, ] ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town muri Afurika yEpfo, [ ] ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "Raporo ya ICCA yumwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri nubundi inyuma yUmujyi wa Cape Town [ muri Afurika yEpfo ], ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "ya ICCA",
+        "ICCA",
+        "ya ICCA y<unk>umwaka ushize",
+        "ICCA y<unk>umwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri n<unk>ubundi inyuma y<unk>Umujyi wa Cape Town muri Afurika y<unk>Epfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018",
+        "ya ICCA y<unk>umwaka ushize yerekana ko u Rwanda rwari ku mwanya wa kabiri n<unk>ubundi inyuma y<unk>Umujyi wa Cape Town muri Afurika y<unk>Epfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018"
+      ],
+      [
+        "u Rwanda",
+        "ku rutonde rwasohotse ku wa 13 Gicurasi 2019",
+        "u Rwanda rwari ku mwanya wa kabiri n<unk>ubundi inyuma y<unk>Umujyi wa Cape Town muri Afurika y<unk>Epfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018",
+        "u Rwanda rwari ku mwanya wa kabiri n<unk>ubundi inyuma y<unk>Umujyi wa Cape Town muri Afurika y<unk>Epfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga mu 2018.",
+        "u Rwanda rwari ku mwanya wa kabiri n<unk>ubundi inyuma y<unk>Umujyi wa Cape Town muri Afurika y<unk>Epfo, ku rutonde rwasohotse ku wa 13 Gicurasi 2019, rugaragaza uko imijyi yishimiwe mu kwakira inama mpuzamahanga"
+      ],
+      [
+        "Umujyi wa Cape Town",
+        "Umujyi wa Cape Town muri",
+        "Umujyi wa",
+        "y<unk>Umujyi wa Cape Town",
+        "Cape Town"
+      ],
+      [
+        "Afurika y<unk>Epfo,",
+        "Afurika y<unk>Epfo",
+        ",",
+        "",
+        "muri Afurika y<unk>Epfo"
+      ]
+    ],
+    "score": [
+      [
+        -93.17051696777344,
+        -93.31304931640625,
+        -97.7287826538086,
+        -109.43437957763672,
+        -109.53569030761719
+      ],
+      [
+        -93.23028564453125,
+        -105.5733413696289,
+        -109.03450775146484,
+        -110.44779205322266,
+        -111.96858978271484
+      ],
+      [
+        -96.6729507446289,
+        -97.05731964111328,
+        -99.13075256347656,
+        -99.32562255859375,
+        -99.57145690917969
+      ],
+      [
+        -93.70736694335938,
+        -94.08587646484375,
+        -94.6775131225586,
+        -95.46435546875,
+        -96.41252136230469
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "[ Facebook ] users were asked to take a link to the song Replay on YouTube and share it with their friends."
+    ],
+    "src_entities": [
+      "Facebook"
+    ],
+    "template": "Mu gihe abo kuri Facebook basabwe gufata link y’indirimbo Isubireho kuri YouTube bakabisangiza inshuti zabo .",
+    "tgt_lang": [
+      [
+        "[ Mu gihe abo kuri Facebook ] basabwe gufata link yindirimbo Isubireho kuri YouTube bakabisangiza inshuti zabo.",
+        "Mu gihe [ abo kuri Facebook ] basabwe gufata link yindirimbo Isubireho kuri YouTube bakabisangiza inshuti zabo.",
+        "Mu gihe abo kuri [ Facebook ] basabwe gufata link yindirimbo Isubireho kuri YouTube bakabisangiza inshuti zabo.",
+        "[ Mu gihe ] abo kuri Facebook basabwe gufata link yindirimbo Isubireho kuri YouTube bakabisangiza inshuti zabo.",
+        "[ Mu gihe abo kuri ] Facebook basabwe gufata link yindirimbo Isubireho kuri YouTube bakabisangiza inshuti zabo."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mu gihe abo kuri Facebook",
+        "abo kuri Facebook",
+        "Facebook",
+        "Mu gihe",
+        "Mu gihe abo kuri"
+      ]
+    ],
+    "score": [
+      [
+        -66.85172271728516,
+        -68.02603149414062,
+        -70.58016204833984,
+        -73.36021423339844,
+        -73.49846649169922
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [],
+    "template": "Kuva umuhango wo Kwita Izina watangizwa mu 2005 , abana b’ingagi 281 bamaze guhabwa amazina .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 6,
+    "src_lang": [],
+    "template": "Bivuze ko kugira ngo umuntu ashobore kubona ingagi , bigomba gusaba amafaranga menshi , kubera ko amafaranga naba make abantu benshi bazajya kuzireba kandi ntabwo ari byiza mu kuzibungabunga .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "On Tuesday, the [ RDB ] reported that foreigners continue to see Rwanda as a great place to visit.",
+      "On Tuesday, the RDB reported that foreigners continue to see [ Rwanda ] as a great place to visit."
+    ],
+    "src_entities": [
+      "RDB",
+      "Rwanda"
+    ],
+    "template": "Kuri uyu wa Kabiri , RDB yatangaje ko abanyamahanga bakomeje kubona u Rwanda nk’ahantu heza ho gusura .",
+    "tgt_lang": [
+      [
+        "Kuri uyu wa Kabiri, [ RDB ] yatangaje ko abanyamahanga bakomeje kubona u Rwanda nkahantu heza ho gusura.",
+        "Kuri uyu wa Kabiri [, RDB ] yatangaje ko abanyamahanga bakomeje kubona u Rwanda nkahantu heza ho gusura.",
+        "Kuri uyu wa Kabiri, [ ] RDB yatangaje ko abanyamahanga bakomeje kubona u Rwanda nkahantu heza ho gusura.",
+        "Kuri uyu wa Kabiri, RDB [ ] yatangaje ko abanyamahanga bakomeje kubona u Rwanda nkahantu heza ho gusura.",
+        "Kuri uyu wa Kabiri [ ], RDB yatangaje ko abanyamahanga bakomeje kubona u Rwanda nkahantu heza ho gusura."
+      ],
+      [
+        "Kuri uyu wa Kabiri, RDB yatangaje ko abanyamahanga bakomeje kubona [ u Rwanda ] nkahantu heza ho gusura.",
+        "Kuri uyu wa Kabiri, RDB yatangaje ko abanyamahanga bakomeje kubona u [ Rwanda ] nkahantu heza ho gusura.",
+        "Kuri uyu wa Kabiri, RDB yatangaje ko abanyamahanga bakomeje kubona [ ] u Rwanda nkahantu heza ho gusura.",
+        "Kuri uyu wa Kabiri, RDB yatangaje ko abanyamahanga bakomeje kubona [ u Rwanda nkahantu heza ho gusura ].",
+        "Kuri uyu wa Kabiri, RDB yatangaje ko abanyamahanga bakomeje kubona [ u Rwanda nkahantu heza ho gusura. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "RDB",
+        ", RDB",
+        "",
+        "",
+        ""
+      ],
+      [
+        "u Rwanda",
+        "Rwanda",
+        "",
+        "u Rwanda nk<unk>ahantu heza ho gusura",
+        "u Rwanda nk<unk>ahantu heza ho gusura."
+      ]
+    ],
+    "score": [
+      [
+        -27.409914016723633,
+        -35.65056610107422,
+        -38.45966720581055,
+        -41.09300231933594,
+        -41.37816619873047
+      ],
+      [
+        -30.485898971557617,
+        -36.73378372192383,
+        -39.94269561767578,
+        -41.92152786254883,
+        -46.77113723754883
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 8,
+    "src_lang": [
+      "[ Manzi & Eunice ] describe singing as a duo because they love it and are also known as two singers who live together."
+    ],
+    "src_entities": [
+      "Manzi & Eunice"
+    ],
+    "template": "Manzi & Eunice bavuga ko kuririmbana ari babiri babitewe n’uko babikunda ndetse bakaba babisanzwemo nk’abantu babiri b’abaririmbyi babana .",
+    "tgt_lang": [
+      [
+        "[ Manzi & Eunice ] bavuga ko kuririmbana ari babiri babitewe nuko babikunda ndetse bakaba babisanzwemo nkabantu babiri babaririmbyi babana.",
+        "[ ] Manzi & Eunice bavuga ko kuririmbana ari babiri babitewe nuko babikunda ndetse bakaba babisanzwemo nkabantu babiri babaririmbyi babana.",
+        "[ Manzi & ] Eunice bavuga ko kuririmbana ari babiri babitewe nuko babikunda ndetse bakaba babisanzwemo nkabantu babiri babaririmbyi babana.",
+        "[ Manzi ] & Eunice bavuga ko kuririmbana ari babiri babitewe nuko babikunda ndetse bakaba babisanzwemo nkabantu babiri babaririmbyi babana.",
+        "[ Manzi & Eunice bavuga ko kuririmbana ari babiri babitewe nuko babikunda ndetse bakaba babisanzwemo nkabantu babiri babaririmbyi babana. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Manzi & Eunice",
+        "",
+        "Manzi &",
+        "Manzi",
+        "Manzi & Eunice bavuga ko kuririmbana ari babiri babitewe n<unk>uko babikunda ndetse bakaba babisanzwemo nk<unk>abantu babiri b<unk>abaririmbyi babana."
+      ]
+    ],
+    "score": [
+      [
+        -91.16388702392578,
+        -101.57306671142578,
+        -105.15380096435547,
+        -105.36827850341797,
+        -112.56488800048828
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "[ RDB ] reports that this was due to a campaign including the Tembera u Rwanda campaign carried out two years ago.",
+      "RDB reports that this was due to a campaign including the [ Tembera u Rwanda ] campaign carried out two years ago."
+    ],
+    "src_entities": [
+      "RDB",
+      "Tembera u Rwanda"
+    ],
+    "template": "RDB itangaza ko byatewe n’ubukangurambaga burimo ubwa Tembera u Rwanda bwakozwe mu myaka ibiri ishize .",
+    "tgt_lang": [
+      [
+        "[ RDB ] itangaza ko byatewe nubukangurambaga burimo ubwa Tembera u Rwanda bwakozwe mu myaka ibiri ishize.",
+        "[ ] RDB itangaza ko byatewe nubukangurambaga burimo ubwa Tembera u Rwanda bwakozwe mu myaka ibiri ishize.",
+        "RDB itangaza ko byatewe nubukangurambaga burimo ubwa Tembera u Rwanda bwakozwe mu myaka ibiri ishize [ ].",
+        "RDB itangaza ko [ ] byatewe nubukangurambaga burimo ubwa Tembera u Rwanda bwakozwe mu myaka ibiri ishize.",
+        "RDB itangaza ko byatewe nubukangurambaga burimo ubwa Tembera u Rwanda bwakozwe mu myaka ibiri ishize [. ]"
+      ],
+      [
+        "RDB itangaza ko byatewe nubukangurambaga burimo ubwa [ Tembera u Rwanda ] bwakozwe mu myaka ibiri ishize.",
+        "RDB itangaza ko byatewe nubukangurambaga burimo [ ubwa Tembera u Rwanda ] bwakozwe mu myaka ibiri ishize.",
+        "RDB itangaza ko byatewe nubukangurambaga burimo ubwa [ ] Tembera u Rwanda bwakozwe mu myaka ibiri ishize.",
+        "RDB itangaza ko byatewe nubukangurambaga [ burimo ubwa Tembera u Rwanda ] bwakozwe mu myaka ibiri ishize.",
+        "RDB itangaza ko byatewe nubukangurambaga burimo ubwa [ Tembera u Rwanda bwakozwe mu myaka ibiri ishize ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "RDB",
+        "",
+        "",
+        "",
+        "."
+      ],
+      [
+        "Tembera u Rwanda",
+        "ubwa Tembera u Rwanda",
+        "",
+        "burimo ubwa Tembera u Rwanda",
+        "Tembera u Rwanda bwakozwe mu myaka ibiri ishize"
+      ]
+    ],
+    "score": [
+      [
+        -34.72341537475586,
+        -46.07011032104492,
+        -52.47591781616211,
+        -55.768096923828125,
+        -56.93048858642578
+      ],
+      [
+        -36.05038070678711,
+        -43.95209503173828,
+        -48.37303924560547,
+        -49.19834518432617,
+        -49.6688346862793
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "There are seven for one person or accompanied with one bed each, a large living room and other amenities, and another called [ Kataza House ] with four bedrooms."
+    ],
+    "src_entities": [
+      "Kataza House"
+    ],
+    "template": "Zirimo zirindwi zagenewe umuntu umwe cyangwa uherekejwe kuko buri imwe ifite uburiri bumwe , uruganiriro rwagutse n’ibindi byangombwa nkenerwa , hakaba indi imwe yiswe Kataza House yo igizwe n’ibyumba bine byo kuraramo .",
+    "tgt_lang": [
+      [
+        "Zirimo zirindwi zagenewe umuntu umwe cyangwa uherekejwe kuko buri imwe ifite uburiri bumwe, uruganiriro rwagutse nibindi byangombwa nkenerwa, hakaba indi imwe yiswe [ Kataza House ] yo igizwe nibyumba bine byo kuraramo.",
+        "Zirimo zirindwi zagenewe umuntu umwe cyangwa uherekejwe kuko buri imwe ifite uburiri bumwe, uruganiriro rwagutse nibindi byangombwa nkenerwa, hakaba indi imwe yiswe [ Kataza House yo ] igizwe nibyumba bine byo kuraramo.",
+        "Zirimo zirindwi zagenewe umuntu umwe cyangwa uherekejwe kuko buri imwe ifite uburiri bumwe, uruganiriro rwagutse nibindi byangombwa nkenerwa, hakaba indi imwe yiswe [ ] Kataza House yo igizwe nibyumba bine byo kuraramo.",
+        "Zirimo zirindwi zagenewe umuntu umwe cyangwa uherekejwe kuko buri imwe ifite uburiri bumwe, uruganiriro rwagutse nibindi byangombwa nkenerwa, hakaba indi imwe yiswe [ Kataza House yo igizwe nibyumba bine byo kuraramo ].",
+        "Zirimo zirindwi zagenewe umuntu umwe cyangwa uherekejwe kuko buri imwe ifite uburiri bumwe, uruganiriro rwagutse nibindi byangombwa nkenerwa, hakaba indi imwe yiswe [ Kataza House yo igizwe ] nibyumba bine byo kuraramo."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kataza House",
+        "Kataza House yo",
+        "",
+        "Kataza House yo igizwe n<unk>ibyumba bine byo kuraramo",
+        "Kataza House yo igizwe"
+      ]
+    ],
+    "score": [
+      [
+        -139.81622314453125,
+        -148.45779418945312,
+        -150.4131622314453,
+        -150.6819305419922,
+        -152.8517608642578
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 11,
+    "src_lang": [],
+    "template": "Guhera tariki 9 Werurwe kugeza tariki 15 Werurwe , hahererekanyijwe miliyari 10 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 12,
+    "src_lang": [
+      "This beach is located in the [ Exuma District ] of the Bahamas.",
+      "This beach is located in the Exuma District of the [ Bahamas. ]"
+    ],
+    "src_entities": [
+      "Exuma District",
+      "Bahamas."
+    ],
+    "template": "Iyi beach iherereye mu karere ka Exuma mu gihugu cya Bahamas .",
+    "tgt_lang": [
+      [
+        "Iyi beach iherereye [ mu karere ka Exuma ] mu gihugu cya Bahamas.",
+        "Iyi beach iherereye mu karere [ ka Exuma ] mu gihugu cya Bahamas.",
+        "Iyi beach iherereye mu [ karere ka Exuma ] mu gihugu cya Bahamas.",
+        "Iyi beach iherereye mu karere ka [ Exuma mu gihugu cya Bahamas ].",
+        "Iyi beach iherereye mu karere ka Exuma [ mu gihugu cya Bahamas ]."
+      ],
+      [
+        "Iyi beach iherereye mu karere ka Exuma mu gihugu cya [ Bahamas ].",
+        "Iyi beach iherereye mu karere ka Exuma mu gihugu cya [ Bahamas. ]",
+        "Iyi beach iherereye mu karere ka Exuma mu [ gihugu cya Bahamas ].",
+        "Iyi beach iherereye mu karere ka Exuma [ mu gihugu cya Bahamas ].",
+        "Iyi beach iherereye mu karere ka Exuma mu [ gihugu cya Bahamas. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "mu karere ka Exuma",
+        "ka Exuma",
+        "karere ka Exuma",
+        "Exuma mu gihugu cya Bahamas",
+        "mu gihugu cya Bahamas"
+      ],
+      [
+        "Bahamas",
+        "Bahamas.",
+        "gihugu cya Bahamas",
+        "mu gihugu cya Bahamas",
+        "gihugu cya Bahamas."
+      ]
+    ],
+    "score": [
+      [
+        -35.35121154785156,
+        -35.55220031738281,
+        -35.844051361083984,
+        -35.864585876464844,
+        -36.30998229980469
+      ],
+      [
+        -25.371797561645508,
+        -28.83505630493164,
+        -28.953359603881836,
+        -29.623184204101562,
+        -31.562891006469727
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "Volcanic kangaroos are rare in the world, with only about 880 remaining, with [ Rwanda ] holding 62% of them."
+    ],
+    "src_entities": [
+      "Rwanda"
+    ],
+    "template": "Ingagi zo mu birunga ni nke ku Isi , hasigaye izigera kuri 880 gusa , u Rwanda rukagiramo 62 % yazo .",
+    "tgt_lang": [
+      [
+        "Ingagi zo mu birunga ni nke ku Isi, hasigaye izigera kuri 880 gusa, [ u Rwanda ] rukagiramo 62 % yazo.",
+        "Ingagi zo mu birunga ni nke ku Isi, hasigaye izigera kuri 880 gusa, [ u Rwanda rukagiramo ] 62 % yazo.",
+        "Ingagi zo mu birunga ni nke ku Isi, hasigaye izigera kuri 880 gusa, u [ Rwanda ] rukagiramo 62 % yazo.",
+        "Ingagi zo mu birunga ni nke ku Isi, hasigaye izigera kuri 880 gusa, [ u Rwanda rukagiramo 62 % ] yazo.",
+        "Ingagi zo mu birunga ni nke ku Isi, hasigaye izigera kuri 880 gusa, [ u Rwanda rukagiramo 62 ] % yazo."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "u Rwanda",
+        "u Rwanda rukagiramo",
+        "Rwanda",
+        "u Rwanda rukagiramo 62 %",
+        "u Rwanda rukagiramo 62"
+      ]
+    ],
+    "score": [
+      [
+        -63.20792770385742,
+        -66.671875,
+        -67.50196838378906,
+        -69.40843963623047,
+        -69.6572265625
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 14,
+    "src_lang": [],
+    "template": "Bibarwa ko rusanganwe inguzanyo za miliyari 137 Frw .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 15,
+    "src_lang": [],
+    "template": "Ambara uberwe bijyanye n’igihe : Imyambaro 10 abagore bakwambara bakaberwa muri iyi mpeshyi",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "The [ Radisson Blu Hotel ] was named the safest and most reputable hotel after an audit of more than 220 criteria for classifying a hotel as safe."
+    ],
+    "src_entities": [
+      "Radisson Blu Hotel"
+    ],
+    "template": "Radisson Blu Hotel yahawe igihembo cya hoteli itekanye kandi yiyubashye nyuma y’igenzura yakorewe ku ngingo zisaga 220 zishingirwaho kugira ngo hoteli runaka ishyirwe mu zitekanye .",
+    "tgt_lang": [
+      [
+        "[ Radisson Blu Hotel ] yahawe igihembo cya hoteli itekanye kandi yiyubashye nyuma yigenzura yakorewe ku ngingo zisaga 220 zishingirwaho kugira ngo hoteli runaka ishyirwe mu zitekanye.",
+        "[ ] Radisson Blu Hotel yahawe igihembo cya hoteli itekanye kandi yiyubashye nyuma yigenzura yakorewe ku ngingo zisaga 220 zishingirwaho kugira ngo hoteli runaka ishyirwe mu zitekanye.",
+        "[ Radisson Blu ] Hotel yahawe igihembo cya hoteli itekanye kandi yiyubashye nyuma yigenzura yakorewe ku ngingo zisaga 220 zishingirwaho kugira ngo hoteli runaka ishyirwe mu zitekanye.",
+        "[ Radisson Blu Hotel yahawe igihembo cya hoteli itekanye kandi yiyubashye nyuma yigenzura yakorewe ku ngingo zisaga 220 zishingirwaho kugira ngo hoteli runaka ishyirwe mu zitekanye. ]",
+        "[ Radisson Blu Hotel yahawe igihembo cya hoteli itekanye kandi yiyubashye nyuma yigenzura yakorewe ku ngingo zisaga 220 z ]ishingirwaho kugira ngo hoteli runaka ishyirwe mu zitekanye."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Radisson Blu Hotel",
+        "",
+        "Radisson Blu",
+        "Radisson Blu Hotel yahawe igihembo cya hoteli itekanye kandi yiyubashye nyuma y<unk>igenzura yakorewe ku ngingo zisaga 220 zishingirwaho kugira ngo hoteli runaka ishyirwe mu zitekanye.",
+        "Radisson Blu Hotel yahawe igihembo cya hoteli itekanye kandi yiyubashye nyuma y<unk>igenzura yakorewe ku ngingo zisaga 220 z"
+      ]
+    ],
+    "score": [
+      [
+        -101.24388122558594,
+        -109.5288314819336,
+        -113.38519287109375,
+        -117.87248229980469,
+        -119.02911376953125
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "[ MTN Rwanda ] announced new rates for mobile money transfers after three months of the free service in Rwanda to promote the use of technology to prevent the spread of the coronavirus pandemic.",
+      "MTN Rwanda announced new rates for mobile money transfers after three months of the free service in [ Rwanda ] to promote the use of technology to prevent the spread of the coronavirus pandemic."
+    ],
+    "src_entities": [
+      "MTN Rwanda",
+      "Rwanda"
+    ],
+    "template": "MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma y’uko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda mu kwimakaza ikoreshwa ry’ikoranabuhanga hirindwa ikwirakwira ry’icyorezo cya Coronavirus .",
+    "tgt_lang": [
+      [
+        "[ MTN Rwanda ] yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda mu kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus.",
+        "[ ] MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda mu kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus.",
+        "[ MTN ] Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda mu kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus.",
+        "[ MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda mu kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus. ]",
+        "[ MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda mu kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus ]."
+      ],
+      [
+        "MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu [ mu Rwanda ] mu kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus.",
+        "MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu [ Rwanda ] mu kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus.",
+        "MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda [ ] mu kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus.",
+        "MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda [ mu ] kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus.",
+        "MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma yuko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda mu kwimakaza ikoreshwa ryikoranabuhanga hirindwa ikwirakwira ryicyorezo cya Coronavirus [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "MTN Rwanda",
+        "",
+        "MTN",
+        "MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma y<unk>uko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda mu kwimakaza ikoreshwa ry<unk>ikoranabuhanga hirindwa ikwirakwira ry<unk>icyorezo cya Coronavirus.",
+        "MTN Rwanda yatangaje ibiciro bishya byo kohererezanya amafaranga kuri telefoni nyuma y<unk>uko hari hashize amezi atatu iyi serivisi itangirwa ubuntu mu Rwanda mu kwimakaza ikoreshwa ry<unk>ikoranabuhanga hirindwa ikwirakwira ry<unk>icyorezo cya Coronavirus"
+      ],
+      [
+        "mu Rwanda",
+        "Rwanda",
+        "",
+        "mu",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -73.24942779541016,
+        -85.17274475097656,
+        -86.20976257324219,
+        -97.98253631591797,
+        -99.3000259399414
+      ],
+      [
+        -76.16793823242188,
+        -78.08222961425781,
+        -82.33222961425781,
+        -87.0363540649414,
+        -91.1252670288086
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "A short distance away, the entrance road surrounded by palm trees continues to the waters of [ Lake Kivu, ] including a distance of about 800 meters, which is said to have been the way through which Kandt and others who lived there passed to and from the boat.",
+      "A short distance away, the entrance road surrounded by palm trees continues to the waters of Lake Kivu, including a distance of about 800 meters, which is said to have been the way through which [ Kandt ] and others who lived there passed to and from the boat."
+    ],
+    "src_entities": [
+      "Lake Kivu,",
+      "Kandt"
+    ],
+    "template": "Hirya gato , ka gahanda kinjiramo gakikijwe n’imikindo karakomeza kugera ku mazi y’ikiyaga cya Kivu , harimo urugendo nk’urwa metero 800 , bivuga ko yari inzira Kandt n’abandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato .",
+    "tgt_lang": [
+      [
+        "Hirya gato, ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi y [ikiyaga cya Kivu, ] harimo urugendo nkurwa metero 800, bivuga ko yari inzira Kandt nabandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato.",
+        "Hirya gato, ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi [ yikiyaga cya Kivu, ] harimo urugendo nkurwa metero 800, bivuga ko yari inzira Kandt nabandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato.",
+        "Hirya gato, ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi [ yikiyaga cya Kivu ], harimo urugendo nkurwa metero 800, bivuga ko yari inzira Kandt nabandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato.",
+        "Hirya gato, ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi y [ikiyaga cya Kivu ], harimo urugendo nkurwa metero 800, bivuga ko yari inzira Kandt nabandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato.",
+        "Hirya gato, ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi y [ikiyaga ] cya Kivu, harimo urugendo nkurwa metero 800, bivuga ko yari inzira Kandt nabandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato."
+      ],
+      [
+        "Hirya gato, ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi yikiyaga cya Kivu, harimo urugendo nkurwa metero 800, bivuga ko yari inzira [ Kandt ] nabandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato.",
+        "Hirya gato, ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi yikiyaga cya Kivu, harimo urugendo nkurwa metero 800, bivuga ko yari inzira [ Kandt nabandi bahabaye ] banyuragamo bagiye cyangwa bavuye mu bwato.",
+        "Hirya gato, ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi yikiyaga cya Kivu, harimo urugendo nkurwa metero 800, bivuga ko yari inzira [ ] Kandt nabandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato.",
+        "Hirya gato, ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi yikiyaga cya Kivu, harimo urugendo nkurwa metero 800, bivuga ko yari inzira Kandt [ nabandi bahabaye ] banyuragamo bagiye cyangwa bavuye mu bwato.",
+        "Hirya gato, ka gahanda kinjiramo gakikijwe nimikindo karakomeza kugera ku mazi yikiyaga cya Kivu, harimo urugendo nk [urwa metero 800 ], bivuga ko yari inzira Kandt nabandi bahabaye banyuragamo bagiye cyangwa bavuye mu bwato."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "ikiyaga cya Kivu,",
+        "y<unk>ikiyaga cya Kivu,",
+        "y<unk>ikiyaga cya Kivu",
+        "ikiyaga cya Kivu",
+        "ikiyaga"
+      ],
+      [
+        "Kandt",
+        "Kandt n<unk>abandi bahabaye",
+        "",
+        "n<unk>abandi bahabaye",
+        "urwa metero 800"
+      ]
+    ],
+    "score": [
+      [
+        -143.850830078125,
+        -143.9738311767578,
+        -146.4934844970703,
+        -146.9588623046875,
+        -149.85072326660156
+      ],
+      [
+        -139.09677124023438,
+        -147.3314666748047,
+        -149.26016235351562,
+        -149.90220642089844,
+        -153.53289794921875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "[ Kaliza ] said that in 2018 the number of tourists coming to Rwanda from the UK increased by 5%.",
+      "Kaliza said that in 2018 the number of tourists coming to [ Rwanda ] from the UK increased by 5%.",
+      "Kaliza said that in 2018 the number of tourists coming to Rwanda from the [ UK ] increased by 5%."
+    ],
+    "src_entities": [
+      "Kaliza",
+      "Rwanda",
+      "UK"
+    ],
+    "template": "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 % .",
+    "tgt_lang": [
+      [
+        "[ Kaliza ] yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 %.",
+        "[ ] Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 %.",
+        "[ Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 %. ]",
+        "[ Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 ] %.",
+        "[ Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 % ]."
+      ],
+      [
+        "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza [ mu Rwanda ] biyongereyeho 5 %.",
+        "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu [ Rwanda ] biyongereyeho 5 %.",
+        "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 [ % ].",
+        "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza [ mu Rwanda biyongereyeho 5 % ].",
+        "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 % [ ]."
+      ],
+      [
+        "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 [ % ].",
+        "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 % [ ].",
+        "Kaliza yavuze ko mu mwaka wa 2018 [ ba ] bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 %.",
+        "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 [ ] %.",
+        "Kaliza yavuze ko mu mwaka wa 2018 [ ba bakerarugendo bavuye mu Bwongereza ] baza mu Rwanda biyongereyeho 5 %."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kaliza",
+        "",
+        "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 %.",
+        "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5",
+        "Kaliza yavuze ko mu mwaka wa 2018 ba bakerarugendo bavuye mu Bwongereza baza mu Rwanda biyongereyeho 5 %"
+      ],
+      [
+        "mu Rwanda",
+        "Rwanda",
+        "%",
+        "mu Rwanda biyongereyeho 5 %",
+        ""
+      ],
+      [
+        "%",
+        "",
+        "ba",
+        "",
+        "ba bakerarugendo bavuye mu Bwongereza"
+      ]
+    ],
+    "score": [
+      [
+        -39.4232292175293,
+        -49.234832763671875,
+        -58.2728271484375,
+        -59.2188720703125,
+        -60.20725631713867
+      ],
+      [
+        -43.62156677246094,
+        -46.97602462768555,
+        -51.72073745727539,
+        -52.64215850830078,
+        -52.748695373535156
+      ],
+      [
+        -49.881099700927734,
+        -54.17814636230469,
+        -54.2113037109375,
+        -54.956172943115234,
+        -56.95656967163086
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "In addition to the activities depicting [ Kandt's ] journey, they also visited other attractions that were produced by tour operators including the former court of King Kigeli IV of Rwabugiri, the nature palace in Karongi, fishing tourism and more.",
+      "In addition to the activities depicting Kandt's journey, they also visited other attractions that were produced by tour operators including the former court of King [ Kigeli IV ] of Rwabugiri, the nature palace in Karongi, fishing tourism and more.",
+      "In addition to the activities depicting Kandt's journey, they also visited other attractions that were produced by tour operators including the former court of King Kigeli IV of [ Rwabugiri, ] the nature palace in Karongi, fishing tourism and more.",
+      "In addition to the activities depicting Kandt's journey, they also visited other attractions that were produced by tour operators including the former court of King Kigeli IV of Rwabugiri, the nature palace in [ Karongi, ] fishing tourism and more."
+    ],
+    "src_entities": [
+      "Kandt's",
+      "Kigeli IV",
+      "Rwabugiri,",
+      "Karongi,"
+    ],
+    "template": "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt , banasuye ibindi bice nyaburanga byabyazwa umusaruro n’abafasha abakerarugendo birimo ahahoze urugo rw’Umwami Kigeli IV Rwabugiri , ingoro y’ibidukikije i Karongi , ubukerarugendo bushingiye ku burobyi n’ibindi .",
+    "tgt_lang": [
+      [
+        "Uretse ibyo bikorwa bishushanya urugendo rwa [ Kandt ], banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri, ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo [ rwa Kandt ], banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri, ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo [ rwa Kandt, ] banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri, ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa [ ] Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri, ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa [ Kandt, ] banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri, ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi."
+      ],
+      [
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami [ Kigeli IV ] Rwabugiri, ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli [ IV ] Rwabugiri, ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV [ Rwabugiri ], ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV [ Rwabugiri, ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi. ]",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV [ Rwabugiri, ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi ] nibindi."
+      ],
+      [
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV [ Rwabugiri, ] ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV [ Rwabugiri ], ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV [ ] Rwabugiri, ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri, [ ] ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rw [Umwami Kigeli IV Rwabugiri, ] ingoro yibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi nibindi."
+      ],
+      [
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri, ingoro yibidukikije i [ Karongi, ] ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri, ingoro yibidukikije i Karongi [, ] ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri, ingoro yibidukikije i Karongi, [ ] ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri, ingoro yibidukikije [ i Karongi, ] ubukerarugendo bushingiye ku burobyi nibindi.",
+        "Uretse ibyo bikorwa bishushanya urugendo rwa Kandt, banasuye ibindi bice nyaburanga byabyazwa umusaruro nabafasha abakerarugendo birimo ahahoze urugo rwUmwami Kigeli IV Rwabugiri, ingoro yibidukikije i [ Karongi ], ubukerarugendo bushingiye ku burobyi nibindi."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kandt",
+        "rwa Kandt",
+        "rwa Kandt,",
+        "",
+        "Kandt,"
+      ],
+      [
+        "Kigeli IV",
+        "IV",
+        "Rwabugiri",
+        "Rwabugiri, ingoro y<unk>ibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi n<unk>ibindi.",
+        "Rwabugiri, ingoro y<unk>ibidukikije i Karongi, ubukerarugendo bushingiye ku burobyi"
+      ],
+      [
+        "Rwabugiri,",
+        "Rwabugiri",
+        "",
+        "",
+        "Umwami Kigeli IV Rwabugiri,"
+      ],
+      [
+        "Karongi,",
+        ",",
+        "",
+        "i Karongi,",
+        "Karongi"
+      ]
+    ],
+    "score": [
+      [
+        -126.81253814697266,
+        -128.00677490234375,
+        -132.15260314941406,
+        -133.62066650390625,
+        -133.683349609375
+      ],
+      [
+        -122.82516479492188,
+        -127.09074401855469,
+        -127.90258026123047,
+        -140.1480255126953,
+        -140.23301696777344
+      ],
+      [
+        -120.65277862548828,
+        -121.76667022705078,
+        -127.2244644165039,
+        -128.087646484375,
+        -132.21865844726562
+      ],
+      [
+        -129.21298217773438,
+        -130.65481567382812,
+        -131.60987854003906,
+        -132.04364013671875,
+        -132.55516052246094
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [],
+    "template": "Ishushanya umukobwa uba warananiye iwabo akajya ararana n’abasore mu ma hoteli , kugeza aho bamufashe ku ngufu bakamukoresha imibonano mpuzabitsina barenze umwe .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 22,
+    "src_lang": [],
+    "template": "6 Frw , mu gihe abantu babiri bishyura $ 3500 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 23,
+    "src_lang": [],
+    "template": "n’ahandi ritaragera kugira ngo aho bagikoresha amafaranga biveho .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 24,
+    "src_lang": [],
+    "template": "Ntabwo imodoka wabona uko uyigezamo .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  }
+]

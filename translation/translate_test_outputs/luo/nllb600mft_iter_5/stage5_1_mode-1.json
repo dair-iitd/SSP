@@ -1,0 +1,2043 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "[ Migosi Odundo ] told Ramogi's daughter-in-law that the chicken was also caught with a hammer that is used to cut electrical wood, as well as a pitchfork that he used from his home on the slopes of Mt Nanga and Weyni which he had crossed.",
+      "Migosi Odundo told [ Ramogi's ] daughter-in-law that the chicken was also caught with a hammer that is used to cut electrical wood, as well as a pitchfork that he used from his home on the slopes of Mt Nanga and Weyni which he had crossed.",
+      "Migosi Odundo told Ramogi's daughter-in-law that the chicken was also caught with a hammer that is used to cut electrical wood, as well as a pitchfork that he used from his home on the slopes of [ Mt Nanga ] and Weyni which he had crossed.",
+      "Migosi Odundo told Ramogi's daughter-in-law that the chicken was also caught with a hammer that is used to cut electrical wood, as well as a pitchfork that he used from his home on the slopes of Mt Nanga and [ Weyni ] which he had crossed."
+    ],
+    "template": "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima , kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+    "tgt_lang": [
+      "[ Migosi Odundo ] ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+      "Migosi Odundo ne okone nyakalondo mar [ Ramogi ] ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+      "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag [ Got Nanga ] kod Weyni mane osengado",
+      "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod [ Weyni ] mane osengado"
+    ],
+    "r_logp_score": [
+      53.38084030151367,
+      23.96485710144043,
+      5.491368293762207,
+      15.523670196533203
+    ],
+    "score": [
+      -203.56031799316406,
+      -206.97915649414062,
+      -201.9879608154297,
+      -200.53125
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Migosi Odundo ] ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima , kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+      "Migosi Odundo ne okone nyakalondo mar [ Ramogi ] ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima , kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+      "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima , kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag [ Got Nanga ] kod Weyni mane osengado",
+      "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima , kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod [ Weyni ] mane osengado"
+    ]
+  },
+  {
+    "template": "E ote mane oor ne ute fwambo , bad migao mar thieth olero ni jii 169 owe thuolo odok pacho bang chango .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "This was announced by the deputy head of the health department in [ Turkey, ] Dr. Mercy Mwangangi, who said that the number of cases was 796 out of 6,754 people tested in the last 24 hours.",
+      "This was announced by the deputy head of the health department in Turkey, Dr. [ Mercy Mwangangi, ] who said that the number of cases was 796 out of 6,754 people tested in the last 24 hours."
+    ],
+    "template": "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e thurka laktar Mercy Mwangangi mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo",
+    "tgt_lang": [
+      "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e [ thurka ] laktar Mercy Mwangangi mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo",
+      "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e thurka laktar [ Mercy Mwangangi ] mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo"
+    ],
+    "r_logp_score": [
+      13.45293140411377,
+      21.31781768798828
+    ],
+    "score": [
+      -145.01573181152344,
+      -142.29652404785156
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e [ thurka ] laktar Mercy Mwangangi mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo",
+      "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e thurka laktar [ Mercy Mwangangi ] mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo"
+    ]
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "The dock was closed even after the [ Doho ] store in the home of David Maraga gave permission to open the facilities after it was discovered that 11 workers at the dock had been smuggling drumsticks and toiletries to the smokers.",
+      "The dock was closed even after the Doho store in the home of [ David Maraga ] gave permission to open the facilities after it was discovered that 11 workers at the dock had been smuggling drumsticks and toiletries to the smokers."
+    ],
+    "template": "Doho no ne ochak olor kata bang ogai mar Doho e pachoka David Maraga chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo .",
+    "tgt_lang": [
+      "Doho no ne ochak olor kata bang ogai mar [ Doho ] e pachoka David Maraga chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo.",
+      "Doho no ne ochak olor kata bang ogai mar Doho e pachoka [ David Maraga ] chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo."
+    ],
+    "r_logp_score": [
+      14.018081665039062,
+      4.690299987792969
+    ],
+    "score": [
+      -227.20925903320312,
+      -225.28759765625
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Doho no ne ochak olor kata bang ogai mar [ Doho ] e pachoka David Maraga chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo .",
+      "Doho no ne ochak olor kata bang ogai mar Doho e pachoka [ David Maraga ] chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo ."
+    ]
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "Migosi [ Raila ] said that MCAS has shamed the people with their constant wars instead of serving the people who elected them.",
+      "Migosi Raila said that [ MCAS ] has shamed the people with their constant wars instead of serving the people who elected them."
+    ],
+    "template": "Migosi Raila nowacho ni MCAS osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi",
+    "tgt_lang": [
+      "Migosi [ Raila ] nowacho ni MCAS osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi",
+      "Migosi Raila nowacho ni [ MCAS ] osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi"
+    ],
+    "r_logp_score": [
+      1.3881988525390625,
+      4.770377159118652
+    ],
+    "score": [
+      -74.39682006835938,
+      -74.57099151611328
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Migosi [ Raila ] nowacho ni MCAS osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi",
+      "Migosi Raila nowacho ni [ MCAS ] osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi"
+    ]
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "Commenting on the matter, Deputy Director General of the [ Ministry of Foreign Affairs ] Victor Bwire said that the action was taken after the revelations that there is an increase in the number of journalists and the number of abductions.",
+      "Commenting on the matter, Deputy Director General of the Ministry of Foreign Affairs [ Victor Bwire ] said that the action was taken after the revelations that there is an increase in the number of journalists and the number of abductions."
+    ],
+    "template": "Kanowuoyo ewii wachno jalup jataa tije e duondno migosi Victor Bwire nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila",
+    "tgt_lang": [
+      "Kanowuoyo ewii wachno jalup jataa tije [ e duondno ] migosi Victor Bwire nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila",
+      "Kanowuoyo ewii wachno jalup jataa tije e duondno migosi [ Victor Bwire ] nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila"
+    ],
+    "r_logp_score": [
+      20.116140365600586,
+      2.3451247215270996
+    ],
+    "score": [
+      -201.16302490234375,
+      -194.89027404785156
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Kanowuoyo ewii wachno jalup jataa tije [ e duondno ] migosi Victor Bwire nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila",
+      "Kanowuoyo ewii wachno jalup jataa tije e duondno migosi [ Victor Bwire ] nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila"
+    ]
+  },
+  {
+    "idx": 6,
+    "src_lang": [
+      "The [ Association of Home Nurses ] has submitted its 21st petition to the state and county governments to put into practice the agreement they made in their call to return to work."
+    ],
+    "template": "Riwruog nurses e pachoka ochiwo notis mar 21 ne piny owacho ma malo gi piny owacho mag counties mondomi gikete tim winjruok mane giketoe e kokgi mar dok etich maka okotimore gibiro bago nganyo .",
+    "tgt_lang": [
+      "[ Riwruog nurses ] e pachoka ochiwo notis mar 21 ne piny owacho ma malo gi piny owacho mag counties mondomi gikete tim winjruok mane giketoe e kokgi mar dok etich maka okotimore gibiro bago nganyo."
+    ],
+    "r_logp_score": [
+      16.388141632080078
+    ],
+    "score": [
+      -252.2751922607422
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Riwruog nurses ] e pachoka ochiwo notis mar 21 ne piny owacho ma malo gi piny owacho mag counties mondomi gikete tim winjruok mane giketoe e kokgi mar dok etich maka okotimore gibiro bago nganyo ."
+    ]
+  },
+  {
+    "template": "Gi e kindeno jotuo mok 2 owito ngimagi gi tuo makochno .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Ringre ja sekondar pod imanyo",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "Local leader [ Joel Otieno ] discovers that he was accidentally stabbed in the stomach by another student during a soccer game after the fifth exam and runs away with him to the hospital in Rodi to where his father took him to the homabay county teaching and referal hospital in Ongielo where he escaped.",
+      "Local leader Joel Otieno discovers that he was accidentally stabbed in the stomach by another student during a soccer game after the fifth exam and runs away with him to the hospital in [ Rodi ] to where his father took him to the homabay county teaching and referal hospital in Ongielo where he escaped.",
+      "Local leader Joel Otieno discovers that he was accidentally stabbed in the stomach by another student during a soccer game after the fifth exam and runs away with him to the hospital in Rodi to where his father took him to the homabay county teaching and referal hospital in [ Ongielo ] where he escaped."
+    ],
+    "template": "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo .",
+    "tgt_lang": [
+      "Ruoth ma gwenge go [ Joel Otieno ] yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo.",
+      "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma [ rodi ] kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo.",
+      "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma [ Ongielo ]e orengo."
+    ],
+    "r_logp_score": [
+      14.24574089050293,
+      6.259668350219727,
+      20.118120193481445
+    ],
+    "score": [
+      -229.1284637451172,
+      -231.52386474609375,
+      -226.29074096679688
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ruoth ma gwenge go [ Joel Otieno ] yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo .",
+      "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma [ rodi ] kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo .",
+      "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma [ Ongieloe ] orengo ."
+    ]
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "which is after the committee representing the law and punishment at the bottom of the odm cave dropped the proposal to expel the incumbent MP [ Aisha Jumwa ] and Msambweni MP Suleiman Dori over allegations of non-compliance with ODM rules and backing power",
+      "which is after the committee representing the law and punishment at the bottom of the odm cave dropped the proposal to expel the incumbent MP Aisha Jumwa and [ Msambweni ] MP Suleiman Dori over allegations of non-compliance with ODM rules and backing power",
+      "which is after the committee representing the law and punishment at the bottom of the odm cave dropped the proposal to expel the incumbent MP Aisha Jumwa and Msambweni MP [ Suleiman Dori ] over allegations of non-compliance with ODM rules and backing power",
+      "which is after the committee representing the law and punishment at the bottom of the odm cave dropped the proposal to expel the incumbent MP Aisha Jumwa and Msambweni MP Suleiman Dori over allegations of non-compliance with [ ODM ] rules and backing power"
+    ],
+    "template": "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+    "tgt_lang": [
+      "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi [ Aisha Jumwa ] kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+      "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma [ Msambweni ] Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+      "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni [ Suleiman Dori ] kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+      "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag [ ODM ] kendo bedo gi tok teko"
+    ],
+    "r_logp_score": [
+      3.820824146270752,
+      23.86253547668457,
+      6.7327704429626465,
+      4.786200523376465
+    ],
+    "score": [
+      -165.0421142578125,
+      -166.48451232910156,
+      -161.87826538085938,
+      -164.26361083984375
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi [ Aisha Jumwa ] kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+      "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma [ Msambweni ] Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+      "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni [ Suleiman Dori ] kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+      "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag [ ODM ] kendo bedo gi tok teko"
+    ]
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "[ Ngwele ] has been out of the race since November last year when Elachi wrote to the EACC that he was wrongly elected.",
+      "Ngwele has been out of the race since November last year when [ Elachi ] wrote to the EACC that he was wrongly elected.",
+      "Ngwele has been out of the race since November last year when Elachi wrote to the [ EACC ] that he was wrongly elected."
+    ],
+    "template": "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare .",
+    "tgt_lang": [
+      "[ Ngwele ] osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare.",
+      "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka [ Elachi ] nondiko ne EACC ni noyiere e yoo maok ni kare.",
+      "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne [ EACC ] ni noyiere e yoo maok ni kare."
+    ],
+    "r_logp_score": [
+      14.313641548156738,
+      4.491494178771973,
+      3.624835968017578
+    ],
+    "score": [
+      -70.6495361328125,
+      -69.85812377929688,
+      -70.35530090332031
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Ngwele ] osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare .",
+      "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka [ Elachi ] nondiko ne EACC ni noyiere e yoo maok ni kare .",
+      "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne [ EACC ] ni noyiere e yoo maok ni kare ."
+    ]
+  },
+  {
+    "idx": 12,
+    "src_lang": [
+      "[ Obila ] in the sub-county of Bondo has denied some allegations from the authorities that they are taking advantage of the ongoing rainy season and taking bribes from matatu owners and border guards.",
+      "Obila in the sub-county of [ Bondo ] has denied some allegations from the authorities that they are taking advantage of the ongoing rainy season and taking bribes from matatu owners and border guards."
+    ],
+    "template": "Obila e subcounty ma Bondo okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo bodaboda .",
+    "tgt_lang": [
+      "[ Obila ] e subcounty ma Bondo okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo bodaboda.",
+      "Obila e subcounty ma [ Bondo ] okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo bodaboda."
+    ],
+    "r_logp_score": [
+      3.8913440704345703,
+      16.271150588989258
+    ],
+    "score": [
+      -133.281494140625,
+      -136.2740936279297
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Obila ] e subcounty ma Bondo okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo bodaboda .",
+      "Obila e subcounty ma [ Bondo ] okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo bodaboda ."
+    ]
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "The student, identified as [ Javan Onyango, ] sustained a spinal cord injury while playing football with his teammates in the school's stadium."
+    ],
+    "template": "japuonjreno ma oyangi kaka Javan Onyango ne oyudo hinyruok e bund iy e kinde maneotugo kod jowetene opira e pap mar skundno .",
+    "tgt_lang": [
+      "japuonjreno ma oyangi kaka [ Javan Onyango ] ne oyudo hinyruok e bund iy e kinde maneotugo kod jowetene opira e pap mar skundno."
+    ],
+    "r_logp_score": [
+      24.60078239440918
+    ],
+    "score": [
+      -89.36237335205078
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "japuonjreno ma oyangi kaka [ Javan Onyango ] ne oyudo hinyruok e bund iy e kinde maneotugo kod jowetene opira e pap mar skundno ."
+    ]
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "This is after 2 MCAs wanted [ Homabay ] was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to [ Kisumu ] there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to [ Kisumu; ] the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of [ Kanyidoto ] Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto [ Walter Were Muok ] who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the [ Homabay ] parliament and the MCA of Central Karachuonyo Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of [ Central Karachuonyo ] Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo [ Julius Gaya. ]"
+    ],
+    "template": "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya .",
+    "tgt_lang": [
+      "Maa en bang' ka MCAs 2 manyo omaki [ Homabay ] bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e [ Kisumu ] kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e [ tesend obila ma Kisumu ; ] mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma [ Kanyidoto ] Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto [ Walter Were Muok ] ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma [ Homabay ] kod MCA ma Central Karachuonyo Julius Gaya.",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma [ Central Karachuonyo ] Julius Gaya.",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo [ Julius Gaya ]."
+    ],
+    "r_logp_score": [
+      3.7867419719696045,
+      12.196083068847656,
+      17.1339111328125,
+      28.194875717163086,
+      14.807929039001465,
+      3.786741256713867,
+      3.327615261077881,
+      15.53924560546875
+    ],
+    "score": [
+      -162.2385711669922,
+      -169.73348999023438,
+      -155.25576782226562,
+      -171.32508850097656,
+      -166.68946838378906,
+      -170.62930297851562,
+      -170.4192657470703,
+      -164.89846801757812
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Maa en bang' ka MCAs 2 manyo omaki [ Homabay ] bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya .",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e [ Kisumu ] kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya .",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e [ tesend obila ma Kisumu ; ] mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya .",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma [ Kanyidoto ] Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya .",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto [ Walter Were Muok ] ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya .",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma [ Homabay ] kod MCA ma Central Karachuonyo Julius Gaya .",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma [ Central Karachuonyo ] Julius Gaya .",
+      "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo [ Julius Gaya ] ."
+    ]
+  },
+  {
+    "template": "Kwan jii moyudi ni nikod tuo mar Coronavirus ei kawuononi gin jii 637",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "[ Oguk ] says that they have noticed that people now only buy medicines in pharmacies while others visit our sisters in the countryside to seek treatment."
+    ],
+    "template": "Oguk wacho ni gisefwenyo ni jii sani thoro mana ng' iew yien e kuonde uso yedhe ka mamoko to limo nyamrerwa mae kor gwenge ka gimanyo thieth .",
+    "tgt_lang": [
+      "[ Oguk ] wacho ni gisefwenyo ni jii sani thoro mana ng' iew yien e kuonde uso yedhe ka mamoko to limo nyamrerwa mae kor gwenge ka gimanyo thieth."
+    ],
+    "r_logp_score": [
+      19.191728591918945
+    ],
+    "score": [
+      -134.21034240722656
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Oguk ] wacho ni gisefwenyo ni jii sani thoro mana ng' iew yien e kuonde uso yedhe ka mamoko to limo nyamrerwa mae kor gwenge ka gimanyo thieth ."
+    ]
+  },
+  {
+    "template": "JII 960 OYUDO KORONA",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "The people of [ Kakrao Ward ] Sub County of Suna East in Migori County are now more bitter than the government of their county and the elected officials of their village there for neglecting them, saying that their villages have been lagging behind in matters of equality for centuries.",
+      "The people of Kakrao Ward Sub County of [ Suna East ] in Migori County are now more bitter than the government of their county and the elected officials of their village there for neglecting them, saying that their villages have been lagging behind in matters of equality for centuries.",
+      "The people of Kakrao Ward Sub County of Suna East in [ Migori County ] are now more bitter than the government of their county and the elected officials of their village there for neglecting them, saying that their villages have been lagging behind in matters of equality for centuries."
+    ],
+    "template": "Jo Kakrao Ward Sub County ma Suna East e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+    "tgt_lang": [
+      "Jo [ Kakrao Ward ] Sub County ma Suna East e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+      "Jo Kakrao Ward Sub County ma [ Suna East ] e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+      "Jo Kakrao Ward Sub County ma Suna East e [ County ] ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro"
+    ],
+    "r_logp_score": [
+      5.86967658996582,
+      8.456827163696289,
+      28.149412155151367
+    ],
+    "score": [
+      -174.67913818359375,
+      -174.86866760253906,
+      -188.92965698242188
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Jo [ Kakrao Ward ] Sub County ma Suna East e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+      "Jo Kakrao Ward Sub County ma [ Suna East ] e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+      "Jo Kakrao Ward Sub County ma Suna East e [ County ] ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro"
+    ]
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "This is according to a medical consultant in the county of [ James Oguk. ]"
+    ],
+    "template": "Maeri en kaluwore g apisa moro mar thieth e countino James Oguk .",
+    "tgt_lang": [
+      "Maeri en kaluwore g apisa moro mar thieth e countino [ James Oguk ]."
+    ],
+    "r_logp_score": [
+      11.267534255981445
+    ],
+    "score": [
+      -64.17015838623047
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Maeri en kaluwore g apisa moro mar thieth e countino [ James Oguk ] ."
+    ]
+  },
+  {
+    "template": "Kwan jii maromo 796 mane oyudi ni nigi Covid - 19 ei kawuononi",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "The chairman of the [ ODM ] board of directors Raila Amolo Odinga has today blamed the MCAS for abusing the state-appointed development ministries",
+      "The chairman of the ODM board of directors [ Raila Amolo Odinga ] has today blamed the MCAS for abusing the state-appointed development ministries",
+      "The chairman of the ODM board of directors Raila Amolo Odinga has today blamed the [ MCAS ] for abusing the state-appointed development ministries"
+    ],
+    "template": "Jatend duond bura mar ODM migosi Raila Amolo Odinga kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+    "tgt_lang": [
+      "Jatend duond bura mar [ ODM ] migosi Raila Amolo Odinga kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+      "Jatend duond bura mar ODM migosi [ Raila Amolo Odinga ] kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+      "Jatend duond bura mar ODM migosi Raila Amolo Odinga kawuono oseyo malit mokalo [ MCAS ] kuom tiyo marach gi omenda jopiny moketi mag weche dongruok"
+    ],
+    "r_logp_score": [
+      4.786200523376465,
+      14.83102035522461,
+      4.770377159118652
+    ],
+    "score": [
+      -89.50798797607422,
+      -96.12977600097656,
+      -91.38045501708984
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Jatend duond bura mar [ ODM ] migosi Raila Amolo Odinga kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+      "Jatend duond bura mar ODM migosi [ Raila Amolo Odinga ] kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+      "Jatend duond bura mar ODM migosi Raila Amolo Odinga kawuono oseyo malit mokalo [ MCAS ] kuom tiyo marach gi omenda jopiny moketi mag weche dongruok"
+    ]
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "praised President [ Kenyatta ] for the measures taken by his government to fight corruption and urged him to do so without prejudice."
+    ],
+    "template": "ne opuoyo Ker Kenyatta kuom okenge ma piny owacho mare osekao mar kedo gi mibadhi ka okwaye mondo otime ma ok odewo ngato angata .",
+    "tgt_lang": [
+      "ne opuoyo Ker [ Kenyatta ] kuom okenge ma piny owacho mare osekao mar kedo gi mibadhi ka okwaye mondo otime ma ok odewo ngato angata."
+    ],
+    "r_logp_score": [
+      4.991711139678955
+    ],
+    "score": [
+      -96.56118774414062
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "ne opuoyo Ker [ Kenyatta ] kuom okenge ma piny owacho mare osekao mar kedo gi mibadhi ka okwaye mondo otime ma ok odewo ngato angata ."
+    ]
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "On the other hand, seven other doctors who work in the board of health insurance of [ NHIF ] have also been arrested."
+    ],
+    "template": "To kumachielo bende apisas mamoko 7 ma jotiyo e board mochungne insurance mar thieth ka NHIF bende nyo omaki",
+    "tgt_lang": [
+      "To kumachielo bende apisas mamoko 7 ma jotiyo e board mochungne insurance mar thieth ka [ NHIF ] bende nyo omaki"
+    ],
+    "r_logp_score": [
+      8.821090698242188
+    ],
+    "score": [
+      -97.9538803100586
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "To kumachielo bende apisas mamoko 7 ma jotiyo e board mochungne insurance mar thieth ka [ NHIF ] bende nyo omaki"
+    ]
+  },
+  {
+    "template": "oketinegi to nyochane gineno ni gikau jii manyien emane gikawoe jagono ni to ne pok",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 25,
+    "src_lang": [
+      "According to the [ Ministry of Health, ] this brings the total number of cases to 17,603."
+    ],
+    "template": "Bad migao mar thieth olero ni mano koro kelo kwan jii moseyudo tuono chopo 17 , 603 .",
+    "tgt_lang": [
+      "Bad [ migao mar thieth olero ni ] mano koro kelo kwan jii moseyudo tuono chopo 17, 603."
+    ],
+    "r_logp_score": [
+      12.603264808654785
+    ],
+    "score": [
+      -76.6136245727539
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Bad [ migao mar thieth olero ni ] mano koro kelo kwan jii moseyudo tuono chopo 17 , 603 ."
+    ]
+  },
+  {
+    "idx": 26,
+    "src_lang": [
+      "Governor [ Migori Okoli Obado ] may smile after Kibra releases him with a 500 thousand shilling ransom.",
+      "Governor Migori Okoli Obado may smile after [ Kibra ] releases him with a 500 thousand shilling ransom."
+    ],
+    "template": "Gavana ma Migori migosi Okoth Obado nyalo buonjo bang doho ma Kibra weye thuolo gi rambun mar silings gana 500 .",
+    "tgt_lang": [
+      "Gavana ma Migori [ migosi Okoth Obado ] nyalo buonjo bang doho ma Kibra weye thuolo gi rambun mar silings gana 500.",
+      "Gavana ma Migori migosi Okoth Obado nyalo buonjo bang doho ma [ Kibra ] weye thuolo gi rambun mar silings gana 500."
+    ],
+    "r_logp_score": [
+      59.127960205078125,
+      5.289366722106934
+    ],
+    "score": [
+      -117.16304016113281,
+      -114.6950454711914
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Gavana ma Migori [ migosi Okoth Obado ] nyalo buonjo bang doho ma Kibra weye thuolo gi rambun mar silings gana 500 .",
+      "Gavana ma Migori migosi Okoth Obado nyalo buonjo bang doho ma [ Kibra ] weye thuolo gi rambun mar silings gana 500 ."
+    ]
+  },
+  {
+    "idx": 27,
+    "src_lang": [
+      "Speaking live on television from the [ Afya House ] in Nairobi, Dr Aman also announced that 10 people have died today, bringing the total number of deaths in the country to 260.",
+      "Speaking live on television from the Afya House in [ Nairobi, ] Dr Aman also announced that 10 people have died today, bringing the total number of deaths in the country to 260.",
+      "Speaking live on television from the Afya House in Nairobi, Dr [ Aman ] also announced that 10 people have died today, bringing the total number of deaths in the country to 260."
+    ],
+    "template": "Kanowuoyo gi jopiny kachiel kachiel e tipo mar telebisen kowuok Afya House e boma ma Nairobika laktar Aman bende ne oyango ni nitie jii 10 mane tuono olal gi ngimagi ei kawuononi makoro kelo kwan jogo duto ma tuono osenego e thurka chopo jii 260",
+    "tgt_lang": [
+      "Kanowuoyo gi jopiny kachiel kachiel e tipo mar telebisen kowuok [ Afya House ] e boma ma Nairobika laktar Aman bende ne oyango ni nitie jii 10 mane tuono olal gi ngimagi ei kawuononi makoro kelo kwan jogo duto ma tuono osenego e thurka chopo jii 260",
+      "Kanowuoyo gi jopiny kachiel kachiel e tipo mar telebisen kowuok Afya House e boma ma [ Nairobika ] laktar Aman bende ne oyango ni nitie jii 10 mane tuono olal gi ngimagi ei kawuononi makoro kelo kwan jogo duto ma tuono osenego e thurka chopo jii 260",
+      "Kanowuoyo gi jopiny kachiel kachiel e tipo mar telebisen kowuok Afya House e boma ma Nairobika laktar [ Aman ] bende ne oyango ni nitie jii 10 mane tuono olal gi ngimagi ei kawuononi makoro kelo kwan jogo duto ma tuono osenego e thurka chopo jii 260"
+    ],
+    "r_logp_score": [
+      19.396982192993164,
+      15.38839340209961,
+      4.868087291717529
+    ],
+    "score": [
+      -198.91067504882812,
+      -198.69744873046875,
+      -200.91136169433594
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Kanowuoyo gi jopiny kachiel kachiel e tipo mar telebisen kowuok [ Afya House ] e boma ma Nairobika laktar Aman bende ne oyango ni nitie jii 10 mane tuono olal gi ngimagi ei kawuononi makoro kelo kwan jogo duto ma tuono osenego e thurka chopo jii 260",
+      "Kanowuoyo gi jopiny kachiel kachiel e tipo mar telebisen kowuok Afya House e boma ma [ Nairobika ] laktar Aman bende ne oyango ni nitie jii 10 mane tuono olal gi ngimagi ei kawuononi makoro kelo kwan jogo duto ma tuono osenego e thurka chopo jii 260",
+      "Kanowuoyo gi jopiny kachiel kachiel e tipo mar telebisen kowuok Afya House e boma ma Nairobika laktar [ Aman ] bende ne oyango ni nitie jii 10 mane tuono olal gi ngimagi ei kawuononi makoro kelo kwan jogo duto ma tuono osenego e thurka chopo jii 260"
+    ]
+  },
+  {
+    "template": "Oppositon pod ochung kar tiende",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 29,
+    "src_lang": [
+      "[ Doho ] leaves the governor Obado with the rambun",
+      "Doho leaves the governor [ Obado ] with the rambun"
+    ],
+    "template": "Doho oweyo thuolo gavana Obado gi rambun",
+    "tgt_lang": [
+      "[ Doho ] oweyo thuolo gavana Obado gi rambun",
+      "Doho oweyo thuolo gavana [ Obado ] gi rambun"
+    ],
+    "r_logp_score": [
+      14.018081665039062,
+      18.458934783935547
+    ],
+    "score": [
+      -25.355730056762695,
+      -30.425037384033203
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Doho ] oweyo thuolo gavana Obado gi rambun",
+      "Doho oweyo thuolo gavana [ Obado ] gi rambun"
+    ]
+  },
+  {
+    "idx": 30,
+    "src_lang": [
+      "He said that their so-called \"Building Bridges Initiative\" is now being implemented in all parts of [ Kenya, ] gathering the world's attention on how to solve the problems of government corruption."
+    ],
+    "template": "Nowacho ni winjruok margi mongére kaka Building Bridges Initiative sani luorore e tung Kenya mangima ka choko pach jopiny ewii kaka inyalotieko weche mag jotelo chamo pes jopinygo",
+    "tgt_lang": [
+      "Nowacho ni winjruok margi mongére kaka Building Bridges Initiative sani luorore e tung [ Kenya ] mangima ka choko pach jopiny ewii kaka inyalotieko weche mag jotelo chamo pes jopinygo"
+    ],
+    "r_logp_score": [
+      7.649506568908691
+    ],
+    "score": [
+      -162.3426513671875
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Nowacho ni winjruok margi mongére kaka Building Bridges Initiative sani luorore e tung [ Kenya ] mangima ka choko pach jopiny ewii kaka inyalotieko weche mag jotelo chamo pes jopinygo"
+    ]
+  },
+  {
+    "template": "Japuonjre ma jahigni 17 manetimo penj mar KCSE ongielo orengo",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 32,
+    "src_lang": [
+      "41-year-old man arrested for stealing from [ Ugenya ] power plant"
+    ],
+    "template": "Jago ma jahigni 41 ne omaki ka okwalo weyni mag keyo teko stima Ugenya",
+    "tgt_lang": [
+      "Jago ma jahigni 41 ne omaki ka okwalo weyni mag keyo teko stima [ Ugenya ]"
+    ],
+    "r_logp_score": [
+      5.591462135314941
+    ],
+    "score": [
+      -74.55905151367188
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Jago ma jahigni 41 ne omaki ka okwalo weyni mag keyo teko stima [ Ugenya ]"
+    ]
+  },
+  {
+    "template": "ne owacho ni giseketo okenge to kod chenmro makare mar chiwo kum ne jogo mabiro ketho chike mag apaya",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 34,
+    "src_lang": [
+      "Prosecutor [ Kibra Joyce Gandani ] was told there was not enough evidence from the witches to extend the ban on his release for 2 weeks as they wanted..."
+    ],
+    "template": "Jangad buche edoho ma Kibra Joyce Gandani ne okoni onge neno moromo mane ochiw gi jomin wach eloo piny manyalo miyo mmed gengne migosi Obado kuom thuolo mar jumbe 2 kaka ne gidwaro . .",
+    "tgt_lang": [
+      "Jangad buche [ edoho ma Kibra Joyce Gandani ] ne okoni onge neno moromo mane ochiw gi jomin wach eloo piny manyalo miyo mmed gengne migosi Obado kuom thuolo mar jumbe 2 kaka ne gidwaro.."
+    ],
+    "r_logp_score": [
+      20.006864547729492
+    ],
+    "score": [
+      -234.17919921875
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Jangad buche [ edoho ma Kibra Joyce Gandani ] ne okoni onge neno moromo mane ochiw gi jomin wach eloo piny manyalo miyo mmed gengne migosi Obado kuom thuolo mar jumbe 2 kaka ne gidwaro . ."
+    ]
+  },
+  {
+    "idx": 35,
+    "src_lang": [
+      "The Mcas are [ Evans Marieba, ] from Gwasi North, Phelimon Onditi (Kagan), Dan Were (Kakelo Kokwanawa), Paul Wamunga (North Karachuonyo ward), and the Mca Sunny ward Peter Kaula.",
+      "The Mcas are Evans Marieba, from [ Gwasi North, ] Phelimon Onditi (Kagan), Dan Were (Kakelo Kokwanawa), Paul Wamunga (North Karachuonyo ward), and the Mca Sunny ward Peter Kaula.",
+      "The Mcas are Evans Marieba, from Gwasi North, [ Phelimon Onditi ] (Kagan), Dan Were (Kakelo Kokwanawa), Paul Wamunga (North Karachuonyo ward), and the Mca Sunny ward Peter Kaula.",
+      "The Mcas are Evans Marieba, from Gwasi North, Phelimon Onditi (Kagan), [ Dan Were ] (Kakelo Kokwanawa), Paul Wamunga (North Karachuonyo ward), and the Mca Sunny ward Peter Kaula.",
+      "The Mcas are Evans Marieba, from Gwasi North, Phelimon Onditi (Kagan), Dan Were (Kakelo Kokwanawa), [ Paul Wamunga ] (North Karachuonyo ward), and the Mca Sunny ward Peter Kaula.",
+      "The Mcas are Evans Marieba, from Gwasi North, Phelimon Onditi (Kagan), Dan Were (Kakelo Kokwanawa), Paul Wamunga (North Karachuonyo ward), and the [ Mca Sunny ] ward Peter Kaula.",
+      "The Mcas are Evans Marieba, from Gwasi North, Phelimon Onditi (Kagan), Dan Were (Kakelo Kokwanawa), Paul Wamunga (North Karachuonyo ward), and the Mca Sunny ward [ Peter Kaula. ]"
+    ],
+    "template": "Mcas gin Evans Marieba , ma Gwasi North , Phelimon Onditi ( Kagan ) , Dan Were ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ) , kod Mca ma Wang' chieng ward Peter Kaula .",
+    "tgt_lang": [
+      "Mcas gin [ Evans Marieba, ] ma Gwasi North, Phelimon Onditi ( Kagan ), Dan Were ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ), kod Mca ma Wang' chieng ward Peter Kaula.",
+      "Mcas gin Evans Marieba, ma [ Gwasi North, ] Phelimon Onditi ( Kagan ), Dan Were ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ), kod Mca ma Wang' chieng ward Peter Kaula.",
+      "Mcas gin Evans Marieba, ma Gwasi North, [ Phelimon Onditi ] ( Kagan ), Dan Were ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ), kod Mca ma Wang' chieng ward Peter Kaula.",
+      "Mcas gin Evans Marieba, ma Gwasi North, Phelimon Onditi ( Kagan ), [ Dan Were ] ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ), kod Mca ma Wang' chieng ward Peter Kaula.",
+      "Mcas gin Evans Marieba, ma Gwasi North, Phelimon Onditi ( Kagan ), Dan Were ( Kakelo Kokwanyo ) [ Paul Wamunga ] ( North Karachuonyo ward ), kod Mca ma Wang' chieng ward Peter Kaula.",
+      "Mcas gin Evans Marieba, ma Gwasi North, Phelimon Onditi ( Kagan ), Dan Were ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ), kod [ Mca ma Wang' chieng ] ward Peter Kaula.",
+      "Mcas gin Evans Marieba, ma Gwasi North, Phelimon Onditi ( Kagan ), Dan Were ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ), kod Mca ma Wang' chieng ward [ Peter Kaula ]."
+    ],
+    "r_logp_score": [
+      8.041983604431152,
+      26.541545867919922,
+      18.924510955810547,
+      3.0327956676483154,
+      10.236974716186523,
+      37.75539779663086,
+      9.669633865356445
+    ],
+    "score": [
+      -126.064208984375,
+      -120.52766418457031,
+      -125.4408950805664,
+      -126.48328399658203,
+      -123.93177795410156,
+      -122.7211685180664,
+      -125.46868133544922
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Mcas gin [ Evans Marieba , ] ma Gwasi North , Phelimon Onditi ( Kagan ) , Dan Were ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ) , kod Mca ma Wang' chieng ward Peter Kaula .",
+      "Mcas gin Evans Marieba , ma [ Gwasi North , ] Phelimon Onditi ( Kagan ) , Dan Were ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ) , kod Mca ma Wang' chieng ward Peter Kaula .",
+      "Mcas gin Evans Marieba , ma Gwasi North , [ Phelimon Onditi ] ( Kagan ) , Dan Were ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ) , kod Mca ma Wang' chieng ward Peter Kaula .",
+      "Mcas gin Evans Marieba , ma Gwasi North , Phelimon Onditi ( Kagan ) , [ Dan Were ] ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ) , kod Mca ma Wang' chieng ward Peter Kaula .",
+      "Mcas gin Evans Marieba , ma Gwasi North , Phelimon Onditi ( Kagan ) , Dan Were ( Kakelo Kokwanyo ) [ Paul Wamunga ] ( North Karachuonyo ward ) , kod Mca ma Wang' chieng ward Peter Kaula .",
+      "Mcas gin Evans Marieba , ma Gwasi North , Phelimon Onditi ( Kagan ) , Dan Were ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ) , kod [ Mca ma Wang' chieng ] ward Peter Kaula .",
+      "Mcas gin Evans Marieba , ma Gwasi North , Phelimon Onditi ( Kagan ) , Dan Were ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ) , kod Mca ma Wang' chieng ward [ Peter Kaula ] ."
+    ]
+  },
+  {
+    "idx": 36,
+    "src_lang": [
+      "He said that [ MCAS ] only knows how to take a few rats that can use the county's money instead of serving the people"
+    ],
+    "template": "Nowacho ni gima MCAS ongéyo en mana ngíyo rode moko ma ginyalochamo godo pes county kar tiyone jopiny",
+    "tgt_lang": [
+      "Nowacho ni gima [ MCAS ] ongéyo en mana ngíyo rode moko ma ginyalochamo godo pes county kar tiyone jopiny"
+    ],
+    "r_logp_score": [
+      4.7703704833984375
+    ],
+    "score": [
+      -104.34367370605469
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Nowacho ni gima [ MCAS ] ongéyo en mana ngíyo rode moko ma ginyalochamo godo pes county kar tiyone jopiny"
+    ]
+  },
+  {
+    "template": "ONDIEK ONEGO JAMNI OCHIKO",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 38,
+    "src_lang": [
+      "Speaking about the matter, [ Mikai Oido ] said that the mines have not been working because they are still trying to meet the regulations to keep the mines open and now they are taking the time to call the medical apologists in Homa Bay County in the afternoon to compare their old employees with the new ones who sent a request to be fired.",
+      "Speaking about the matter, Mikai Oido said that the mines have not been working because they are still trying to meet the regulations to keep the mines open and now they are taking the time to call the medical apologists in [ Homa Bay County ] in the afternoon to compare their old employees with the new ones who sent a request to be fired."
+    ],
+    "template": "Kanomedowuoyo ewii wachno mikai Oido nowacho ni magawa margino ok osebedo katiyo nikech pod ne gitemo mondo gichop chike mane oketigo mondo ekane giyepi ema koro nyochane gikawoe thuolo mar luongo apisas mochungne yoore thieth e County ma Homa Bay kuno chieng wuok tich mondo ne jobi opim jotijgi machon kod mane gikao manyien go mane jooro kwayo ni ne duaro tich kargi",
+    "tgt_lang": [
+      "Kanomedowuoyo ewii wachno [ mikai Oido ] nowacho ni magawa margino ok osebedo katiyo nikech pod ne gitemo mondo gichop chike mane oketigo mondo ekane giyepi ema koro nyochane gikawoe thuolo mar luongo apisas mochungne yoore thieth e County ma Homa Bay kuno chieng wuok tich mondo ne jobi opim jotijgi machon kod mane gikao manyien go mane jooro kwayo ni ne duaro tich kargi",
+      "Kanomedowuoyo ewii wachno mikai Oido nowacho ni magawa margino ok osebedo katiyo nikech pod ne gitemo mondo gichop chike mane oketigo mondo ekane giyepi ema koro nyochane gikawoe thuolo mar luongo apisas mochungne yoore thieth e [ County ma Homa Bay ] kuno chieng wuok tich mondo ne jobi opim jotijgi machon kod mane gikao manyien go mane jooro kwayo ni ne duaro tich kargi"
+    ],
+    "r_logp_score": [
+      10.387256622314453,
+      1.5131415128707886
+    ],
+    "score": [
+      -397.5133056640625,
+      -394.6487731933594
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Kanomedowuoyo ewii wachno [ mikai Oido ] nowacho ni magawa margino ok osebedo katiyo nikech pod ne gitemo mondo gichop chike mane oketigo mondo ekane giyepi ema koro nyochane gikawoe thuolo mar luongo apisas mochungne yoore thieth e County ma Homa Bay kuno chieng wuok tich mondo ne jobi opim jotijgi machon kod mane gikao manyien go mane jooro kwayo ni ne duaro tich kargi",
+      "Kanomedowuoyo ewii wachno mikai Oido nowacho ni magawa margino ok osebedo katiyo nikech pod ne gitemo mondo gichop chike mane oketigo mondo ekane giyepi ema koro nyochane gikawoe thuolo mar luongo apisas mochungne yoore thieth e [ County ma Homa Bay ] kuno chieng wuok tich mondo ne jobi opim jotijgi machon kod mane gikao manyien go mane jooro kwayo ni ne duaro tich kargi"
+    ]
+  },
+  {
+    "idx": 39,
+    "src_lang": [
+      "The governing body of the media houses also known as [ The ] Media Council of Kenya is now organizing a special communication between the media houses and the media houses as a way to ensure a good working relationship between the two groups to ensure that they can serve the congregation.",
+      "The governing body of the media houses also known as The [ Media Council of Kenya ] is now organizing a special communication between the media houses and the media houses as a way to ensure a good working relationship between the two groups to ensure that they can serve the congregation."
+    ],
+    "template": "Duol matayo ute fwambo mapachoka mabende ongére kaka The Media Council of Kenya koro jochano bago lalruok makende e kind apisas mag obila kod ute fwambo mathurka kaka yoo mar neno ni winjruok maber obedo e kind kweth ariyogo mar neno ni ginyalotiyo kanyakla",
+    "tgt_lang": [
+      "Duol matayo ute fwambo mapachoka mabende ongére kaka [ The ] Media Council of Kenya koro jochano bago lalruok makende e kind apisas mag obila kod ute fwambo mathurka kaka yoo mar neno ni winjruok maber obedo e kind kweth ariyogo mar neno ni ginyalotiyo kanyakla",
+      "Duol matayo ute fwambo mapachoka mabende ongére kaka The [ Media Council of Kenya ] koro jochano bago lalruok makende e kind apisas mag obila kod ute fwambo mathurka kaka yoo mar neno ni winjruok maber obedo e kind kweth ariyogo mar neno ni ginyalotiyo kanyakla"
+    ],
+    "r_logp_score": [
+      1.5202325582504272,
+      0.6278364062309265
+    ],
+    "score": [
+      -206.22508239746094,
+      -210.28712463378906
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Duol matayo ute fwambo mapachoka mabende ongére kaka [ The ] Media Council of Kenya koro jochano bago lalruok makende e kind apisas mag obila kod ute fwambo mathurka kaka yoo mar neno ni winjruok maber obedo e kind kweth ariyogo mar neno ni ginyalotiyo kanyakla",
+      "Duol matayo ute fwambo mapachoka mabende ongére kaka The [ Media Council of Kenya ] koro jochano bago lalruok makende e kind apisas mag obila kod ute fwambo mathurka kaka yoo mar neno ni winjruok maber obedo e kind kweth ariyogo mar neno ni ginyalotiyo kanyakla"
+    ]
+  },
+  {
+    "idx": 40,
+    "src_lang": [
+      "Speaking about the matter, the manager of the [ Blue Ridge Hotel, ] Hellen Oido, said that they have been hiring new employees and marrying them for the opening of the hotel after the closure of the hotel due to the spread of the Covid-19 pandemic.",
+      "Speaking about the matter, the manager of the Blue Ridge Hotel, [ Hellen Oido, ] said that they have been hiring new employees and marrying them for the opening of the hotel after the closure of the hotel due to the spread of the Covid-19 pandemic."
+    ],
+    "template": "Kanowuoyo ewii wachno jataa tije e magawa ma Blue Ridge Hotelno Hellen Oido nowacho ni gisebedo ka gikao jotich manyien ka gihikore godo ne yepo mar magawano bang lor mane olor godo magawa mapachoka nikech wach landruok mar tuo mar Covid - 19 kowacho ni kakoro nyochane jatend piny Kenya migosi Uhuru Kenyatta ne oyao magawa mathurka kendo mondo jotii e bwo chike mager manyochane",
+    "tgt_lang": [
+      "Kanowuoyo ewii wachno jataa tije e magawa ma [ Blue Ridge Hotel ]no Hellen Oido nowacho ni gisebedo ka gikao jotich manyien ka gihikore godo ne yepo mar magawano bang lor mane olor godo magawa mapachoka nikech wach landruok mar tuo mar Covid - 19 kowacho ni kakoro nyochane jatend piny Kenya migosi Uhuru Kenyatta ne oyao magawa mathurka kendo mondo jotii e bwo chike mager manyochane",
+      "Kanowuoyo ewii wachno jataa tije e magawa ma Blue Ridge Hotelno [ Hellen Oido ] nowacho ni gisebedo ka gikao jotich manyien ka gihikore godo ne yepo mar magawano bang lor mane olor godo magawa mapachoka nikech wach landruok mar tuo mar Covid - 19 kowacho ni kakoro nyochane jatend piny Kenya migosi Uhuru Kenyatta ne oyao magawa mathurka kendo mondo jotii e bwo chike mager manyochane"
+    ],
+    "r_logp_score": [
+      10.130282402038574,
+      12.89857292175293
+    ],
+    "score": [
+      -388.7474670410156,
+      -387.1899719238281
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Kanowuoyo ewii wachno jataa tije e magawa ma [ Blue Ridge Hotelno ] Hellen Oido nowacho ni gisebedo ka gikao jotich manyien ka gihikore godo ne yepo mar magawano bang lor mane olor godo magawa mapachoka nikech wach landruok mar tuo mar Covid - 19 kowacho ni kakoro nyochane jatend piny Kenya migosi Uhuru Kenyatta ne oyao magawa mathurka kendo mondo jotii e bwo chike mager manyochane",
+      "Kanowuoyo ewii wachno jataa tije e magawa ma Blue Ridge Hotelno [ Hellen Oido ] nowacho ni gisebedo ka gikao jotich manyien ka gihikore godo ne yepo mar magawano bang lor mane olor godo magawa mapachoka nikech wach landruok mar tuo mar Covid - 19 kowacho ni kakoro nyochane jatend piny Kenya migosi Uhuru Kenyatta ne oyao magawa mathurka kendo mondo jotii e bwo chike mager manyochane"
+    ]
+  },
+  {
+    "idx": 41,
+    "src_lang": [
+      "The port of [ Mombasa ] today officially began its court proceedings after it was delayed due to the large number of employees who were recently diagnosed with the coronavirus."
+    ],
+    "template": "Doho ma Mombasa kawuono ochako ayanga chenro mage mag winjo buche bang kanyocha olore kaluwore gi kwan mathoth mag jogo matiyo e doho kanyo manyocha oyangi ni neogamo midhusi mar Corona .",
+    "tgt_lang": [
+      "Doho ma [ Mombasa ] kawuono ochako ayanga chenro mage mag winjo buche bang kanyocha olore kaluwore gi kwan mathoth mag jogo matiyo e doho kanyo manyocha oyangi ni neogamo midhusi mar Corona."
+    ],
+    "r_logp_score": [
+      3.232326030731201
+    ],
+    "score": [
+      -159.4062042236328
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Doho ma [ Mombasa ] kawuono ochako ayanga chenro mage mag winjo buche bang kanyocha olore kaluwore gi kwan mathoth mag jogo matiyo e doho kanyo manyocha oyangi ni neogamo midhusi mar Corona ."
+    ]
+  },
+  {
+    "template": "Jatelono mane loso e boma ma Siaya e romo mane obedo godo gi jofuamb weche ne owacho ni lalruok machalo kamano birochakore e higa manyien",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Apisa mag obila mag wangapaya koro omi chik mar chwalo nyime kendo rido chike mag wangapaya e kinde nyasi mar christmas e counties 6 mag nyanza",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 44,
+    "src_lang": [
+      "Child custody overturned the ruling by a mother named [ Mary Kwamboka ] who complained that the justice department's chief justice, David Maraga, refused to take responsibility for the child she claimed to have given birth to.",
+      "Child custody overturned the ruling by a mother named Mary Kwamboka who complained that the justice department's chief justice, [ David Maraga, ] refused to take responsibility for the child she claimed to have given birth to."
+    ],
+    "template": "Doho mar nyithindo owito oko bura ma yande ochwal miyo moro ma nyinge Mary Kwamboka ka ywak ni ogai mar bad migao mar doho justice David Maraga odagi kawo ting' mar nyathi ma owacho ni ne ginyuolo kode .",
+    "tgt_lang": [
+      "Doho mar nyithindo owito oko bura ma yande ochwal miyo moro ma nyinge [ Mary Kwamboka ] ka ywak ni ogai mar bad migao mar doho justice David Maraga odagi kawo ting' mar nyathi ma owacho ni ne ginyuolo kode.",
+      "Doho mar nyithindo owito oko bura ma yande ochwal miyo moro ma nyinge Mary Kwamboka ka ywak ni ogai mar bad migao mar doho justice [ David Maraga ] odagi kawo ting' mar nyathi ma owacho ni ne ginyuolo kode."
+    ],
+    "r_logp_score": [
+      12.05693531036377,
+      12.616233825683594
+    ],
+    "score": [
+      -155.7322235107422,
+      -151.5409698486328
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Doho mar nyithindo owito oko bura ma yande ochwal miyo moro ma nyinge [ Mary Kwamboka ] ka ywak ni ogai mar bad migao mar doho justice David Maraga odagi kawo ting' mar nyathi ma owacho ni ne ginyuolo kode .",
+      "Doho mar nyithindo owito oko bura ma yande ochwal miyo moro ma nyinge Mary Kwamboka ka ywak ni ogai mar bad migao mar doho justice [ David Maraga ] odagi kawo ting' mar nyathi ma owacho ni ne ginyuolo kode ."
+    ]
+  },
+  {
+    "idx": 45,
+    "src_lang": [
+      "The two men, aged 43 and 48, stole the goat from [ Pamela's ] mother's home in Nyakagere Island at around 10am.",
+      "The two men, aged 43 and 48, stole the goat from Pamela's mother's home in [ Nyakagere Island ] at around 10am."
+    ],
+    "template": "Achije 2 go majohigni 43 gi 48 nyoo okwalo dielno manyuok edala mama pamela atieno odindo ei chula ma Nyakagere mayudore enam lolwe kar saa 10 ma kogwen .",
+    "tgt_lang": [
+      "Achije 2 go majohigni 43 gi 48 nyoo okwalo dielno manyuok e [dala mama pamela ] atieno odindo ei chula ma Nyakagere mayudore enam lolwe kar saa 10 ma kogwen.",
+      "Achije 2 go majohigni 43 gi 48 nyoo okwalo dielno manyuok edala mama pamela atieno odindo ei [ chula ma Nyakagere mayudore enam ] lolwe kar saa 10 ma kogwen."
+    ],
+    "r_logp_score": [
+      14.27182388305664,
+      13.865509033203125
+    ],
+    "score": [
+      -236.58001708984375,
+      -233.70570373535156
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Achije 2 go majohigni 43 gi 48 nyoo okwalo dielno manyuok [ edala mama pamela ] atieno odindo ei chula ma Nyakagere mayudore enam lolwe kar saa 10 ma kogwen .",
+      "Achije 2 go majohigni 43 gi 48 nyoo okwalo dielno manyuok edala mama pamela atieno odindo ei [ chula ma Nyakagere mayudore enam ] lolwe kar saa 10 ma kogwen ."
+    ]
+  },
+  {
+    "idx": 46,
+    "src_lang": [
+      "denied the rumors that the Turkish opposition has ended due to the greeting of opposition leader [ Raila Amolo Odinga ] to President Uhuru Kenyatta.",
+      "denied the rumors that the Turkish opposition has ended due to the greeting of opposition leader Raila Amolo Odinga to President [ Uhuru Kenyatta. ]"
+    ],
+    "template": "ne okwedo weche moko maosebedo ka liekore ni oposition ma thurka orumo kaluowore kod mosruok maneobedo e kiind jatend kweth makwedo piny owacho Raila Amolo Odinga kor ker Uhuru Kenyatta .",
+    "tgt_lang": [
+      "ne okwedo weche moko maosebedo ka liekore ni oposition ma thurka orumo kaluowore kod mosruok maneobedo e kiind jatend kweth makwedo piny owacho [ Raila Amolo Odinga ] kor ker Uhuru Kenyatta.",
+      "ne okwedo weche moko maosebedo ka liekore ni oposition ma thurka orumo kaluowore kod mosruok maneobedo e kiind jatend kweth makwedo piny owacho Raila Amolo Odinga kor ker [ Uhuru Kenyatta ]."
+    ],
+    "r_logp_score": [
+      14.831005096435547,
+      14.668228149414062
+    ],
+    "score": [
+      -189.4941864013672,
+      -187.34986877441406
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "ne okwedo weche moko maosebedo ka liekore ni oposition ma thurka orumo kaluowore kod mosruok maneobedo e kiind jatend kweth makwedo piny owacho [ Raila Amolo Odinga ] kor ker Uhuru Kenyatta .",
+      "ne okwedo weche moko maosebedo ka liekore ni oposition ma thurka orumo kaluowore kod mosruok maneobedo e kiind jatend kweth makwedo piny owacho Raila Amolo Odinga kor ker [ Uhuru Kenyatta ] ."
+    ]
+  },
+  {
+    "idx": 47,
+    "src_lang": [
+      "[ Magawa's ] Blue Ridge Hotel in the city of Mbita says a guest who tested positive for Covid-19 is not their registered employee",
+      "Magawa's [ Blue Ridge Hotel ] in the city of Mbita says a guest who tested positive for Covid-19 is not their registered employee",
+      "Magawa's Blue Ridge Hotel in the city of [ Mbita ] says a guest who tested positive for Covid-19 is not their registered employee"
+    ],
+    "template": "Magawa ma Blue Ridge Hotel manie boma ma Mbita owacho ni jago manyo oyudi ni nigi Covid - 19 cha ok en jatijgi moyangi",
+    "tgt_lang": [
+      "[ Magawa ma ] Blue Ridge Hotel manie boma ma Mbita owacho ni jago manyo oyudi ni nigi Covid - 19 cha ok en jatijgi moyangi",
+      "Magawa ma [ Blue Ridge Hotel ] manie boma ma Mbita owacho ni jago manyo oyudi ni nigi Covid - 19 cha ok en jatijgi moyangi",
+      "Magawa ma Blue Ridge Hotel manie boma ma [ Mbita ] owacho ni jago manyo oyudi ni nigi Covid - 19 cha ok en jatijgi moyangi"
+    ],
+    "r_logp_score": [
+      29.641225814819336,
+      2.5619945526123047,
+      15.947779655456543
+    ],
+    "score": [
+      -83.79766082763672,
+      -79.5359878540039,
+      -83.43875885009766
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Magawa ma ] Blue Ridge Hotel manie boma ma Mbita owacho ni jago manyo oyudi ni nigi Covid - 19 cha ok en jatijgi moyangi",
+      "Magawa ma [ Blue Ridge Hotel ] manie boma ma Mbita owacho ni jago manyo oyudi ni nigi Covid - 19 cha ok en jatijgi moyangi",
+      "Magawa ma Blue Ridge Hotel manie boma ma [ Mbita ] owacho ni jago manyo oyudi ni nigi Covid - 19 cha ok en jatijgi moyangi"
+    ]
+  },
+  {
+    "idx": 48,
+    "src_lang": [
+      "The number of people visiting hospitals for medical treatment in [ Migori County ] has decreased since the outbreak of the coronavirus in Turkey.",
+      "The number of people visiting hospitals for medical treatment in Migori County has decreased since the outbreak of the coronavirus in [ Turkey. ]"
+    ],
+    "template": "Kwan mar jii madhi e ute mag thieth manyo thieth e County ma Migori odok piny mokalo nyaka ne midhusi mar corona muoji e thurka .",
+    "tgt_lang": [
+      "Kwan mar jii madhi e ute mag thieth manyo thieth e [ County ] ma Migori odok piny mokalo nyaka ne midhusi mar corona muoji e thurka.",
+      "Kwan mar jii madhi e ute mag thieth manyo thieth e County ma Migori odok piny mokalo nyaka ne midhusi mar corona muoji e [ thurka ]."
+    ],
+    "r_logp_score": [
+      28.1494197845459,
+      12.690727233886719
+    ],
+    "score": [
+      -110.36656188964844,
+      -93.62350463867188
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Kwan mar jii madhi e ute mag thieth manyo thieth e [ County ] ma Migori odok piny mokalo nyaka ne midhusi mar corona muoji e thurka .",
+      "Kwan mar jii madhi e ute mag thieth manyo thieth e County ma Migori odok piny mokalo nyaka ne midhusi mar corona muoji e [ thurka ] ."
+    ]
+  },
+  {
+    "idx": 49,
+    "src_lang": [
+      "[ Aman ] also said that Nairobi County has yet to record the highest number of Covid-19 cases at 342 people.",
+      "Aman also said that [ Nairobi County ] has yet to record the highest number of Covid-19 cases at 342 people."
+    ],
+    "template": "Aman bende nowacho ni County ma Nairobi emapod ne okao namba kuom bedo kod kwan maduong mag joma nigi midusi mar Covid - 19no mane gin jii 342",
+    "tgt_lang": [
+      "[ Aman ] bende nowacho ni County ma Nairobi emapod ne okao namba kuom bedo kod kwan maduong mag joma nigi midusi mar Covid - 19no mane gin jii 342",
+      "Aman bende nowacho ni [ County ma Nairobi ] emapod ne okao namba kuom bedo kod kwan maduong mag joma nigi midusi mar Covid - 19no mane gin jii 342"
+    ],
+    "r_logp_score": [
+      4.8680877685546875,
+      3.336524486541748
+    ],
+    "score": [
+      -105.8732681274414,
+      -113.01656341552734
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Aman ] bende nowacho ni County ma Nairobi emapod ne okao namba kuom bedo kod kwan maduong mag joma nigi midusi mar Covid - 19no mane gin jii 342",
+      "Aman bende nowacho ni [ County ma Nairobi ] emapod ne okao namba kuom bedo kod kwan maduong mag joma nigi midusi mar Covid - 19no mane gin jii 342"
+    ]
+  },
+  {
+    "idx": 50,
+    "src_lang": [
+      "After this, his body has been sent to the morgue where [ Homabay ] is waiting for him to recover."
+    ],
+    "template": "ka giesani ringre osechwal e kar kano ringruok ma Homabay kairito timone bero .",
+    "tgt_lang": [
+      "ka giesani ringre osechwal e kar kano ringruok ma [ Homabay ] kairito timone bero."
+    ],
+    "r_logp_score": [
+      3.786748170852661
+    ],
+    "score": [
+      -104.79206085205078
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "ka giesani ringre osechwal e kar kano ringruok ma [ Homabay ] kairito timone bero ."
+    ]
+  },
+  {
+    "template": "BISOBE MAKPERE PUONJO WACH PIMO KAHERA",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 52,
+    "src_lang": [
+      "Five guns were found in [ Lavingtone's ] possession and three were found in Migori's possession, which the anti-corruption group EACC is investigating over the alleged corruption of 2 billion shillings in the country.",
+      "Five guns were found in Lavingtone's possession and three were found in [ Migori's ] possession, which the anti-corruption group EACC is investigating over the alleged corruption of 2 billion shillings in the country.",
+      "Five guns were found in Lavingtone's possession and three were found in Migori's possession, which the anti-corruption group [ EACC ] is investigating over the alleged corruption of 2 billion shillings in the country."
+    ],
+    "template": "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno .",
+    "tgt_lang": [
+      "Bunde 5 ne oyudie e [ode ma Lavingtone ] ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+      "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma [ Migori ] ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+      "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi [ EACC ] ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno."
+    ],
+    "r_logp_score": [
+      11.82783317565918,
+      39.23492431640625,
+      3.6248364448547363
+    ],
+    "score": [
+      -297.79974365234375,
+      -301.0160217285156,
+      -294.7889709472656
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Bunde 5 ne oyudie [ eode ma Lavingtone ] ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno .",
+      "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma [ Migori ] ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno .",
+      "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi [ EACC ] ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno ."
+    ]
+  },
+  {
+    "template": "Bende ne oyangi ni nitie jii 499 mane ochango ei kawuononi ma owe odhi pacho kowacho ni kuom jogo , 403 ne gin jogo manyocha tuo to ne yudo thieth gie utegi mong' ere gi dho ngere kaka Home Based Care",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 54,
+    "src_lang": [
+      "The [ MCA ] said that the forms of the bursary will be available to all public schools in the entire County to make it easier for students who are not able to get the forms when the school opens on 1st of the new year to submit the application for the bursary."
+    ],
+    "template": "MCAno nyowacho ni form mag bursaryno birobedo eskunde duto mag piny owacho e Countyno mangima mar mondo mi ochiu thuolo mayot ne jopuonjre maonge gi nyalo e yudo formsgo ka obi oyau school e dwe mar 1 mar higa manyien mar oro kwayo mar yudo bursaryno",
+    "tgt_lang": [
+      "[ MCA ]no nyowacho ni form mag bursaryno birobedo eskunde duto mag piny owacho e Countyno mangima mar mondo mi ochiu thuolo mayot ne jopuonjre maonge gi nyalo e yudo formsgo ka obi oyau school e dwe mar 1 mar higa manyien mar oro kwayo mar yudo bursaryno"
+    ],
+    "r_logp_score": [
+      2.5320987701416016
+    ],
+    "score": [
+      -209.5777130126953
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ MCAno ] nyowacho ni form mag bursaryno birobedo eskunde duto mag piny owacho e Countyno mangima mar mondo mi ochiu thuolo mayot ne jopuonjre maonge gi nyalo e yudo formsgo ka obi oyau school e dwe mar 1 mar higa manyien mar oro kwayo mar yudo bursaryno"
+    ]
+  },
+  {
+    "idx": 55,
+    "src_lang": [
+      "The 9 MCAs of [ Homabay ] is in my hands"
+    ],
+    "template": "MCAs 9 ma Homabay ni e lwet obila",
+    "tgt_lang": [
+      "MCAs 9 ma [ Homabay ] ni e lwet obila"
+    ],
+    "r_logp_score": [
+      3.7867486476898193
+    ],
+    "score": [
+      -32.409088134765625
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "MCAs 9 ma [ Homabay ] ni e lwet obila"
+    ]
+  },
+  {
+    "template": "KWAN JOK MA MANYO THIETH ODOK PINY MIGORI",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 57,
+    "src_lang": [
+      "Earlier, the [ Mcas ] had volunteered for a beehive after receiving a secret that the beehive was seeking them for the attack on the speaker of the Homabay party but was prompted by the enema doho.",
+      "Earlier, the Mcas had volunteered for a beehive after receiving a secret that the beehive was seeking them for the attack on the speaker of the [ Homabay ] party but was prompted by the enema doho."
+    ],
+    "template": "Motelone mano Mcas go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma Homabay bange to ne ochwal gi enim doho .",
+    "tgt_lang": [
+      "Motelone mano [ Mcas ] go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma Homabay bange to ne ochwal gi enim doho.",
+      "Motelone mano Mcas go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma [ Homabay ] bange to ne ochwal gi enim doho."
+    ],
+    "r_logp_score": [
+      3.1398820877075195,
+      3.7867486476898193
+    ],
+    "score": [
+      -182.78321838378906,
+      -179.93572998046875
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Motelone mano [ Mcas ] go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma Homabay bange to ne ochwal gi enim doho .",
+      "Motelone mano Mcas go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma [ Homabay ] bange to ne ochwal gi enim doho ."
+    ]
+  },
+  {
+    "idx": 58,
+    "src_lang": [
+      "A 17-year-old student who passed the main kcse exam at the [ DC ] mixed secondary school in Randung, Gem west location in the constituency where Rangwe ongielo is running",
+      "A 17-year-old student who passed the main kcse exam at the DC mixed secondary school in [ Randung, ] Gem west location in the constituency where Rangwe ongielo is running",
+      "A 17-year-old student who passed the main kcse exam at the DC mixed secondary school in Randung, [ Gem ] west location in the constituency where Rangwe ongielo is running",
+      "A 17-year-old student who passed the main kcse exam at the DC mixed secondary school in Randung, Gem west location in the constituency where [ Rangwe ongielo ] is running"
+    ],
+    "template": "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung , Gem west location e constituency ma Rangwe ongielo orengo",
+    "tgt_lang": [
+      "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma [ DC ] mixed e gwenge ma Randung, Gem west location e constituency ma Rangwe ongielo orengo",
+      "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma [ Randung, ] Gem west location e constituency ma Rangwe ongielo orengo",
+      "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, [ Gem ] west location e constituency ma Rangwe ongielo orengo",
+      "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, Gem west location e constituency ma [ Rangwe ongielo ] orengo"
+    ],
+    "r_logp_score": [
+      1.9491841793060303,
+      8.675493240356445,
+      12.09593677520752,
+      46.542720794677734
+    ],
+    "score": [
+      -79.80249786376953,
+      -80.17009735107422,
+      -76.22296142578125,
+      -81.68194580078125
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma [ DC ] mixed e gwenge ma Randung , Gem west location e constituency ma Rangwe ongielo orengo",
+      "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma [ Randung , ] Gem west location e constituency ma Rangwe ongielo orengo",
+      "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung , [ Gem ] west location e constituency ma Rangwe ongielo orengo",
+      "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung , Gem west location e constituency ma [ Rangwe ongielo ] orengo"
+    ]
+  },
+  {
+    "idx": 59,
+    "src_lang": [
+      "The seven brothers are [ Mudzo Nzili ] from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of [ Kwale, ] Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of Kwale, [ Yussuf Ibrahiim, ] Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, [ Simeon Kirgoty, ] Ruth Sudoi, Gilbert Kamau, Irene Rono and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, [ Ruth Sudoi, ] Gilbert Kamau, Irene Rono and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, [ Gilbert Kamau, ] Irene Rono and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, [ Irene Rono ] and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono and [ Robert Mureithi ]"
+    ],
+    "template": "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale , Yussuf Ibrahiim , Simeon Kirgoty , Ruth Sudoi , Gilbert Kamau , Irene Rono kod Robert Mureithi",
+    "tgt_lang": [
+      "Apisas abiryogo gin [ Mudzo Nzili ] mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma [ Kwale, ] Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, [ Yussuf Ibrahiim, ] Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, [ Simeon Kirgoty, ] Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, [ Ruth Sudoi, ] Gilbert Kamau, Irene Rono kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, [ Gilbert Kamau, ] Irene Rono kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, [ Irene Rono ] kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod [ Robert Mureithi ]"
+    ],
+    "r_logp_score": [
+      25.778505325317383,
+      11.32551097869873,
+      22.5570011138916,
+      5.204777717590332,
+      2.673858642578125,
+      7.910449981689453,
+      5.911448955535889,
+      5.994416236877441
+    ],
+    "score": [
+      -65.48143005371094,
+      -63.19741439819336,
+      -61.686588287353516,
+      -61.76811981201172,
+      -62.772830963134766,
+      -63.5331916809082,
+      -62.244171142578125,
+      -62.67365646362305
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Apisas abiryogo gin [ Mudzo Nzili ] mawuok e county ma Kwale , Yussuf Ibrahiim , Simeon Kirgoty , Ruth Sudoi , Gilbert Kamau , Irene Rono kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma [ Kwale , ] Yussuf Ibrahiim , Simeon Kirgoty , Ruth Sudoi , Gilbert Kamau , Irene Rono kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale , [ Yussuf Ibrahiim , ] Simeon Kirgoty , Ruth Sudoi , Gilbert Kamau , Irene Rono kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale , Yussuf Ibrahiim , [ Simeon Kirgoty , ] Ruth Sudoi , Gilbert Kamau , Irene Rono kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale , Yussuf Ibrahiim , Simeon Kirgoty , [ Ruth Sudoi , ] Gilbert Kamau , Irene Rono kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale , Yussuf Ibrahiim , Simeon Kirgoty , Ruth Sudoi , [ Gilbert Kamau , ] Irene Rono kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale , Yussuf Ibrahiim , Simeon Kirgoty , Ruth Sudoi , Gilbert Kamau , [ Irene Rono ] kod Robert Mureithi",
+      "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale , Yussuf Ibrahiim , Simeon Kirgoty , Ruth Sudoi , Gilbert Kamau , Irene Rono kod [ Robert Mureithi ]"
+    ]
+  },
+  {
+    "idx": 60,
+    "src_lang": [
+      "[ Edward Gichana ] has consumed the Bible as the new library of the Nairobi courthouse.",
+      "Edward Gichana has consumed the Bible as the new library of the [ Nairobi ] courthouse."
+    ],
+    "template": "Edward Gichana osechamo muma kaka karan manyien mar od bura ma Nairobi .",
+    "tgt_lang": [
+      "[ Edward Gichana ] osechamo muma kaka karan manyien mar od bura ma Nairobi.",
+      "Edward Gichana osechamo muma kaka karan manyien mar od bura ma [ Nairobi ]."
+    ],
+    "r_logp_score": [
+      4.710468769073486,
+      3.4283368587493896
+    ],
+    "score": [
+      -36.16971206665039,
+      -35.28546905517578
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Edward Gichana ] osechamo muma kaka karan manyien mar od bura ma Nairobi .",
+      "Edward Gichana osechamo muma kaka karan manyien mar od bura ma [ Nairobi ] ."
+    ]
+  },
+  {
+    "template": "Jo familia achiel mane jothogo gin ja higni 9 , ja higni 14 kod ja higni 20",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 62,
+    "src_lang": [
+      "[ Maraga ] receives a bone marrow transplant"
+    ],
+    "template": "Maraga oyudo fuong' ruok",
+    "tgt_lang": [
+      "[ Maraga ] oyudo fuong' ruok"
+    ],
+    "r_logp_score": [
+      12.260442733764648
+    ],
+    "score": [
+      -28.878814697265625
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Maraga ] oyudo fuong' ruok"
+    ]
+  },
+  {
+    "template": "Kweth ma kamano notero kampen ma kamano e boma ma awasi kama nopuonj jo ohala ber mar dhi e pim e osiptal .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 64,
+    "src_lang": [
+      "Speaking to [ Kisumu ] Migosi Raila said that the MCA of the counties of Kisumu, Homa Bay, Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+      "Speaking to Kisumu [ Migosi Raila ] said that the MCA of the counties of Kisumu, Homa Bay, Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+      "Speaking to Kisumu Migosi Raila said that the [ MCA ] of the counties of Kisumu, Homa Bay, Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+      "Speaking to Kisumu Migosi Raila said that the MCA of the counties of [ Kisumu, ] Homa Bay, Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+      "Speaking to Kisumu Migosi Raila said that the MCA of the counties of Kisumu, [ Homa Bay, ] Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+      "Speaking to Kisumu Migosi Raila said that the MCA of the counties of Kisumu, Homa Bay, [ Nairobi ] and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+      "Speaking to Kisumu Migosi Raila said that the MCA of the counties of Kisumu, Homa Bay, Nairobi and [ Kakamega ] are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka"
+    ],
+    "template": "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu , Homa Bay , Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+    "tgt_lang": [
+      "Kanowuoyo [ Kisumu ] migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+      "Kanowuoyo Kisumu [ migosi Raila ] nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+      "Kanowuoyo Kisumu migosi Raila nowacho ni [ MCA ] mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+      "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma [ Kisumu, ] Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+      "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, [ Homa Bay, ] Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+      "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, [ Nairobi ] kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+      "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod [ Kakamega ] gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka"
+    ],
+    "r_logp_score": [
+      12.196084022521973,
+      20.13743782043457,
+      2.5320982933044434,
+      12.276593208312988,
+      1.9315314292907715,
+      3.4283368587493896,
+      14.80384635925293
+    ],
+    "score": [
+      -74.21183776855469,
+      -79.89007568359375,
+      -81.77648162841797,
+      -77.42401123046875,
+      -75.06958770751953,
+      -75.85135650634766,
+      -79.18433380126953
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Kanowuoyo [ Kisumu ] migosi Raila nowacho ni MCA mag counties ma Kisumu , Homa Bay , Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+      "Kanowuoyo Kisumu [ migosi Raila ] nowacho ni MCA mag counties ma Kisumu , Homa Bay , Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+      "Kanowuoyo Kisumu migosi Raila nowacho ni [ MCA ] mag counties ma Kisumu , Homa Bay , Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+      "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma [ Kisumu , ] Homa Bay , Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+      "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu , [ Homa Bay , ] Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+      "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu , Homa Bay , [ Nairobi ] kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+      "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu , Homa Bay , Nairobi kod [ Kakamega ] gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka"
+    ]
+  },
+  {
+    "idx": 65,
+    "src_lang": [
+      "The deputy county commissioner of the sub county, [ Rangwe Elvis Kolum, ] upon hearing this, was rushed to the homabay county Referal Hospital for intensive care where he suffered a concussion.",
+      "The deputy county commissioner of the sub county, Rangwe Elvis Kolum, upon hearing this, was rushed to the homabay county [ Referal Hospital ] for intensive care where he suffered a concussion."
+    ],
+    "template": "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum kaneyango wachni owachoni ne ochwale e kar thieth ma homabay county Referal Hospital ne thieth makende kama ne ongielo orengo .",
+    "tgt_lang": [
+      "Jalup county commisioner ma sub county ma [ Rangwe Elvis Kolum ] kaneyango wachni owachoni ne ochwale e kar thieth ma homabay county Referal Hospital ne thieth makende kama ne ongielo orengo.",
+      "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum kaneyango wachni owachoni ne ochwale e kar thieth ma homabay county [ Referal Hospital ] ne thieth makende kama ne ongielo orengo."
+    ],
+    "r_logp_score": [
+      31.639724731445312,
+      3.2031118869781494
+    ],
+    "score": [
+      -129.58407592773438,
+      -129.25604248046875
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Jalup county commisioner ma sub county ma [ Rangwe Elvis Kolum ] kaneyango wachni owachoni ne ochwale e kar thieth ma homabay county Referal Hospital ne thieth makende kama ne ongielo orengo .",
+      "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum kaneyango wachni owachoni ne ochwale e kar thieth ma homabay county [ Referal Hospital ] ne thieth makende kama ne ongielo orengo ."
+    ]
+  },
+  {
+    "idx": 66,
+    "src_lang": [
+      "[ Homa Bay County's ] scholarship money is now up for grabs"
+    ],
+    "template": "Pes bursary ma County ma Homa Bay koro oyudo mijing'o",
+    "tgt_lang": [
+      "[ Pes bursary ma County ma Homa Bay ] koro oyudo mijing'o"
+    ],
+    "r_logp_score": [
+      13.288093566894531
+    ],
+    "score": [
+      -51.98838806152344
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Pes bursary ma County ma Homa Bay ] koro oyudo mijing'o"
+    ]
+  },
+  {
+    "idx": 67,
+    "src_lang": [
+      "[ Mcas ] from the county assembly of Homabay who led the Kisumu doyim and are accused of assaulting the speaker of the county assembly, Elizabeth Ayoo joo will be the mayor of Kodiaga for two weeks while the investigation continues.",
+      "Mcas from the county assembly of [ Homabay ] who led the Kisumu doyim and are accused of assaulting the speaker of the county assembly, Elizabeth Ayoo joo will be the mayor of Kodiaga for two weeks while the investigation continues.",
+      "Mcas from the county assembly of Homabay who led the [ Kisumu ] doyim and are accused of assaulting the speaker of the county assembly, Elizabeth Ayoo joo will be the mayor of Kodiaga for two weeks while the investigation continues.",
+      "Mcas from the county assembly of Homabay who led the Kisumu doyim and are accused of assaulting the speaker of the county assembly, [ Elizabeth Ayoo ] joo will be the mayor of Kodiaga for two weeks while the investigation continues.",
+      "Mcas from the county assembly of Homabay who led the Kisumu doyim and are accused of assaulting the speaker of the county assembly, Elizabeth Ayoo joo will be the mayor of [ Kodiaga ] for two weeks while the investigation continues."
+    ],
+    "template": "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime .",
+    "tgt_lang": [
+      "[ Mcas ] mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+      "Mcas mawuok ecounty assembly ma [ Homabay ] mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+      "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho ma [Kisumu ] kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+      "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi [ Elizabeth Ayoo ] joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+      "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma [ Kodiaga ] kuom jumbe ariyo ka nonro dhii nyime."
+    ],
+    "r_logp_score": [
+      3.1398849487304688,
+      3.7867438793182373,
+      12.196084022521973,
+      23.739910125732422,
+      14.757098197937012
+    ],
+    "score": [
+      -184.6346893310547,
+      -185.39950561523438,
+      -186.88771057128906,
+      -189.03829956054688,
+      -185.14930725097656
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Mcas ] mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime .",
+      "Mcas mawuok ecounty assembly ma [ Homabay ] mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime .",
+      "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho [ maKisumu ] kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime .",
+      "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi [ Elizabeth Ayoo ] joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime .",
+      "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma [ Kodiaga ] kuom jumbe ariyo ka nonro dhii nyime ."
+    ]
+  },
+  {
+    "template": "kanyo - mane odhi opim ne tuo mar Coronavirusno",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 69,
+    "src_lang": [
+      "Briton [ Mike ] falls into the water late in the evening while trying to catch a swimming pool."
+    ],
+    "template": "Briton Mike Odhiambo nyo okier molwar e pii odhiambo ma nyoro kanyo otemo gamo besen moro manyo oriko dhii gi pii .",
+    "tgt_lang": [
+      "Briton [ Mike ] Odhiambo nyo okier molwar e pii odhiambo ma nyoro kanyo otemo gamo besen moro manyo oriko dhii gi pii."
+    ],
+    "r_logp_score": [
+      3.506520986557007
+    ],
+    "score": [
+      -190.83676147460938
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Briton [ Mike ] Odhiambo nyo okier molwar e pii odhiambo ma nyoro kanyo otemo gamo besen moro manyo oriko dhii gi pii ."
+    ]
+  },
+  {
+    "idx": 70,
+    "src_lang": [
+      "Yesterday some of the border guards and political officials led by them and the [ MCA ] invited to the county assembly in which Siaya Tabu Osewe had opened the doors of the abbey when finally they were harassing the matatu owners by taking bribes from them.",
+      "Yesterday some of the border guards and political officials led by them and the MCA invited to the county assembly in which [ Siaya Tabu Osewe ] had opened the doors of the abbey when finally they were harassing the matatu owners by taking bribes from them."
+    ],
+    "template": "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod mca ma ogwel ecounty assembly ma Siaya Tabu Osewe ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi .",
+    "tgt_lang": [
+      "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod [ mca ] ma ogwel ecounty assembly ma Siaya Tabu Osewe ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi.",
+      "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod mca ma ogwel ecounty assembly ma [ Siaya Tabu Osewe ] ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi."
+    ],
+    "r_logp_score": [
+      9.016387939453125,
+      45.71101760864258
+    ],
+    "score": [
+      -167.20623779296875,
+      -161.83489990234375
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod [ mca ] ma ogwel ecounty assembly ma Siaya Tabu Osewe ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi .",
+      "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod mca ma ogwel ecounty assembly ma [ Siaya Tabu Osewe ] ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi ."
+    ]
+  },
+  {
+    "idx": 71,
+    "src_lang": [
+      "These were photographed with the deputy head of the medical department at the home of Dr. [ Rashid Aman ]"
+    ],
+    "template": "Magi ne oyangi kod jalup jatend migao mochungne yoore mag thieth e pachoka laktar Rashid Aman",
+    "tgt_lang": [
+      "Magi ne oyangi kod jalup jatend migao mochungne yoore mag thieth e pachoka laktar [ Rashid Aman ]"
+    ],
+    "r_logp_score": [
+      0.5300964117050171
+    ],
+    "score": [
+      -62.3524055480957
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Magi ne oyangi kod jalup jatend migao mochungne yoore mag thieth e pachoka laktar [ Rashid Aman ]"
+    ]
+  },
+  {
+    "idx": 72,
+    "src_lang": [
+      "Such a ceremony was attended by the speaker [ Beatrivce Elachi ] just a day before he was to announce his name to the court at a press conference, as it seemed that a new war could break out in the assembly in Nairobi.",
+      "Such a ceremony was attended by the speaker Beatrivce Elachi just a day before he was to announce his name to the court at a press conference, as it seemed that a new war could break out in the assembly in [ Nairobi. ]"
+    ],
+    "template": "Nyasi ma kamano notelie kkod spika Beatrivce Elachi mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere , ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma Nairobi .",
+    "tgt_lang": [
+      "Nyasi ma kamano notelie kkod spika [ Beatrivce Elachi ] mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere, ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma Nairobi.",
+      "Nyasi ma kamano notelie kkod spika Beatrivce Elachi mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere, ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma [ Nairobi ]."
+    ],
+    "r_logp_score": [
+      4.584925174713135,
+      10.574464797973633
+    ],
+    "score": [
+      -208.3580780029297,
+      -185.67556762695312
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Nyasi ma kamano notelie kkod spika [ Beatrivce Elachi ] mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere , ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma Nairobi .",
+      "Nyasi ma kamano notelie kkod spika Beatrivce Elachi mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere , ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma [ Nairobi ] ."
+    ]
+  },
+  {
+    "template": "jotelogi ne ohum kod kwan jopiny china ma osemedore e pachoka ka okwayo piny wacho mondo ongi matut wachni kotenore kod uchumi ma pachoka",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 74,
+    "src_lang": [
+      "Seven other MCAs of [ Homabay ] county arrived in person in front of the honeymooners in Kisumu this morning to report on the recent attack on the homabay speaker Elizabeth Ayoo.",
+      "Seven other MCAs of Homabay county arrived in person in front of the honeymooners in [ Kisumu ] this morning to report on the recent attack on the homabay speaker Elizabeth Ayoo.",
+      "Seven other MCAs of Homabay county arrived in person in front of the honeymooners in Kisumu this morning to report on the recent attack on the homabay speaker [ Elizabeth Ayoo. ]"
+    ],
+    "template": "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo .",
+    "tgt_lang": [
+      "MCAs mamoko 7 mag county ma [ Homabay ] jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo.",
+      "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma [ Kisumu ] okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo.",
+      "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi [ Elizabeth Ayoo ]."
+    ],
+    "r_logp_score": [
+      3.7867438793182373,
+      12.196084022521973,
+      30.59648895263672
+    ],
+    "score": [
+      -143.48800659179688,
+      -137.52017211914062,
+      -136.77919006347656
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "MCAs mamoko 7 mag county ma [ Homabay ] jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo .",
+      "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma [ Kisumu ] okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo .",
+      "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi [ Elizabeth Ayoo ] ."
+    ]
+  },
+  {
+    "idx": 75,
+    "src_lang": [
+      "Former [ Kakamega ] county senator Boni Khalwale is now asking the ODM parliamentarians to expel the nasa railway station by throwing a bell at the mouth of the cave.",
+      "Former Kakamega county senator [ Boni Khalwale ] is now asking the ODM parliamentarians to expel the nasa railway station by throwing a bell at the mouth of the cave.",
+      "Former Kakamega county senator Boni Khalwale is now asking the [ ODM ] parliamentarians to expel the nasa railway station by throwing a bell at the mouth of the cave."
+    ],
+    "template": "Senator machon mar county ma Kakamega migosi Boni Khalwale koro kwayo jood bura mag ODM mondo mii oriemb ogai mar nasa raila amolo odinga e duond burano .",
+    "tgt_lang": [
+      "Senator machon mar county ma [ Kakamega ] migosi Boni Khalwale koro kwayo jood bura mag ODM mondo mii oriemb ogai mar nasa raila amolo odinga e duond burano.",
+      "Senator machon mar county ma Kakamega migosi [ Boni Khalwale ] koro kwayo jood bura mag ODM mondo mii oriemb ogai mar nasa raila amolo odinga e duond burano.",
+      "Senator machon mar county ma Kakamega migosi Boni Khalwale koro kwayo jood bura mag [ ODM ] mondo mii oriemb ogai mar nasa raila amolo odinga e duond burano."
+    ],
+    "r_logp_score": [
+      14.80384635925293,
+      14.42918872833252,
+      4.7862019538879395
+    ],
+    "score": [
+      -134.7266387939453,
+      -135.1308135986328,
+      -133.14671325683594
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Senator machon mar county ma [ Kakamega ] migosi Boni Khalwale koro kwayo jood bura mag ODM mondo mii oriemb ogai mar nasa raila amolo odinga e duond burano .",
+      "Senator machon mar county ma Kakamega migosi [ Boni Khalwale ] koro kwayo jood bura mag ODM mondo mii oriemb ogai mar nasa raila amolo odinga e duond burano .",
+      "Senator machon mar county ma Kakamega migosi Boni Khalwale koro kwayo jood bura mag [ ODM ] mondo mii oriemb ogai mar nasa raila amolo odinga e duond burano ."
+    ]
+  },
+  {
+    "template": "Kwan jogo man kod midusi mar Coronavirus e bwo piny mangima koro en million 16 gi alufu 48 gi 101 ka kwan jogo ma tuono osenego e bwo piny mangima gin jii alufu 644 gi 679",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "kowacho ni piny ma dhano ngimae e piny manyalobedo kod dongruok mowinjore",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 78,
+    "src_lang": [
+      "The [ Media Council of Kenya ] organizes a meeting between the Uzila and the media",
+      "The Media Council of Kenya organizes a meeting between the [ Uzila ] and the media"
+    ],
+    "template": "Media Council of Kenya chano bago lalruok e kind obila gi jofuamb weche",
+    "tgt_lang": [
+      "[ Media Council of Kenya ] chano bago lalruok e kind obila gi jofuamb weche",
+      "Media Council of Kenya chano bago lalruok e kind [ obila ] gi jofuamb weche"
+    ],
+    "r_logp_score": [
+      0.6278355717658997,
+      20.588640213012695
+    ],
+    "score": [
+      -62.51015853881836,
+      -68.33723449707031
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Media Council of Kenya ] chano bago lalruok e kind obila gi jofuamb weche",
+      "Media Council of Kenya chano bago lalruok e kind [ obila ] gi jofuamb weche"
+    ]
+  },
+  {
+    "idx": 79,
+    "src_lang": [
+      "As the case progressed, [ Harriet ] warned that those who continued to obey the rules would soon be arrested and charged with disorderly conduct."
+    ],
+    "template": "Kane omedo loso ewii wachno mikayi Harriet ne okoni joo go mapod okluw chikego mag apaya ibiro maki machwal enyim doho kendo donjnegi kod keth mar rem luwo chike mag apaya .",
+    "tgt_lang": [
+      "Kane omedo loso ewii wachno mikayi [ Harriet ] ne okoni joo go mapod okluw chikego mag apaya ibiro maki machwal enyim doho kendo donjnegi kod keth mar rem luwo chike mag apaya."
+    ],
+    "r_logp_score": [
+      1.803187608718872
+    ],
+    "score": [
+      -235.67434692382812
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Kane omedo loso ewii wachno mikayi [ Harriet ] ne okoni joo go mapod okluw chikego mag apaya ibiro maki machwal enyim doho kendo donjnegi kod keth mar rem luwo chike mag apaya ."
+    ]
+  },
+  {
+    "template": "Odinga seyo MCAs kuom chamo pes jopiny",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 81,
+    "src_lang": [
+      "[ Obila ] stopped a 41-year-old businessman at the ubila plant in Ukwala after he was caught stealing electricity harvesting wines from the Ligega Ugenya sub-county",
+      "Obila stopped a 41-year-old businessman at the ubila plant in [ Ukwala ] after he was caught stealing electricity harvesting wines from the Ligega Ugenya sub-county",
+      "Obila stopped a 41-year-old businessman at the ubila plant in Ukwala after he was caught stealing electricity harvesting wines from the [ Ligega Ugenya ] sub-county"
+    ],
+    "template": "Obila ne ogengone jago moro ma jahigni 41 e tesend obila ma Ukwala bang kane omake ka okwalo weyni mag keyo teko stima egweng ma Ligega Ugenya sub - county",
+    "tgt_lang": [
+      "[ Obila ] ne ogengone jago moro ma jahigni 41 e tesend obila ma Ukwala bang kane omake ka okwalo weyni mag keyo teko stima egweng ma Ligega Ugenya sub - county",
+      "Obila ne ogengone jago moro ma jahigni 41 e tesend obila ma [ Ukwala ] bang kane omake ka okwalo weyni mag keyo teko stima egweng ma Ligega Ugenya sub - county",
+      "Obila ne ogengone jago moro ma jahigni 41 e tesend obila ma Ukwala bang kane omake ka okwalo weyni mag keyo teko stima egweng ma [ Ligega Ugenya ] sub - county"
+    ],
+    "r_logp_score": [
+      3.89135479927063,
+      19.399112701416016,
+      29.304115295410156
+    ],
+    "score": [
+      -112.96025848388672,
+      -116.6233901977539,
+      -111.84321594238281
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Obila ] ne ogengone jago moro ma jahigni 41 e tesend obila ma Ukwala bang kane omake ka okwalo weyni mag keyo teko stima egweng ma Ligega Ugenya sub - county",
+      "Obila ne ogengone jago moro ma jahigni 41 e tesend obila ma [ Ukwala ] bang kane omake ka okwalo weyni mag keyo teko stima egweng ma Ligega Ugenya sub - county",
+      "Obila ne ogengone jago moro ma jahigni 41 e tesend obila ma Ukwala bang kane omake ka okwalo weyni mag keyo teko stima egweng ma [ Ligega Ugenya ] sub - county"
+    ]
+  },
+  {
+    "idx": 82,
+    "src_lang": [
+      "[ Bondo's ] Obila has denied allegations that he took bribes from his ex-wives",
+      "Bondo's [ Obila ] has denied allegations that he took bribes from his ex-wives"
+    ],
+    "template": "Obila ma Bondo okwedo weche moko ni gikao asoya eseche ma gitimo apedha eapaya",
+    "tgt_lang": [
+      "[ Obila ma ] Bondo okwedo weche moko ni gikao asoya eseche ma gitimo apedha eapaya",
+      "[ Obila ] ma Bondo okwedo weche moko ni gikao asoya eseche ma gitimo apedha eapaya"
+    ],
+    "r_logp_score": [
+      26.104862213134766,
+      3.89135479927063
+    ],
+    "score": [
+      -122.97230529785156,
+      -107.96224975585938
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Obila ma ] Bondo okwedo weche moko ni gikao asoya eseche ma gitimo apedha eapaya",
+      "[ Obila ] ma Bondo okwedo weche moko ni gikao asoya eseche ma gitimo apedha eapaya"
+    ]
+  },
+  {
+    "idx": 83,
+    "src_lang": [
+      "The villagers said that they have tried to get rid of their complaints about the alleged abuse of their MCA, [ George Owiti, ] but the MCA has been taking it above and beyond the call of duty without hesitation to talk about it.",
+      "The villagers said that they have tried to get rid of their complaints about the alleged abuse of their MCA, George Owiti, but the [ MCA ] has been taking it above and beyond the call of duty without hesitation to talk about it."
+    ],
+    "template": "Jogwenggo joowacho ni gisetemo golo yuak margi ewii gik ma giduaro ni ng' iigo ne MCA margi migosi George Owiti to MCAno osebedo ka okao mamalo gi ma piny omuno maok oduar katamana wuoyo ewii wachno",
+    "tgt_lang": [
+      "Jogwenggo joowacho ni gisetemo golo yuak margi ewii gik ma giduaro ni ng' iigo ne MCA margi migosi [ George Owiti ] to MCAno osebedo ka okao mamalo gi ma piny omuno maok oduar katamana wuoyo ewii wachno",
+      "Jogwenggo joowacho ni gisetemo golo yuak margi ewii gik ma giduaro ni ng' iigo ne MCA margi migosi George Owiti to [ MCA ]no osebedo ka okao mamalo gi ma piny omuno maok oduar katamana wuoyo ewii wachno"
+    ],
+    "r_logp_score": [
+      12.573054313659668,
+      2.5320982933044434
+    ],
+    "score": [
+      -224.5430145263672,
+      -225.38217163085938
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Jogwenggo joowacho ni gisetemo golo yuak margi ewii gik ma giduaro ni ng' iigo ne MCA margi migosi [ George Owiti ] to MCAno osebedo ka okao mamalo gi ma piny omuno maok oduar katamana wuoyo ewii wachno",
+      "Jogwenggo joowacho ni gisetemo golo yuak margi ewii gik ma giduaro ni ng' iigo ne MCA margi migosi George Owiti to [ MCAno ] osebedo ka okao mamalo gi ma piny omuno maok oduar katamana wuoyo ewii wachno"
+    ]
+  },
+  {
+    "template": "Jaloero mane oyudo ilao gi apisa marito bunge nokier molwar koridore e gode ma gwassi kanyo ema kaeto nowito ngimane .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Ng'anyo mar nurses mane ochan timo wuok tich koro ochwal nyime",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Kwan jii ma oyudi kod tuo mar Coronavirus ei kawuononi gin 637 makoro kelo kwan jogo duto man kod tuo magalagalano e pachoka chopo jii alufu 14 gi 805",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Kwan jii mane oyudi ni nikod tuo mar Coronavirus ei kawuononi gin jii 796 makoro kelo kwan jogo duto man kod midusi makochno e pachoka ei kawuononi chopo jii alufu 15 gi 601",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 88,
+    "src_lang": [
+      "3 people including 2 children from the same family died on the spot and 3 others were killed by lightning in the villages of [ Achudinet ] in Teso North",
+      "3 people including 2 children from the same family died on the spot and 3 others were killed by lightning in the villages of Achudinet in [ Teso North ]"
+    ],
+    "template": "Jii 3 moko ma oting'o nyithindo 2 mawuok e familia achiel ne jotho kanyo kanyo ka mamoko 3 to rem nego bang polo gogi e gwenge mag Achudinet ei Teso North",
+    "tgt_lang": [
+      "Jii 3 moko ma oting'o nyithindo 2 mawuok e familia achiel ne jotho kanyo kanyo ka mamoko 3 to rem nego bang polo gogi e gwenge mag [ Achudinet ] ei Teso North",
+      "Jii 3 moko ma oting'o nyithindo 2 mawuok e familia achiel ne jotho kanyo kanyo ka mamoko 3 to rem nego bang polo gogi e gwenge mag Achudinet ei Teso [ North ]"
+    ],
+    "r_logp_score": [
+      8.01925277709961,
+      25.513286590576172
+    ],
+    "score": [
+      -112.35795593261719,
+      -116.17218017578125
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Jii 3 moko ma oting'o nyithindo 2 mawuok e familia achiel ne jotho kanyo kanyo ka mamoko 3 to rem nego bang polo gogi e gwenge mag [ Achudinet ] ei Teso North",
+      "Jii 3 moko ma oting'o nyithindo 2 mawuok e familia achiel ne jotho kanyo kanyo ka mamoko 3 to rem nego bang polo gogi e gwenge mag Achudinet ei Teso [ North ]"
+    ]
+  },
+  {
+    "idx": 89,
+    "src_lang": [
+      "Earlier today, a row broke out after Speaker [ Elachi ] refused to recognize Jacob Ngwele as the secretary of the court.",
+      "Earlier today, a row broke out after Speaker Elachi refused to recognize [ Jacob Ngwele ] as the secretary of the court."
+    ],
+    "template": "Motelo odiechieng ma kawuono , yuaruok nomuoch bang' spika Elachi nodagi yango Jacob Ngwele kaka karan mar od Burano .",
+    "tgt_lang": [
+      "Motelo odiechieng ma kawuono, yuaruok nomuoch bang' spika [ Elachi ] nodagi yango Jacob Ngwele kaka karan mar od Burano.",
+      "Motelo odiechieng ma kawuono, yuaruok nomuoch bang' spika Elachi nodagi yango [ Jacob Ngwele ] kaka karan mar od Burano."
+    ],
+    "r_logp_score": [
+      4.4914960861206055,
+      11.05502700805664
+    ],
+    "score": [
+      -100.98684692382812,
+      -100.17024993896484
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Motelo odiechieng ma kawuono , yuaruok nomuoch bang' spika [ Elachi ] nodagi yango Jacob Ngwele kaka karan mar od Burano .",
+      "Motelo odiechieng ma kawuono , yuaruok nomuoch bang' spika Elachi nodagi yango [ Jacob Ngwele ] kaka karan mar od Burano ."
+    ]
+  },
+  {
+    "idx": 90,
+    "src_lang": [
+      "The union took a similar step to give the [ Salaries and Remuneration Commission ] an opportunity to achieve the goal of their agreement to raise wages"
+    ],
+    "template": "Riuruogno ne okao okang machalo kamano mar mondo mi gimi duol mochungne osach jotij piny owacho - Salaries and Remuneration Commission thuolo maber mar chopo dwach winjruok manegibedo godo kodgi mar medogi osara",
+    "tgt_lang": [
+      "Riuruogno ne okao okang machalo kamano mar mondo mi gimi [ duol mochungne osach jotij piny owacho - Salaries and Remuneration Commission ] thuolo maber mar chopo dwach winjruok manegibedo godo kodgi mar medogi osara"
+    ],
+    "r_logp_score": [
+      6.648501396179199
+    ],
+    "score": [
+      -165.9567413330078
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Riuruogno ne okao okang machalo kamano mar mondo mi gimi [ duol mochungne osach jotij piny owacho - Salaries and Remuneration Commission ] thuolo maber mar chopo dwach winjruok manegibedo godo kodgi mar medogi osara"
+    ]
+  },
+  {
+    "template": "DOHO MA MOMBASA OCHAKO WINJO BUCHE AYANGA",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "migosi kingi ne owaco ni weg nyamburko matingo jowuoth e kinde nyasi mar christamas nyaka bed kod obok madwarore mar chwalo jowuoth e pachoka",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 93,
+    "src_lang": [
+      "The [ Homa Bay County Legislature ] is now amending the Education Bursary Fund Amendment bill 2018 to ensure that people living with disabilities are included in the bursary committee and help ensure that the bursary is distributed fairly and without corruption."
+    ],
+    "template": "Bunge mar County ma Homa Bay koro otimo lokruok ne chike matayo weche mag chiwo bursary mag somo mongere kaka Education Bursary Fund Ammendment bill 2018 mabiro konyo neno ni jogo ma odak gi ng'ol bende onyuandi e komiti mochungne bursary kod konyo neno ni bursaryno ipogo e yoo mowinjore maonge mibadhi moro amora",
+    "tgt_lang": [
+      "[ Bunge mar County ma Homa Bay ] koro otimo lokruok ne chike matayo weche mag chiwo bursary mag somo mongere kaka Education Bursary Fund Ammendment bill 2018 mabiro konyo neno ni jogo ma odak gi ng'ol bende onyuandi e komiti mochungne bursary kod konyo neno ni bursaryno ipogo e yoo mowinjore maonge mibadhi moro amora"
+    ],
+    "r_logp_score": [
+      10.061938285827637
+    ],
+    "score": [
+      -180.93136596679688
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Bunge mar County ma Homa Bay ] koro otimo lokruok ne chike matayo weche mag chiwo bursary mag somo mongere kaka Education Bursary Fund Ammendment bill 2018 mabiro konyo neno ni jogo ma odak gi ng'ol bende onyuandi e komiti mochungne bursary kod konyo neno ni bursaryno ipogo e yoo mowinjore maonge mibadhi moro amora"
+    ]
+  },
+  {
+    "idx": 94,
+    "src_lang": [
+      "The agency of nasa [ Raila Amolo Odinga ] now invites the residents of kisumu county to prepare to welcome the president of Kenya during his visit to the city next December the first visit of the president for the first time since last year's elections and to greet each other in March this year.",
+      "The agency of nasa Raila Amolo Odinga now invites the residents of kisumu county to prepare to welcome the president of [ Kenya ] during his visit to the city next December the first visit of the president for the first time since last year's elections and to greet each other in March this year."
+    ],
+    "template": "Ogai mar nasa Raila Amolo Odinga koro okwayo jodak e county ma kisumu mondo mii oikore mar rwako ker Kenyataa e kinde ma obiro wendo bomano machiegni e dwe marapar gariyo limbeno mokuongo mar ker kenyataa chakre yiero ma higa mokalo to kod tok mosruok e kindgi dwe mar adek higani",
+    "tgt_lang": [
+      "Ogai mar nasa [ Raila Amolo Odinga ] koro okwayo jodak e county ma kisumu mondo mii oikore mar rwako ker Kenyataa e kinde ma obiro wendo bomano machiegni e dwe marapar gariyo limbeno mokuongo mar ker kenyataa chakre yiero ma higa mokalo to kod tok mosruok e kindgi dwe mar adek higani",
+      "Ogai mar nasa Raila Amolo Odinga koro okwayo jodak e county ma kisumu mondo mii oikore mar rwako ker [ Kenyataa ] e kinde ma obiro wendo bomano machiegni e dwe marapar gariyo limbeno mokuongo mar ker kenyataa chakre yiero ma higa mokalo to kod tok mosruok e kindgi dwe mar adek higani"
+    ],
+    "r_logp_score": [
+      14.831013679504395,
+      3.2381837368011475
+    ],
+    "score": [
+      -223.06080627441406,
+      -223.59010314941406
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ogai mar nasa [ Raila Amolo Odinga ] koro okwayo jodak e county ma kisumu mondo mii oikore mar rwako ker Kenyataa e kinde ma obiro wendo bomano machiegni e dwe marapar gariyo limbeno mokuongo mar ker kenyataa chakre yiero ma higa mokalo to kod tok mosruok e kindgi dwe mar adek higani",
+      "Ogai mar nasa Raila Amolo Odinga koro okwayo jodak e county ma kisumu mondo mii oikore mar rwako ker [ Kenyataa ] e kinde ma obiro wendo bomano machiegni e dwe marapar gariyo limbeno mokuongo mar ker kenyataa chakre yiero ma higa mokalo to kod tok mosruok e kindgi dwe mar adek higani"
+    ]
+  },
+  {
+    "idx": 95,
+    "src_lang": [
+      "It has recently been announced that 40 wards of [ Homa Baygo County ] have been allocated bursaries totalling 2.5 million silings for the 2018 / 2019 financial year from 1.5 million silings that was included in the previous budget to ensure that all underprivileged children receive the bursary money."
+    ],
+    "template": "Nyo oyango ni wards 40 mag County ma Homa Baygo oketnegi omenda maromo silings million 2 . 5 mar hik manyonge mar 2018 / 2019 kowuok e silings million 1 . 5 mane entieree e budget mokalo mar neno ni nyithindo duto maonge gi nyalo joyudo pes bursaryno",
+    "tgt_lang": [
+      "Nyo oyango ni wards 40 mag [ County ma Homa Baygo ] oketnegi omenda maromo silings million 2. 5 mar hik manyonge mar 2018 / 2019 kowuok e silings million 1. 5 mane entieree e budget mokalo mar neno ni nyithindo duto maonge gi nyalo joyudo pes bursaryno"
+    ],
+    "r_logp_score": [
+      2.6372952461242676
+    ],
+    "score": [
+      -166.90280151367188
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Nyo oyango ni wards 40 mag [ County ma Homa Baygo ] oketnegi omenda maromo silings million 2 . 5 mar hik manyonge mar 2018 / 2019 kowuok e silings million 1 . 5 mane entieree e budget mokalo mar neno ni nyithindo duto maonge gi nyalo joyudo pes bursaryno"
+    ]
+  },
+  {
+    "template": "Apisas abiryogo nyo omaki kaluwore kod wach kuo mar omenda e boardno",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 97,
+    "src_lang": [
+      "Prosecutor [ Gerald Gitonga ] argued that the case did not have as strong a basis as he had been led to believe."
+    ],
+    "template": "Jayal bura Gerald Gitonga okoo ni burano ne onge kod mise motegno kaka ne ochwale e doho .",
+    "tgt_lang": [
+      "Jayal bura [ Gerald Gitonga ] okoo ni burano ne onge kod mise motegno kaka ne ochwale e doho."
+    ],
+    "r_logp_score": [
+      12.951085090637207
+    ],
+    "score": [
+      -88.70685577392578
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Jayal bura [ Gerald Gitonga ] okoo ni burano ne onge kod mise motegno kaka ne ochwale e doho ."
+    ]
+  },
+  {
+    "template": "Miyo moro achiel mane gin godo to kata kamano nomaki .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Kanomedowuoyo ewii wachno migosi Otieno nowacho ni giduaro ni wach ndara maricho makono ng' ii kaachiel gi ng' iyo wach taya mag chiche makono kod wach pur ndawa masani koro odok chieng kuno bende ng' ii",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  }
+]

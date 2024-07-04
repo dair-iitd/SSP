@@ -1,0 +1,3006 @@
+[
+  {
+    "src_lang": "But Atiku, who claimed to have taken the citizenship papers, vowed that he \"\"will not throw away the call of Nigerians to him in the February 23 elections. \"\"\"\"",
+    "src_entities": [
+      "Atiku,"
+    ],
+    "template": "Mana Atiku onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ , ṅụrụ iyi na ya \"\"\"\" agaghị atufu oku ụmụ Naijiria kpọrọ ya na ntuliaka e mere n'abalị 23 nke ọnwa Febụwarị . \"\"\"\"",
+    "text_to_decode": [
+      {
+        "text": "But [ Atiku, ] who claimed to have taken the citizenship papers, vowed that he \"\"will not throw away the call of Nigerians to him in the February 23 elections. \"\"\"\"",
+        "candidates": [
+          2,
+          3,
+          5,
+          8,
+          9
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Listen to the BBC news in one minute",
+    "src_entities": [
+      "BBC"
+    ],
+    "template": "Gere akụkọ BBC n'otu nkeji",
+    "text_to_decode": [
+      {
+        "text": "Listen to the [ BBC ] news in one minute",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "As of now, the court has not given them notice or set a date for the trial to begin.",
+    "src_entities": [],
+    "template": "Dịka ọ dị ugbua ụlọikpe enyebeghi ha nzaghachị ma ọ bụ hiwe ụbọchị ikpe a ga - amalite .",
+    "text_to_decode": [
+      {
+        "text": "As of now, the court has not given them notice or set a date for the trial to begin.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "But Enugwu and Taraba states saved themselves:",
+    "src_entities": [
+      "Enugwu",
+      "Taraba"
+    ],
+    "template": "Mana Enugwu na Taraba steeti zọtara isi onwe ha :",
+    "text_to_decode": [
+      {
+        "text": "But [ Enugwu ] and Taraba states saved themselves:",
+        "candidates": [
+          2,
+          3,
+          5,
+          8,
+          11,
+          13
+        ]
+      },
+      {
+        "text": "But Enugwu and [ Taraba ] states saved themselves:",
+        "candidates": [
+          2,
+          3,
+          6,
+          8,
+          11,
+          13
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "SERAP said it was the government's behaviour against freedom of expression and the Nigerian society.",
+    "src_entities": [
+      "SERAP"
+    ],
+    "template": "SERAP sị na ya bụ agwa gọọmentị na - akpa megidere ikike dịrị onye ịkwu uche ya na obodo Naịjirịa .",
+    "text_to_decode": [
+      {
+        "text": "[ SERAP ] said it was the government's behaviour against freedom of expression and the Nigerian society.",
+        "candidates": [
+          2,
+          4
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Besides the plane fare, try to talk about where you will stay before you set foot in Arabia.",
+    "src_entities": [
+      "Arabia."
+    ],
+    "template": "Ewezuga ụgwọ ụgbọelu ị ga - aba , tupu ịzọpụ ụkwụ ije , gbaa mbọ kwuo okwu ebe ị ga - ehi ma i rue Alabekee .",
+    "text_to_decode": [
+      {
+        "text": "Besides the plane fare, try to talk about where you will stay before you set foot in [ Arabia. ]",
+        "candidates": [
+          5,
+          10,
+          11,
+          12,
+          13,
+          15,
+          16,
+          18,
+          19,
+          22,
+          23,
+          24,
+          28,
+          29,
+          31,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Our cows are happy because of Buhari's victory - Miyetti Allah",
+    "src_entities": [
+      "Buhari's",
+      "Miyetti Allah"
+    ],
+    "template": "Ehi anyị na - enwe ọṅụ n'ihi mmeri Buhari - Miyetti Allah",
+    "text_to_decode": [
+      {
+        "text": "Our cows are happy because of [ Buhari's ] victory - Miyetti Allah",
+        "candidates": [
+          13,
+          8
+        ]
+      },
+      {
+        "text": "Our cows are happy because of Buhari's victory - [ Miyetti Allah ]",
+        "candidates": [
+          15
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Is it the one who left the PDP for the APC who becomes a saint?",
+    "src_entities": [
+      "PDP",
+      "APC"
+    ],
+    "template": "Ọ bụ onye gbahapụ PDP banye APC ọ bụrụ onye nsọ ?",
+    "text_to_decode": [
+      {
+        "text": "Is it the one who left the [ PDP ] for the APC who becomes a saint?",
+        "candidates": [
+          6,
+          7,
+          8,
+          10,
+          11
+        ]
+      },
+      {
+        "text": "Is it the one who left the PDP for the [ APC ] who becomes a saint?",
+        "candidates": [
+          5,
+          6,
+          8,
+          9,
+          10,
+          11,
+          14
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "US President Donald Trump and North Korean leader Kim Jong-un have entered the final two days of talks on denuclearisation.",
+    "src_entities": [
+      "US",
+      "Donald Trump",
+      "Kim Jong-un"
+    ],
+    "template": "Onyeisiala mba Amerịka bụ Donald Trump , na nke mba Nọt Korea bụ Kim Jung - Un , abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\" .",
+    "text_to_decode": [
+      {
+        "text": "[ US ] President Donald Trump and North Korean leader Kim Jong-un have entered the final two days of talks on denuclearisation.",
+        "candidates": [
+          2,
+          5,
+          6
+        ]
+      },
+      {
+        "text": "US President [ Donald Trump ] and North Korean leader Kim Jong-un have entered the final two days of talks on denuclearisation.",
+        "candidates": [
+          3,
+          5,
+          8,
+          9,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "text": "US President Donald Trump and North Korean leader [ Kim Jong-un ] have entered the final two days of talks on denuclearisation.",
+        "candidates": [
+          13,
+          14,
+          15,
+          17,
+          18,
+          19,
+          20,
+          23
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Riots broke out in the APC election campaign in Imo State",
+    "src_entities": [
+      "APC",
+      "Imo State"
+    ],
+    "template": "Ọgbaghara dara n'achụmnta vootu APC n'Imo steeti",
+    "text_to_decode": [
+      {
+        "text": "Riots broke out in the [ APC ] election campaign in Imo State",
+        "candidates": [
+          19,
+          12,
+          14
+        ]
+      },
+      {
+        "text": "Riots broke out in the APC election campaign in [ Imo State ]",
+        "candidates": [
+          19,
+          21,
+          15,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Mbaka had previously said that Buhari was \"\"\"\"savior\"\"\"\"",
+    "src_entities": [
+      "Mbaka",
+      "Buhari"
+    ],
+    "template": "Mbaka kwuburu na Buhari bụ \"\"\"\" onye nzọpụta \"\"\"\"",
+    "text_to_decode": [
+      {
+        "text": "[ Mbaka ] had previously said that Buhari was \"\"\"\"savior\"\"\"\"",
+        "candidates": [
+          2,
+          5,
+          10,
+          11,
+          12,
+          15,
+          16,
+          17
+        ]
+      },
+      {
+        "text": "Mbaka had previously said that [ Buhari ] was \"\"\"\"savior\"\"\"\"",
+        "candidates": [
+          5,
+          8,
+          10,
+          11,
+          15,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Read the full story here: Election Result 2019: The UK says Buhari's victory is certain",
+    "src_entities": [
+      "UK",
+      "Buhari's"
+    ],
+    "template": "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : Mba Briten sị na mmeri Buhari kwụ ọtọ",
+    "text_to_decode": [
+      {
+        "text": "Read the full story here: Election Result 2019: The [ UK ] says Buhari's victory is certain",
+        "candidates": [
+          11,
+          15,
+          16,
+          17,
+          19,
+          24
+        ]
+      },
+      {
+        "text": "Read the full story here: Election Result 2019: The UK says [ Buhari's ] victory is certain",
+        "candidates": [
+          19,
+          20,
+          23,
+          24,
+          25
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In their appeals, they demanded that the election be canceled and held again.",
+    "src_entities": [],
+    "template": "N'ime ihe ndị ha rịọrọ ụlọịkpe , ha kwuru ka akagbuo ntuliaka ahụ ma megharịa ya ọzọ .",
+    "text_to_decode": [
+      {
+        "text": "In their appeals, they demanded that the election be canceled and held again.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Before leaving Nigeria, it is important to buy an anti-cold blanket because the cold is not a given.",
+    "src_entities": [
+      "Nigeria,"
+    ],
+    "template": "Tupu ị hapụ Naijiria , ọ dị mkpa na ị ga - azụ akwa mgbochi oyii n'ihi na oyii alabekee abụghị ụkwa achị n'aka .",
+    "text_to_decode": [
+      {
+        "text": "Before leaving [ Nigeria, ] it is important to buy an anti-cold blanket because the cold is not a given.",
+        "candidates": [
+          4,
+          5,
+          6,
+          8,
+          12
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The Catholic Church forbids the clergy to get involved in politics",
+    "src_entities": [
+      "Catholic Church"
+    ],
+    "template": "Ụka katọlik amachiela ndị ụkọchukwu ịtinye ọnụ n'okwu gbasara ndọrọndọrọ ọchịchị",
+    "text_to_decode": [
+      {
+        "text": "The [ Catholic Church ] forbids the clergy to get involved in politics",
+        "candidates": [
+          2,
+          4,
+          7,
+          8,
+          14,
+          15,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          26
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In the match, Watford have taken two wickets in a row to defeat Leicester (2-1).",
+    "src_entities": [
+      "Watford",
+      "Leicester"
+    ],
+    "template": "N'egwuruegwu e Watford ewerela ọkpụ abụọ asatara otu merie Leicester ( 2 - 1 ) na .",
+    "text_to_decode": [
+      {
+        "text": "In the match, [ Watford ] have taken two wickets in a row to defeat Leicester (2-1).",
+        "candidates": [
+          7,
+          8,
+          10,
+          13,
+          16,
+          17,
+          19,
+          22
+        ]
+      },
+      {
+        "text": "In the match, Watford have taken two wickets in a row to defeat [ Leicester ] (2-1).",
+        "candidates": [
+          16,
+          19,
+          21,
+          22,
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Justice Ijem Onwuamaegbu is the first woman chief justice in Anambara state",
+    "src_entities": [
+      "Ijem Onwuamaegbu",
+      "Anambara"
+    ],
+    "template": "Jọstịs Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu n'Anambara steeti",
+    "text_to_decode": [
+      {
+        "text": "Justice [ Ijem Onwuamaegbu ] is the first woman chief justice in Anambara state",
+        "candidates": [
+          2,
+          5,
+          6,
+          8
+        ]
+      },
+      {
+        "text": "Justice Ijem Onwuamaegbu is the first woman chief justice in [ Anambara ] state",
+        "candidates": [
+          19,
+          21,
+          23,
+          25
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "But the PDP has rejected the meaning of the election.",
+    "src_entities": [
+      "PDP"
+    ],
+    "template": "Mana PDP ajụla mpụtara ntuliaka ahụ .",
+    "text_to_decode": [
+      {
+        "text": "But the [ PDP ] has rejected the meaning of the election.",
+        "candidates": [
+          2,
+          3,
+          4,
+          6,
+          12
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "What you don't know about the man Customs refused to accept a bribe",
+    "src_entities": [
+      "Customs"
+    ],
+    "template": "Ihe ị maghị maka nwoke Customs jụrụ ịnara akaazụ",
+    "text_to_decode": [
+      {
+        "text": "What you don't know about the man [ Customs ] refused to accept a bribe",
+        "candidates": [
+          4,
+          6,
+          8,
+          10,
+          11,
+          13
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The Catholic Church in the Highlands now has two Bishops",
+    "src_entities": [
+      "Highlands"
+    ],
+    "template": "Ụka Katọliki n'Enugwu enweela Bishop abụọ",
+    "text_to_decode": [
+      {
+        "text": "The Catholic Church in the [ Highlands ] now has two Bishops",
+        "candidates": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          15
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In Ōtaka, many markets are near Baba Ewe, where protesters on election day did not open out of fear.",
+    "src_entities": [
+      "Ōtaka,",
+      "Baba Ewe,"
+    ],
+    "template": "N' Ọkọta , ọtụtụ ọdọahịa dị nso na Baba Ewe , ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu .",
+    "text_to_decode": [
+      {
+        "text": "In [ Ōtaka, ] many markets are near Baba Ewe, where protesters on election day did not open out of fear.",
+        "candidates": [
+          2,
+          4,
+          5,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "In Ōtaka, many markets are near [ Baba Ewe, ] where protesters on election day did not open out of fear.",
+        "candidates": [
+          12,
+          13,
+          15,
+          16
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Akpabioure said this would help to investigate the confusion that occurred during the vote.",
+    "src_entities": [
+      "Akpabioure"
+    ],
+    "template": "Akpabịọ sị na nke a ga - enye aka inyocha ihe mgbagwoju anya mere mgbe a tụrụ vootu ahụ .",
+    "text_to_decode": [
+      {
+        "text": "[ Akpabioure ] said this would help to investigate the confusion that occurred during the vote.",
+        "candidates": [
+          2,
+          4,
+          5,
+          6,
+          11
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Listen to the BBC news in a minute:",
+    "src_entities": [
+      "BBC"
+    ],
+    "template": "Gere akụkọ BBC na nkeji :",
+    "text_to_decode": [
+      {
+        "text": "Listen to the [ BBC ] news in a minute:",
+        "candidates": [
+          4,
+          5,
+          7
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Election result 2019: APC and PDP are arguing about the 2019 elections",
+    "src_entities": [
+      "APC",
+      "PDP"
+    ],
+    "template": "Election result 2019 : APC na PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019",
+    "text_to_decode": [
+      {
+        "text": "Election result 2019: [ APC ] and PDP are arguing about the 2019 elections",
+        "candidates": [
+          2,
+          4,
+          6,
+          7,
+          11
+        ]
+      },
+      {
+        "text": "Election result 2019: APC and [ PDP ] are arguing about the 2019 elections",
+        "candidates": [
+          2,
+          6,
+          9,
+          11,
+          12,
+          16
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "His spokesperson on social media Ebere Nzewuji said that they do not know what to do now about it is a decision.",
+    "src_entities": [
+      "Ebere Nzewuji"
+    ],
+    "template": "Onụ na - ekwuchitere ya n'ihe gbasara mgbaozi soshal midia bụ Ebere Nzewuji kwuru na ha mabeghị ihe ha ga - eme ugbua gbasara ya bụ mkpebi .",
+    "text_to_decode": [
+      {
+        "text": "His spokesperson on social media [ Ebere Nzewuji ] said that they do not know what to do now about it is a decision.",
+        "candidates": [
+          3,
+          5,
+          6,
+          12,
+          13,
+          14,
+          15,
+          20,
+          21,
+          26
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "This left Manchester City still standing as king at the top of the table in the Premier League.",
+    "src_entities": [
+      "Manchester City"
+    ],
+    "template": "Nke a mere ka Manchester City ka kwụrụ ọtọ dịka eze n'elu tebulu na Premier League .",
+    "text_to_decode": [
+      {
+        "text": "This left [ Manchester City ] still standing as king at the top of the table in the Premier League.",
+        "candidates": [
+          5,
+          6,
+          8,
+          9,
+          19,
+          22
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "As President Muhammadu Buhari won the 2019 election, Nigerians have begun to wonder about who they want to run for the presidency in 2023.",
+    "src_entities": [
+      "Muhammadu Buhari"
+    ],
+    "template": "Dịka onyeisiala Muhammadu Buhari meriri na ntuliaka 2019 , ụmụ Naijiria ebidola ị ma atụ gbasara ndị ha chọrọ ka ha zọọ ọkwa onyeisiala n'afọ 2023 .",
+    "text_to_decode": [
+      {
+        "text": "As President [ Muhammadu Buhari ] won the 2019 election, Nigerians have begun to wonder about who they want to run for the presidency in 2023.",
+        "candidates": [
+          6
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "\"We do not believe there is such a thing as racism\", the Department of Culture, Religious and Linguistic Affairs (CRL Rights Commission) told reporters in South Africa.",
+    "src_entities": [
+      "Department of Culture, Religious and Linguistic Affairs",
+      "South Africa."
+    ],
+    "template": "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\" , ka ngalaba na - ahụ maka omenaala , ofufe na asụsụ a kpọrọ \"\"\"\" ( CRL Rights Commission ) \"\"\"\" gwara ndị ntaakụkọ mba Saụt Afrịka .",
+    "text_to_decode": [
+      {
+        "text": "\"We do not believe there is such a thing as racism\", the [ Department of Culture, Religious and Linguistic Affairs ] (CRL Rights Commission) told reporters in South Africa.",
+        "candidates": [
+          2,
+          3,
+          4,
+          6,
+          11,
+          12,
+          14,
+          16,
+          17,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          28,
+          30,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          43,
+          44,
+          45,
+          46,
+          49,
+          52,
+          57
+        ]
+      },
+      {
+        "text": "\"We do not believe there is such a thing as racism\", the Department of Culture, Religious and Linguistic Affairs (CRL Rights Commission) told reporters in [ South Africa. ]",
+        "candidates": [
+          2,
+          6,
+          7,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          28,
+          29,
+          30,
+          31,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          43,
+          44,
+          45,
+          49,
+          51,
+          52,
+          57
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "6. People who live in houses with earwigs are at risk of falling",
+    "src_entities": [],
+    "template": "6 . Ndị mmadụ na kachị ntị biri n'ụlọ na - achọ ịda ada",
+    "text_to_decode": [
+      {
+        "text": "6. People who live in houses with earwigs are at risk of falling",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "U.S. Secretary of State Mike Pompeo said the two countries agreed to work on this issue.",
+    "src_entities": [
+      "U.S.",
+      "Mike Pompeo"
+    ],
+    "template": "Mike Pompeo bụ odeakwụkwọ kachasị nke mba Amerịka , kwuru na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a .",
+    "text_to_decode": [
+      {
+        "text": "[ U.S. ] Secretary of State Mike Pompeo said the two countries agreed to work on this issue.",
+        "candidates": [
+          2,
+          4,
+          7,
+          8,
+          22,
+          25,
+          26,
+          27,
+          30,
+          32
+        ]
+      },
+      {
+        "text": "U.S. Secretary of State [ Mike Pompeo ] said the two countries agreed to work on this issue.",
+        "candidates": [
+          2,
+          4,
+          7,
+          8
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Will Nwosu go to court?",
+    "src_entities": [
+      "Nwosu"
+    ],
+    "template": "Uche Nwosu ọ ga - aga n'ụlọikpe ?",
+    "text_to_decode": [
+      {
+        "text": "Will [ Nwosu ] go to court?",
+        "candidates": [
+          2,
+          4,
+          6,
+          8,
+          10
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Pogu Petru.",
+    "src_entities": [
+      "Pogu Petru."
+    ],
+    "template": "Pogu Bitrus .",
+    "text_to_decode": [
+      {
+        "text": "[ Pogu Petru. ]",
+        "candidates": [
+          2,
+          5,
+          6
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "But Okoroocha said Inec did not have the authority to do this.",
+    "src_entities": [
+      "Okoroocha",
+      "Inec"
+    ],
+    "template": "Mana Okoroocha kwuru na Inec enweghị ikike ime nke a .",
+    "text_to_decode": [
+      {
+        "text": "But [ Okoroocha ] said Inec did not have the authority to do this.",
+        "candidates": [
+          2,
+          3,
+          7
+        ]
+      },
+      {
+        "text": "But Okoroocha said [ Inec ] did not have the authority to do this.",
+        "candidates": [
+          11,
+          16,
+          8,
+          9
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The Nigerian military has said it is shocked by Inec's accusation that it played a role in the corruption of the governorship election in Rivas state.",
+    "src_entities": [
+      "Inec's",
+      "Rivas"
+    ],
+    "template": "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo Inec boro ha na ha so mebie ntuliaka ọkwa gọvanọ e mere na Rivas steeti .",
+    "text_to_decode": [
+      {
+        "text": "The Nigerian military has said it is shocked by [ Inec's ] accusation that it played a role in the corruption of the governorship election in Rivas state.",
+        "candidates": [
+          27,
+          20,
+          29,
+          24
+        ]
+      },
+      {
+        "text": "The Nigerian military has said it is shocked by Inec's accusation that it played a role in the corruption of the governorship election in [ Rivas ] state.",
+        "candidates": [
+          36,
+          40,
+          42,
+          43,
+          45,
+          47
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Fr Mbaka is very happy because Buhari has won",
+    "src_entities": [
+      "Mbaka",
+      "Buhari"
+    ],
+    "template": "Fr Mbaka na - enwe nnukwu aṅụrị n'ihi na Buhari emeriela",
+    "text_to_decode": [
+      {
+        "text": "Fr [ Mbaka ] is very happy because Buhari has won",
+        "candidates": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Fr Mbaka is very happy because [ Buhari ] has won",
+        "candidates": [
+          6,
+          7,
+          8,
+          9,
+          12,
+          16,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He said that he did not know.",
+    "src_entities": [],
+    "template": "O kwuru na ọ mabeghị .",
+    "text_to_decode": [
+      {
+        "text": "He said that he did not know.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Ngige ruled Anambra after winning the governorship under the PDP, in the year 2003 to 2006.",
+    "src_entities": [
+      "Ngige",
+      "Anambra",
+      "PDP,"
+    ],
+    "template": "Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP , n'afọ 2003 ruo 2006 .",
+    "text_to_decode": [
+      {
+        "text": "[ Ngige ] ruled Anambra after winning the governorship under the PDP, in the year 2003 to 2006.",
+        "candidates": [
+          2,
+          4,
+          8,
+          11,
+          12,
+          13,
+          21
+        ]
+      },
+      {
+        "text": "Ngige ruled [ Anambra ] after winning the governorship under the PDP, in the year 2003 to 2006.",
+        "candidates": [
+          6,
+          8,
+          11,
+          12,
+          13,
+          20,
+          21
+        ]
+      },
+      {
+        "text": "Ngige ruled Anambra after winning the governorship under the [ PDP, ] in the year 2003 to 2006.",
+        "candidates": [
+          20,
+          21
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "6th.",
+    "src_entities": [],
+    "template": "6 .",
+    "text_to_decode": [
+      {
+        "text": "6th.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "A tradition and ethnic group in Nigeria, the Igbo Ohaneze, the Northern Elders Forum, the Middle Belt Forum and the Niger Delta Forum have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+    "src_entities": [
+      "Nigeria,",
+      "Igbo Ohaneze,",
+      "Northern Elders Forum,",
+      "Middle Belt Forum",
+      "Niger Delta Forum",
+      "Atiku"
+    ],
+    "template": "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo , Northern Elders Forum , Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi .",
+    "text_to_decode": [
+      {
+        "text": "A tradition and ethnic group in [ Nigeria, ] the Igbo Ohaneze, the Northern Elders Forum, the Middle Belt Forum and the Niger Delta Forum have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+        "candidates": [
+          8,
+          9,
+          10,
+          14,
+          15,
+          18,
+          20
+        ]
+      },
+      {
+        "text": "A tradition and ethnic group in Nigeria, the [ Igbo Ohaneze, ] the Northern Elders Forum, the Middle Belt Forum and the Niger Delta Forum have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+        "candidates": [
+          14,
+          15,
+          18,
+          20,
+          21
+        ]
+      },
+      {
+        "text": "A tradition and ethnic group in Nigeria, the Igbo Ohaneze, the [ Northern Elders Forum, ] the Middle Belt Forum and the Niger Delta Forum have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+        "candidates": [
+          15,
+          18,
+          20,
+          21,
+          25,
+          26
+        ]
+      },
+      {
+        "text": "A tradition and ethnic group in Nigeria, the Igbo Ohaneze, the Northern Elders Forum, the [ Middle Belt Forum ] and the Niger Delta Forum have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+        "candidates": [
+          26,
+          29,
+          25
+        ]
+      },
+      {
+        "text": "A tradition and ethnic group in Nigeria, the Igbo Ohaneze, the Northern Elders Forum, the Middle Belt Forum and the [ Niger Delta Forum ] have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+        "candidates": [
+          30,
+          33
+        ]
+      },
+      {
+        "text": "A tradition and ethnic group in Nigeria, the Igbo Ohaneze, the Northern Elders Forum, the Middle Belt Forum and the Niger Delta Forum have been involved in a petition to get [ Atiku ] to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+        "candidates": [
+          42,
+          44,
+          45
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He said he wanted to bring to life the charity he founded for free eye care which he called the \"\"\"\"Gateway Front Foundation (GFF) \"\"\".",
+    "src_entities": [],
+    "template": "O kwuru na ọ chọrọ ikpọlite ngalaba o hibere maka nlekọta ndị mmadụ anya n'efu nke ọ kpọrọ \"\"\"\" Gateway Front Foundation ( GFF ) \"\"\"\" , na ndụ .",
+    "text_to_decode": [
+      {
+        "text": "He said he wanted to bring to life the charity he founded for free eye care which he called the \"\"\"\"Gateway Front Foundation (GFF) \"\"\".",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Popular news now is that Atiku Abubakar and a PDP party have filed a lawsuit over the results of the 2019 presidential election.",
+    "src_entities": [
+      "Atiku Abubakar",
+      "PDP"
+    ],
+    "template": "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar nakwa otu PDP azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019 .",
+    "text_to_decode": [
+      {
+        "text": "Popular news now is that [ Atiku Abubakar ] and a PDP party have filed a lawsuit over the results of the 2019 presidential election.",
+        "candidates": [
+          12,
+          8,
+          17
+        ]
+      },
+      {
+        "text": "Popular news now is that Atiku Abubakar and a [ PDP ] party have filed a lawsuit over the results of the 2019 presidential election.",
+        "candidates": [
+          19,
+          20,
+          23,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Recall that Mr. Abubakar was a candidate for the presidency on behalf of the PDP party.",
+    "src_entities": [
+      "Abubakar",
+      "PDP"
+    ],
+    "template": "Cheta na Maazị Abubakar bụ onye ji aha pati PDP zọọ ọkwa onyeisiala .",
+    "text_to_decode": [
+      {
+        "text": "Recall that Mr. [ Abubakar ] was a candidate for the presidency on behalf of the PDP party.",
+        "candidates": [
+          13,
+          8
+        ]
+      },
+      {
+        "text": "Recall that Mr. Abubakar was a candidate for the presidency on behalf of the [ PDP ] party.",
+        "candidates": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The spokesperson, Attorney Ifeanyi Ulumma explained that the election being \"\"\"\" inconclusive \"\"\"\" means \"\"\"\" where the election was conducted without prejudice. \"\"\"\"",
+    "src_entities": [
+      "Ifeanyi Ulumma"
+    ],
+    "template": "Onye ọnụ na - eru n'okwu bụ Ọkaiwu Ifeanyi Ulumma kọwara na ntuliaka ịdị \"\"\"\" inconclusive \"\"\"\" pụtara \"\"\"\" ebe e mere ntuliaka a na - emerughị n'isi . \"\"\"\"",
+    "text_to_decode": [
+      {
+        "text": "The spokesperson, Attorney [ Ifeanyi Ulumma ] explained that the election being \"\"\"\" inconclusive \"\"\"\" means \"\"\"\" where the election was conducted without prejudice. \"\"\"\"",
+        "candidates": [
+          6,
+          10,
+          11,
+          14,
+          18
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "For example, London was at nine degrees, while New York was at four degrees.",
+    "src_entities": [
+      "London",
+      "New York"
+    ],
+    "template": "Ọmụma atụ , London nọ na digri itoolu , ebe Nu Yọk nọ na deigri anọ .",
+    "text_to_decode": [
+      {
+        "text": "For example, [ London ] was at nine degrees, while New York was at four degrees.",
+        "candidates": [
+          2,
+          5,
+          6,
+          7,
+          10,
+          11,
+          14,
+          16,
+          17
+        ]
+      },
+      {
+        "text": "For example, London was at nine degrees, while [ New York ] was at four degrees.",
+        "candidates": [
+          2,
+          5,
+          6,
+          7,
+          10,
+          14,
+          16,
+          17,
+          19,
+          21
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "A Nigerian junior football team will start their training in Tunisia today as they prepare to meet Libya to determine who qualified for the Junior Africa Cup of Nations.",
+    "src_entities": [
+      "Tunisia",
+      "Libya"
+    ],
+    "template": "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na mba Tunisia taa dịka ha na akwado ịzute mba Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere .",
+    "text_to_decode": [
+      {
+        "text": "A Nigerian junior football team will start their training in [ Tunisia ] today as they prepare to meet Libya to determine who qualified for the Junior Africa Cup of Nations.",
+        "candidates": [
+          18,
+          19,
+          20,
+          22,
+          25,
+          27
+        ]
+      },
+      {
+        "text": "A Nigerian junior football team will start their training in Tunisia today as they prepare to meet [ Libya ] to determine who qualified for the Junior Africa Cup of Nations.",
+        "candidates": [
+          34,
+          22,
+          25,
+          27,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Igbo artist and internationally renowned art collector Okwui Enwezor, from Awkuzu, Anambara state died on Friday in Germany after suffering from cancer for several years.",
+    "src_entities": [
+      "Okwui Enwezor,",
+      "Awkuzu,",
+      "Anambara",
+      "Germany"
+    ],
+    "template": "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor , onye Awkuzu , Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole .",
+    "text_to_decode": [
+      {
+        "text": "Igbo artist and internationally renowned art collector [ Okwui Enwezor, ] from Awkuzu, Anambara state died on Friday in Germany after suffering from cancer for several years.",
+        "candidates": [
+          35,
+          14,
+          16,
+          18,
+          19,
+          20,
+          25,
+          30,
+          31
+        ]
+      },
+      {
+        "text": "Igbo artist and internationally renowned art collector Okwui Enwezor, from [ Awkuzu, ] Anambara state died on Friday in Germany after suffering from cancer for several years.",
+        "candidates": [
+          35,
+          25,
+          27,
+          30,
+          31,
+          33
+        ]
+      },
+      {
+        "text": "Igbo artist and internationally renowned art collector Okwui Enwezor, from Awkuzu, [ Anambara ] state died on Friday in Germany after suffering from cancer for several years.",
+        "candidates": [
+          27,
+          31,
+          35
+        ]
+      },
+      {
+        "text": "Igbo artist and internationally renowned art collector Okwui Enwezor, from Awkuzu, Anambara state died on Friday in [ Germany ] after suffering from cancer for several years.",
+        "candidates": [
+          42,
+          43,
+          44,
+          41
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Leicester City: The owner has died in an accident?",
+    "src_entities": [
+      "Leicester City:"
+    ],
+    "template": "Leicester City : Onye nwe ya ọ nwụọla n'ihe mberede ?",
+    "text_to_decode": [
+      {
+        "text": "[ Leicester City: ] The owner has died in an accident?",
+        "candidates": [
+          2,
+          4,
+          5,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He also asked that the false rumors not be spread among the Imo people to mislead them to include the AA party in the elections for the post of governor and the state legislature.",
+    "src_entities": [
+      "Imo",
+      "AA"
+    ],
+    "template": "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ Imo gbajọọ itunyere pati AA na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti .",
+    "text_to_decode": [
+      {
+        "text": "He also asked that the false rumors not be spread among the [ Imo ] people to mislead them to include the AA party in the elections for the post of governor and the state legislature.",
+        "candidates": [
+          36,
+          39,
+          9,
+          11,
+          13,
+          14,
+          15,
+          18,
+          23,
+          27,
+          28,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "He also asked that the false rumors not be spread among the Imo people to mislead them to include the [ AA ] party in the elections for the post of governor and the state legislature.",
+        "candidates": [
+          16,
+          18,
+          21,
+          22,
+          23,
+          27,
+          28,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He said Nsorom was chasing Ihedioha who was running for governor of Imo state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+    "src_entities": [
+      "Nsorom",
+      "Ihedioha",
+      "Imo",
+      "PDP",
+      "Isu,",
+      "Senate",
+      "Labour"
+    ],
+    "template": "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu , zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone .",
+    "text_to_decode": [
+      {
+        "text": "He said [ Nsorom ] was chasing Ihedioha who was running for governor of Imo state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+        "candidates": [
+          35,
+          5,
+          7,
+          8,
+          9,
+          39,
+          40,
+          43,
+          46,
+          49,
+          19,
+          51,
+          22,
+          23,
+          29,
+          30,
+          32
+        ]
+      },
+      {
+        "text": "He said Nsorom was chasing [ Ihedioha ] who was running for governor of Imo state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+        "candidates": [
+          35,
+          39,
+          8,
+          40,
+          10,
+          11,
+          43,
+          14,
+          15,
+          46,
+          49,
+          19,
+          51,
+          22,
+          23,
+          29,
+          30,
+          32
+        ]
+      },
+      {
+        "text": "He said Nsorom was chasing Ihedioha who was running for governor of [ Imo ] state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+        "candidates": [
+          35,
+          39,
+          40,
+          43,
+          46,
+          51,
+          22,
+          29,
+          30,
+          32
+        ]
+      },
+      {
+        "text": "He said Nsorom was chasing Ihedioha who was running for governor of Imo state under the [ PDP ] election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+        "candidates": [
+          35,
+          39,
+          40,
+          46,
+          51,
+          28,
+          29,
+          30,
+          32
+        ]
+      },
+      {
+        "text": "He said Nsorom was chasing Ihedioha who was running for governor of Imo state under the PDP election party under [ Isu, ] met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+        "candidates": [
+          35,
+          69,
+          38,
+          71,
+          40
+        ]
+      },
+      {
+        "text": "He said Nsorom was chasing Ihedioha who was running for governor of Imo state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the [ Senate ] in the Labour zone.",
+        "candidates": [
+          66,
+          67,
+          69,
+          70,
+          71,
+          57,
+          58,
+          59,
+          60,
+          61,
+          64,
+          65
+        ]
+      },
+      {
+        "text": "He said Nsorom was chasing Ihedioha who was running for governor of Imo state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the [ Labour ] zone.",
+        "candidates": [
+          69,
+          70,
+          71,
+          72
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Listen to the BBC one minute news here.",
+    "src_entities": [
+      "BBC"
+    ],
+    "template": "Gee akụkọ BBC n'otu nkeji ebe a .",
+    "text_to_decode": [
+      {
+        "text": "Listen to the [ BBC ] one minute news here.",
+        "candidates": [
+          3,
+          4,
+          5,
+          11
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "A group of Nigerian Catholic priests have advised the government to sign a new Electoral Law, saying this will stop the problems in the elections.",
+    "src_entities": [],
+    "template": "Ndị otu ụkọchukwu ụka Katọlik Naịjirịa enyela gọọmentị ndụmọdụ ka o binye aka \"\"\"\" n'Electoral Law \"\"\"\" ọhụrụ , na ọ bụ nke a ga - eme ka nsogbu kwụsị ịdapụta na ntuliaka .",
+    "text_to_decode": [
+      {
+        "text": "A group of Nigerian Catholic priests have advised the government to sign a new Electoral Law, saying this will stop the problems in the elections.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "I am not in a better position to die - El-Rufai",
+    "src_entities": [
+      "El-Rufai"
+    ],
+    "template": "Anọghị m n'ọnọdụ ọdị ndụ ọnwụ ka mma - El - Rufai",
+    "text_to_decode": [
+      {
+        "text": "I am not in a better position to die - [ El-Rufai ]",
+        "candidates": [
+          7,
+          9,
+          10,
+          11,
+          12,
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Anambara State Governor Willie Obiano led Justice Ijem Onwuamaegbu to resign as the first female chief justice.",
+    "src_entities": [
+      "Anambara",
+      "Willie Obiano",
+      "Justice",
+      "Ijem Onwuamaegbu"
+    ],
+    "template": "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+    "text_to_decode": [
+      {
+        "text": "[ Anambara ] State Governor Willie Obiano led Justice Ijem Onwuamaegbu to resign as the first female chief justice.",
+        "candidates": [
+          2,
+          6,
+          8,
+          25,
+          27,
+          30
+        ]
+      },
+      {
+        "text": "Anambara State Governor [ Willie Obiano ] led Justice Ijem Onwuamaegbu to resign as the first female chief justice.",
+        "candidates": [
+          8,
+          10,
+          11,
+          14,
+          25,
+          27,
+          29
+        ]
+      },
+      {
+        "text": "Anambara State Governor Willie Obiano led [ Justice ] Ijem Onwuamaegbu to resign as the first female chief justice.",
+        "candidates": [
+          10,
+          14,
+          15,
+          18,
+          19,
+          25,
+          27,
+          29,
+          30
+        ]
+      },
+      {
+        "text": "Anambara State Governor Willie Obiano led Justice [ Ijem Onwuamaegbu ] to resign as the first female chief justice.",
+        "candidates": [
+          14,
+          18,
+          19,
+          25,
+          27,
+          29,
+          31,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "and...",
+    "src_entities": [],
+    "template": ".",
+    "text_to_decode": [
+      {
+        "text": "and...",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Ahaneze, NEF, Afenifere, MBF and NDF have supported Atiku to go to court.",
+    "src_entities": [
+      "Ahaneze,",
+      "NEF,",
+      "Afenifere,",
+      "MBF",
+      "NDF",
+      "Atiku"
+    ],
+    "template": "Ohaneze , NEF , Afenifere , MBF na NDF akwadola Atiku ịga ụlọikpe",
+    "text_to_decode": [
+      {
+        "text": "[ Ahaneze, ] NEF, Afenifere, MBF and NDF have supported Atiku to go to court.",
+        "candidates": [
+          2,
+          3,
+          5,
+          6,
+          8,
+          26
+        ]
+      },
+      {
+        "text": "Ahaneze, [ NEF, ] Afenifere, MBF and NDF have supported Atiku to go to court.",
+        "candidates": [
+          2,
+          5,
+          6,
+          8,
+          9,
+          26
+        ]
+      },
+      {
+        "text": "Ahaneze, NEF, [ Afenifere, ] MBF and NDF have supported Atiku to go to court.",
+        "candidates": [
+          5,
+          8,
+          9,
+          12,
+          13
+        ]
+      },
+      {
+        "text": "Ahaneze, NEF, Afenifere, [ MBF ] and NDF have supported Atiku to go to court.",
+        "candidates": [
+          12,
+          13,
+          15
+        ]
+      },
+      {
+        "text": "Ahaneze, NEF, Afenifere, MBF and [ NDF ] have supported Atiku to go to court.",
+        "candidates": [
+          18,
+          20,
+          16
+        ]
+      },
+      {
+        "text": "Ahaneze, NEF, Afenifere, MBF and NDF have supported [ Atiku ] to go to court.",
+        "candidates": [
+          26,
+          20,
+          21,
+          23
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Recall that Inec had earlier cancelled the collection and announcement of the results of the gubernatorial and parliamentary elections held in Rivas on the night of March 10 due to reports of violence, followed by elections.",
+    "src_entities": [
+      "Inec",
+      "Rivas"
+    ],
+    "template": "Cheta na Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo , so ya bụ ntuliaka .",
+    "text_to_decode": [
+      {
+        "text": "Recall that [ Inec ] had earlier cancelled the collection and announcement of the results of the gubernatorial and parliamentary elections held in Rivas on the night of March 10 due to reports of violence, followed by elections.",
+        "candidates": [
+          5,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "text": "Recall that Inec had earlier cancelled the collection and announcement of the results of the gubernatorial and parliamentary elections held in [ Rivas ] on the night of March 10 due to reports of violence, followed by elections.",
+        "candidates": [
+          28,
+          29
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "As of now it is not known how many people have been affected as the displaced workers have not arrived as @TopsyAshaolu said on his twitter account;",
+    "src_entities": [],
+    "template": "Dịka ọ dị ugbua a mabeghi mmadụ ole nke a metụtara dịka ndị ọrụ gbatagbata a bịabeghi n'ebe ahụ dịka @ TopsyAshaolu siri kwuo n'akara twitter ya ;",
+    "text_to_decode": [
+      {
+        "text": "As of now it is not known how many people have been affected as the displaced workers have not arrived as @TopsyAshaolu said on his twitter account;",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "2023 President in this sequence?",
+    "src_entities": [],
+    "template": "Onyeisiala 2023 na nsonso a ?",
+    "text_to_decode": [
+      {
+        "text": "2023 President in this sequence?",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Election Update: Summary of today's events",
+    "src_entities": [],
+    "template": "Election Update : Nchịkọta ihe mere taa",
+    "text_to_decode": [
+      {
+        "text": "Election Update: Summary of today's events",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The NLC has criticized Inec for the way the 2019 elections went and has called for them to ensure that the electoral process in some states that was established on the night of March 23 goes ahead.",
+    "src_entities": [
+      "NLC",
+      "Inec"
+    ],
+    "template": "Otu jikoro ndị ọrụ bụ NLC n'aha ịchafụ akatọọla Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya .",
+    "text_to_decode": [
+      {
+        "text": "The [ NLC ] has criticized Inec for the way the 2019 elections went and has called for them to ensure that the electoral process in some states that was established on the night of March 23 goes ahead.",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          10,
+          12,
+          14,
+          16
+        ]
+      },
+      {
+        "text": "The NLC has criticized [ Inec ] for the way the 2019 elections went and has called for them to ensure that the electoral process in some states that was established on the night of March 23 goes ahead.",
+        "candidates": [
+          5,
+          6,
+          7,
+          8,
+          10,
+          13,
+          14,
+          16,
+          19,
+          22
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "They also wrote that the results of the election were in line with their analysis of the following:",
+    "src_entities": [],
+    "template": "Ha dekwara sị na mpụtara ntuliaka a dabara n'ogo ha nyochapụtara na o kwesịrị :",
+    "text_to_decode": [
+      {
+        "text": "They also wrote that the results of the election were in line with their analysis of the following:",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The Nigerian Election Commission (INEC) has announced that President Muhammadu Buhari has won the 2019 presidential election.",
+    "src_entities": [
+      "Nigerian Election Commission",
+      "Muhammadu Buhari"
+    ],
+    "template": "Ngalaba na - ahazi ntuliaka na Naijiria bụ Inec n'aha ịchafụ ekwuola na ọ bụ onyeisiala Muhammadu Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019 .",
+    "text_to_decode": [
+      {
+        "text": "The [ Nigerian Election Commission ] (INEC) has announced that President Muhammadu Buhari has won the 2019 presidential election.",
+        "candidates": [
+          2,
+          4,
+          5,
+          6,
+          8,
+          11,
+          12,
+          15,
+          16,
+          18,
+          20,
+          21
+        ]
+      },
+      {
+        "text": "The Nigerian Election Commission (INEC) has announced that President [ Muhammadu Buhari ] has won the 2019 presidential election.",
+        "candidates": [
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Brenton Tarrant, 28, was taken to court on Saturday for the attack on two mosques in New Zealand.",
+    "src_entities": [
+      "Brenton Tarrant,",
+      "New Zealand."
+    ],
+    "template": "A kpụpụrụ Brenton Tarrant , onye dị afọ 28 , ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na Nu Ziland",
+    "text_to_decode": [
+      {
+        "text": "[ Brenton Tarrant, ] 28, was taken to court on Saturday for the attack on two mosques in New Zealand.",
+        "candidates": [
+          2,
+          3,
+          36,
+          37,
+          6,
+          39,
+          11,
+          29,
+          31
+        ]
+      },
+      {
+        "text": "Brenton Tarrant, 28, was taken to court on Saturday for the attack on two mosques in [ New Zealand. ]",
+        "candidates": [
+          35,
+          36,
+          37,
+          39,
+          29,
+          31
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "NTA, AIT, Channels and others have violated NBC policy",
+    "src_entities": [
+      "NTA,",
+      "AIT,",
+      "Channels",
+      "NBC"
+    ],
+    "template": "NTA , AIT , Channels na ndị ọzọ adaala iwu NBC",
+    "text_to_decode": [
+      {
+        "text": "[ NTA, ] AIT, Channels and others have violated NBC policy",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          7,
+          8
+        ]
+      },
+      {
+        "text": "NTA, [ AIT, ] Channels and others have violated NBC policy",
+        "candidates": [
+          4,
+          5,
+          7,
+          8,
+          10,
+          13
+        ]
+      },
+      {
+        "text": "NTA, AIT, [ Channels ] and others have violated NBC policy",
+        "candidates": [
+          4,
+          7,
+          8,
+          10,
+          13
+        ]
+      },
+      {
+        "text": "NTA, AIT, Channels and others have violated [ NBC ] policy",
+        "candidates": [
+          4,
+          7,
+          14,
+          16,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Uwazuruike said that the problem was caused by the fact that some had a color on the patch that said \"\"\"\"king who told me\"\"\", he said.",
+    "src_entities": [
+      "Uwazuruike"
+    ],
+    "template": "Uwazuruike kwuru na ọ bụ n'ihi na ụfọdụ nwere agba na patị ahụ bụ \"\"\"\" eze onye agwala m \"\"\"\" , na ọ bụ ya butere nsogbu a .",
+    "text_to_decode": [
+      {
+        "text": "[ Uwazuruike ] said that the problem was caused by the fact that some had a color on the patch that said \"\"\"\"king who told me\"\"\", he said.",
+        "candidates": [
+          2,
+          34,
+          6,
+          39,
+          40,
+          15,
+          16,
+          17,
+          19,
+          21,
+          22,
+          30,
+          31,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Criminals have set fire to Inec factory in Agw Ibom",
+    "src_entities": [
+      "Inec",
+      "Agw Ibom"
+    ],
+    "template": "Ndị omekome agbaala ụlọọrụ Inec ọkụ n'Akwa Ibom",
+    "text_to_decode": [
+      {
+        "text": "Criminals have set fire to [ Inec ] factory in Agw Ibom",
+        "candidates": [
+          10,
+          15,
+          9
+        ]
+      },
+      {
+        "text": "Criminals have set fire to Inec factory in [ Agw Ibom ]",
+        "candidates": [
+          19,
+          13,
+          15,
+          16
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "So they used a single-story machine to build a four-story building.",
+    "src_entities": [],
+    "template": "Ya mere ha na - eji igwe a ga - eji arụ otu ogogo ụlọ elu arụ ogogo ụlọ elu anọ .",
+    "text_to_decode": [
+      {
+        "text": "So they used a single-story machine to build a four-story building.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Since the completion of the Senate elections, Inec has awarded President Buhari and his Vice President with their victory certificates and has also awarded their own Members of Parliament.",
+    "src_entities": [
+      "Senate",
+      "Inec",
+      "Buhari"
+    ],
+    "template": "Kamgbe emechara ntuliaka nke ọkwa sineti , Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha .",
+    "text_to_decode": [
+      {
+        "text": "Since the completion of the [ Senate ] elections, Inec has awarded President Buhari and his Vice President with their victory certificates and has also awarded their own Members of Parliament.",
+        "candidates": [
+          4,
+          9,
+          10,
+          11,
+          12,
+          13,
+          18
+        ]
+      },
+      {
+        "text": "Since the completion of the Senate elections, [ Inec ] has awarded President Buhari and his Vice President with their victory certificates and has also awarded their own Members of Parliament.",
+        "candidates": [
+          18,
+          13,
+          14,
+          16
+        ]
+      },
+      {
+        "text": "Since the completion of the Senate elections, Inec has awarded President [ Buhari ] and his Vice President with their victory certificates and has also awarded their own Members of Parliament.",
+        "candidates": [
+          21
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Real Madrid football manager Gareth Bale has criticized Real Madrid fans for mocking Bale and said it was a shame for them.",
+    "src_entities": [
+      "Real Madrid",
+      "Gareth Bale",
+      "Real Madrid",
+      "Bale"
+    ],
+    "template": "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha .",
+    "text_to_decode": [
+      {
+        "text": "[ Real Madrid ] football manager Gareth Bale has criticized Real Madrid fans for mocking Bale and said it was a shame for them.",
+        "candidates": [
+          2,
+          3,
+          4,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          15,
+          16,
+          18,
+          19,
+          20,
+          21,
+          26
+        ]
+      },
+      {
+        "text": "Real Madrid football manager [ Gareth Bale ] has criticized Real Madrid fans for mocking Bale and said it was a shame for them.",
+        "candidates": [
+          3,
+          4,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "Real Madrid football manager Gareth Bale has criticized [ Real Madrid ] fans for mocking Bale and said it was a shame for them.",
+        "candidates": [
+          4,
+          7,
+          8,
+          9,
+          16,
+          18,
+          20,
+          21,
+          23,
+          26
+        ]
+      },
+      {
+        "text": "Real Madrid football manager Gareth Bale has criticized Real Madrid fans for mocking [ Bale ] and said it was a shame for them.",
+        "candidates": [
+          8,
+          9,
+          12,
+          23,
+          25
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Mbaka, Oyedepo, and other priests are effective",
+    "src_entities": [
+      "Mbaka,",
+      "Oyedepo,"
+    ],
+    "template": "Mbaka , Oyedepo na ụkọchukwu ndị ọzọ okwu ha na - adị ire",
+    "text_to_decode": [
+      {
+        "text": "[ Mbaka, ] Oyedepo, and other priests are effective",
+        "candidates": [
+          2,
+          4,
+          5,
+          8,
+          9,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      {
+        "text": "Mbaka, [ Oyedepo, ] and other priests are effective",
+        "candidates": [
+          4,
+          5,
+          8,
+          9,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The PDP has asked Nigerians to reject Inec's results if Inec refuses to produce a report on the card reader.",
+    "src_entities": [
+      "PDP",
+      "Inec's",
+      "Inec"
+    ],
+    "template": "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader . '",
+    "text_to_decode": [
+      {
+        "text": "The [ PDP ] has asked Nigerians to reject Inec's results if Inec refuses to produce a report on the card reader.",
+        "candidates": [
+          2,
+          3,
+          36,
+          5,
+          37,
+          12,
+          16,
+          33
+        ]
+      },
+      {
+        "text": "The PDP has asked Nigerians to reject [ Inec's ] results if Inec refuses to produce a report on the card reader.",
+        "candidates": [
+          34,
+          36,
+          37,
+          12,
+          14,
+          16,
+          17,
+          18,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "The PDP has asked Nigerians to reject Inec's results if [ Inec ] refuses to produce a report on the card reader.",
+        "candidates": [
+          36,
+          37,
+          17,
+          21,
+          22,
+          24,
+          27,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "2014: 13 buildings collapsed in Lagos and two in Abuja.",
+    "src_entities": [
+      "Lagos",
+      "Abuja."
+    ],
+    "template": "2014 : Ụlọ iri na atọ dara na Lagos ebe abụọ dara n'Abuja .",
+    "text_to_decode": [
+      {
+        "text": "2014: 13 buildings collapsed in [ Lagos ] and two in Abuja.",
+        "candidates": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "text": "2014: 13 buildings collapsed in Lagos and two in [ Abuja. ]",
+        "candidates": [
+          18,
+          12,
+          14,
+          16
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Many people criticized the \"\"\"\"strange\"\" thing that happened in front of the Lukau church near Johannesburg, while many made fun of it.",
+    "src_entities": [
+      "Lukau",
+      "Johannesburg,"
+    ],
+    "template": "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka Lukau dị nso n'obodo Johannesburg , ebe ọtụtụ ji ya mere ihe ọchị .",
+    "text_to_decode": [
+      {
+        "text": "Many people criticized the \"\"\"\"strange\"\" thing that happened in front of the [ Lukau ] church near Johannesburg, while many made fun of it.",
+        "candidates": [
+          23,
+          24,
+          26,
+          28,
+          30
+        ]
+      },
+      {
+        "text": "Many people criticized the \"\"\"\"strange\"\" thing that happened in front of the Lukau church near [ Johannesburg, ] while many made fun of it.",
+        "candidates": [
+          34,
+          37,
+          30,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He said that this has caused fear among people from the eastern and southern regions and says that there is no greater corruption.",
+    "src_entities": [],
+    "template": "Obi kwuru na nke a tinyere ụjọ na ndị si na mpaghara ọwụwa anyanwụ na ndị ndịda anyanwụ ma na - ekwu na onweghị nrụrụaka ka nke a .",
+    "text_to_decode": [
+      {
+        "text": "He said that this has caused fear among people from the eastern and southern regions and says that there is no greater corruption.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "A weak foundation",
+    "src_entities": [],
+    "template": "Ntọala na - esighi ike",
+    "text_to_decode": [
+      {
+        "text": "A weak foundation",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Attorneys from other Alaigbo states attended this special ceremony at the Government House of the state.",
+    "src_entities": [
+      "Government House"
+    ],
+    "template": "Okiwu ndị steeti Alaigbo ndị ọzọ bịara emume a pụrụ iche n'Obi gọọmentị nke steeti ahụ .",
+    "text_to_decode": [
+      {
+        "text": "Attorneys from other Alaigbo states attended this special ceremony at the [ Government House ] of the state.",
+        "candidates": [
+          19,
+          21,
+          22,
+          23,
+          24,
+          26,
+          30
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "More than 30 people were rescued from the rubble of a collapsed building in Nyagatare in Rwanda in 2013.",
+    "src_entities": [
+      "Nyagatare",
+      "Rwanda"
+    ],
+    "template": "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na Nyagatare dị na Rwanda n'afọ 2013 .",
+    "text_to_decode": [
+      {
+        "text": "More than 30 people were rescued from the rubble of a collapsed building in [ Nyagatare ] in Rwanda in 2013.",
+        "candidates": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          21,
+          23,
+          24,
+          27,
+          28
+        ]
+      },
+      {
+        "text": "More than 30 people were rescued from the rubble of a collapsed building in Nyagatare in [ Rwanda ] in 2013.",
+        "candidates": [
+          16,
+          17,
+          21,
+          22,
+          23,
+          27,
+          28
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "A map of the disaster area can help you to overcome fear",
+    "src_entities": [],
+    "template": "Mapụ ebe ọdachi ndí omekataraihepụụjọ",
+    "text_to_decode": [
+      {
+        "text": "A map of the disaster area can help you to overcome fear",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "One gunman, believed to be Brenton Tarant, appeared to be firing into a mosque.",
+    "src_entities": [
+      "Brenton Tarant,"
+    ],
+    "template": "Otu onye ji egbe so na mkpakpa ahụ nke a na - enyo na ọ bụ Brenton Tarant gosiri onwe ya dịka ọ na - akwa mgbọ n'ime ụlọụka Alakụba .",
+    "text_to_decode": [
+      {
+        "text": "One gunman, believed to be [ Brenton Tarant, ] appeared to be firing into a mosque.",
+        "candidates": [
+          8,
+          12,
+          14,
+          15,
+          16,
+          17,
+          20,
+          24,
+          25,
+          27,
+          28
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Barca beat Madrid on the head",
+    "src_entities": [
+      "Barca",
+      "Madrid"
+    ],
+    "template": "Barca tụrụ Madrid ọkpọ n'isi",
+    "text_to_decode": [
+      {
+        "text": "[ Barca ] beat Madrid on the head",
+        "candidates": [
+          2,
+          4,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Barca beat [ Madrid ] on the head",
+        "candidates": [
+          4,
+          5,
+          8
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "More than 54 houses collapsed in 2017 in Nigeria.",
+    "src_entities": [
+      "Nigeria."
+    ],
+    "template": "Ihe karịrị ụlọ iri ise na anọ dara ada n'afọ 2017 na Naịjirịa .",
+    "text_to_decode": [
+      {
+        "text": "More than 54 houses collapsed in 2017 in [ Nigeria. ]",
+        "candidates": [
+          5,
+          10,
+          11,
+          15,
+          16,
+          20
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It is not known what it is but it is thought that Gokmen Tanis is working with the green terrorists.",
+    "src_entities": [
+      "Gokmen",
+      "Tanis"
+    ],
+    "template": "Amambeghi ihe ọ bụ n'uche mana e chere na Gokmen Tanis na ndị oyi ndụ egwu na - arụkọ ọrụ .",
+    "text_to_decode": [
+      {
+        "text": "It is not known what it is but it is thought that [ Gokmen ] Tanis is working with the green terrorists.",
+        "candidates": [
+          12,
+          13,
+          16,
+          19,
+          22,
+          24
+        ]
+      },
+      {
+        "text": "It is not known what it is but it is thought that Gokmen [ Tanis ] is working with the green terrorists.",
+        "candidates": [
+          19,
+          21,
+          22
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Olisa Agbakoba is the attorney general in Nigeria has called on Atiku Abubakar to accept the results of the presidential election.",
+    "src_entities": [
+      "Olisa Agbakoba",
+      "Nigeria",
+      "Atiku Abubakar"
+    ],
+    "template": "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala .",
+    "text_to_decode": [
+      {
+        "text": "[ Olisa Agbakoba ] is the attorney general in Nigeria has called on Atiku Abubakar to accept the results of the presidential election.",
+        "candidates": [
+          2,
+          7
+        ]
+      },
+      {
+        "text": "Olisa Agbakoba is the attorney general in [ Nigeria ] has called on Atiku Abubakar to accept the results of the presidential election.",
+        "candidates": [
+          35,
+          39,
+          13,
+          14,
+          18,
+          30
+        ]
+      },
+      {
+        "text": "Olisa Agbakoba is the attorney general in Nigeria has called on [ Atiku Abubakar ] to accept the results of the presidential election.",
+        "candidates": [
+          26,
+          21
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Barca defeated Madrid by a single goal in their El Classico match last night.",
+    "src_entities": [
+      "Barca",
+      "Madrid"
+    ],
+    "template": "Barca ji otu ọkpụ goolu merie Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ .",
+    "text_to_decode": [
+      {
+        "text": "[ Barca ] defeated Madrid by a single goal in their El Classico match last night.",
+        "candidates": [
+          2,
+          29,
+          5,
+          8
+        ]
+      },
+      {
+        "text": "Barca defeated [ Madrid ] by a single goal in their El Classico match last night.",
+        "candidates": [
+          4,
+          6,
+          8,
+          12,
+          29
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In his speech, Jacob said that it was less than two percent.",
+    "src_entities": [
+      "Jacob"
+    ],
+    "template": "N'okwu ya , Yakubu kwuru na o rughị pasent abụọ .",
+    "text_to_decode": [
+      {
+        "text": "In his speech, [ Jacob ] said that it was less than two percent.",
+        "candidates": [
+          2,
+          6,
+          7,
+          11,
+          12
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "APC Primaries: Riots erupted in Enugwu",
+    "src_entities": [
+      "APC",
+      "Enugwu"
+    ],
+    "template": "APC Primaries : Ọgbaghara dapụtara n'Enugwu",
+    "text_to_decode": [
+      {
+        "text": "[ APC ] Primaries: Riots erupted in Enugwu",
+        "candidates": [
+          2,
+          3,
+          5,
+          6,
+          8
+        ]
+      },
+      {
+        "text": "APC Primaries: Riots erupted in [ Enugwu ]",
+        "candidates": [
+          11,
+          13,
+          15,
+          9
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He criticized the way in which those in power are attacking the members of the PDP party and those who compare their votes and are asking people to come out in full to vote in the gubernatorial election.",
+    "src_entities": [
+      "PDP"
+    ],
+    "template": "Ọ katọrọ etu ndị nọ na ọchịchị si wakpo ndị nọ na pati PDP ma ndị na - atụnyere ha vootu ma na - arịọ ka ndị mmadụ pụta n'uju tụọ vootu na ntuliaka nke ọkwa gọvanọ .",
+    "text_to_decode": [
+      {
+        "text": "He criticized the way in which those in power are attacking the members of the [ PDP ] party and those who compare their votes and are asking people to come out in full to vote in the gubernatorial election.",
+        "candidates": [
+          14,
+          16,
+          17,
+          18,
+          19,
+          24
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "By definition, a certificate of victory would authorize the person to enter a victorious domain to rule.",
+    "src_entities": [],
+    "template": "Na nkọwa ya , asambodo mmeri ga - enye onye ahụ ikike ịbanye ebe o nwetere mmeri ịchị .",
+    "text_to_decode": [
+      {
+        "text": "By definition, a certificate of victory would authorize the person to enter a victorious domain to rule.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The priest Alph Lukau stands by the coffin, laying his hands on the stomach of the man he claims to have resurrected",
+    "src_entities": [
+      "Alph Lukau"
+    ],
+    "template": "Ụkọchukwu Alph Lukau kwụ n'akụkụ akpati ozu , tụkwasị aka n'elu afọ nwoke o kwuru na ọ kpọlitere n'ozu",
+    "text_to_decode": [
+      {
+        "text": "The priest [ Alph Lukau ] stands by the coffin, laying his hands on the stomach of the man he claims to have resurrected",
+        "candidates": [
+          35,
+          36,
+          6,
+          38,
+          10,
+          14,
+          16,
+          18,
+          19
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Godswill Akpabio ruled Akwa Ibom State from 2007 to 2015.",
+    "src_entities": [
+      "Godswill Akpabio",
+      "Akwa Ibom State"
+    ],
+    "template": "Godswill Akpabio chịrị Akwa Ibom steeti site n'afọ 2007 rue afọ 2015 .",
+    "text_to_decode": [
+      {
+        "text": "[ Godswill Akpabio ] ruled Akwa Ibom State from 2007 to 2015.",
+        "candidates": [
+          2,
+          7,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "text": "Godswill Akpabio ruled [ Akwa Ibom State ] from 2007 to 2015.",
+        "candidates": [
+          9,
+          13,
+          16,
+          21,
+          22,
+          23
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Gbenga Daniel has resigned from politics,",
+    "src_entities": [
+      "Gbenga Daniel"
+    ],
+    "template": "Gbenga Daniel agbaala ndọrọndọrọ ọchịchị \"\"\"\" arụkwaghịm \"\"\"\" ,",
+    "text_to_decode": [
+      {
+        "text": "[ Gbenga Daniel ] has resigned from politics,",
+        "candidates": [
+          2,
+          5,
+          6,
+          7,
+          11,
+          12,
+          13,
+          17,
+          19
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Wike also promised to build a house for them and to participate in his ministry.",
+    "src_entities": [
+      "Wike"
+    ],
+    "template": "Wike kwekwara nkwa iwuru ha ụlọ ma tinyekwa aka n'akwamozu ya .",
+    "text_to_decode": [
+      {
+        "text": "[ Wike ] also promised to build a house for them and to participate in his ministry.",
+        "candidates": [
+          2,
+          4,
+          6,
+          18,
+          21
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Arsenal and Tottenham played each other in a draw, which resulted in a championship.",
+    "src_entities": [
+      "Arsenal",
+      "Tottenham"
+    ],
+    "template": "Arsenal na Tottenham gbara onwe ha onye laba , onye laba na ya bụ asọmpị .",
+    "text_to_decode": [
+      {
+        "text": "[ Arsenal ] and Tottenham played each other in a draw, which resulted in a championship.",
+        "candidates": [
+          2,
+          3,
+          7,
+          8,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          21
+        ]
+      },
+      {
+        "text": "Arsenal and [ Tottenham ] played each other in a draw, which resulted in a championship.",
+        "candidates": [
+          4,
+          7,
+          8,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          19
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The five-story building was a restaurant when it collapsed, killing 11 people.",
+    "src_entities": [],
+    "template": "Ụlọ ahụ daranụ nwere ogogo ise ma bụrụkwa ụlọ oriri mgbe ọ dara gbuo mmadụ 11 .",
+    "text_to_decode": [
+      {
+        "text": "The five-story building was a restaurant when it collapsed, killing 11 people.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "People have died in the IDP camp,",
+    "src_entities": [],
+    "template": "Ndị mmadụ anwụọla n'IDP camp ,",
+    "text_to_decode": [
+      {
+        "text": "People have died in the IDP camp,",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Accord supports APGA in the State Budget",
+    "src_entities": [
+      "APGA"
+    ],
+    "template": "Accord na - akwado APGA n'Abia Steeti",
+    "text_to_decode": [
+      {
+        "text": "Accord supports [ APGA ] in the State Budget",
+        "candidates": [
+          2,
+          4,
+          5,
+          8,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "As witnessed by Eze Ugochukwu told BBC Igbo, this young man, Nsorom Nnamdi, received two guns from the Ojiegbe people who were two young men with a gun.",
+    "src_entities": [
+      "Eze Ugochukwu",
+      "BBC Igbo,",
+      "Nsorom Nnamdi,",
+      "Ojiegbe"
+    ],
+    "template": "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu , egbe . Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo , nwaamadị a bụ Nsorom Nnamdi , natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+    "text_to_decode": [
+      {
+        "text": "As witnessed by [ Eze Ugochukwu ] told BBC Igbo, this young man, Nsorom Nnamdi, received two guns from the Ojiegbe people who were two young men with a gun.",
+        "candidates": [
+          34,
+          35,
+          38,
+          39,
+          44,
+          28,
+          31,
+          32
+        ]
+      },
+      {
+        "text": "As witnessed by Eze Ugochukwu told [ BBC Igbo, ] this young man, Nsorom Nnamdi, received two guns from the Ojiegbe people who were two young men with a gun.",
+        "candidates": [
+          34,
+          35,
+          37,
+          61,
+          45,
+          48,
+          49,
+          51,
+          52,
+          58,
+          59,
+          28,
+          29,
+          32
+        ]
+      },
+      {
+        "text": "As witnessed by Eze Ugochukwu told BBC Igbo, this young man, [ Nsorom Nnamdi, ] received two guns from the Ojiegbe people who were two young men with a gun.",
+        "candidates": [
+          49,
+          51,
+          52,
+          53,
+          58,
+          59,
+          62
+        ]
+      },
+      {
+        "text": "As witnessed by Eze Ugochukwu told BBC Igbo, this young man, Nsorom Nnamdi, received two guns from the [ Ojiegbe ] people who were two young men with a gun.",
+        "candidates": [
+          3,
+          4,
+          35,
+          6,
+          7,
+          68,
+          9,
+          10,
+          69,
+          72,
+          73,
+          26,
+          64,
+          28,
+          29,
+          31,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He also criticized statements that governor Rochas Okorocha is regretting supporting the AA party in the upcoming elections.",
+    "src_entities": [
+      "Rochas Okorocha",
+      "AA"
+    ],
+    "template": "Ọ katọkwara okwu na - ekwu na gọvanọ Rochas Okorocha na - echegharị maka ịkwado pati AA na ntuliaka na - abịanụ .",
+    "text_to_decode": [
+      {
+        "text": "He also criticized statements that governor [ Rochas Okorocha ] is regretting supporting the AA party in the upcoming elections.",
+        "candidates": [
+          11,
+          14,
+          31,
+          19
+        ]
+      },
+      {
+        "text": "He also criticized statements that governor Rochas Okorocha is regretting supporting the [ AA ] party in the upcoming elections.",
+        "candidates": [
+          26,
+          27,
+          28,
+          31
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "His dismissal comes just 600 days after his appointment.",
+    "src_entities": [],
+    "template": "Ọchụchụ ya na - abịa naanị ụbọchị narị na isii e wechara ya n'ọrụ .",
+    "text_to_decode": [
+      {
+        "text": "His dismissal comes just 600 days after his appointment.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The King also told BBC Igbo that Nsorom Nnamdi has been taken to the emergency room of the Federal Medical Center in Owere.",
+    "src_entities": [
+      "BBC Igbo",
+      "Nsorom Nnamdi",
+      "Federal Medical Center",
+      "Owere."
+    ],
+    "template": "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere .",
+    "text_to_decode": [
+      {
+        "text": "The King also told [ BBC Igbo ] that Nsorom Nnamdi has been taken to the emergency room of the Federal Medical Center in Owere.",
+        "candidates": [
+          3,
+          36,
+          5,
+          8,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          28
+        ]
+      },
+      {
+        "text": "The King also told BBC Igbo that [ Nsorom Nnamdi ] has been taken to the emergency room of the Federal Medical Center in Owere.",
+        "candidates": [
+          10,
+          11,
+          8,
+          16
+        ]
+      },
+      {
+        "text": "The King also told BBC Igbo that Nsorom Nnamdi has been taken to the emergency room of the [ Federal Medical Center ] in Owere.",
+        "candidates": [
+          19,
+          22,
+          25,
+          26,
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      {
+        "text": "The King also told BBC Igbo that Nsorom Nnamdi has been taken to the emergency room of the Federal Medical Center in [ Owere. ]",
+        "candidates": [
+          34,
+          36,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  }
+]

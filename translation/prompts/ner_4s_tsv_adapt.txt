@@ -1,0 +1,29 @@
+Tag the following sentence according to the BIO scheme for the NER task, using the tags PER (person), LOC (location), ORG (organization) and DATE (date). Follow the format specified in the examples below:
+
+Sentence: {{demos[0]['input']}}
+Tags:
+```
+{{demos[0]['output']}}
+```
+
+Sentence: {{demos[1]['input']}}
+Tags:
+```
+{{demos[1]['output']}}
+```
+
+Sentence: {{demos[2]['input']}}
+Tags:
+```
+{{demos[2]['output']}}
+```
+
+Sentence: {{demos[3]['input']}}
+Tags:
+```
+{{demos[3]['output']}}
+```
+
+Sentence: {{sentence}}
+Tags:
+```

@@ -1,0 +1,1667 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [],
+    "template": "Omuserikale omu yakwatiddwa omulala yadduse bakyamunoonya .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "Pastor Dr. [ Cyprian Kizito Lwanga ] sang the Mass in Kigungu on Sunday at the celebration of this historic day in Klezia.",
+      "Pastor Dr. Cyprian Kizito Lwanga sang the Mass in [ Kigungu ] on Sunday at the celebration of this historic day in Klezia.",
+      "Pastor Dr. Cyprian Kizito Lwanga sang the Mass in Kigungu on Sunday at the celebration of this historic day in [ Klezia. ]"
+    ],
+    "src_entities": [
+      "Cyprian Kizito Lwanga",
+      "Kigungu",
+      "Klezia."
+    ],
+    "template": "Ssaabasumba Dr . Cyprian Kizito Lwanga ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia .",
+    "tgt_lang": [
+      [
+        "Ssaabasumba Dr. [ Cyprian Kizito Lwanga ] ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia.",
+        "Ssaabasumba Dr. [ Cyprian Kizito Lwanga ye ] yayimbye mmisa e Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia.",
+        "Ssaabasumba Dr. [ Cyprian Kizito Lwanga ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gw ]okukuza olunaku olwo olwebyafaayo mu Klezia.",
+        "Ssaabasumba Dr. [ Cyprian Kizito Lwanga ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia ].",
+        "Ssaabasumba Dr. [ Cyprian Kizito Lwanga ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia. ]"
+      ],
+      [
+        "Ssaabasumba Dr. Cyprian Kizito Lwanga ye yayimbye mmisa e [ Kigungu ] ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia.",
+        "Ssaabasumba Dr. Cyprian Kizito Lwanga ye yayimbye mmisa [ e Kigungu ] ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia.",
+        "Ssaabasumba Dr. Cyprian Kizito Lwanga ye yayimbye mmisa e [ Kigungu ku Ssande ku mukolo gw ]okukuza olunaku olwo olwebyafaayo mu Klezia.",
+        "Ssaabasumba Dr. Cyprian Kizito Lwanga ye yayimbye mmisa e [ Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia ].",
+        "Ssaabasumba Dr. Cyprian Kizito Lwanga ye yayimbye mmisa e [ Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia. ]"
+      ],
+      [
+        "Ssaabasumba Dr. Cyprian Kizito Lwanga ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu [ Klezia ].",
+        "Ssaabasumba Dr. Cyprian Kizito Lwanga ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu [ Klezia. ]",
+        "Ssaabasumba Dr. Cyprian Kizito Lwanga ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo [ mu Klezia ].",
+        "Ssaabasumba Dr. Cyprian Kizito Lwanga ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo [ mu Klezia. ]",
+        "Ssaabasumba Dr. Cyprian Kizito Lwanga ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Cyprian Kizito Lwanga",
+        "Cyprian Kizito Lwanga ye",
+        "Cyprian Kizito Lwanga ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gw",
+        "Cyprian Kizito Lwanga ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia",
+        "Cyprian Kizito Lwanga ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia."
+      ],
+      [
+        "Kigungu",
+        "e Kigungu",
+        "Kigungu ku Ssande ku mukolo gw",
+        "Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia",
+        "Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia."
+      ],
+      [
+        "Klezia",
+        "Klezia.",
+        "mu Klezia",
+        "mu Klezia.",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -53.28310775756836,
+        -60.37897872924805,
+        -70.54330444335938,
+        -71.3897933959961,
+        -71.6052017211914
+      ],
+      [
+        -59.28400802612305,
+        -61.92150115966797,
+        -80.09971618652344,
+        -80.14832305908203,
+        -80.80018615722656
+      ],
+      [
+        -55.83002471923828,
+        -56.35198974609375,
+        -60.43120193481445,
+        -61.59359359741211,
+        -65.13606262207031
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "[ Mukata ] said that the purpose of first educating passengers about their responsibilities in the taxi and the drivers is to catch them with full knowledge of the crime they have committed to be charged without any excuse."
+    ],
+    "src_entities": [
+      "Mukata"
+    ],
+    "template": "Mukasa agambye nti ekigendererwa kyokusooka okusomesa abasaabaze obuvunaanyizibwa bwabwe mu takisi ne baddereeva kwe kubakwata nga bamanyi bulungi omusango gwe bazzizza bavunaanibwe nga tebalina kye beekwasa .",
+    "tgt_lang": [
+      [
+        "[ Mukasa ] agambye nti ekigendererwa kyokusooka okusomesa abasaabaze obuvunaanyizibwa bwabwe mu takisi ne baddereeva kwe kubakwata nga bamanyi bulungi omusango gwe bazzizza bavunaanibwe nga tebalina kye beekwasa.",
+        "[ Mukasa agambye ] nti ekigendererwa kyokusooka okusomesa abasaabaze obuvunaanyizibwa bwabwe mu takisi ne baddereeva kwe kubakwata nga bamanyi bulungi omusango gwe bazzizza bavunaanibwe nga tebalina kye beekwasa.",
+        "[ ] Mukasa agambye nti ekigendererwa kyokusooka okusomesa abasaabaze obuvunaanyizibwa bwabwe mu takisi ne baddereeva kwe kubakwata nga bamanyi bulungi omusango gwe bazzizza bavunaanibwe nga tebalina kye beekwasa.",
+        "[ Mukasa agambye nti ekigendererwa kyokusooka okusomesa abasaabaze obuvunaanyizibwa bwabwe mu takisi ne baddereeva kwe kubakwata nga bamanyi bulungi omusango gwe bazzizza bavunaanibwe nga tebalina kye beekwasa. ]",
+        "[ Mukasa agambye nti ekigendererwa kyokusooka okusomesa abasaabaze obuvunaanyizibwa bwabwe mu takisi ne baddereeva kwe kubakwata nga bamanyi bulungi omusango gwe bazzizza bavunaanibwe nga tebalina kye beekwasa ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mukasa",
+        "Mukasa agambye",
+        "",
+        "Mukasa agambye nti ekigendererwa kyokusooka okusomesa abasaabaze obuvunaanyizibwa bwabwe mu takisi ne baddereeva kwe kubakwata nga bamanyi bulungi omusango gwe bazzizza bavunaanibwe nga tebalina kye beekwasa.",
+        "Mukasa agambye nti ekigendererwa kyokusooka okusomesa abasaabaze obuvunaanyizibwa bwabwe mu takisi ne baddereeva kwe kubakwata nga bamanyi bulungi omusango gwe bazzizza bavunaanibwe nga tebalina kye beekwasa"
+      ]
+    ],
+    "score": [
+      [
+        -64.6759033203125,
+        -72.92159271240234,
+        -73.06450653076172,
+        -83.1414566040039,
+        -85.9156723022461
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "In the women, [ Halima Nakaayi ] took fifth in the 1000 meters in 2 minutes and 32 seconds and 12 points while also breaking the Uganda record while her partner Winnie Nanyondo took eighth with 236.54 as well in this season of timing her last.",
+      "In the women, Halima Nakaayi took fifth in the 1000 meters in 2 minutes and 32 seconds and 12 points while also breaking the [ Uganda ] record while her partner Winnie Nanyondo took eighth with 236.54 as well in this season of timing her last.",
+      "In the women, Halima Nakaayi took fifth in the 1000 meters in 2 minutes and 32 seconds and 12 points while also breaking the Uganda record while her partner [ Winnie Nanyondo ] took eighth with 236.54 as well in this season of timing her last."
+    ],
+    "src_entities": [
+      "Halima Nakaayi",
+      "Uganda",
+      "Winnie Nanyondo"
+    ],
+    "template": "Mu bakazi , Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236 . 54 nga era mu season eno ya timing ye ekyasize .",
+    "tgt_lang": [
+      [
+        "Mu bakazi, [ Halima Nakaayi ] akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize.",
+        "Mu bakazi [, Halima Nakaayi ] akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize.",
+        "Mu bakazi, [ ] Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize.",
+        "Mu bakazi, Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236. [ 54 ] nga era mu season eno ya timing ye ekyasize.",
+        "Mu bakazi, Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu [ season ] eno ya timing ye ekyasize."
+      ],
+      [
+        "Mu bakazi, Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya [ Uganda ] ate munne Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize.",
+        "Mu bakazi, Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda [ ya Uganda ] ate munne Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize.",
+        "Mu bakazi, Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya [ Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize ].",
+        "Mu bakazi, Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya [ Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize. ]",
+        "Mu bakazi, Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya [ Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ] ekyasize."
+      ],
+      [
+        "Mu bakazi, Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya Uganda ate munne [ Winnie Nanyondo ] nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize.",
+        "Mu bakazi, Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya Uganda ate [ munne Winnie Nanyondo ] nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize.",
+        "Mu bakazi, Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya Uganda ate munne [ ] Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize.",
+        "Mu bakazi, Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya Uganda ate munne Winnie Nanyondo [ ] nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize.",
+        "Mu bakazi, Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya Uganda ate munne [ Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Halima Nakaayi",
+        ", Halima Nakaayi",
+        "",
+        "54",
+        "season"
+      ],
+      [
+        "Uganda",
+        "ya Uganda",
+        "Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize",
+        "Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize.",
+        "Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye"
+      ],
+      [
+        "Winnie Nanyondo",
+        "munne Winnie Nanyondo",
+        "",
+        "",
+        "Winnie Nanyondo nakwata kya munana ne 236. 54 nga era mu season eno ya timing ye ekyasize."
+      ]
+    ],
+    "score": [
+      [
+        -157.52951049804688,
+        -167.68272399902344,
+        -168.82827758789062,
+        -173.24441528320312,
+        -177.4879150390625
+      ],
+      [
+        -159.8363800048828,
+        -162.79837036132812,
+        -182.36029052734375,
+        -182.4044952392578,
+        -182.75770568847656
+      ],
+      [
+        -157.8094940185547,
+        -169.73513793945312,
+        -171.53208923339844,
+        -173.13467407226562,
+        -181.03018188476562
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "All this is alleged to have been done with guns and as part of a group of people who opposed the [ Masaka ] in the regions of Lyantonde, Ssembabule and Rakai by cutting people and stealing goods.",
+      "All this is alleged to have been done with guns and as part of a group of people who opposed the Masaka in the regions of [ Lyantonde, ] Ssembabule and Rakai by cutting people and stealing goods.",
+      "All this is alleged to have been done with guns and as part of a group of people who opposed the Masaka in the regions of Lyantonde, [ Ssembabule ] and Rakai by cutting people and stealing goods.",
+      "All this is alleged to have been done with guns and as part of a group of people who opposed the Masaka in the regions of Lyantonde, Ssembabule and [ Rakai ] by cutting people and stealing goods."
+    ],
+    "src_entities": [
+      "Masaka",
+      "Lyantonde,",
+      "Ssembabule",
+      "Rakai"
+    ],
+    "template": "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye Lyantonde , Ssembabule ne Rakai nga batema abantu nokubba ebintu .",
+    "tgt_lang": [
+      [
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya [ Bannamasaka ] mu bitundu bye Lyantonde, Ssembabule ne Rakai nga batema abantu nokubba ebintu.",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye Lyantonde [ ], Ssembabule ne Rakai nga batema abantu nokubba ebintu.",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya [ Bannamasaka mu bitundu bye Lyantonde, Ssembabule ne Rakai ] nga batema abantu nokubba ebintu.",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya [ Bannamasaka mu bitundu bye Lyantonde, Ssembabule ne Rakai nga batema abantu nokubba ebintu. ]",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya [ Bannamasaka mu bitundu bye Lyantonde, Ssembabule ne Rakai nga batema abantu nokubba ebintu ]."
+      ],
+      [
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye [ Lyantonde, ] Ssembabule ne Rakai nga batema abantu nokubba ebintu.",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye [ Lyantonde ], Ssembabule ne Rakai nga batema abantu nokubba ebintu.",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye [ Lyantonde, Ssembabule ne Rakai ] nga batema abantu nokubba ebintu.",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye [ Lyantonde, Ssembabule ne Rakai nga batema abantu nokubba ebintu. ]",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye [ Lyantonde, Ssembabule ne Rakai nga batema abantu nokubba ebintu ]."
+      ],
+      [
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye Lyantonde, [ Ssembabule ] ne Rakai nga batema abantu nokubba ebintu.",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye Lyantonde [, Ssembabule ] ne Rakai nga batema abantu nokubba ebintu.",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye Lyantonde, Ssembabule [ ] ne Rakai nga batema abantu nokubba ebintu.",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye Lyantonde [ ], Ssembabule ne Rakai nga batema abantu nokubba ebintu.",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye Lyantonde [, ] Ssembabule ne Rakai nga batema abantu nokubba ebintu."
+      ],
+      [
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye Lyantonde, Ssembabule ne [ Rakai ] nga batema abantu nokubba ebintu.",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye Lyantonde, Ssembabule ne Rakai [ ] nga batema abantu nokubba ebintu.",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye Lyantonde, Ssembabule ne [ ] Rakai nga batema abantu nokubba ebintu.",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye Lyantonde, Ssembabule ne Rakai [ nga batema abantu nokubba ebintu. ]",
+        "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye Lyantonde [, Ssembabule ne Rakai ] nga batema abantu nokubba ebintu."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Bannamasaka",
+        "",
+        "Bannamasaka mu bitundu bye Lyantonde, Ssembabule ne Rakai",
+        "Bannamasaka mu bitundu bye Lyantonde, Ssembabule ne Rakai nga batema abantu nokubba ebintu.",
+        "Bannamasaka mu bitundu bye Lyantonde, Ssembabule ne Rakai nga batema abantu nokubba ebintu"
+      ],
+      [
+        "Lyantonde,",
+        "Lyantonde",
+        "Lyantonde, Ssembabule ne Rakai",
+        "Lyantonde, Ssembabule ne Rakai nga batema abantu nokubba ebintu.",
+        "Lyantonde, Ssembabule ne Rakai nga batema abantu nokubba ebintu"
+      ],
+      [
+        "Ssembabule",
+        ", Ssembabule",
+        "",
+        "",
+        ","
+      ],
+      [
+        "Rakai",
+        "",
+        "",
+        "nga batema abantu nokubba ebintu.",
+        ", Ssembabule ne Rakai"
+      ]
+    ],
+    "score": [
+      [
+        -80.07213592529297,
+        -87.86985778808594,
+        -96.18901824951172,
+        -98.77156066894531,
+        -99.30487060546875
+      ],
+      [
+        -74.5692367553711,
+        -80.75971984863281,
+        -84.78404998779297,
+        -94.20150756835938,
+        -94.62085723876953
+      ],
+      [
+        -72.95458984375,
+        -78.35002136230469,
+        -79.64502716064453,
+        -80.79195404052734,
+        -82.12581634521484
+      ],
+      [
+        -74.44256591796875,
+        -83.94010162353516,
+        -84.66336059570312,
+        -85.8586654663086,
+        -86.21528625488281
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "He retired saying that his health was no longer good and [ Klezia ] elected the current Pope Francis.",
+      "He retired saying that his health was no longer good and Klezia elected the current [ Pope Francis. ]"
+    ],
+    "src_entities": [
+      "Klezia",
+      "Pope Francis."
+    ],
+    "template": "Yawummula ngagamba nti obulamubwe bwali tebukyasobola olwo Klezia neronda Paapa Francis aliko kati .",
+    "tgt_lang": [
+      [
+        "Yawummula ngagamba nti obulamubwe bwali tebukyasobola olwo [ Klezia ] neronda Paapa Francis aliko kati.",
+        "Yawummula ngagamba nti obulamubwe bwali tebukyasobola olwo [ Klezia neronda ] Paapa Francis aliko kati.",
+        "Yawummula ngagamba nti obulamubwe bwali tebukyasobola olwo [ ] Klezia neronda Paapa Francis aliko kati.",
+        "Yawummula ngagamba nti obulamubwe bwali tebukyasobola olwo [ Klezia neronda Paapa Francis aliko kati. ]",
+        "Yawummula ngagamba nti obulamubwe bwali tebukyasobola olwo [ Klezia neronda Paapa Francis aliko kati ]."
+      ],
+      [
+        "Yawummula ngagamba nti obulamubwe bwali tebukyasobola olwo Klezia neronda [ Paapa Francis ] aliko kati.",
+        "Yawummula ngagamba nti obulamubwe bwali tebukyasobola olwo Klezia neronda Paapa [ Francis ] aliko kati.",
+        "Yawummula ngagamba nti obulamubwe bwali tebukyasobola olwo Klezia neronda [ Paapa Francis aliko kati ].",
+        "Yawummula ngagamba nti obulamubwe bwali tebukyasobola olwo Klezia neronda [ Paapa Francis aliko kati. ]",
+        "Yawummula ngagamba nti obulamubwe bwali tebukyasobola olwo Klezia neronda [ ] Paapa Francis aliko kati."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Klezia",
+        "Klezia neronda",
+        "",
+        "Klezia neronda Paapa Francis aliko kati.",
+        "Klezia neronda Paapa Francis aliko kati"
+      ],
+      [
+        "Paapa Francis",
+        "Francis",
+        "Paapa Francis aliko kati",
+        "Paapa Francis aliko kati.",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -76.48921203613281,
+        -83.38716888427734,
+        -86.22956085205078,
+        -89.31966400146484,
+        -90.28852081298828
+      ],
+      [
+        -78.40264892578125,
+        -81.28067016601562,
+        -83.51447296142578,
+        -84.90251922607422,
+        -87.75618743896484
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [
+      "It is said that the children of [ Kiwalabye ] attacked him with 400, 000 notes he sold in the sand from his yard."
+    ],
+    "src_entities": [
+      "Kiwalabye"
+    ],
+    "template": "Kigambibwa nti abaana ba Kiwalabye be baamulumbye nga bamukanda 400 , 000ze yatunze mu musenyu okuva mu kibanja kye .",
+    "tgt_lang": [
+      [
+        "Kigambibwa nti abaana ba [ Kiwalabye ] be baamulumbye nga bamukanda 400, 000ze yatunze mu musenyu okuva mu kibanja kye.",
+        "Kigambibwa nti abaana ba [ ] Kiwalabye be baamulumbye nga bamukanda 400, 000ze yatunze mu musenyu okuva mu kibanja kye.",
+        "Kigambibwa nti abaana [ ba Kiwalabye ] be baamulumbye nga bamukanda 400, 000ze yatunze mu musenyu okuva mu kibanja kye.",
+        "Kigambibwa nti abaana ba Kiwalabye [ ] be baamulumbye nga bamukanda 400, 000ze yatunze mu musenyu okuva mu kibanja kye.",
+        "Kigambibwa nti abaana ba Kiwalabye [ be baamulumbye ] nga bamukanda 400, 000ze yatunze mu musenyu okuva mu kibanja kye."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kiwalabye",
+        "",
+        "ba Kiwalabye",
+        "",
+        "be baamulumbye"
+      ]
+    ],
+    "score": [
+      [
+        -68.192626953125,
+        -75.09716033935547,
+        -76.38981628417969,
+        -77.61245727539062,
+        -77.94964599609375
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "Bp [ Tamale ] has blamed the media including Bukedde for keeping the Nurseries and Christians in touch with other people since the lockdown on COVID 19 began.",
+      "Bp Tamale has blamed the media including [ Bukedde ] for keeping the Nurseries and Christians in touch with other people since the lockdown on COVID 19 began.",
+      "Bp Tamale has blamed the media including Bukedde for keeping the [ Nurseries ] and Christians in touch with other people since the lockdown on COVID 19 began."
+    ],
+    "src_entities": [
+      "Tamale",
+      "Bukedde",
+      "Nurseries"
+    ],
+    "template": "Bp Tamale yeebizza emikutu gyamawulire okuli ne Bukedde olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika .",
+    "tgt_lang": [
+      [
+        "Bp [ Tamale ] yeebizza emikutu gyamawulire okuli ne Bukedde olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika.",
+        "Bp [ ] Tamale yeebizza emikutu gyamawulire okuli ne Bukedde olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika.",
+        "Bp [ Tamale yeebizza emikutu gyamawulire okuli ne Bukedde olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika ].",
+        "Bp [ Tamale yeebizza emikutu gyamawulire okuli ne Bukedde olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika. ]",
+        "Bp [ Tamale yeebizza emikutu gyamawulire okuli ne Bukedde ] olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika."
+      ],
+      [
+        "Bp Tamale yeebizza emikutu gyamawulire okuli ne [ Bukedde ] olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika.",
+        "Bp Tamale yeebizza emikutu gyamawulire okuli [ ne Bukedde ] olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika.",
+        "Bp Tamale yeebizza emikutu gyamawulire [ okuli ne Bukedde ] olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika.",
+        "Bp Tamale yeebizza emikutu gyamawulire okuli ne [ ] Bukedde olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika.",
+        "Bp Tamale yeebizza emikutu gyamawulire okuli ne Bukedde [ ] olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika."
+      ],
+      [
+        "Bp Tamale yeebizza emikutu gyamawulire okuli ne Bukedde olwokusigala nga bayunze [ Obulabirizi ] nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika.",
+        "Bp Tamale yeebizza emikutu gyamawulire okuli ne Bukedde olwokusigala nga bayunze [ Obulabirizi nabakristaayo ] gattako abantu abalala bukya muggalo gwa COVID 19 gutandika.",
+        "Bp Tamale yeebizza emikutu gyamawulire okuli ne Bukedde olwokusigala nga bayunze [ ] Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika.",
+        "Bp Tamale yeebizza emikutu gyamawulire okuli ne Bukedde olwokusigala nga bayunze [ Obulabirizi nabakristaayo gattako abantu abalala ] bukya muggalo gwa COVID 19 gutandika.",
+        "Bp Tamale yeebizza emikutu gyamawulire okuli ne Bukedde olwokusigala nga bayunze [ Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Tamale",
+        "",
+        "Tamale yeebizza emikutu gyamawulire okuli ne Bukedde olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika",
+        "Tamale yeebizza emikutu gyamawulire okuli ne Bukedde olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika.",
+        "Tamale yeebizza emikutu gyamawulire okuli ne Bukedde"
+      ],
+      [
+        "Bukedde",
+        "ne Bukedde",
+        "okuli ne Bukedde",
+        "",
+        ""
+      ],
+      [
+        "Obulabirizi",
+        "Obulabirizi nabakristaayo",
+        "",
+        "Obulabirizi nabakristaayo gattako abantu abalala",
+        "Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika"
+      ]
+    ],
+    "score": [
+      [
+        -105.4938735961914,
+        -117.71363830566406,
+        -123.81684875488281,
+        -124.34928131103516,
+        -124.38927459716797
+      ],
+      [
+        -106.44689178466797,
+        -113.4148941040039,
+        -118.24343872070312,
+        -120.183349609375,
+        -124.54383850097656
+      ],
+      [
+        -102.23060607910156,
+        -112.68648529052734,
+        -116.56687927246094,
+        -118.38288879394531,
+        -121.376708984375
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 8,
+    "src_lang": [
+      "At that time as all the [ Abalibya ] businesses in Uganda including National Housing, Uganda Telecom Ltd, Tropical Bank and others, Kagimu signed.",
+      "At that time as all the Abalibya businesses in [ Uganda ] including National Housing, Uganda Telecom Ltd, Tropical Bank and others, Kagimu signed.",
+      "At that time as all the Abalibya businesses in Uganda including [ National Housing, ] Uganda Telecom Ltd, Tropical Bank and others, Kagimu signed.",
+      "At that time as all the Abalibya businesses in Uganda including National Housing, [ Uganda Telecom Ltd, ] Tropical Bank and others, Kagimu signed.",
+      "At that time as all the Abalibya businesses in Uganda including National Housing, Uganda Telecom Ltd, [ Tropical Bank ] and others, Kagimu signed.",
+      "At that time as all the Abalibya businesses in Uganda including National Housing, Uganda Telecom Ltd, Tropical Bank and others, [ Kagimu ] signed."
+    ],
+    "src_entities": [
+      "Abalibya",
+      "Uganda",
+      "National Housing,",
+      "Uganda Telecom Ltd,",
+      "Tropical Bank",
+      "Kagimu"
+    ],
+    "template": "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing , Uganda Telecom Ltd , Tropical Bank nendala , Kagimu yazirinamu omukono .",
+    "tgt_lang": [
+      [
+        "Mu biseera ebyo nga bizinensi [ zAbalibya ] zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, Tropical Bank nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi z [Abalibya ] zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, Tropical Bank nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi z [Abalibya zonna ] eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, Tropical Bank nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, Tropical Bank n [endala, Kagimu ] yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, Tropical Bank n [endala, ] Kagimu yazirinamu omukono."
+      ],
+      [
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu [ Uganda ] omwali National Housing, Uganda Telecom Ltd, Tropical Bank nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri [ mu Uganda ] omwali National Housing, Uganda Telecom Ltd, Tropical Bank nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda [ omwali National Housing, Uganda Telecom Ltd, Tropical Bank n ]endala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda [ omwali National Housing, Uganda Telecom Ltd, Tropical Bank nendala ], Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd [ ], Tropical Bank nendala, Kagimu yazirinamu omukono."
+      ],
+      [
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali [ National Housing, ] Uganda Telecom Ltd, Tropical Bank nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali [ National Housing ], Uganda Telecom Ltd, Tropical Bank nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali [ ] National Housing, Uganda Telecom Ltd, Tropical Bank nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali [ National Housing, Uganda Telecom Ltd ], Tropical Bank nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali [ National Housing, Uganda Telecom Ltd, Tropical Bank n ]endala, Kagimu yazirinamu omukono."
+      ],
+      [
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, [ Uganda Telecom Ltd, ] Tropical Bank nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, [ ] Tropical Bank nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, [ Uganda Telecom Ltd ], Tropical Bank nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, [ Tropical Bank ] nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd [, ] Tropical Bank nendala, Kagimu yazirinamu omukono."
+      ],
+      [
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, [ Tropical Bank ] nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, [ ] Tropical Bank nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd [, Tropical Bank ] nendala, Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, Tropical Bank n [endala ], Kagimu yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, [ Tropical ] Bank nendala, Kagimu yazirinamu omukono."
+      ],
+      [
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, Tropical Bank nendala, [ Kagimu ] yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, Tropical Bank n [endala, Kagimu ] yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, Tropical Bank nendala, Kagimu [ ] yazirinamu omukono.",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, Tropical Bank nendala, Kagimu [ yazirinamu omukono ].",
+        "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing, Uganda Telecom Ltd, Tropical Bank nendala, [ Kagimu yazirinamu omukono ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "zAbalibya",
+        "Abalibya",
+        "Abalibya zonna",
+        "endala, Kagimu",
+        "endala,"
+      ],
+      [
+        "Uganda",
+        "mu Uganda",
+        "omwali National Housing, Uganda Telecom Ltd, Tropical Bank n",
+        "omwali National Housing, Uganda Telecom Ltd, Tropical Bank nendala",
+        ""
+      ],
+      [
+        "National Housing,",
+        "National Housing",
+        "",
+        "National Housing, Uganda Telecom Ltd",
+        "National Housing, Uganda Telecom Ltd, Tropical Bank n"
+      ],
+      [
+        "Uganda Telecom Ltd,",
+        "",
+        "Uganda Telecom Ltd",
+        "Tropical Bank",
+        ","
+      ],
+      [
+        "Tropical Bank",
+        "",
+        ", Tropical Bank",
+        "endala",
+        "Tropical"
+      ],
+      [
+        "Kagimu",
+        "endala, Kagimu",
+        "",
+        "yazirinamu omukono",
+        "Kagimu yazirinamu omukono"
+      ]
+    ],
+    "score": [
+      [
+        -69.47474670410156,
+        -69.623046875,
+        -75.65151977539062,
+        -80.575439453125,
+        -80.93907165527344
+      ],
+      [
+        -68.81085968017578,
+        -70.6331558227539,
+        -83.40104675292969,
+        -86.15319061279297,
+        -86.98036193847656
+      ],
+      [
+        -66.04601287841797,
+        -72.01261138916016,
+        -74.96060180664062,
+        -78.91795349121094,
+        -80.0074691772461
+      ],
+      [
+        -66.72534942626953,
+        -73.0430908203125,
+        -73.91886901855469,
+        -75.55184173583984,
+        -75.93339538574219
+      ],
+      [
+        -66.1683349609375,
+        -76.21299743652344,
+        -76.68081665039062,
+        -76.76622772216797,
+        -77.20297241210938
+      ],
+      [
+        -65.05671691894531,
+        -74.22972106933594,
+        -74.82630920410156,
+        -76.62226104736328,
+        -77.13117218017578
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "The chairman of this municipality, [ John Mwesigwa Rucucu, ] based on this meeting attacked the village senators for taking away the land rights in Semabule that they are the ones who sign the documents selling the land without knowing its borders.",
+      "The chairman of this municipality, John Mwesigwa Rucucu, based on this meeting attacked the village senators for taking away the land rights in [ Semabule ] that they are the ones who sign the documents selling the land without knowing its borders."
+    ],
+    "src_entities": [
+      "John Mwesigwa Rucucu,",
+      "Semabule"
+    ],
+    "template": "Ssentebe weggombolola eno , John Mwesigwa Rucucu yasinzidde mu lukiiko luno nalumba bassentebe bebyalo olwokuvaako emivuyo gyettaka e Ssemabule nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo .",
+    "tgt_lang": [
+      [
+        "Ssentebe weggombolola eno, [ John Mwesigwa Rucucu ] yasinzidde mu lukiiko luno nalumba bassentebe bebyalo olwokuvaako emivuyo gyettaka e Ssemabule nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo.",
+        "Ssentebe weggombolola eno, John Mwesigwa Rucucu [ ] yasinzidde mu lukiiko luno nalumba bassentebe bebyalo olwokuvaako emivuyo gyettaka e Ssemabule nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo.",
+        "Ssentebe weggombolola eno, John Mwesigwa Rucucu [ yasinzidde mu lukiiko luno ] nalumba bassentebe bebyalo olwokuvaako emivuyo gyettaka e Ssemabule nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo.",
+        "Ssentebe weggombolola eno [, John Mwesigwa Rucucu ] yasinzidde mu lukiiko luno nalumba bassentebe bebyalo olwokuvaako emivuyo gyettaka e Ssemabule nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo.",
+        "Ssentebe weggombolola eno, [ John Mwesigwa Rucucu yasinzidde mu lukiiko luno ] nalumba bassentebe bebyalo olwokuvaako emivuyo gyettaka e Ssemabule nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo."
+      ],
+      [
+        "Ssentebe weggombolola eno, John Mwesigwa Rucucu yasinzidde mu lukiiko luno nalumba bassentebe bebyalo olwokuvaako emivuyo gyettaka e [ Ssemabule ] nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo.",
+        "Ssentebe weggombolola eno, John Mwesigwa Rucucu yasinzidde mu lukiiko luno nalumba bassentebe bebyalo olwokuvaako emivuyo gyettaka [ e Ssemabule ] nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo.",
+        "Ssentebe weggombolola eno, John Mwesigwa Rucucu yasinzidde mu lukiiko luno nalumba bassentebe bebyalo olwokuvaako emivuyo gyettaka e Ssemabule [ ] nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo.",
+        "Ssentebe weggombolola eno, John Mwesigwa Rucucu yasinzidde mu lukiiko luno nalumba bassentebe bebyalo olwokuvaako emivuyo gyettaka e [ Ssemabule nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo ].",
+        "Ssentebe weggombolola eno, John Mwesigwa Rucucu yasinzidde mu lukiiko luno nalumba bassentebe bebyalo olwokuvaako emivuyo gyettaka e [ Ssemabule nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "John Mwesigwa Rucucu",
+        "",
+        "yasinzidde mu lukiiko luno",
+        ", John Mwesigwa Rucucu",
+        "John Mwesigwa Rucucu yasinzidde mu lukiiko luno"
+      ],
+      [
+        "Ssemabule",
+        "e Ssemabule",
+        "",
+        "Ssemabule nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo",
+        "Ssemabule nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo."
+      ]
+    ],
+    "score": [
+      [
+        -114.43803405761719,
+        -118.8548583984375,
+        -121.60968780517578,
+        -122.03504943847656,
+        -130.27377319335938
+      ],
+      [
+        -113.76824188232422,
+        -119.60337829589844,
+        -123.80194091796875,
+        -134.35870361328125,
+        -135.26202392578125
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "The Swedish media reported last year that their government had asked [ Uganda ] to hand over Mbuga for trial but it was found that there was no extradition agreement between the two countries.",
+      "The Swedish media reported last year that their government had asked Uganda to hand over [ Mbuga ] for trial but it was found that there was no extradition agreement between the two countries."
+    ],
+    "src_entities": [
+      "Uganda",
+      "Mbuga"
+    ],
+    "template": "Amawulire mu Sweden gaategeeza omwaka oguwedde nti Gavumenti yaabwe yali esabye Uganda ebawe Mbuga bamuwozese kyokka ne kizuulwa nga tewali ndagaano ya kuzzaayo basibe wakati wamawanga ago gombi .",
+    "tgt_lang": [
+      [
+        "Amawulire mu Sweden gaategeeza omwaka oguwedde nti Gavumenti yaabwe yali esabye [ Uganda ] ebawe Mbuga bamuwozese kyokka ne kizuulwa nga tewali ndagaano ya kuzzaayo basibe wakati wamawanga ago gombi.",
+        "Amawulire mu Sweden gaategeeza omwaka oguwedde nti Gavumenti yaabwe yali esabye [ ] Uganda ebawe Mbuga bamuwozese kyokka ne kizuulwa nga tewali ndagaano ya kuzzaayo basibe wakati wamawanga ago gombi.",
+        "Amawulire mu Sweden gaategeeza omwaka oguwedde nti Gavumenti yaabwe yali esabye Uganda ebawe [ Mbuga ] bamuwozese kyokka ne kizuulwa nga tewali ndagaano ya kuzzaayo basibe wakati wamawanga ago gombi.",
+        "Amawulire mu Sweden gaategeeza omwaka oguwedde nti Gavumenti yaabwe yali esabye Uganda [ ] ebawe Mbuga bamuwozese kyokka ne kizuulwa nga tewali ndagaano ya kuzzaayo basibe wakati wamawanga ago gombi.",
+        "Amawulire mu Sweden gaategeeza omwaka oguwedde nti Gavumenti yaabwe yali esabye [ Uganda ebawe ] Mbuga bamuwozese kyokka ne kizuulwa nga tewali ndagaano ya kuzzaayo basibe wakati wamawanga ago gombi."
+      ],
+      [
+        "Amawulire mu Sweden gaategeeza omwaka oguwedde nti Gavumenti yaabwe yali esabye Uganda ebawe [ Mbuga ] bamuwozese kyokka ne kizuulwa nga tewali ndagaano ya kuzzaayo basibe wakati wamawanga ago gombi.",
+        "Amawulire mu Sweden gaategeeza omwaka oguwedde nti Gavumenti yaabwe yali esabye Uganda [ ebawe Mbuga ] bamuwozese kyokka ne kizuulwa nga tewali ndagaano ya kuzzaayo basibe wakati wamawanga ago gombi.",
+        "Amawulire mu Sweden gaategeeza omwaka oguwedde nti Gavumenti yaabwe yali esabye Uganda ebawe Mbuga [ ] bamuwozese kyokka ne kizuulwa nga tewali ndagaano ya kuzzaayo basibe wakati wamawanga ago gombi.",
+        "Amawulire mu Sweden gaategeeza omwaka oguwedde nti Gavumenti yaabwe yali esabye Uganda ebawe Mbuga bamuwozese [ ] kyokka ne kizuulwa nga tewali ndagaano ya kuzzaayo basibe wakati wamawanga ago gombi.",
+        "Amawulire mu Sweden gaategeeza omwaka oguwedde nti Gavumenti yaabwe yali esabye Uganda ebawe Mbuga bamuwozese kyokka ne kizuulwa [ ] nga tewali ndagaano ya kuzzaayo basibe wakati wamawanga ago gombi."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Uganda",
+        "",
+        "Mbuga",
+        "",
+        "Uganda ebawe"
+      ],
+      [
+        "Mbuga",
+        "ebawe Mbuga",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -91.22721099853516,
+        -98.26127624511719,
+        -102.79913330078125,
+        -104.41131591796875,
+        -105.11467742919922
+      ],
+      [
+        -91.00814819335938,
+        -98.18263244628906,
+        -103.93006134033203,
+        -105.37516021728516,
+        -108.21041870117188
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "[ Six ] in his defense said that it was true that he was caught with a knife but that he did not intend to cut someone as drugs confirmed that it was true that this time he did not use them."
+    ],
+    "src_entities": [
+      "Six"
+    ],
+    "template": "Mukaaga mu kwewozaako yagambye nti kituufu baamukutte nekiso naye yabadde takigenderedde kutema muntu ngebyokukozesa ebiragalalagala yakakasizza nti kituufu nga ku luno yabadde tabikozesezza .",
+    "tgt_lang": [
+      [
+        "[ Mukaaga ] mu kwewozaako yagambye nti kituufu baamukutte nekiso naye yabadde takigenderedde kutema muntu ngebyokukozesa ebiragalalagala yakakasizza nti kituufu nga ku luno yabadde tabikozesezza.",
+        "[ Mukaaga mu ] kwewozaako yagambye nti kituufu baamukutte nekiso naye yabadde takigenderedde kutema muntu ngebyokukozesa ebiragalalagala yakakasizza nti kituufu nga ku luno yabadde tabikozesezza.",
+        "[ Mukaaga mu kwewozaako yagambye nti kituufu baamukutte nekiso naye yabadde takigenderedde kutema muntu ngebyokukozesa ebiragalalagala yakakasizza nti kituufu nga ku luno yabadde tabikozesezza. ]",
+        "[ Mukaaga mu kwewozaako yagambye nti kituufu baamukutte nekiso naye yabadde takigenderedde kutema muntu ngebyokukozesa ebiragalalagala ] yakakasizza nti kituufu nga ku luno yabadde tabikozesezza.",
+        "[ Mukaaga mu kwewozaako yagambye nti kituufu baamukutte nekiso naye yabadde takigenderedde kutema muntu ngebyokukozesa ebiragalalagala yakakasizza nti kituufu nga ku luno yabadde tabikozesezza ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mukaaga",
+        "Mukaaga mu",
+        "Mukaaga mu kwewozaako yagambye nti kituufu baamukutte nekiso naye yabadde takigenderedde kutema muntu ngebyokukozesa ebiragalalagala yakakasizza nti kituufu nga ku luno yabadde tabikozesezza.",
+        "Mukaaga mu kwewozaako yagambye nti kituufu baamukutte nekiso naye yabadde takigenderedde kutema muntu ngebyokukozesa ebiragalalagala",
+        "Mukaaga mu kwewozaako yagambye nti kituufu baamukutte nekiso naye yabadde takigenderedde kutema muntu ngebyokukozesa ebiragalalagala yakakasizza nti kituufu nga ku luno yabadde tabikozesezza"
+      ]
+    ],
+    "score": [
+      [
+        -92.8791275024414,
+        -105.10773468017578,
+        -111.46664428710938,
+        -114.09577941894531,
+        -115.02662658691406
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [
+      "[ Mafabi ] at the beginning of the work said that he is not new in this work because the committee suggested that I start where my colleague Osege finished.",
+      "Mafabi at the beginning of the work said that he is not new in this work because the committee suggested that I start where my colleague [ Osege ] finished."
+    ],
+    "src_entities": [
+      "Mafabi",
+      "Osege"
+    ],
+    "template": "Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yakakulirako ngagenda kutandikira munne Osege we yakomye .",
+    "tgt_lang": [
+      [
+        "[ Mafabi ] nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yakakulirako ngagenda kutandikira munne Osege we yakomye.",
+        "[ ] Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yakakulirako ngagenda kutandikira munne Osege we yakomye.",
+        "[ Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yakakulirako ngagenda kutandikira munne Osege we yakomye. ]",
+        "[ Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yakakulirako ngagenda kutandikira munne Osege we yakomye ].",
+        "[ Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yak ]akulirako ngagenda kutandikira munne Osege we yakomye."
+      ],
+      [
+        "Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yakakulirako ngagenda kutandikira munne [ Osege ] we yakomye.",
+        "Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yakakulirako ngagenda kutandikira munne [ ] Osege we yakomye.",
+        "Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yakakulirako ngagenda kutandikira munne [ Osege we ] yakomye.",
+        "Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yakakulirako ngagenda kutandikira munne [ Osege we yakomye ].",
+        "Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yakakulirako ngagenda kutandikira [ munne Osege ] we yakomye."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mafabi",
+        "",
+        "Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yakakulirako ngagenda kutandikira munne Osege we yakomye.",
+        "Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yakakulirako ngagenda kutandikira munne Osege we yakomye",
+        "Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yak"
+      ],
+      [
+        "Osege",
+        "",
+        "Osege we",
+        "Osege we yakomye",
+        "munne Osege"
+      ]
+    ],
+    "score": [
+      [
+        -84.04743194580078,
+        -93.4156494140625,
+        -100.47892761230469,
+        -103.080078125,
+        -104.19195556640625
+      ],
+      [
+        -84.16143798828125,
+        -94.18553924560547,
+        -96.43023681640625,
+        -96.87188720703125,
+        -98.85892486572266
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "However, the police refused to comment on the other three prisoners, who seized the blanket on which they threw a rope at the [ CPS, ] and then descended and blew themselves up."
+    ],
+    "src_entities": [
+      "CPS,"
+    ],
+    "template": "Kyokka poliisi yagaanyi okwogera ku basibe abalala abasatu , abeeyambisizza kkateni gye baaluse ngomuguwa ku CPS , ne bakkirako ne babomba .",
+    "tgt_lang": [
+      [
+        "Kyokka poliisi yagaanyi okwogera ku basibe abalala abasatu, abeeyambisizza kkateni gye baaluse ngomuguwa ku [ CPS, ] ne bakkirako ne babomba.",
+        "Kyokka poliisi yagaanyi okwogera ku basibe abalala abasatu, abeeyambisizza kkateni gye baaluse ngomuguwa ku [ CPS ], ne bakkirako ne babomba.",
+        "Kyokka poliisi yagaanyi okwogera ku basibe abalala abasatu, abeeyambisizza kkateni gye baaluse ngomuguwa ku CPS [, ] ne bakkirako ne babomba.",
+        "Kyokka poliisi yagaanyi okwogera ku basibe abalala abasatu, abeeyambisizza kkateni gye baaluse ngomuguwa ku [ ] CPS, ne bakkirako ne babomba.",
+        "Kyokka poliisi yagaanyi okwogera ku basibe abalala abasatu, abeeyambisizza kkateni gye baaluse ngomuguwa ku CPS, [ ] ne bakkirako ne babomba."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "CPS,",
+        "CPS",
+        ",",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -107.20645141601562,
+        -110.80536651611328,
+        -112.69818115234375,
+        -116.21636962890625,
+        -116.84663391113281
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "[ South Korea ] announced 12,535 cases of Corona and confirmed 281 deaths from the disease."
+    ],
+    "src_entities": [
+      "South Korea"
+    ],
+    "template": "South Korea yalangirira abantu 12 , 535 abaakwatibwa Corona nekakasa nti 281 bebaakafa ekirwadde .",
+    "tgt_lang": [
+      [
+        "[ South Korea ] yalangirira abantu 12, 535 abaakwatibwa Corona nekakasa nti 281 bebaakafa ekirwadde.",
+        "[ South ] Korea yalangirira abantu 12, 535 abaakwatibwa Corona nekakasa nti 281 bebaakafa ekirwadde.",
+        "[ ] South Korea yalangirira abantu 12, 535 abaakwatibwa Corona nekakasa nti 281 bebaakafa ekirwadde.",
+        "South Korea [ ] yalangirira abantu 12, 535 abaakwatibwa Corona nekakasa nti 281 bebaakafa ekirwadde.",
+        "South Korea yalangirira abantu 12, 535 abaakwatibwa [ Corona ] nekakasa nti 281 bebaakafa ekirwadde."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "South Korea",
+        "South",
+        "",
+        "",
+        "Corona"
+      ]
+    ],
+    "score": [
+      [
+        -61.86652755737305,
+        -76.7734603881836,
+        -77.33776092529297,
+        -79.28130340576172,
+        -80.64532470703125
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "They have been charged on file number SD REF 1017022019 at [ Kaleerwe ] police station."
+    ],
+    "src_entities": [
+      "Kaleerwe"
+    ],
+    "template": "Bano bagguddwaako omusango ku fayiro nnamba SD REF 1017022019 ku poliisi yoku Kaleerwe .",
+    "tgt_lang": [
+      [
+        "Bano bagguddwaako omusango ku fayiro nnamba SD REF 1017022019 ku poliisi yoku [ Kaleerwe ].",
+        "Bano bagguddwaako omusango ku fayiro nnamba SD REF 1017022019 ku poliisi [ yoku Kaleerwe ].",
+        "Bano bagguddwaako omusango ku fayiro nnamba SD REF 1017022019 ku poliisi yoku [ Kaleerwe. ]",
+        "Bano bagguddwaako omusango ku fayiro nnamba SD REF 1017022019 ku poliisi yoku [ ] Kaleerwe.",
+        "Bano bagguddwaako omusango ku fayiro nnamba SD REF 1017022019 ku poliisi [ yoku Kaleerwe. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kaleerwe",
+        "yoku Kaleerwe",
+        "Kaleerwe.",
+        "",
+        "yoku Kaleerwe."
+      ]
+    ],
+    "score": [
+      [
+        -27.775707244873047,
+        -29.32296371459961,
+        -33.73501205444336,
+        -36.10521697998047,
+        -36.68364334106445
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "They were also surprised that [ Kenzo ] who showed the badness of Bobi and Bebe Cool's incompatibility asked the Prime Minister Charles Peter Mayiga to coordinate and it was done at the concert of Kenzo when I was 10 years old I sang at the Serena hotel in January of 2019 and now he wanted to restore his wars that he showed as bad in the musicians.",
+      "They were also surprised that Kenzo who showed the badness of [ Bobi ] and Bebe Cool's incompatibility asked the Prime Minister Charles Peter Mayiga to coordinate and it was done at the concert of Kenzo when I was 10 years old I sang at the Serena hotel in January of 2019 and now he wanted to restore his wars that he showed as bad in the musicians.",
+      "They were also surprised that Kenzo who showed the badness of Bobi and [ Bebe Cool's ] incompatibility asked the Prime Minister Charles Peter Mayiga to coordinate and it was done at the concert of Kenzo when I was 10 years old I sang at the Serena hotel in January of 2019 and now he wanted to restore his wars that he showed as bad in the musicians.",
+      "They were also surprised that Kenzo who showed the badness of Bobi and Bebe Cool's incompatibility asked the Prime Minister [ Charles Peter Mayiga ] to coordinate and it was done at the concert of Kenzo when I was 10 years old I sang at the Serena hotel in January of 2019 and now he wanted to restore his wars that he showed as bad in the musicians.",
+      "They were also surprised that Kenzo who showed the badness of Bobi and Bebe Cool's incompatibility asked the Prime Minister Charles Peter Mayiga to coordinate and it was done at the concert of [ Kenzo ] when I was 10 years old I sang at the Serena hotel in January of 2019 and now he wanted to restore his wars that he showed as bad in the musicians.",
+      "They were also surprised that Kenzo who showed the badness of Bobi and Bebe Cool's incompatibility asked the Prime Minister Charles Peter Mayiga to coordinate and it was done at the concert of Kenzo when I was 10 years old I sang at the [ Serena ] hotel in January of 2019 and now he wanted to restore his wars that he showed as bad in the musicians."
+    ],
+    "src_entities": [
+      "Kenzo",
+      "Bobi",
+      "Bebe Cool's",
+      "Charles Peter Mayiga",
+      "Kenzo",
+      "Serena"
+    ],
+    "template": "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi .",
+    "tgt_lang": [
+      [
+        "Beewuunyizza era [ Kenzo ] eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era [ ] Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era [ Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana ] nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era [ Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi. ]",
+        "Beewuunyizza era [ Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi ]."
+      ],
+      [
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu [ Bobi ] ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi [ ] ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi [ ne Bebe Cool ] obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi [ ne Bebe Cool obutakwatagana ] nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi [ ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ] ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi."
+      ],
+      [
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne [ Bebe Cool ] obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne [ Bebe Cool obutakwatagana ] nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi [ ne Bebe Cool ] obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku [ Serena ] hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku [ Serena hotel ] mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi."
+      ],
+      [
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro [ Charles Peter Mayiga ] abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro [ Charles Peter Mayiga abakwataganye ] ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro [ Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi. ]",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro [ Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi ].",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro [ Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ] ze yalaga nga mbi mu bayimbi."
+      ],
+      [
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya [ Kenzo ] ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya [ ] Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya [ Kenzo nga ]weza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya [ Kenzo ngaweza emyaka 10 ] ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo nga [weza emyaka 10 ] ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi."
+      ],
+      [
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku [ Serena ] hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali [ ku Serena ] hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku [ Serena hotel ] mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku [ ] Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali [ ku Serena hotel ] mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kenzo",
+        "",
+        "Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana",
+        "Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi"
+      ],
+      [
+        "Bobi",
+        "",
+        "ne Bebe Cool",
+        "ne Bebe Cool obutakwatagana",
+        "ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye"
+      ],
+      [
+        "Bebe Cool",
+        "Bebe Cool obutakwatagana",
+        "ne Bebe Cool",
+        "Serena",
+        "Serena hotel"
+      ],
+      [
+        "Charles Peter Mayiga",
+        "Charles Peter Mayiga abakwataganye",
+        "Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi.",
+        "Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi",
+        "Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye"
+      ],
+      [
+        "Kenzo",
+        "",
+        "Kenzo nga",
+        "Kenzo ngaweza emyaka 10",
+        "weza emyaka 10"
+      ],
+      [
+        "Serena",
+        "ku Serena",
+        "Serena hotel",
+        "",
+        "ku Serena hotel"
+      ]
+    ],
+    "score": [
+      [
+        -125.4697036743164,
+        -133.57073974609375,
+        -143.74668884277344,
+        -150.36019897460938,
+        -150.7808837890625
+      ],
+      [
+        -128.73851013183594,
+        -135.6849365234375,
+        -139.25181579589844,
+        -142.98765563964844,
+        -148.63372802734375
+      ],
+      [
+        -131.90760803222656,
+        -137.79910278320312,
+        -137.8234100341797,
+        -149.28990173339844,
+        -150.34283447265625
+      ],
+      [
+        -125.4271011352539,
+        -135.18833923339844,
+        -147.42652893066406,
+        -147.74185180664062,
+        -148.43917846679688
+      ],
+      [
+        -127.41523742675781,
+        -135.68417358398438,
+        -137.4026336669922,
+        -138.8721466064453,
+        -142.3965606689453
+      ],
+      [
+        -126.57463073730469,
+        -134.4838409423828,
+        -134.63262939453125,
+        -140.39390563964844,
+        -140.5426025390625
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "[ Onyanmgo ] asked everyone to help in the hunt for the killer and to help give the police information that could lead to the man who took the child."
+    ],
+    "src_entities": [
+      "Onyanmgo"
+    ],
+    "template": "Onyanmgo yasabye buli muntu okuyambako ku muyiggo gwomutemu ono era bayambe okuwa poliisi amawulire agayinza okugituusa ku wa omusajja ono gye yatwala omwana .",
+    "tgt_lang": [
+      [
+        "[ Onyanmgo ] yasabye buli muntu okuyambako ku muyiggo gwomutemu ono era bayambe okuwa poliisi amawulire agayinza okugituusa ku wa omusajja ono gye yatwala omwana.",
+        "[ ] Onyanmgo yasabye buli muntu okuyambako ku muyiggo gwomutemu ono era bayambe okuwa poliisi amawulire agayinza okugituusa ku wa omusajja ono gye yatwala omwana.",
+        "Onyanmgo [ ] yasabye buli muntu okuyambako ku muyiggo gwomutemu ono era bayambe okuwa poliisi amawulire agayinza okugituusa ku wa omusajja ono gye yatwala omwana.",
+        "Onyanmgo yasabye buli muntu okuyambako ku muyiggo gw [omutemu ono ] era bayambe okuwa poliisi amawulire agayinza okugituusa ku wa omusajja ono gye yatwala omwana.",
+        "Onyanmgo yasabye buli muntu okuyambako ku muyiggo gw [omutemu ] ono era bayambe okuwa poliisi amawulire agayinza okugituusa ku wa omusajja ono gye yatwala omwana."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Onyanmgo",
+        "",
+        "",
+        "omutemu ono",
+        "omutemu"
+      ]
+    ],
+    "score": [
+      [
+        -89.2150650024414,
+        -96.71654510498047,
+        -100.08517456054688,
+        -102.66254425048828,
+        -104.28480529785156
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 18,
+    "src_lang": [],
+    "template": "Ku bayizi abo 18 , 550 abalenzi 12 , 577 nabawala 5 , 973 ababadde baweererwa Gavumenti ku bwereere ate abasigadde 81 , 122 abalenzi 45 , 782 nabawala 35 , 340 babadde basomera mu masomero agobwannannyini .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "Police in [ Bulaga ] on the Nine, led by Najjuuko reported that he was acquitted of attempted murder on file number SD2410022019 Chairman of Bulaga, to deal with Ssumbwe Najjuuko and her husband where they live, Charles Ssentongo showed Najjuuko where he had bought the killers and warned the women to stop the anger.",
+      "Police in Bulaga on the Nine, led by [ Najjuuko ] reported that he was acquitted of attempted murder on file number SD2410022019 Chairman of Bulaga, to deal with Ssumbwe Najjuuko and her husband where they live, Charles Ssentongo showed Najjuuko where he had bought the killers and warned the women to stop the anger.",
+      "Police in Bulaga on the Nine, led by Najjuuko reported that he was acquitted of attempted murder on file number SD2410022019 Chairman of [ Bulaga, ] to deal with Ssumbwe Najjuuko and her husband where they live, Charles Ssentongo showed Najjuuko where he had bought the killers and warned the women to stop the anger.",
+      "Police in Bulaga on the Nine, led by Najjuuko reported that he was acquitted of attempted murder on file number SD2410022019 Chairman of Bulaga, to deal with [ Ssumbwe Najjuuko ] and her husband where they live, Charles Ssentongo showed Najjuuko where he had bought the killers and warned the women to stop the anger.",
+      "Police in Bulaga on the Nine, led by Najjuuko reported that he was acquitted of attempted murder on file number SD2410022019 Chairman of Bulaga, to deal with Ssumbwe Najjuuko and her husband where they live, [ Charles Ssentongo ] showed Najjuuko where he had bought the killers and warned the women to stop the anger.",
+      "Police in Bulaga on the Nine, led by Najjuuko reported that he was acquitted of attempted murder on file number SD2410022019 Chairman of Bulaga, to deal with Ssumbwe Najjuuko and her husband where they live, Charles Ssentongo showed [ Najjuuko ] where he had bought the killers and warned the women to stop the anger."
+    ],
+    "src_entities": [
+      "Bulaga",
+      "Najjuuko",
+      "Bulaga,",
+      "Ssumbwe Najjuuko",
+      "Charles Ssentongo",
+      "Najjuuko"
+    ],
+    "template": "Poliisi ye Bulaga ku Mwenda , Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B , okulinana Ssumbwe Najjuuko ne bba gye basula , Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu .",
+    "tgt_lang": [
+      [
+        "Poliisi ye [ Bulaga ] ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi [ ye Bulaga ] ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, [ Najjuuko ] gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga [ ku Mwenda ], Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku [ Mwenda ], Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu."
+      ],
+      [
+        "Poliisi ye Bulaga ku Mwenda, [ Najjuuko ] gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, [ Najjuuko gyakuumirwa ] yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, [ Najjuuko gy ]akuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, [ Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu. ]",
+        "Poliisi ye Bulaga ku Mwenda, [ Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu ]."
+      ],
+      [
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa [ Bulaga B, ] okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe [ wa Bulaga B, ] okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 [ Ssentebe wa Bulaga B, ] okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa [ Bulaga ] B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B [, ] okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu."
+      ],
+      [
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana [ Ssumbwe Najjuuko ] ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana [ Ssumbwe Najjuuko ne bba ] gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana [ Ssumbwe ] Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana [ ] Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana [ Ssumbwe Najjuuko ne bba gye basula ], Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu."
+      ],
+      [
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, [ Charles Ssentongo ] yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo [ yalaze nejjambiya ] Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula [, Charles Ssentongo ] yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo [ yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu. ]",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo [ yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu ]."
+      ],
+      [
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya [ Najjuuko ] gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze [ nejjambiya Najjuuko ] gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze ne [jjambiya Najjuuko ] gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko [ ] gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Poliisi ye Bulaga ku Mwenda, Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo [ yalaze nejjambiya Najjuuko ] gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Bulaga",
+        "ye Bulaga",
+        "Najjuuko",
+        "ku Mwenda",
+        "Mwenda"
+      ],
+      [
+        "Najjuuko",
+        "Najjuuko gyakuumirwa",
+        "Najjuuko gy",
+        "Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B, okulinana Ssumbwe Najjuuko ne bba gye basula, Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu"
+      ],
+      [
+        "Bulaga B,",
+        "wa Bulaga B,",
+        "Ssentebe wa Bulaga B,",
+        "Bulaga",
+        ","
+      ],
+      [
+        "Ssumbwe Najjuuko",
+        "Ssumbwe Najjuuko ne bba",
+        "Ssumbwe",
+        "",
+        "Ssumbwe Najjuuko ne bba gye basula"
+      ],
+      [
+        "Charles Ssentongo",
+        "yalaze nejjambiya",
+        ", Charles Ssentongo",
+        "yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu.",
+        "yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu"
+      ],
+      [
+        "Najjuuko",
+        "nejjambiya Najjuuko",
+        "jjambiya Najjuuko",
+        "",
+        "yalaze nejjambiya Najjuuko"
+      ]
+    ],
+    "score": [
+      [
+        -160.50340270996094,
+        -163.36415100097656,
+        -166.9371795654297,
+        -168.3739776611328,
+        -170.4129638671875
+      ],
+      [
+        -153.0664520263672,
+        -159.720947265625,
+        -172.4891357421875,
+        -179.06236267089844,
+        -181.2934112548828
+      ],
+      [
+        -162.11953735351562,
+        -164.4935302734375,
+        -164.7832794189453,
+        -165.23838806152344,
+        -167.24253845214844
+      ],
+      [
+        -159.81637573242188,
+        -170.83074951171875,
+        -173.3832244873047,
+        -174.1666259765625,
+        -184.33384704589844
+      ],
+      [
+        -159.36326599121094,
+        -169.99476623535156,
+        -171.30682373046875,
+        -179.87350463867188,
+        -181.277099609375
+      ],
+      [
+        -150.13291931152344,
+        -162.4973907470703,
+        -163.4287567138672,
+        -164.86668395996094,
+        -168.60145568847656
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 20,
+    "src_lang": [],
+    "template": "Abakazi baategeezeza nti abavubuka bano batuuka nokubeekakaatikako ne babakaka akaboozi kwe kusaba poliisi eyongere ku bukuumi mu bitundu byabwe .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "[ Kampala Police ] spokesman and Mirrano Luke Owiyesigire said that when they got the news of this murder they immediately arrested Nakamwanda and the way she ransacked the house clearly showed that she had intended to kill her husband and to charge him with murder and was guarded at the police station on Jinja road.",
+      "Kampala Police spokesman and [ Mirrano ] Luke Owiyesigire said that when they got the news of this murder they immediately arrested Nakamwanda and the way she ransacked the house clearly showed that she had intended to kill her husband and to charge him with murder and was guarded at the police station on Jinja road.",
+      "Kampala Police spokesman and Mirrano [ Luke Owiyesigire ] said that when they got the news of this murder they immediately arrested Nakamwanda and the way she ransacked the house clearly showed that she had intended to kill her husband and to charge him with murder and was guarded at the police station on Jinja road.",
+      "Kampala Police spokesman and Mirrano Luke Owiyesigire said that when they got the news of this murder they immediately arrested [ Nakamwanda ] and the way she ransacked the house clearly showed that she had intended to kill her husband and to charge him with murder and was guarded at the police station on Jinja road.",
+      "Kampala Police spokesman and Mirrano Luke Owiyesigire said that when they got the news of this murder they immediately arrested Nakamwanda and the way she ransacked the house clearly showed that she had intended to kill her husband and to charge him with murder and was guarded at the police station on [ Jinja ] road."
+    ],
+    "src_entities": [
+      "Kampala Police",
+      "Mirrano",
+      "Luke Owiyesigire",
+      "Nakamwanda",
+      "Jinja"
+    ],
+    "template": "Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road .",
+    "tgt_lang": [
+      [
+        "Omwogezi wa Poliisi [ owa Kampala ] ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa [ Poliisi owa Kampala ] ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa Poliisi owa [ Kampala ] ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "[ ] Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "[ Omwogezi wa Poliisi owa Kampala ] ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road."
+      ],
+      [
+        "Omwogezi wa Poliisi [ owa Kampala ne miriraano ] Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa Poliisi owa Kampala ne [ miriraano ] Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa Poliisi owa Kampala ne miriraano [ Luke Owoyesigyire ] agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa Poliisi owa Kampala ne miriraano [ ] Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa Poliisi [ owa Kampala ] ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road."
+      ],
+      [
+        "Omwogezi wa Poliisi owa Kampala ne miriraano [ Luke Owoyesigyire ] agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa Poliisi owa Kampala ne miriraano [ Luke O ]woyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa Poliisi [ owa Kampala ne miriraano Luke Owoyesigyire ] agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa Poliisi [ owa Kampala ne miriraano ] Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire [ agambye ] bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road."
+      ],
+      [
+        "Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata [ Nakamwanda ] era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu [ nebakwata Nakamwanda ] era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye [ mangu nebakwata Nakamwanda ] era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu ne [bakwata Nakamwanda ] era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road.",
+        "Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata [ ] Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road."
+      ],
+      [
+        "Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye [ Jinja ] road.",
+        "Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye [ Jinja road ].",
+        "Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi [ ye Jinja ] road.",
+        "Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja [ road ].",
+        "Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi [ ye Jinja road ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "owa Kampala",
+        "Poliisi owa Kampala",
+        "Kampala",
+        "",
+        "Omwogezi wa Poliisi owa Kampala"
+      ],
+      [
+        "owa Kampala ne miriraano",
+        "miriraano",
+        "Luke Owoyesigyire",
+        "",
+        "owa Kampala"
+      ],
+      [
+        "Luke Owoyesigyire",
+        "Luke O",
+        "owa Kampala ne miriraano Luke Owoyesigyire",
+        "owa Kampala ne miriraano",
+        "agambye"
+      ],
+      [
+        "Nakamwanda",
+        "nebakwata Nakamwanda",
+        "mangu nebakwata Nakamwanda",
+        "bakwata Nakamwanda",
+        ""
+      ],
+      [
+        "Jinja",
+        "Jinja road",
+        "ye Jinja",
+        "road",
+        "ye Jinja road"
+      ]
+    ],
+    "score": [
+      [
+        -256.61474609375,
+        -257.6958923339844,
+        -258.8558349609375,
+        -260.0978698730469,
+        -260.6611022949219
+      ],
+      [
+        -253.1786346435547,
+        -253.73890686035156,
+        -254.75978088378906,
+        -255.22384643554688,
+        -257.8515319824219
+      ],
+      [
+        -255.88792419433594,
+        -263.5148010253906,
+        -265.3877258300781,
+        -267.299560546875,
+        -267.7115783691406
+      ],
+      [
+        -250.7852325439453,
+        -262.0391845703125,
+        -263.1695861816406,
+        -264.8430480957031,
+        -264.8889465332031
+      ],
+      [
+        -252.66598510742188,
+        -258.0946960449219,
+        -258.74224853515625,
+        -262.7320556640625,
+        -264.1263122558594
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "These include past and present leaders of the [ Hand, ] clerics, civil servants, wealthy representatives of the development of the district and other social classes."
+    ],
+    "src_entities": [
+      "Hand,"
+    ],
+    "template": "Mu bano mulimu abakulembeze abazze bakulembera Mukono nabaliwo kati , bannaddiini , abakozi ba gavumenti , abagagga abayimiriddeko enkulaakulana ya disitulikiti nebiti byabantu ebirala .",
+    "tgt_lang": [
+      [
+        "Mu bano mulimu abakulembeze abazze bakulembera [ Mukono ] nabaliwo kati, bannaddiini, abakozi ba gavumenti, abagagga abayimiriddeko enkulaakulana ya disitulikiti nebiti byabantu ebirala.",
+        "Mu bano mulimu abakulembeze abazze bakulembera [ Mukono nabaliwo kati, ] bannaddiini, abakozi ba gavumenti, abagagga abayimiriddeko enkulaakulana ya disitulikiti nebiti byabantu ebirala.",
+        "Mu bano mulimu abakulembeze [ abazze bakulembera Mukono ] nabaliwo kati, bannaddiini, abakozi ba gavumenti, abagagga abayimiriddeko enkulaakulana ya disitulikiti nebiti byabantu ebirala.",
+        "Mu bano mulimu abakulembeze [ abazze bakulembera Mukono nabaliwo kati, ] bannaddiini, abakozi ba gavumenti, abagagga abayimiriddeko enkulaakulana ya disitulikiti nebiti byabantu ebirala.",
+        "Mu bano mulimu abakulembeze abazze bakulembera [ Mukono nabaliwo kati ], bannaddiini, abakozi ba gavumenti, abagagga abayimiriddeko enkulaakulana ya disitulikiti nebiti byabantu ebirala."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mukono",
+        "Mukono nabaliwo kati,",
+        "abazze bakulembera Mukono",
+        "abazze bakulembera Mukono nabaliwo kati,",
+        "Mukono nabaliwo kati"
+      ]
+    ],
+    "score": [
+      [
+        -92.0606460571289,
+        -95.88359832763672,
+        -100.60740661621094,
+        -100.72071838378906,
+        -103.0563735961914
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "[ Richard Karemire ] was succeeded by Brig. Gen. Flavia Byekwaso.",
+      "Richard Karemire was succeeded by Brig. Gen. [ Flavia Byekwaso. ]"
+    ],
+    "src_entities": [
+      "Richard Karemire",
+      "Flavia Byekwaso."
+    ],
+    "template": "Richard Karemire namusikiza Brig . Gen . Flavia Byekwaso .",
+    "tgt_lang": [
+      [
+        "[ Richard Karemire ] namusikiza Brig. Gen. Flavia Byekwaso.",
+        "[ Richard Karemire namusikiza Brig. Gen. Flavia Byekwaso. ]",
+        "[ Richard Karemire namusikiza ] Brig. Gen. Flavia Byekwaso.",
+        "[ Richard Karemire namusikiza Brig. Gen. Flavia Byekwaso ].",
+        "[ Richard ] Karemire namusikiza Brig. Gen. Flavia Byekwaso."
+      ],
+      [
+        "Richard Karemire namusikiza Brig. Gen. [ Flavia Byekwaso ].",
+        "Richard Karemire namusikiza Brig. Gen. [ Flavia Byekwaso. ]",
+        "Richard Karemire namusikiza Brig. Gen. [ ] Flavia Byekwaso.",
+        "Richard Karemire namusikiza Brig. Gen. [ Flavia ] Byekwaso.",
+        "Richard Karemire namusikiza Brig. Gen. Flavia Byekwaso [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Richard Karemire",
+        "Richard Karemire namusikiza Brig. Gen. Flavia Byekwaso.",
+        "Richard Karemire namusikiza",
+        "Richard Karemire namusikiza Brig. Gen. Flavia Byekwaso",
+        "Richard"
+      ],
+      [
+        "Flavia Byekwaso",
+        "Flavia Byekwaso.",
+        "",
+        "Flavia",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -40.28827667236328,
+        -48.5782585144043,
+        -49.582542419433594,
+        -50.50480651855469,
+        -51.71673583984375
+      ],
+      [
+        -36.98770523071289,
+        -37.635231018066406,
+        -47.24460983276367,
+        -48.060813903808594,
+        -49.839561462402344
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "Dr. [ Herbert Wabigogobi ] told Bukedde that he is a trained doctor and the death of the woman is not his fault because many have saved and many have died at his hands but they did not behave as Mukasa did.",
+      "Dr. Herbert Wabigogobi told [ Bukedde ] that he is a trained doctor and the death of the woman is not his fault because many have saved and many have died at his hands but they did not behave as Mukasa did.",
+      "Dr. Herbert Wabigogobi told Bukedde that he is a trained doctor and the death of the woman is not his fault because many have saved and many have died at his hands but they did not behave as [ Mukasa ] did."
+    ],
+    "src_entities": [
+      "Herbert Wabigogobi",
+      "Bukedde",
+      "Mukasa"
+    ],
+    "template": "Dr . Herbert Wabigogobi ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bwakoze .",
+    "tgt_lang": [
+      [
+        "Dr. [ Herbert Wabigogobi ] ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bwakoze.",
+        "Dr [. Herbert Wabigogobi ] ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bwakoze.",
+        "Dr. [ Herbert Wabigogobi ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bwakoze. ]",
+        "Dr. [ Herbert Wabigogobi ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bw ]akoze.",
+        "Dr. [ Herbert Wabigogobi ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bwakoze ]."
+      ],
+      [
+        "Dr. Herbert Wabigogobi ategeezezza [ Bukedde ] nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bwakoze.",
+        "Dr. Herbert Wabigogobi ategeezezza [ Bukedde nti ] yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bwakoze.",
+        "Dr. Herbert Wabigogobi ategeezezza [ ] Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bwakoze.",
+        "Dr. Herbert Wabigogobi ategeezezza [ Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bw ]akoze.",
+        "Dr. Herbert Wabigogobi ategeezezza [ Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bwakoze. ]"
+      ],
+      [
+        "Dr. Herbert Wabigogobi ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga [ Mukasa ] bwakoze.",
+        "Dr. Herbert Wabigogobi ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga [ Mukasa bwakoze ].",
+        "Dr. Herbert Wabigogobi ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga [ Mukasa bwakoze. ]",
+        "Dr. Herbert Wabigogobi ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa [ bwakoze ].",
+        "Dr. Herbert Wabigogobi ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga [ Mukasa bw ]akoze."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Herbert Wabigogobi",
+        ". Herbert Wabigogobi",
+        "Herbert Wabigogobi ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bwakoze.",
+        "Herbert Wabigogobi ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bw",
+        "Herbert Wabigogobi ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bwakoze"
+      ],
+      [
+        "Bukedde",
+        "Bukedde nti",
+        "",
+        "Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bw",
+        "Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bwakoze."
+      ],
+      [
+        "Mukasa",
+        "Mukasa bwakoze",
+        "Mukasa bwakoze.",
+        "bwakoze",
+        "Mukasa bw"
+      ]
+    ],
+    "score": [
+      [
+        -102.40461730957031,
+        -113.96922302246094,
+        -124.74585723876953,
+        -124.84170532226562,
+        -125.5240478515625
+      ],
+      [
+        -104.69718170166016,
+        -121.71871185302734,
+        -121.8567886352539,
+        -128.65472412109375,
+        -128.6569061279297
+      ],
+      [
+        -108.09069061279297,
+        -112.91545867919922,
+        -115.09748840332031,
+        -118.42906188964844,
+        -118.68604278564453
+      ]
+    ],
+    "flag": 1
+  }
+]

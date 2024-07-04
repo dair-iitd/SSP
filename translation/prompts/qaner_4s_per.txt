@@ -1,0 +1,21 @@
+Provide the person in the following sentences. If there are none, respond with 'None'. If there are multiple, separate them with semicolons.
+
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .
+Q) Who is the person?
+A) None  
+
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .
+Q) Who is the person?
+A) Werner Zwingmann 
+
+Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through " dangerous generalisation . "
+Q) Who is the person?
+A) Loyola de Palacio ; Fischler
+
+Kenny Dalglish spoke on Thursday of his sadness at leaving Blackburn , the club he led to the English premier league title in 1994-95 .
+Q) Who is the person?
+A) Kenny Dalglish
+
+{{sentence}}
+Q) Who is the person?
+A)

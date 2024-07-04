@@ -1,0 +1,2162 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "But [ Atiku, ] who claimed to have taken the citizenship papers, vowed that he \"\"will not throw away the call of Nigerians to him in the February 23 elections. \"\"\"\""
+    ],
+    "template": "Mana Atiku onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ , ṅụrụ iyi na ya \"\"\"\" agaghị atufu oku ụmụ Naijiria kpọrọ ya na ntuliaka e mere n'abalị 23 nke ọnwa Febụwarị . \"\"\"\"",
+    "tgt_lang": [
+      "Mana [ Atiku ] onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ, ṅụrụ iyi na ya \"\"\"\" agaghị atufu oku ụmụ Naijiria kpọrọ ya na ntuliaka e mere n'abalị 23 nke ọnwa Febụwarị. \"\"\"\""
+    ],
+    "r_logp_score": [
+      21.057283401489258
+    ],
+    "score": [
+      -83.30025482177734
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Mana [ Atiku ] onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ , ṅụrụ iyi na ya \"\"\"\" agaghị atufu oku ụmụ Naijiria kpọrọ ya na ntuliaka e mere n'abalị 23 nke ọnwa Febụwarị . \"\"\"\""
+    ]
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "Listen to the [ BBC ] news in one minute"
+    ],
+    "template": "Gere akụkọ BBC n'otu nkeji",
+    "tgt_lang": [
+      "Gere akụkọ [ BBC ] n'otu nkeji"
+    ],
+    "r_logp_score": [
+      2.7206976413726807
+    ],
+    "score": [
+      -4.7972564697265625
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Gere akụkọ [ BBC ] n'otu nkeji"
+    ]
+  },
+  {
+    "template": "Dịka ọ dị ugbua ụlọikpe enyebeghi ha nzaghachị ma ọ bụ hiwe ụbọchị ikpe a ga - amalite .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "But [ Enugwu ] and Taraba states saved themselves:",
+      "But Enugwu and [ Taraba ] states saved themselves:"
+    ],
+    "template": "Mana Enugwu na Taraba steeti zọtara isi onwe ha :",
+    "tgt_lang": [
+      "Mana [ Enugwu ] na Taraba steeti zọtara isi onwe ha :",
+      "Mana Enugwu na [ Taraba ] steeti zọtara isi onwe ha :"
+    ],
+    "r_logp_score": [
+      18.324058532714844,
+      6.1842570304870605
+    ],
+    "score": [
+      -35.18012237548828,
+      -33.36471176147461
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Mana [ Enugwu ] na Taraba steeti zọtara isi onwe ha :",
+      "Mana Enugwu na [ Taraba ] steeti zọtara isi onwe ha :"
+    ]
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "[ SERAP ] said it was the government's behaviour against freedom of expression and the Nigerian society."
+    ],
+    "template": "SERAP sị na ya bụ agwa gọọmentị na - akpa megidere ikike dịrị onye ịkwu uche ya na obodo Naịjirịa .",
+    "tgt_lang": [
+      "[ SERAP ] sị na ya bụ agwa gọọmentị na - akpa megidere ikike dịrị onye ịkwu uche ya na obodo Naịjirịa."
+    ],
+    "r_logp_score": [
+      4.040948867797852
+    ],
+    "score": [
+      -67.61014556884766
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ SERAP ] sị na ya bụ agwa gọọmentị na - akpa megidere ikike dịrị onye ịkwu uche ya na obodo Naịjirịa ."
+    ]
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "Besides the plane fare, try to talk about where you will stay before you set foot in [ Arabia. ]"
+    ],
+    "template": "Ewezuga ụgwọ ụgbọelu ị ga - aba , tupu ịzọpụ ụkwụ ije , gbaa mbọ kwuo okwu ebe ị ga - ehi ma i rue Alabekee .",
+    "tgt_lang": [
+      "Ewezuga ụgwọ ụgbọelu ị ga - aba, tupu ịzọpụ ụkwụ ije, gbaa mbọ kwuo okwu ebe ị ga - ehi ma i rue [ Alabekee. ]"
+    ],
+    "r_logp_score": [
+      16.376527786254883
+    ],
+    "score": [
+      -120.75798034667969
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ewezuga ụgwọ ụgbọelu ị ga - aba , tupu ịzọpụ ụkwụ ije , gbaa mbọ kwuo okwu ebe ị ga - ehi ma i rue [ Alabekee . ]"
+    ]
+  },
+  {
+    "idx": 6,
+    "src_lang": [
+      "Our cows are happy because of [ Buhari's ] victory - Miyetti Allah",
+      "Our cows are happy because of Buhari's victory - [ Miyetti Allah ]"
+    ],
+    "template": "Ehi anyị na - enwe ọṅụ n'ihi mmeri Buhari - Miyetti Allah",
+    "tgt_lang": [
+      "Ehi anyị na - enwe ọṅụ n'ihi mmeri [ Buhari ] - Miyetti Allah",
+      "Ehi anyị na - enwe ọṅụ n'ihi mmeri Buhari - [ Miyetti Allah ]"
+    ],
+    "r_logp_score": [
+      8.809248924255371,
+      16.54722785949707
+    ],
+    "score": [
+      -13.708972930908203,
+      -14.422276496887207
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ehi anyị na - enwe ọṅụ n'ihi mmeri [ Buhari ] - Miyetti Allah",
+      "Ehi anyị na - enwe ọṅụ n'ihi mmeri Buhari - [ Miyetti Allah ]"
+    ]
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "Is it the one who left the [ PDP ] for the APC who becomes a saint?",
+      "Is it the one who left the PDP for the [ APC ] who becomes a saint?"
+    ],
+    "template": "Ọ bụ onye gbahapụ PDP banye APC ọ bụrụ onye nsọ ?",
+    "tgt_lang": [
+      "Ọ bụ onye gbahapụ [ PDP ] banye APC ọ bụrụ onye nsọ?",
+      "Ọ bụ onye gbahapụ PDP banye [ APC ] ọ bụrụ onye nsọ?"
+    ],
+    "r_logp_score": [
+      2.5897254943847656,
+      2.557370185852051
+    ],
+    "score": [
+      -25.79380989074707,
+      -24.804916381835938
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ọ bụ onye gbahapụ [ PDP ] banye APC ọ bụrụ onye nsọ ?",
+      "Ọ bụ onye gbahapụ PDP banye [ APC ] ọ bụrụ onye nsọ ?"
+    ]
+  },
+  {
+    "idx": 8,
+    "src_lang": [
+      "[ US ] President Donald Trump and North Korean leader Kim Jong-un have entered the final two days of talks on denuclearisation.",
+      "US President [ Donald Trump ] and North Korean leader Kim Jong-un have entered the final two days of talks on denuclearisation.",
+      "US President Donald Trump and North Korean leader [ Kim Jong-un ] have entered the final two days of talks on denuclearisation."
+    ],
+    "template": "Onyeisiala mba Amerịka bụ Donald Trump , na nke mba Nọt Korea bụ Kim Jung - Un , abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\" .",
+    "tgt_lang": [
+      "[ ] Onyeisiala mba Amerịka bụ Donald Trump, na nke mba Nọt Korea bụ Kim Jung - Un, abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+      "Onyeisiala mba Amerịka bụ [ Donald Trump ], na nke mba Nọt Korea bụ Kim Jung - Un, abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+      "Onyeisiala mba Amerịka bụ Donald Trump, na nke mba Nọt Korea bụ [ Kim Jung - Un ], abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\"."
+    ],
+    "r_logp_score": [
+      13.945194244384766,
+      3.9025416374206543,
+      8.402681350708008
+    ],
+    "score": [
+      -159.71365356445312,
+      -156.54286193847656,
+      -152.61068725585938
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ ] Onyeisiala mba Amerịka bụ Donald Trump , na nke mba Nọt Korea bụ Kim Jung - Un , abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\" .",
+      "Onyeisiala mba Amerịka bụ [ Donald Trump ] , na nke mba Nọt Korea bụ Kim Jung - Un , abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\" .",
+      "Onyeisiala mba Amerịka bụ Donald Trump , na nke mba Nọt Korea bụ [ Kim Jung - Un ] , abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\" ."
+    ]
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "Riots broke out in the [ APC ] election campaign in Imo State",
+      "Riots broke out in the APC election campaign in [ Imo State ]"
+    ],
+    "template": "Ọgbaghara dara n'achụmnta vootu APC n'Imo steeti",
+    "tgt_lang": [
+      "Ọgbaghara dara n'achụmnta vootu [ APC ] n'Imo steeti",
+      "Ọgbaghara dara n'achụmnta vootu APC n'Imo [ steeti ]"
+    ],
+    "r_logp_score": [
+      2.557370185852051,
+      15.320180892944336
+    ],
+    "score": [
+      -17.611459732055664,
+      -21.624513626098633
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ọgbaghara dara n'achụmnta vootu [ APC ] n'Imo steeti",
+      "Ọgbaghara dara n'achụmnta vootu APC n'Imo [ steeti ]"
+    ]
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "[ Mbaka ] had previously said that Buhari was \"\"\"\"savior\"\"\"\"",
+      "Mbaka had previously said that [ Buhari ] was \"\"\"\"savior\"\"\"\""
+    ],
+    "template": "Mbaka kwuburu na Buhari bụ \"\"\"\" onye nzọpụta \"\"\"\"",
+    "tgt_lang": [
+      "[ Mbaka ] kwuburu na Buhari bụ \"\"\"\" onye nzọpụta \"\"\"\"",
+      "Mbaka kwuburu na [ Buhari ] bụ \"\"\"\" onye nzọpụta \"\"\"\""
+    ],
+    "r_logp_score": [
+      16.478824615478516,
+      1.1248958110809326
+    ],
+    "score": [
+      -18.23229217529297,
+      -17.40397834777832
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Mbaka ] kwuburu na Buhari bụ \"\"\"\" onye nzọpụta \"\"\"\"",
+      "Mbaka kwuburu na [ Buhari ] bụ \"\"\"\" onye nzọpụta \"\"\"\""
+    ]
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "Read the full story here: Election Result 2019: The [ UK ] says Buhari's victory is certain",
+      "Read the full story here: Election Result 2019: The UK says [ Buhari's ] victory is certain"
+    ],
+    "template": "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : Mba Briten sị na mmeri Buhari kwụ ọtọ",
+    "tgt_lang": [
+      "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : Mba [ Briten ] sị na mmeri Buhari kwụ ọtọ",
+      "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : Mba Briten sị na mmeri [ Buhari ] kwụ ọtọ"
+    ],
+    "r_logp_score": [
+      5.265037536621094,
+      8.809248924255371
+    ],
+    "score": [
+      -52.96385192871094,
+      -46.744834899902344
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : Mba [ Briten ] sị na mmeri Buhari kwụ ọtọ",
+      "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : Mba Briten sị na mmeri [ Buhari ] kwụ ọtọ"
+    ]
+  },
+  {
+    "template": "N'ime ihe ndị ha rịọrọ ụlọịkpe , ha kwuru ka akagbuo ntuliaka ahụ ma megharịa ya ọzọ .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "Before leaving [ Nigeria, ] it is important to buy an anti-cold blanket because the cold is not a given."
+    ],
+    "template": "Tupu ị hapụ Naijiria , ọ dị mkpa na ị ga - azụ akwa mgbochi oyii n'ihi na oyii alabekee abụghị ụkwa achị n'aka .",
+    "tgt_lang": [
+      "Tupu ị hapụ [ Naijiria, ] ọ dị mkpa na ị ga - azụ akwa mgbochi oyii n'ihi na oyii alabekee abụghị ụkwa achị n'aka."
+    ],
+    "r_logp_score": [
+      2.7590794563293457
+    ],
+    "score": [
+      -108.43899536132812
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Tupu ị hapụ [ Naijiria , ] ọ dị mkpa na ị ga - azụ akwa mgbochi oyii n'ihi na oyii alabekee abụghị ụkwa achị n'aka ."
+    ]
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "The [ Catholic Church ] forbids the clergy to get involved in politics"
+    ],
+    "template": "Ụka katọlik amachiela ndị ụkọchukwu ịtinye ọnụ n'okwu gbasara ndọrọndọrọ ọchịchị",
+    "tgt_lang": [
+      "Ụka [ katọlik ] amachiela ndị ụkọchukwu ịtinye ọnụ n'okwu gbasara ndọrọndọrọ ọchịchị"
+    ],
+    "r_logp_score": [
+      7.090931415557861
+    ],
+    "score": [
+      -52.06466293334961
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ụka [ katọlik ] amachiela ndị ụkọchukwu ịtinye ọnụ n'okwu gbasara ndọrọndọrọ ọchịchị"
+    ]
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "In the match, [ Watford ] have taken two wickets in a row to defeat Leicester (2-1).",
+      "In the match, Watford have taken two wickets in a row to defeat [ Leicester ] (2-1)."
+    ],
+    "template": "N'egwuruegwu e Watford ewerela ọkpụ abụọ asatara otu merie Leicester ( 2 - 1 ) na .",
+    "tgt_lang": [
+      "N'egwuruegwu e [ Watford ] ewerela ọkpụ abụọ asatara otu merie Leicester ( 2 - 1 ) na.",
+      "N'egwuruegwu e Watford ewerela ọkpụ abụọ asatara otu merie [ Leicester ] ( 2 - 1 ) na."
+    ],
+    "r_logp_score": [
+      4.671598434448242,
+      3.689598798751831
+    ],
+    "score": [
+      -98.54645538330078,
+      -106.82109069824219
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "N'egwuruegwu e [ Watford ] ewerela ọkpụ abụọ asatara otu merie Leicester ( 2 - 1 ) na .",
+      "N'egwuruegwu e Watford ewerela ọkpụ abụọ asatara otu merie [ Leicester ] ( 2 - 1 ) na ."
+    ]
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "Justice [ Ijem Onwuamaegbu ] is the first woman chief justice in Anambara state",
+      "Justice Ijem Onwuamaegbu is the first woman chief justice in [ Anambara ] state"
+    ],
+    "template": "Jọstịs Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu n'Anambara steeti",
+    "tgt_lang": [
+      "Jọstịs [ Ijem Onwuamaegbu ] bụ nwaanyị mbụ bụ ọkaikpe ukwu n'Anambara steeti",
+      "Jọstịs Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu [ n'Anambara ] steeti"
+    ],
+    "r_logp_score": [
+      59.3380241394043,
+      12.497122764587402
+    ],
+    "score": [
+      -22.47200584411621,
+      -27.223249435424805
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Jọstịs [ Ijem Onwuamaegbu ] bụ nwaanyị mbụ bụ ọkaikpe ukwu n'Anambara steeti",
+      "Jọstịs Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu [ n'Anambara ] steeti"
+    ]
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "But the [ PDP ] has rejected the meaning of the election."
+    ],
+    "template": "Mana PDP ajụla mpụtara ntuliaka ahụ .",
+    "tgt_lang": [
+      "Mana [ PDP ] ajụla mpụtara ntuliaka ahụ."
+    ],
+    "r_logp_score": [
+      2.5897254943847656
+    ],
+    "score": [
+      -16.63289451599121
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Mana [ PDP ] ajụla mpụtara ntuliaka ahụ ."
+    ]
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "What you don't know about the man [ Customs ] refused to accept a bribe"
+    ],
+    "template": "Ihe ị maghị maka nwoke Customs jụrụ ịnara akaazụ",
+    "tgt_lang": [
+      "Ihe ị maghị maka nwoke [ Customs ] jụrụ ịnara akaazụ"
+    ],
+    "r_logp_score": [
+      1.7524073123931885
+    ],
+    "score": [
+      -15.156172752380371
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ihe ị maghị maka nwoke [ Customs ] jụrụ ịnara akaazụ"
+    ]
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "The Catholic Church in the [ Highlands ] now has two Bishops"
+    ],
+    "template": "Ụka Katọliki n'Enugwu enweela Bishop abụọ",
+    "tgt_lang": [
+      "Ụka Katọliki [ n'Enugwu ] enweela Bishop abụọ"
+    ],
+    "r_logp_score": [
+      10.070976257324219
+    ],
+    "score": [
+      -44.24998092651367
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ụka Katọliki [ n'Enugwu ] enweela Bishop abụọ"
+    ]
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "In [ Ōtaka, ] many markets are near Baba Ewe, where protesters on election day did not open out of fear.",
+      "In Ōtaka, many markets are near [ Baba Ewe, ] where protesters on election day did not open out of fear."
+    ],
+    "template": "N' Ọkọta , ọtụtụ ọdọahịa dị nso na Baba Ewe , ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu .",
+    "tgt_lang": [
+      "N' [ Ọkọta, ] ọtụtụ ọdọahịa dị nso na Baba Ewe, ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu.",
+      "N' Ọkọta, ọtụtụ ọdọahịa dị nso na [ Baba Ewe, ] ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu."
+    ],
+    "r_logp_score": [
+      26.13334083557129,
+      19.38240623474121
+    ],
+    "score": [
+      -85.95211029052734,
+      -83.60576629638672
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "N' [ Ọkọta , ] ọtụtụ ọdọahịa dị nso na Baba Ewe , ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu .",
+      "N' Ọkọta , ọtụtụ ọdọahịa dị nso na [ Baba Ewe , ] ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu ."
+    ]
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "[ Akpabioure ] said this would help to investigate the confusion that occurred during the vote."
+    ],
+    "template": "Akpabịọ sị na nke a ga - enye aka inyocha ihe mgbagwoju anya mere mgbe a tụrụ vootu ahụ .",
+    "tgt_lang": [
+      "[ Akpabịọ ] sị na nke a ga - enye aka inyocha ihe mgbagwoju anya mere mgbe a tụrụ vootu ahụ."
+    ],
+    "r_logp_score": [
+      27.417558670043945
+    ],
+    "score": [
+      -53.833534240722656
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Akpabịọ ] sị na nke a ga - enye aka inyocha ihe mgbagwoju anya mere mgbe a tụrụ vootu ahụ ."
+    ]
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "Listen to the [ BBC ] news in a minute:"
+    ],
+    "template": "Gere akụkọ BBC na nkeji :",
+    "tgt_lang": [
+      "Gere akụkọ [ BBC ] na nkeji :"
+    ],
+    "r_logp_score": [
+      2.7206976413726807
+    ],
+    "score": [
+      -18.427331924438477
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Gere akụkọ [ BBC ] na nkeji :"
+    ]
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "Election result 2019: [ APC ] and PDP are arguing about the 2019 elections",
+      "Election result 2019: APC and [ PDP ] are arguing about the 2019 elections"
+    ],
+    "template": "Election result 2019 : APC na PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019",
+    "tgt_lang": [
+      "Election result 2019 : [ APC ] na PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019",
+      "Election result 2019 : APC na [ PDP ] na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019"
+    ],
+    "r_logp_score": [
+      2.557370185852051,
+      2.5897254943847656
+    ],
+    "score": [
+      -51.10295104980469,
+      -50.36477279663086
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Election result 2019 : [ APC ] na PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019",
+      "Election result 2019 : APC na [ PDP ] na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019"
+    ]
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "His spokesperson on social media [ Ebere Nzewuji ] said that they do not know what to do now about it is a decision."
+    ],
+    "template": "Onụ na - ekwuchitere ya n'ihe gbasara mgbaozi soshal midia bụ Ebere Nzewuji kwuru na ha mabeghị ihe ha ga - eme ugbua gbasara ya bụ mkpebi .",
+    "tgt_lang": [
+      "Onụ na - ekwuchitere ya n'ihe gbasara mgbaozi soshal midia bụ [ Ebere Nzewuji ] kwuru na ha mabeghị ihe ha ga - eme ugbua gbasara ya bụ mkpebi."
+    ],
+    "r_logp_score": [
+      37.573055267333984
+    ],
+    "score": [
+      -76.23615264892578
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Onụ na - ekwuchitere ya n'ihe gbasara mgbaozi soshal midia bụ [ Ebere Nzewuji ] kwuru na ha mabeghị ihe ha ga - eme ugbua gbasara ya bụ mkpebi ."
+    ]
+  },
+  {
+    "idx": 25,
+    "src_lang": [
+      "This left [ Manchester City ] still standing as king at the top of the table in the Premier League."
+    ],
+    "template": "Nke a mere ka Manchester City ka kwụrụ ọtọ dịka eze n'elu tebulu na Premier League .",
+    "tgt_lang": [
+      "Nke a mere ka [ Manchester City ] ka kwụrụ ọtọ dịka eze n'elu tebulu na Premier League."
+    ],
+    "r_logp_score": [
+      1.5687477588653564
+    ],
+    "score": [
+      -20.119308471679688
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Nke a mere ka [ Manchester City ] ka kwụrụ ọtọ dịka eze n'elu tebulu na Premier League ."
+    ]
+  },
+  {
+    "idx": 26,
+    "src_lang": [
+      "As President [ Muhammadu Buhari ] won the 2019 election, Nigerians have begun to wonder about who they want to run for the presidency in 2023."
+    ],
+    "template": "Dịka onyeisiala Muhammadu Buhari meriri na ntuliaka 2019 , ụmụ Naijiria ebidola ị ma atụ gbasara ndị ha chọrọ ka ha zọọ ọkwa onyeisiala n'afọ 2023 .",
+    "tgt_lang": [
+      "Dịka onyeisiala [ Muhammadu Buhari ] meriri na ntuliaka 2019, ụmụ Naijiria ebidola ị ma atụ gbasara ndị ha chọrọ ka ha zọọ ọkwa onyeisiala n'afọ 2023."
+    ],
+    "r_logp_score": [
+      2.3779144287109375
+    ],
+    "score": [
+      -51.60782241821289
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Dịka onyeisiala [ Muhammadu Buhari ] meriri na ntuliaka 2019 , ụmụ Naijiria ebidola ị ma atụ gbasara ndị ha chọrọ ka ha zọọ ọkwa onyeisiala n'afọ 2023 ."
+    ]
+  },
+  {
+    "idx": 27,
+    "src_lang": [
+      "\"We do not believe there is such a thing as racism\", the [ Department of Culture, Religious and Linguistic Affairs ] (CRL Rights Commission) told reporters in South Africa.",
+      "\"We do not believe there is such a thing as racism\", the Department of Culture, Religious and Linguistic Affairs (CRL Rights Commission) told reporters in [ South Africa. ]"
+    ],
+    "template": "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\" , ka ngalaba na - ahụ maka omenaala , ofufe na asụsụ a kpọrọ \"\"\"\" ( CRL Rights Commission ) \"\"\"\" gwara ndị ntaakụkọ mba Saụt Afrịka .",
+    "tgt_lang": [
+      "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\", ka ngalaba na - ahụ maka omenaala, ofufe na asụsụ a kpọrọ \"\"\"\" [ ( CRL Rights Commission ) \"\"\"\" ] gwara ndị ntaakụkọ mba Saụt Afrịka.",
+      "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\", ka ngalaba na - ahụ maka omenaala, ofufe na asụsụ a kpọrọ \"\"\"\" ( CRL Rights Commission ) \"\"\"\" gwara ndị ntaakụkọ mba [ Saụt Afrịka ]."
+    ],
+    "r_logp_score": [
+      40.74986267089844,
+      6.903470039367676
+    ],
+    "score": [
+      -176.64146423339844,
+      -163.88079833984375
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\" , ka ngalaba na - ahụ maka omenaala , ofufe na asụsụ a kpọrọ \"\"\"\" [ ( CRL Rights Commission ) \"\"\"\" ] gwara ndị ntaakụkọ mba Saụt Afrịka .",
+      "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\" , ka ngalaba na - ahụ maka omenaala , ofufe na asụsụ a kpọrọ \"\"\"\" ( CRL Rights Commission ) \"\"\"\" gwara ndị ntaakụkọ mba [ Saụt Afrịka ] ."
+    ]
+  },
+  {
+    "template": "6 . Ndị mmadụ na kachị ntị biri n'ụlọ na - achọ ịda ada",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 29,
+    "src_lang": [
+      "[ U.S. ] Secretary of State Mike Pompeo said the two countries agreed to work on this issue.",
+      "U.S. Secretary of State [ Mike Pompeo ] said the two countries agreed to work on this issue."
+    ],
+    "template": "Mike Pompeo bụ odeakwụkwọ kachasị nke mba Amerịka , kwuru na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a .",
+    "tgt_lang": [
+      "[ Mike Pompeo ] bụ odeakwụkwọ kachasị nke mba Amerịka, kwuru na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a.",
+      "[ Mike Pompeo ] bụ odeakwụkwọ kachasị nke mba Amerịka, kwuru na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a."
+    ],
+    "r_logp_score": [
+      15.130008697509766,
+      3.9040703773498535
+    ],
+    "score": [
+      -83.67292022705078,
+      -74.93019104003906
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Mike Pompeo ] bụ odeakwụkwọ kachasị nke mba Amerịka , kwuru na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a .",
+      "[ Mike Pompeo ] bụ odeakwụkwọ kachasị nke mba Amerịka , kwuru na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a ."
+    ]
+  },
+  {
+    "idx": 30,
+    "src_lang": [
+      "Will [ Nwosu ] go to court?"
+    ],
+    "template": "Uche Nwosu ọ ga - aga n'ụlọikpe ?",
+    "tgt_lang": [
+      "Uche [ Nwosu ] ọ ga - aga n'ụlọikpe?"
+    ],
+    "r_logp_score": [
+      12.236387252807617
+    ],
+    "score": [
+      -25.661792755126953
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Uche [ Nwosu ] ọ ga - aga n'ụlọikpe ?"
+    ]
+  },
+  {
+    "idx": 31,
+    "src_lang": [
+      "[ Pogu Petru. ]"
+    ],
+    "template": "Pogu Bitrus .",
+    "tgt_lang": [
+      "[ Pogu Bitrus. ]"
+    ],
+    "r_logp_score": [
+      5.054915904998779
+    ],
+    "score": [
+      -13.924476623535156
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Pogu Bitrus . ]"
+    ]
+  },
+  {
+    "idx": 32,
+    "src_lang": [
+      "But [ Okoroocha ] said Inec did not have the authority to do this.",
+      "But Okoroocha said [ Inec ] did not have the authority to do this."
+    ],
+    "template": "Mana Okoroocha kwuru na Inec enweghị ikike ime nke a .",
+    "tgt_lang": [
+      "Mana [ Okoroocha ] kwuru na Inec enweghị ikike ime nke a.",
+      "Mana Okoroocha kwuru na [ Inec ] enweghị ikike ime nke a."
+    ],
+    "r_logp_score": [
+      27.677532196044922,
+      2.9581925868988037
+    ],
+    "score": [
+      -9.371001243591309,
+      -5.290018081665039
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Mana [ Okoroocha ] kwuru na Inec enweghị ikike ime nke a .",
+      "Mana Okoroocha kwuru na [ Inec ] enweghị ikike ime nke a ."
+    ]
+  },
+  {
+    "idx": 33,
+    "src_lang": [
+      "The Nigerian military has said it is shocked by [ Inec's ] accusation that it played a role in the corruption of the governorship election in Rivas state.",
+      "The Nigerian military has said it is shocked by Inec's accusation that it played a role in the corruption of the governorship election in [ Rivas ] state."
+    ],
+    "template": "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo Inec boro ha na ha so mebie ntuliaka ọkwa gọvanọ e mere na Rivas steeti .",
+    "tgt_lang": [
+      "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo [ Inec ] boro ha na ha so mebie ntuliaka ọkwa gọvanọ e mere na Rivas steeti.",
+      "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo Inec boro ha na ha so mebie ntuliaka ọkwa gọvanọ e mere na [ Rivas ] steeti."
+    ],
+    "r_logp_score": [
+      9.337068557739258,
+      1.7269880771636963
+    ],
+    "score": [
+      -46.5770263671875,
+      -44.99104690551758
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo [ Inec ] boro ha na ha so mebie ntuliaka ọkwa gọvanọ e mere na Rivas steeti .",
+      "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo Inec boro ha na ha so mebie ntuliaka ọkwa gọvanọ e mere na [ Rivas ] steeti ."
+    ]
+  },
+  {
+    "idx": 34,
+    "src_lang": [
+      "Fr [ Mbaka ] is very happy because Buhari has won",
+      "Fr Mbaka is very happy because [ Buhari ] has won"
+    ],
+    "template": "Fr Mbaka na - enwe nnukwu aṅụrị n'ihi na Buhari emeriela",
+    "tgt_lang": [
+      "Fr [ Mbaka ] na - enwe nnukwu aṅụrị n'ihi na Buhari emeriela",
+      "Fr Mbaka na - enwe nnukwu aṅụrị n'ihi na [ Buhari ] emeriela"
+    ],
+    "r_logp_score": [
+      16.478824615478516,
+      1.1248958110809326
+    ],
+    "score": [
+      -21.999513626098633,
+      -23.402847290039062
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Fr [ Mbaka ] na - enwe nnukwu aṅụrị n'ihi na Buhari emeriela",
+      "Fr Mbaka na - enwe nnukwu aṅụrị n'ihi na [ Buhari ] emeriela"
+    ]
+  },
+  {
+    "template": "O kwuru na ọ mabeghị .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 36,
+    "src_lang": [
+      "[ Ngige ] ruled Anambra after winning the governorship under the PDP, in the year 2003 to 2006.",
+      "Ngige ruled [ Anambra ] after winning the governorship under the PDP, in the year 2003 to 2006.",
+      "Ngige ruled Anambra after winning the governorship under the [ PDP, ] in the year 2003 to 2006."
+    ],
+    "template": "Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP , n'afọ 2003 ruo 2006 .",
+    "tgt_lang": [
+      "[ Ngige ] chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006.",
+      "Ngige chịrị [ Anambra ] mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006.",
+      "Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru [ PDP, ] n'afọ 2003 ruo 2006."
+    ],
+    "r_logp_score": [
+      16.915447235107422,
+      4.404971122741699,
+      2.7204532623291016
+    ],
+    "score": [
+      -11.626836776733398,
+      -12.4171781539917,
+      -11.171653747558594
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Ngige ] chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP , n'afọ 2003 ruo 2006 .",
+      "Ngige chịrị [ Anambra ] mgbe o meriri ọkwa Gọvanọ n'okpuru PDP , n'afọ 2003 ruo 2006 .",
+      "Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru [ PDP , ] n'afọ 2003 ruo 2006 ."
+    ]
+  },
+  {
+    "template": "6 .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 38,
+    "src_lang": [
+      "A tradition and ethnic group in [ Nigeria, ] the Igbo Ohaneze, the Northern Elders Forum, the Middle Belt Forum and the Niger Delta Forum have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+      "A tradition and ethnic group in Nigeria, the [ Igbo Ohaneze, ] the Northern Elders Forum, the Middle Belt Forum and the Niger Delta Forum have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+      "A tradition and ethnic group in Nigeria, the Igbo Ohaneze, the [ Northern Elders Forum, ] the Middle Belt Forum and the Niger Delta Forum have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+      "A tradition and ethnic group in Nigeria, the Igbo Ohaneze, the Northern Elders Forum, the [ Middle Belt Forum ] and the Niger Delta Forum have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+      "A tradition and ethnic group in Nigeria, the Igbo Ohaneze, the Northern Elders Forum, the Middle Belt Forum and the [ Niger Delta Forum ] have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+      "A tradition and ethnic group in Nigeria, the Igbo Ohaneze, the Northern Elders Forum, the Middle Belt Forum and the Niger Delta Forum have been involved in a petition to get [ Atiku ] to go to court over the observation of the election held on Saturday which they believe was incorrect."
+    ],
+    "template": "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo , Northern Elders Forum , Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi .",
+    "tgt_lang": [
+      "Otu ọdịnala na agbụrụ dị na [ Naịjirịa ] bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+      "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ [ Ohaneze ndị Igbo, ] Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+      "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, [ Northern Elders Forum, ] Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+      "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, [ Middle Belt Forum ] na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+      "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na [ Niger Delta Forum ] etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+      "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado [ Atiku ] ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi."
+    ],
+    "r_logp_score": [
+      9.001629829406738,
+      16.620786666870117,
+      1.010028600692749,
+      3.948432445526123,
+      5.374676704406738,
+      14.156160354614258
+    ],
+    "score": [
+      -137.33233642578125,
+      -138.46340942382812,
+      -133.8080596923828,
+      -133.831298828125,
+      -132.80087280273438,
+      -133.4882354736328
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Otu ọdịnala na agbụrụ dị na [ Naịjirịa ] bụ Ohaneze ndị Igbo , Northern Elders Forum , Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi .",
+      "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ [ Ohaneze ndị Igbo , ] Northern Elders Forum , Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi .",
+      "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo , [ Northern Elders Forum , ] Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi .",
+      "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo , Northern Elders Forum , [ Middle Belt Forum ] na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi .",
+      "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo , Northern Elders Forum , Middle Belt Forum na [ Niger Delta Forum ] etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi .",
+      "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo , Northern Elders Forum , Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado [ Atiku ] ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi ."
+    ]
+  },
+  {
+    "template": "O kwuru na ọ chọrọ ikpọlite ngalaba o hibere maka nlekọta ndị mmadụ anya n'efu nke ọ kpọrọ \"\"\"\" Gateway Front Foundation ( GFF ) \"\"\"\" , na ndụ .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 40,
+    "src_lang": [
+      "Popular news now is that [ Atiku Abubakar ] and a PDP party have filed a lawsuit over the results of the 2019 presidential election.",
+      "Popular news now is that Atiku Abubakar and a [ PDP ] party have filed a lawsuit over the results of the 2019 presidential election."
+    ],
+    "template": "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar nakwa otu PDP azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019 .",
+    "tgt_lang": [
+      "Akụkọ na - ewu ewu ugbua bụ na [ Atiku Abubakar ] nakwa otu PDP azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019.",
+      "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar nakwa otu [ PDP ] azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019."
+    ],
+    "r_logp_score": [
+      6.820408344268799,
+      2.5897247791290283
+    ],
+    "score": [
+      -59.86022186279297,
+      -56.20979690551758
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Akụkọ na - ewu ewu ugbua bụ na [ Atiku Abubakar ] nakwa otu PDP azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019 .",
+      "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar nakwa otu [ PDP ] azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019 ."
+    ]
+  },
+  {
+    "idx": 41,
+    "src_lang": [
+      "Recall that Mr. [ Abubakar ] was a candidate for the presidency on behalf of the PDP party.",
+      "Recall that Mr. Abubakar was a candidate for the presidency on behalf of the [ PDP ] party."
+    ],
+    "template": "Cheta na Maazị Abubakar bụ onye ji aha pati PDP zọọ ọkwa onyeisiala .",
+    "tgt_lang": [
+      "Cheta na Maazị [ Abubakar ] bụ onye ji aha pati PDP zọọ ọkwa onyeisiala.",
+      "Cheta na Maazị Abubakar bụ onye ji aha pati [ PDP ] zọọ ọkwa onyeisiala."
+    ],
+    "r_logp_score": [
+      3.037055492401123,
+      2.5897247791290283
+    ],
+    "score": [
+      -15.418378829956055,
+      -16.4440975189209
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Cheta na Maazị [ Abubakar ] bụ onye ji aha pati PDP zọọ ọkwa onyeisiala .",
+      "Cheta na Maazị Abubakar bụ onye ji aha pati [ PDP ] zọọ ọkwa onyeisiala ."
+    ]
+  },
+  {
+    "idx": 42,
+    "src_lang": [
+      "The spokesperson, Attorney [ Ifeanyi Ulumma ] explained that the election being \"\"\"\" inconclusive \"\"\"\" means \"\"\"\" where the election was conducted without prejudice. \"\"\"\""
+    ],
+    "template": "Onye ọnụ na - eru n'okwu bụ Ọkaiwu Ifeanyi Ulumma kọwara na ntuliaka ịdị \"\"\"\" inconclusive \"\"\"\" pụtara \"\"\"\" ebe e mere ntuliaka a na - emerughị n'isi . \"\"\"\"",
+    "tgt_lang": [
+      "Onye ọnụ na - eru n'okwu bụ Ọkaiwu [ Ifeanyi Ulumma ] kọwara na ntuliaka ịdị \"\"\"\" inconclusive \"\"\"\" pụtara \"\"\"\" ebe e mere ntuliaka a na - emerughị n'isi. \"\"\"\""
+    ],
+    "r_logp_score": [
+      46.10515213012695
+    ],
+    "score": [
+      -75.07330322265625
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Onye ọnụ na - eru n'okwu bụ Ọkaiwu [ Ifeanyi Ulumma ] kọwara na ntuliaka ịdị \"\"\"\" inconclusive \"\"\"\" pụtara \"\"\"\" ebe e mere ntuliaka a na - emerughị n'isi . \"\"\"\""
+    ]
+  },
+  {
+    "idx": 43,
+    "src_lang": [
+      "For example, [ London ] was at nine degrees, while New York was at four degrees.",
+      "For example, London was at nine degrees, while [ New York ] was at four degrees."
+    ],
+    "template": "Ọmụma atụ , London nọ na digri itoolu , ebe Nu Yọk nọ na deigri anọ .",
+    "tgt_lang": [
+      "Ọmụma atụ, [ London ] nọ na digri itoolu, ebe Nu Yọk nọ na deigri anọ.",
+      "Ọmụma atụ, London nọ na digri itoolu, ebe Nu [ Yọk ] nọ na deigri anọ."
+    ],
+    "r_logp_score": [
+      4.521289825439453,
+      12.357547760009766
+    ],
+    "score": [
+      -58.40483093261719,
+      -64.7917709350586
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ọmụma atụ , [ London ] nọ na digri itoolu , ebe Nu Yọk nọ na deigri anọ .",
+      "Ọmụma atụ , London nọ na digri itoolu , ebe Nu [ Yọk ] nọ na deigri anọ ."
+    ]
+  },
+  {
+    "idx": 44,
+    "src_lang": [
+      "A Nigerian junior football team will start their training in [ Tunisia ] today as they prepare to meet Libya to determine who qualified for the Junior Africa Cup of Nations.",
+      "A Nigerian junior football team will start their training in Tunisia today as they prepare to meet [ Libya ] to determine who qualified for the Junior Africa Cup of Nations."
+    ],
+    "template": "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na mba Tunisia taa dịka ha na akwado ịzute mba Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere .",
+    "tgt_lang": [
+      "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na mba [ Tunisia ] taa dịka ha na akwado ịzute mba Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere.",
+      "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na mba Tunisia taa dịka ha na akwado ịzute mba [ Libya ] iji mara onye tozuru asọmpị iko mba Afrịka nke obere."
+    ],
+    "r_logp_score": [
+      3.408510208129883,
+      1.1773830652236938
+    ],
+    "score": [
+      -73.77057647705078,
+      -76.01956939697266
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na mba [ Tunisia ] taa dịka ha na akwado ịzute mba Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere .",
+      "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na mba Tunisia taa dịka ha na akwado ịzute mba [ Libya ] iji mara onye tozuru asọmpị iko mba Afrịka nke obere ."
+    ]
+  },
+  {
+    "idx": 45,
+    "src_lang": [
+      "Igbo artist and internationally renowned art collector [ Okwui Enwezor, ] from Awkuzu, Anambara state died on Friday in Germany after suffering from cancer for several years.",
+      "Igbo artist and internationally renowned art collector Okwui Enwezor, from [ Awkuzu, ] Anambara state died on Friday in Germany after suffering from cancer for several years.",
+      "Igbo artist and internationally renowned art collector Okwui Enwezor, from Awkuzu, [ Anambara ] state died on Friday in Germany after suffering from cancer for several years.",
+      "Igbo artist and internationally renowned art collector Okwui Enwezor, from Awkuzu, Anambara state died on Friday in [ Germany ] after suffering from cancer for several years."
+    ],
+    "template": "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor , onye Awkuzu , Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole .",
+    "tgt_lang": [
+      "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ [ Okwui Enwezor, ] onye Awkuzu, Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+      "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye [ Awkuzu, ] Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+      "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, [ Anambara ] steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+      "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, Anambara steeti anwụọla ụbọchị Fraide na mba [ Germany ] ka ọ rịachara ọrịa kansa afọ ole na ole."
+    ],
+    "r_logp_score": [
+      37.52541732788086,
+      24.684757232666016,
+      19.32596206665039,
+      0.1620240956544876
+    ],
+    "score": [
+      -85.26922607421875,
+      -82.87187957763672,
+      -81.51144409179688,
+      -86.97502136230469
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ [ Okwui Enwezor , ] onye Awkuzu , Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole .",
+      "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor , onye [ Awkuzu , ] Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole .",
+      "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor , onye Awkuzu , [ Anambara ] steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole .",
+      "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor , onye Awkuzu , Anambara steeti anwụọla ụbọchị Fraide na mba [ Germany ] ka ọ rịachara ọrịa kansa afọ ole na ole ."
+    ]
+  },
+  {
+    "idx": 46,
+    "src_lang": [
+      "[ Leicester City: ] The owner has died in an accident?"
+    ],
+    "template": "Leicester City : Onye nwe ya ọ nwụọla n'ihe mberede ?",
+    "tgt_lang": [
+      "[ Leicester City : ] Onye nwe ya ọ nwụọla n'ihe mberede?"
+    ],
+    "r_logp_score": [
+      2.4368982315063477
+    ],
+    "score": [
+      -25.247703552246094
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Leicester City : ] Onye nwe ya ọ nwụọla n'ihe mberede ?"
+    ]
+  },
+  {
+    "idx": 47,
+    "src_lang": [
+      "He also asked that the false rumors not be spread among the [ Imo ] people to mislead them to include the AA party in the elections for the post of governor and the state legislature.",
+      "He also asked that the false rumors not be spread among the Imo people to mislead them to include the [ AA ] party in the elections for the post of governor and the state legislature."
+    ],
+    "template": "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ Imo gbajọọ itunyere pati AA na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti .",
+    "tgt_lang": [
+      "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ [ Imo ] gbajọọ itunyere pati AA na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti.",
+      "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ Imo gbajọọ itunyere pati [ AA ] na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti."
+    ],
+    "r_logp_score": [
+      12.967596054077148,
+      4.141741752624512
+    ],
+    "score": [
+      -87.69544982910156,
+      -89.70446014404297
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ [ Imo ] gbajọọ itunyere pati AA na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti .",
+      "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ Imo gbajọọ itunyere pati [ AA ] na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti ."
+    ]
+  },
+  {
+    "idx": 48,
+    "src_lang": [
+      "He said [ Nsorom ] was chasing Ihedioha who was running for governor of Imo state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+      "He said Nsorom was chasing [ Ihedioha ] who was running for governor of Imo state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+      "He said Nsorom was chasing Ihedioha who was running for governor of [ Imo ] state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+      "He said Nsorom was chasing Ihedioha who was running for governor of Imo state under the [ PDP ] election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+      "He said Nsorom was chasing Ihedioha who was running for governor of Imo state under the PDP election party under [ Isu, ] met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+      "He said Nsorom was chasing Ihedioha who was running for governor of Imo state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the [ Senate ] in the Labour zone.",
+      "He said Nsorom was chasing Ihedioha who was running for governor of Imo state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the [ Labour ] zone."
+    ],
+    "template": "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu , zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone .",
+    "tgt_lang": [
+      "Ọ kwuru na [ Nsorom ] na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+      "Ọ kwuru na Nsorom na - achụrụ [ Ihedioha ] na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+      "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ [ Imo ] steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+      "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati [ PDP ] vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+      "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị [ Isu, ] zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+      "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa [ Sineti ] n'Ọlụ zone.",
+      "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n' [Ọlụ ] zone."
+    ],
+    "r_logp_score": [
+      12.55724048614502,
+      9.022490501403809,
+      12.967596054077148,
+      2.5897247791290283,
+      16.80361557006836,
+      2.1287174224853516,
+      6.057172775268555
+    ],
+    "score": [
+      -121.50213623046875,
+      -123.26605224609375,
+      -121.65139770507812,
+      -120.58184814453125,
+      -123.62411499023438,
+      -128.1061248779297,
+      -127.17481994628906
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ọ kwuru na [ Nsorom ] na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu , zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone .",
+      "Ọ kwuru na Nsorom na - achụrụ [ Ihedioha ] na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu , zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone .",
+      "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ [ Imo ] steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu , zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone .",
+      "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati [ PDP ] vootu n'okpuruọchịchị Isu , zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone .",
+      "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị [ Isu , ] zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone .",
+      "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu , zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa [ Sineti ] n'Ọlụ zone .",
+      "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu , zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti [ n'Ọlụ ] zone ."
+    ]
+  },
+  {
+    "idx": 49,
+    "src_lang": [
+      "Listen to the [ BBC ] one minute news here."
+    ],
+    "template": "Gee akụkọ BBC n'otu nkeji ebe a .",
+    "tgt_lang": [
+      "Gee akụkọ [ BBC ] n'otu nkeji ebe a."
+    ],
+    "r_logp_score": [
+      2.7207062244415283
+    ],
+    "score": [
+      -11.488380432128906
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Gee akụkọ [ BBC ] n'otu nkeji ebe a ."
+    ]
+  },
+  {
+    "template": "Ndị otu ụkọchukwu ụka Katọlik Naịjirịa enyela gọọmentị ndụmọdụ ka o binye aka \"\"\"\" n'Electoral Law \"\"\"\" ọhụrụ , na ọ bụ nke a ga - eme ka nsogbu kwụsị ịdapụta na ntuliaka .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 51,
+    "src_lang": [
+      "I am not in a better position to die - [ El-Rufai ]"
+    ],
+    "template": "Anọghị m n'ọnọdụ ọdị ndụ ọnwụ ka mma - El - Rufai",
+    "tgt_lang": [
+      "Anọghị m n'ọnọdụ ọdị ndụ ọnwụ ka mma - [ El - Rufai ]"
+    ],
+    "r_logp_score": [
+      3.838667154312134
+    ],
+    "score": [
+      -38.60152053833008
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Anọghị m n'ọnọdụ ọdị ndụ ọnwụ ka mma - [ El - Rufai ]"
+    ]
+  },
+  {
+    "idx": 52,
+    "src_lang": [
+      "[ Anambara ] State Governor Willie Obiano led Justice Ijem Onwuamaegbu to resign as the first female chief justice.",
+      "Anambara State Governor [ Willie Obiano ] led Justice Ijem Onwuamaegbu to resign as the first female chief justice.",
+      "Anambara State Governor Willie Obiano led [ Justice ] Ijem Onwuamaegbu to resign as the first female chief justice.",
+      "Anambara State Governor Willie Obiano led Justice [ Ijem Onwuamaegbu ] to resign as the first female chief justice."
+    ],
+    "template": "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+    "tgt_lang": [
+      "Gọvanọ [ Anambara ] steeti bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+      "Gọvanọ Anambara steeti bụ [ Willie Obiano ] duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+      "Gọvanọ Anambara steeti bụ Willie Obiano duru [ Jọstịs ] Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+      "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs [ Ijem Onwuamaegbu ] n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ"
+    ],
+    "r_logp_score": [
+      19.32596206665039,
+      4.732663631439209,
+      1.7465195655822754,
+      59.33797836303711
+    ],
+    "score": [
+      -53.424964904785156,
+      -50.2873420715332,
+      -41.22053146362305,
+      -42.2493896484375
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Gọvanọ [ Anambara ] steeti bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+      "Gọvanọ Anambara steeti bụ [ Willie Obiano ] duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+      "Gọvanọ Anambara steeti bụ Willie Obiano duru [ Jọstịs ] Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+      "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs [ Ijem Onwuamaegbu ] n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ"
+    ]
+  },
+  {
+    "template": ".",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 54,
+    "src_lang": [
+      "[ Ahaneze, ] NEF, Afenifere, MBF and NDF have supported Atiku to go to court.",
+      "Ahaneze, [ NEF, ] Afenifere, MBF and NDF have supported Atiku to go to court.",
+      "Ahaneze, NEF, [ Afenifere, ] MBF and NDF have supported Atiku to go to court.",
+      "Ahaneze, NEF, Afenifere, [ MBF ] and NDF have supported Atiku to go to court.",
+      "Ahaneze, NEF, Afenifere, MBF and [ NDF ] have supported Atiku to go to court.",
+      "Ahaneze, NEF, Afenifere, MBF and NDF have supported [ Atiku ] to go to court."
+    ],
+    "template": "Ohaneze , NEF , Afenifere , MBF na NDF akwadola Atiku ịga ụlọikpe",
+    "tgt_lang": [
+      "[ Ohaneze, ] NEF, Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe",
+      "Ohaneze, [ NEF, ] Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe",
+      "Ohaneze, NEF, [ Afenifere, ] MBF na NDF akwadola Atiku ịga ụlọikpe",
+      "Ohaneze, NEF, Afenifere, [ MBF ] na NDF akwadola Atiku ịga ụlọikpe",
+      "Ohaneze, NEF, Afenifere, MBF na [ NDF ] akwadola Atiku ịga ụlọikpe",
+      "Ohaneze, NEF, Afenifere, MBF na NDF akwadola [ Atiku ] ịga ụlọikpe"
+    ],
+    "r_logp_score": [
+      33.56418228149414,
+      1.240116834640503,
+      8.789155006408691,
+      6.947317600250244,
+      5.52725887298584,
+      14.156161308288574
+    ],
+    "score": [
+      -19.653533935546875,
+      -21.13253402709961,
+      -22.47380256652832,
+      -22.425695419311523,
+      -22.268943786621094,
+      -22.693675994873047
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Ohaneze , ] NEF , Afenifere , MBF na NDF akwadola Atiku ịga ụlọikpe",
+      "Ohaneze , [ NEF , ] Afenifere , MBF na NDF akwadola Atiku ịga ụlọikpe",
+      "Ohaneze , NEF , [ Afenifere , ] MBF na NDF akwadola Atiku ịga ụlọikpe",
+      "Ohaneze , NEF , Afenifere , [ MBF ] na NDF akwadola Atiku ịga ụlọikpe",
+      "Ohaneze , NEF , Afenifere , MBF na [ NDF ] akwadola Atiku ịga ụlọikpe",
+      "Ohaneze , NEF , Afenifere , MBF na NDF akwadola [ Atiku ] ịga ụlọikpe"
+    ]
+  },
+  {
+    "idx": 55,
+    "src_lang": [
+      "Recall that [ Inec ] had earlier cancelled the collection and announcement of the results of the gubernatorial and parliamentary elections held in Rivas on the night of March 10 due to reports of violence, followed by elections.",
+      "Recall that Inec had earlier cancelled the collection and announcement of the results of the gubernatorial and parliamentary elections held in [ Rivas ] on the night of March 10 due to reports of violence, followed by elections."
+    ],
+    "template": "Cheta na Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo , so ya bụ ntuliaka .",
+    "tgt_lang": [
+      "Cheta na [ Inec ] kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo, so ya bụ ntuliaka.",
+      "Cheta na Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na [ Rivas ] n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo, so ya bụ ntuliaka."
+    ],
+    "r_logp_score": [
+      2.958193302154541,
+      1.7269902229309082
+    ],
+    "score": [
+      -112.29084777832031,
+      -112.66508483886719
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Cheta na [ Inec ] kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo , so ya bụ ntuliaka .",
+      "Cheta na Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na [ Rivas ] n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo , so ya bụ ntuliaka ."
+    ]
+  },
+  {
+    "template": "Dịka ọ dị ugbua a mabeghi mmadụ ole nke a metụtara dịka ndị ọrụ gbatagbata a bịabeghi n'ebe ahụ dịka @ TopsyAshaolu siri kwuo n'akara twitter ya ;",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Onyeisiala 2023 na nsonso a ?",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Election Update : Nchịkọta ihe mere taa",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 59,
+    "src_lang": [
+      "The [ NLC ] has criticized Inec for the way the 2019 elections went and has called for them to ensure that the electoral process in some states that was established on the night of March 23 goes ahead.",
+      "The NLC has criticized [ Inec ] for the way the 2019 elections went and has called for them to ensure that the electoral process in some states that was established on the night of March 23 goes ahead."
+    ],
+    "template": "Otu jikoro ndị ọrụ bụ NLC n'aha ịchafụ akatọọla Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya .",
+    "tgt_lang": [
+      "Otu jikoro ndị ọrụ bụ [ NLC n'aha ịchafụ ] akatọọla Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya.",
+      "Otu jikoro ndị ọrụ bụ NLC n'aha ịchafụ akatọọla [ Inec ] maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya."
+    ],
+    "r_logp_score": [
+      9.810364723205566,
+      2.958193302154541
+    ],
+    "score": [
+      -133.63729858398438,
+      -130.73385620117188
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Otu jikoro ndị ọrụ bụ [ NLC n'aha ịchafụ ] akatọọla Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya .",
+      "Otu jikoro ndị ọrụ bụ NLC n'aha ịchafụ akatọọla [ Inec ] maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya ."
+    ]
+  },
+  {
+    "template": "Ha dekwara sị na mpụtara ntuliaka a dabara n'ogo ha nyochapụtara na o kwesịrị :",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 61,
+    "src_lang": [
+      "The [ Nigerian Election Commission ] (INEC) has announced that President Muhammadu Buhari has won the 2019 presidential election.",
+      "The Nigerian Election Commission (INEC) has announced that President [ Muhammadu Buhari ] has won the 2019 presidential election."
+    ],
+    "template": "Ngalaba na - ahazi ntuliaka na Naijiria bụ Inec n'aha ịchafụ ekwuola na ọ bụ onyeisiala Muhammadu Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019 .",
+    "tgt_lang": [
+      "Ngalaba na - ahazi ntuliaka na Naijiria bụ [ Inec ] n'aha ịchafụ ekwuola na ọ bụ onyeisiala Muhammadu Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019.",
+      "Ngalaba na - ahazi ntuliaka na Naijiria bụ Inec n'aha ịchafụ ekwuola na ọ bụ onyeisiala [ Muhammadu Buhari ] meriri na ntuliaka ọkwa onyeisiala afọ 2019."
+    ],
+    "r_logp_score": [
+      29.377233505249023,
+      2.3779120445251465
+    ],
+    "score": [
+      -76.0585708618164,
+      -68.21060180664062
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ngalaba na - ahazi ntuliaka na Naijiria bụ [ Inec ] n'aha ịchafụ ekwuola na ọ bụ onyeisiala Muhammadu Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019 .",
+      "Ngalaba na - ahazi ntuliaka na Naijiria bụ Inec n'aha ịchafụ ekwuola na ọ bụ onyeisiala [ Muhammadu Buhari ] meriri na ntuliaka ọkwa onyeisiala afọ 2019 ."
+    ]
+  },
+  {
+    "idx": 62,
+    "src_lang": [
+      "[ Brenton Tarrant, ] 28, was taken to court on Saturday for the attack on two mosques in New Zealand.",
+      "Brenton Tarrant, 28, was taken to court on Saturday for the attack on two mosques in [ New Zealand. ]"
+    ],
+    "template": "A kpụpụrụ Brenton Tarrant , onye dị afọ 28 , ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na Nu Ziland",
+    "tgt_lang": [
+      "A kpụpụrụ [ Brenton Tarrant ], onye dị afọ 28, ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na Nu Ziland",
+      "A kpụpụrụ Brenton Tarrant, onye dị afọ 28, ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na [ Nu Ziland ]"
+    ],
+    "r_logp_score": [
+      11.684209823608398,
+      6.886129379272461
+    ],
+    "score": [
+      -67.10443878173828,
+      -58.75367736816406
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "A kpụpụrụ [ Brenton Tarrant ] , onye dị afọ 28 , ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na Nu Ziland",
+      "A kpụpụrụ Brenton Tarrant , onye dị afọ 28 , ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na [ Nu Ziland ]"
+    ]
+  },
+  {
+    "idx": 63,
+    "src_lang": [
+      "[ NTA, ] AIT, Channels and others have violated NBC policy",
+      "NTA, [ AIT, ] Channels and others have violated NBC policy",
+      "NTA, AIT, [ Channels ] and others have violated NBC policy",
+      "NTA, AIT, Channels and others have violated [ NBC ] policy"
+    ],
+    "template": "NTA , AIT , Channels na ndị ọzọ adaala iwu NBC",
+    "tgt_lang": [
+      "[ NTA, ] AIT, Channels na ndị ọzọ adaala iwu NBC",
+      "NTA, [ AIT, ] Channels na ndị ọzọ adaala iwu NBC",
+      "NTA, AIT, [ Channels ] na ndị ọzọ adaala iwu NBC",
+      "NTA, AIT, Channels na ndị ọzọ adaala iwu [ NBC ]"
+    ],
+    "r_logp_score": [
+      4.243943214416504,
+      2.1680023670196533,
+      0.9515904784202576,
+      2.582212448120117
+    ],
+    "score": [
+      -11.569292068481445,
+      -14.00355052947998,
+      -11.789990425109863,
+      -11.030496597290039
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ NTA , ] AIT , Channels na ndị ọzọ adaala iwu NBC",
+      "NTA , [ AIT , ] Channels na ndị ọzọ adaala iwu NBC",
+      "NTA , AIT , [ Channels ] na ndị ọzọ adaala iwu NBC",
+      "NTA , AIT , Channels na ndị ọzọ adaala iwu [ NBC ]"
+    ]
+  },
+  {
+    "idx": 64,
+    "src_lang": [
+      "[ Uwazuruike ] said that the problem was caused by the fact that some had a color on the patch that said \"\"\"\"king who told me\"\"\", he said."
+    ],
+    "template": "Uwazuruike kwuru na ọ bụ n'ihi na ụfọdụ nwere agba na patị ahụ bụ \"\"\"\" eze onye agwala m \"\"\"\" , na ọ bụ ya butere nsogbu a .",
+    "tgt_lang": [
+      "[ Uwazuruike ] kwuru na ọ bụ n'ihi na ụfọdụ nwere agba na patị ahụ bụ \"\"\"\" eze onye agwala m \"\"\"\", na ọ bụ ya butere nsogbu a."
+    ],
+    "r_logp_score": [
+      26.67141342163086
+    ],
+    "score": [
+      -69.35753631591797
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Uwazuruike ] kwuru na ọ bụ n'ihi na ụfọdụ nwere agba na patị ahụ bụ \"\"\"\" eze onye agwala m \"\"\"\" , na ọ bụ ya butere nsogbu a ."
+    ]
+  },
+  {
+    "idx": 65,
+    "src_lang": [
+      "Criminals have set fire to [ Inec ] factory in Agw Ibom",
+      "Criminals have set fire to Inec factory in [ Agw Ibom ]"
+    ],
+    "template": "Ndị omekome agbaala ụlọọrụ Inec ọkụ n'Akwa Ibom",
+    "tgt_lang": [
+      "Ndị omekome agbaala ụlọọrụ [ Inec ] ọkụ n'Akwa Ibom",
+      "Ndị omekome agbaala ụlọọrụ Inec ọkụ [ n'Akwa Ibom ]"
+    ],
+    "r_logp_score": [
+      2.95818829536438,
+      22.46380615234375
+    ],
+    "score": [
+      -15.540926933288574,
+      -20.970396041870117
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ndị omekome agbaala ụlọọrụ [ Inec ] ọkụ n'Akwa Ibom",
+      "Ndị omekome agbaala ụlọọrụ Inec ọkụ [ n'Akwa Ibom ]"
+    ]
+  },
+  {
+    "template": "Ya mere ha na - eji igwe a ga - eji arụ otu ogogo ụlọ elu arụ ogogo ụlọ elu anọ .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 67,
+    "src_lang": [
+      "Since the completion of the [ Senate ] elections, Inec has awarded President Buhari and his Vice President with their victory certificates and has also awarded their own Members of Parliament.",
+      "Since the completion of the Senate elections, [ Inec ] has awarded President Buhari and his Vice President with their victory certificates and has also awarded their own Members of Parliament.",
+      "Since the completion of the Senate elections, Inec has awarded President [ Buhari ] and his Vice President with their victory certificates and has also awarded their own Members of Parliament."
+    ],
+    "template": "Kamgbe emechara ntuliaka nke ọkwa sineti , Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha .",
+    "tgt_lang": [
+      "Kamgbe emechara ntuliaka nke [ ọkwa sineti ], Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha.",
+      "Kamgbe emechara ntuliaka nke ọkwa sineti, [ Inec ] enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha.",
+      "Kamgbe emechara ntuliaka nke ọkwa sineti, Inec enyela onyeisiala [ Buhari ] na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha."
+    ],
+    "r_logp_score": [
+      5.893963813781738,
+      2.958188772201538,
+      1.1248987913131714
+    ],
+    "score": [
+      -56.959598541259766,
+      -52.96383285522461,
+      -53.786476135253906
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Kamgbe emechara ntuliaka nke [ ọkwa sineti ] , Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha .",
+      "Kamgbe emechara ntuliaka nke ọkwa sineti , [ Inec ] enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha .",
+      "Kamgbe emechara ntuliaka nke ọkwa sineti , Inec enyela onyeisiala [ Buhari ] na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha ."
+    ]
+  },
+  {
+    "idx": 68,
+    "src_lang": [
+      "[ Real Madrid ] football manager Gareth Bale has criticized Real Madrid fans for mocking Bale and said it was a shame for them.",
+      "Real Madrid football manager [ Gareth Bale ] has criticized Real Madrid fans for mocking Bale and said it was a shame for them.",
+      "Real Madrid football manager Gareth Bale has criticized [ Real Madrid ] fans for mocking Bale and said it was a shame for them.",
+      "Real Madrid football manager Gareth Bale has criticized Real Madrid fans for mocking [ Bale ] and said it was a shame for them."
+    ],
+    "template": "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha .",
+    "tgt_lang": [
+      "Onye nlekọta Gareth bale na - agbara [ Real Madrid ] bọọlụ akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+      "Onye nlekọta [ Gareth bale ] na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+      "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado [ Real Madrid ] kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+      "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara [ Bale ] ma kwuo na ọ bụ ihe ihere nye ha."
+    ],
+    "r_logp_score": [
+      2.966733694076538,
+      5.784280776977539,
+      2.966733694076538,
+      8.883644104003906
+    ],
+    "score": [
+      -66.7181167602539,
+      -63.261619567871094,
+      -63.23708724975586,
+      -63.940879821777344
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Onye nlekọta Gareth bale na - agbara [ Real Madrid ] bọọlụ akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha .",
+      "Onye nlekọta [ Gareth bale ] na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha .",
+      "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado [ Real Madrid ] kwara Bale ma kwuo na ọ bụ ihe ihere nye ha .",
+      "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara [ Bale ] ma kwuo na ọ bụ ihe ihere nye ha ."
+    ]
+  },
+  {
+    "idx": 69,
+    "src_lang": [
+      "[ Mbaka, ] Oyedepo, and other priests are effective",
+      "Mbaka, [ Oyedepo, ] and other priests are effective"
+    ],
+    "template": "Mbaka , Oyedepo na ụkọchukwu ndị ọzọ okwu ha na - adị ire",
+    "tgt_lang": [
+      "[ Mbaka, ] Oyedepo na ụkọchukwu ndị ọzọ okwu ha na - adị ire",
+      "Mbaka, [ Oyedepo ] na ụkọchukwu ndị ọzọ okwu ha na - adị ire"
+    ],
+    "r_logp_score": [
+      16.600610733032227,
+      11.896047592163086
+    ],
+    "score": [
+      -40.65937042236328,
+      -39.20188522338867
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Mbaka , ] Oyedepo na ụkọchukwu ndị ọzọ okwu ha na - adị ire",
+      "Mbaka , [ Oyedepo ] na ụkọchukwu ndị ọzọ okwu ha na - adị ire"
+    ]
+  },
+  {
+    "idx": 70,
+    "src_lang": [
+      "The [ PDP ] has asked Nigerians to reject Inec's results if Inec refuses to produce a report on the card reader.",
+      "The PDP has asked Nigerians to reject [ Inec's ] results if Inec refuses to produce a report on the card reader.",
+      "The PDP has asked Nigerians to reject Inec's results if [ Inec ] refuses to produce a report on the card reader."
+    ],
+    "template": "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader . '",
+    "tgt_lang": [
+      "[ PDP ] rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader. '",
+      "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara [ Inec ] wepụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader. '",
+      "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na [ Inec ] jụ iwepụta ngụkọ nke igwe 'cardi reader. '"
+    ],
+    "r_logp_score": [
+      2.589724540710449,
+      9.337063789367676,
+      2.958188772201538
+    ],
+    "score": [
+      -87.84014129638672,
+      -87.56451416015625,
+      -84.97673797607422
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ PDP ] rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader . '",
+      "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara [ Inec ] wepụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader . '",
+      "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na [ Inec ] jụ iwepụta ngụkọ nke igwe 'cardi reader . '"
+    ]
+  },
+  {
+    "idx": 71,
+    "src_lang": [
+      "2014: 13 buildings collapsed in [ Lagos ] and two in Abuja.",
+      "2014: 13 buildings collapsed in Lagos and two in [ Abuja. ]"
+    ],
+    "template": "2014 : Ụlọ iri na atọ dara na Lagos ebe abụọ dara n'Abuja .",
+    "tgt_lang": [
+      "2014 : Ụlọ iri na atọ dara na [ Lagos ] ebe abụọ dara n'Abuja.",
+      "2014 : Ụlọ iri na atọ dara na Lagos ebe abụọ dara n' [Abuja ]."
+    ],
+    "r_logp_score": [
+      2.3761844635009766,
+      9.304325103759766
+    ],
+    "score": [
+      -26.64992332458496,
+      -37.08013153076172
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "2014 : Ụlọ iri na atọ dara na [ Lagos ] ebe abụọ dara n'Abuja .",
+      "2014 : Ụlọ iri na atọ dara na Lagos ebe abụọ dara [ n'Abuja ] ."
+    ]
+  },
+  {
+    "idx": 72,
+    "src_lang": [
+      "Many people criticized the \"\"\"\"strange\"\" thing that happened in front of the [ Lukau ] church near Johannesburg, while many made fun of it.",
+      "Many people criticized the \"\"\"\"strange\"\" thing that happened in front of the Lukau church near [ Johannesburg, ] while many made fun of it."
+    ],
+    "template": "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka Lukau dị nso n'obodo Johannesburg , ebe ọtụtụ ji ya mere ihe ọchị .",
+    "tgt_lang": [
+      "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka [ Lukau ] dị nso n'obodo Johannesburg, ebe ọtụtụ ji ya mere ihe ọchị.",
+      "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka Lukau dị nso n'obodo [ Johannesburg, ] ebe ọtụtụ ji ya mere ihe ọchị."
+    ],
+    "r_logp_score": [
+      11.591230392456055,
+      5.510708332061768
+    ],
+    "score": [
+      -63.548362731933594,
+      -64.25467681884766
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka [ Lukau ] dị nso n'obodo Johannesburg , ebe ọtụtụ ji ya mere ihe ọchị .",
+      "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka Lukau dị nso n'obodo [ Johannesburg , ] ebe ọtụtụ ji ya mere ihe ọchị ."
+    ]
+  },
+  {
+    "template": "Obi kwuru na nke a tinyere ụjọ na ndị si na mpaghara ọwụwa anyanwụ na ndị ndịda anyanwụ ma na - ekwu na onweghị nrụrụaka ka nke a .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Ntọala na - esighi ike",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 75,
+    "src_lang": [
+      "Attorneys from other Alaigbo states attended this special ceremony at the [ Government House ] of the state."
+    ],
+    "template": "Okiwu ndị steeti Alaigbo ndị ọzọ bịara emume a pụrụ iche n'Obi gọọmentị nke steeti ahụ .",
+    "tgt_lang": [
+      "Okiwu ndị steeti Alaigbo ndị ọzọ bịara emume a pụrụ iche [ n'Obi gọọmentị ] nke steeti ahụ."
+    ],
+    "r_logp_score": [
+      8.87735652923584
+    ],
+    "score": [
+      -47.663875579833984
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Okiwu ndị steeti Alaigbo ndị ọzọ bịara emume a pụrụ iche [ n'Obi gọọmentị ] nke steeti ahụ ."
+    ]
+  },
+  {
+    "idx": 76,
+    "src_lang": [
+      "More than 30 people were rescued from the rubble of a collapsed building in [ Nyagatare ] in Rwanda in 2013.",
+      "More than 30 people were rescued from the rubble of a collapsed building in Nyagatare in [ Rwanda ] in 2013."
+    ],
+    "template": "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na Nyagatare dị na Rwanda n'afọ 2013 .",
+    "tgt_lang": [
+      "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na [ Nyagatare ] dị na Rwanda n'afọ 2013.",
+      "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na Nyagatare dị na [ Rwanda ] n'afọ 2013."
+    ],
+    "r_logp_score": [
+      10.707784652709961,
+      1.9547871351242065
+    ],
+    "score": [
+      -47.69526672363281,
+      -48.834716796875
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na [ Nyagatare ] dị na Rwanda n'afọ 2013 .",
+      "Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na Nyagatare dị na [ Rwanda ] n'afọ 2013 ."
+    ]
+  },
+  {
+    "template": "Mapụ ebe ọdachi ndí omekataraihepụụjọ",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 78,
+    "src_lang": [
+      "One gunman, believed to be [ Brenton Tarant, ] appeared to be firing into a mosque."
+    ],
+    "template": "Otu onye ji egbe so na mkpakpa ahụ nke a na - enyo na ọ bụ Brenton Tarant gosiri onwe ya dịka ọ na - akwa mgbọ n'ime ụlọụka Alakụba .",
+    "tgt_lang": [
+      "Otu onye ji egbe so na mkpakpa ahụ nke a na - enyo na ọ bụ [ Brenton Tarant ] gosiri onwe ya dịka ọ na - akwa mgbọ n'ime ụlọụka Alakụba."
+    ],
+    "r_logp_score": [
+      11.650508880615234
+    ],
+    "score": [
+      -95.0353775024414
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Otu onye ji egbe so na mkpakpa ahụ nke a na - enyo na ọ bụ [ Brenton Tarant ] gosiri onwe ya dịka ọ na - akwa mgbọ n'ime ụlọụka Alakụba ."
+    ]
+  },
+  {
+    "idx": 79,
+    "src_lang": [
+      "[ Barca ] beat Madrid on the head",
+      "Barca beat [ Madrid ] on the head"
+    ],
+    "template": "Barca tụrụ Madrid ọkpọ n'isi",
+    "tgt_lang": [
+      "[ Barca ] tụrụ Madrid ọkpọ n'isi",
+      "Barca tụrụ [ Madrid ] ọkpọ n'isi"
+    ],
+    "r_logp_score": [
+      1.709854006767273,
+      3.2367873191833496
+    ],
+    "score": [
+      -11.759584426879883,
+      -10.258866310119629
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Barca ] tụrụ Madrid ọkpọ n'isi",
+      "Barca tụrụ [ Madrid ] ọkpọ n'isi"
+    ]
+  },
+  {
+    "idx": 80,
+    "src_lang": [
+      "More than 54 houses collapsed in 2017 in [ Nigeria. ]"
+    ],
+    "template": "Ihe karịrị ụlọ iri ise na anọ dara ada n'afọ 2017 na Naịjirịa .",
+    "tgt_lang": [
+      "Ihe karịrị ụlọ iri ise na anọ dara ada n'afọ 2017 na [ Naịjirịa ]."
+    ],
+    "r_logp_score": [
+      8.6029691696167
+    ],
+    "score": [
+      -13.805556297302246
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ihe karịrị ụlọ iri ise na anọ dara ada n'afọ 2017 na [ Naịjirịa ] ."
+    ]
+  },
+  {
+    "idx": 81,
+    "src_lang": [
+      "It is not known what it is but it is thought that [ Gokmen ] Tanis is working with the green terrorists.",
+      "It is not known what it is but it is thought that Gokmen [ Tanis ] is working with the green terrorists."
+    ],
+    "template": "Amambeghi ihe ọ bụ n'uche mana e chere na Gokmen Tanis na ndị oyi ndụ egwu na - arụkọ ọrụ .",
+    "tgt_lang": [
+      "Amambeghi ihe ọ bụ n'uche mana e chere na [ Gokmen ] Tanis na ndị oyi ndụ egwu na - arụkọ ọrụ.",
+      "Amambeghi ihe ọ bụ n'uche mana e chere na Gokmen [ Tanis ] na ndị oyi ndụ egwu na - arụkọ ọrụ."
+    ],
+    "r_logp_score": [
+      3.7672276496887207,
+      0.7469474077224731
+    ],
+    "score": [
+      -62.17027282714844,
+      -60.19223403930664
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Amambeghi ihe ọ bụ n'uche mana e chere na [ Gokmen ] Tanis na ndị oyi ndụ egwu na - arụkọ ọrụ .",
+      "Amambeghi ihe ọ bụ n'uche mana e chere na Gokmen [ Tanis ] na ndị oyi ndụ egwu na - arụkọ ọrụ ."
+    ]
+  },
+  {
+    "idx": 82,
+    "src_lang": [
+      "[ Olisa Agbakoba ] is the attorney general in Nigeria has called on Atiku Abubakar to accept the results of the presidential election.",
+      "Olisa Agbakoba is the attorney general in [ Nigeria ] has called on Atiku Abubakar to accept the results of the presidential election.",
+      "Olisa Agbakoba is the attorney general in Nigeria has called on [ Atiku Abubakar ] to accept the results of the presidential election."
+    ],
+    "template": "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala .",
+    "tgt_lang": [
+      "[ Olisa Agbakoba ] bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala.",
+      "Olisa Agbakoba bụ onye ọkaiwu ukwu na [ Naịjirịa ] akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala.",
+      "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola [ Atiku Abubakar ] ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala."
+    ],
+    "r_logp_score": [
+      18.776107788085938,
+      1.8540514707565308,
+      6.820401668548584
+    ],
+    "score": [
+      -29.729490280151367,
+      -30.041881561279297,
+      -27.706512451171875
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Olisa Agbakoba ] bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala .",
+      "Olisa Agbakoba bụ onye ọkaiwu ukwu na [ Naịjirịa ] akpọkuola Atiku Abubakar ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala .",
+      "Olisa Agbakoba bụ onye ọkaiwu ukwu na Naịjirịa akpọkuola [ Atiku Abubakar ] ka ọ nabata mpụtara ntuliaka ọkwa onyeisiala ."
+    ]
+  },
+  {
+    "idx": 83,
+    "src_lang": [
+      "[ Barca ] defeated Madrid by a single goal in their El Classico match last night.",
+      "Barca defeated [ Madrid ] by a single goal in their El Classico match last night."
+    ],
+    "template": "Barca ji otu ọkpụ goolu merie Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ .",
+    "tgt_lang": [
+      "[ Barca ] ji otu ọkpụ goolu merie Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ.",
+      "Barca ji otu ọkpụ goolu merie [ Madrid ] n'asọmpi El Classico ha gbara n'abalị ụnyaahụ."
+    ],
+    "r_logp_score": [
+      1.709854006767273,
+      3.2367873191833496
+    ],
+    "score": [
+      -26.72295379638672,
+      -27.26576042175293
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Barca ] ji otu ọkpụ goolu merie Madrid n'asọmpi El Classico ha gbara n'abalị ụnyaahụ .",
+      "Barca ji otu ọkpụ goolu merie [ Madrid ] n'asọmpi El Classico ha gbara n'abalị ụnyaahụ ."
+    ]
+  },
+  {
+    "idx": 84,
+    "src_lang": [
+      "In his speech, [ Jacob ] said that it was less than two percent."
+    ],
+    "template": "N'okwu ya , Yakubu kwuru na o rughị pasent abụọ .",
+    "tgt_lang": [
+      "N'okwu ya, [ Yakubu ] kwuru na o rughị pasent abụọ."
+    ],
+    "r_logp_score": [
+      2.1431989669799805
+    ],
+    "score": [
+      -16.179710388183594
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "N'okwu ya , [ Yakubu ] kwuru na o rughị pasent abụọ ."
+    ]
+  },
+  {
+    "idx": 85,
+    "src_lang": [
+      "[ APC ] Primaries: Riots erupted in Enugwu",
+      "APC Primaries: Riots erupted in [ Enugwu ]"
+    ],
+    "template": "APC Primaries : Ọgbaghara dapụtara n'Enugwu",
+    "tgt_lang": [
+      "[ APC ] Primaries : Ọgbaghara dapụtara n'Enugwu",
+      "APC Primaries : Ọgbaghara dapụtara n' [Enugwu ]"
+    ],
+    "r_logp_score": [
+      2.557370662689209,
+      18.324058532714844
+    ],
+    "score": [
+      -16.704526901245117,
+      -26.754098892211914
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ APC ] Primaries : Ọgbaghara dapụtara n'Enugwu",
+      "APC Primaries : Ọgbaghara dapụtara [ n'Enugwu ]"
+    ]
+  },
+  {
+    "idx": 86,
+    "src_lang": [
+      "He criticized the way in which those in power are attacking the members of the [ PDP ] party and those who compare their votes and are asking people to come out in full to vote in the gubernatorial election."
+    ],
+    "template": "Ọ katọrọ etu ndị nọ na ọchịchị si wakpo ndị nọ na pati PDP ma ndị na - atụnyere ha vootu ma na - arịọ ka ndị mmadụ pụta n'uju tụọ vootu na ntuliaka nke ọkwa gọvanọ .",
+    "tgt_lang": [
+      "Ọ katọrọ etu ndị nọ na ọchịchị si wakpo ndị nọ na pati [ PDP ] ma ndị na - atụnyere ha vootu ma na - arịọ ka ndị mmadụ pụta n'uju tụọ vootu na ntuliaka nke ọkwa gọvanọ."
+    ],
+    "r_logp_score": [
+      2.589724540710449
+    ],
+    "score": [
+      -62.26204299926758
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ọ katọrọ etu ndị nọ na ọchịchị si wakpo ndị nọ na pati [ PDP ] ma ndị na - atụnyere ha vootu ma na - arịọ ka ndị mmadụ pụta n'uju tụọ vootu na ntuliaka nke ọkwa gọvanọ ."
+    ]
+  },
+  {
+    "template": "Na nkọwa ya , asambodo mmeri ga - enye onye ahụ ikike ịbanye ebe o nwetere mmeri ịchị .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 88,
+    "src_lang": [
+      "The priest [ Alph Lukau ] stands by the coffin, laying his hands on the stomach of the man he claims to have resurrected"
+    ],
+    "template": "Ụkọchukwu Alph Lukau kwụ n'akụkụ akpati ozu , tụkwasị aka n'elu afọ nwoke o kwuru na ọ kpọlitere n'ozu",
+    "tgt_lang": [
+      "Ụkọchukwu [ Alph Lukau ] kwụ n'akụkụ akpati ozu, tụkwasị aka n'elu afọ nwoke o kwuru na ọ kpọlitere n'ozu"
+    ],
+    "r_logp_score": [
+      2.590585231781006
+    ],
+    "score": [
+      -57.97708511352539
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ụkọchukwu [ Alph Lukau ] kwụ n'akụkụ akpati ozu , tụkwasị aka n'elu afọ nwoke o kwuru na ọ kpọlitere n'ozu"
+    ]
+  },
+  {
+    "idx": 89,
+    "src_lang": [
+      "[ Godswill Akpabio ] ruled Akwa Ibom State from 2007 to 2015.",
+      "Godswill Akpabio ruled [ Akwa Ibom State ] from 2007 to 2015."
+    ],
+    "template": "Godswill Akpabio chịrị Akwa Ibom steeti site n'afọ 2007 rue afọ 2015 .",
+    "tgt_lang": [
+      "[ Godswill Akpabio ] chịrị Akwa Ibom steeti site n'afọ 2007 rue afọ 2015.",
+      "Godswill Akpabio chịrị [ Akwa Ibom steeti ] site n'afọ 2007 rue afọ 2015."
+    ],
+    "r_logp_score": [
+      24.720340728759766,
+      3.532788038253784
+    ],
+    "score": [
+      -13.963154792785645,
+      -11.966214179992676
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Godswill Akpabio ] chịrị Akwa Ibom steeti site n'afọ 2007 rue afọ 2015 .",
+      "Godswill Akpabio chịrị [ Akwa Ibom steeti ] site n'afọ 2007 rue afọ 2015 ."
+    ]
+  },
+  {
+    "idx": 90,
+    "src_lang": [
+      "[ Gbenga Daniel ] has resigned from politics,"
+    ],
+    "template": "Gbenga Daniel agbaala ndọrọndọrọ ọchịchị \"\"\"\" arụkwaghịm \"\"\"\" ,",
+    "tgt_lang": [
+      "[ Gbenga Daniel ] agbaala ndọrọndọrọ ọchịchị \"\"\"\" arụkwaghịm \"\"\"\","
+    ],
+    "r_logp_score": [
+      13.289656639099121
+    ],
+    "score": [
+      -53.12714767456055
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Gbenga Daniel ] agbaala ndọrọndọrọ ọchịchị \"\"\"\" arụkwaghịm \"\"\"\" ,"
+    ]
+  },
+  {
+    "idx": 91,
+    "src_lang": [
+      "[ Wike ] also promised to build a house for them and to participate in his ministry."
+    ],
+    "template": "Wike kwekwara nkwa iwuru ha ụlọ ma tinyekwa aka n'akwamozu ya .",
+    "tgt_lang": [
+      "[ Wike ] kwekwara nkwa iwuru ha ụlọ ma tinyekwa aka n'akwamozu ya."
+    ],
+    "r_logp_score": [
+      3.457759380340576
+    ],
+    "score": [
+      -39.68980407714844
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Wike ] kwekwara nkwa iwuru ha ụlọ ma tinyekwa aka n'akwamozu ya ."
+    ]
+  },
+  {
+    "idx": 92,
+    "src_lang": [
+      "[ Arsenal ] and Tottenham played each other in a draw, which resulted in a championship.",
+      "Arsenal and [ Tottenham ] played each other in a draw, which resulted in a championship."
+    ],
+    "template": "Arsenal na Tottenham gbara onwe ha onye laba , onye laba na ya bụ asọmpị .",
+    "tgt_lang": [
+      "[ Arsenal ] na Tottenham gbara onwe ha onye laba, onye laba na ya bụ asọmpị.",
+      "Arsenal na [ Tottenham ] gbara onwe ha onye laba, onye laba na ya bụ asọmpị."
+    ],
+    "r_logp_score": [
+      6.167270660400391,
+      5.282823085784912
+    ],
+    "score": [
+      -55.66492462158203,
+      -57.12073516845703
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Arsenal ] na Tottenham gbara onwe ha onye laba , onye laba na ya bụ asọmpị .",
+      "Arsenal na [ Tottenham ] gbara onwe ha onye laba , onye laba na ya bụ asọmpị ."
+    ]
+  },
+  {
+    "template": "Ụlọ ahụ daranụ nwere ogogo ise ma bụrụkwa ụlọ oriri mgbe ọ dara gbuo mmadụ 11 .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Ndị mmadụ anwụọla n'IDP camp ,",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 95,
+    "src_lang": [
+      "Accord supports [ APGA ] in the State Budget"
+    ],
+    "template": "Accord na - akwado APGA n'Abia Steeti",
+    "tgt_lang": [
+      "Accord na - akwado [ APGA ] n'Abia Steeti"
+    ],
+    "r_logp_score": [
+      6.1864118576049805
+    ],
+    "score": [
+      -28.238086700439453
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Accord na - akwado [ APGA ] n'Abia Steeti"
+    ]
+  },
+  {
+    "idx": 96,
+    "src_lang": [
+      "As witnessed by [ Eze Ugochukwu ] told BBC Igbo, this young man, Nsorom Nnamdi, received two guns from the Ojiegbe people who were two young men with a gun.",
+      "As witnessed by Eze Ugochukwu told [ BBC Igbo, ] this young man, Nsorom Nnamdi, received two guns from the Ojiegbe people who were two young men with a gun.",
+      "As witnessed by Eze Ugochukwu told BBC Igbo, this young man, [ Nsorom Nnamdi, ] received two guns from the Ojiegbe people who were two young men with a gun.",
+      "As witnessed by Eze Ugochukwu told BBC Igbo, this young man, Nsorom Nnamdi, received two guns from the [ Ojiegbe ] people who were two young men with a gun."
+    ],
+    "template": "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu , egbe . Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo , nwaamadị a bụ Nsorom Nnamdi , natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+    "tgt_lang": [
+      "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ [ Eze Ugochukwu ] gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+      "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara [ BBC Igbo, ] nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+      "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ [ Nsorom Nnamdi, ] natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+      "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu, egbe. Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo, nwaamadị a bụ Nsorom Nnamdi, natara ọnụ egbe abụọ site n'aka ndị [ Ojiegbe ] a bụ ụmụokorobịa abụọ ji ogbatumtum"
+    ],
+    "r_logp_score": [
+      14.498311996459961,
+      6.599822521209717,
+      11.966933250427246,
+      14.456384658813477
+    ],
+    "score": [
+      -217.11277770996094,
+      -224.6934051513672,
+      -225.17918395996094,
+      -227.27374267578125
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu , egbe . Dịka anya hụrụ ka o si mee bụ [ Eze Ugochukwu ] gwara BBC Igbo , nwaamadị a bụ Nsorom Nnamdi , natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+      "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu , egbe . Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara [ BBC Igbo , ] nwaamadị a bụ Nsorom Nnamdi , natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+      "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu , egbe . Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo , nwaamadị a bụ [ Nsorom Nnamdi , ] natara ọnụ egbe abụọ site n'aka ndị Ojiegbe a bụ ụmụokorobịa abụọ ji ogbatumtum",
+      "Ndị Ojiegbe a na - amaghị ndị ha bụ agbaala onye na - achụrụ Emeka Ihedioha nta vootu , egbe . Dịka anya hụrụ ka o si mee bụ Eze Ugochukwu gwara BBC Igbo , nwaamadị a bụ Nsorom Nnamdi , natara ọnụ egbe abụọ site n'aka ndị [ Ojiegbe ] a bụ ụmụokorobịa abụọ ji ogbatumtum"
+    ]
+  },
+  {
+    "idx": 97,
+    "src_lang": [
+      "He also criticized statements that governor [ Rochas Okorocha ] is regretting supporting the AA party in the upcoming elections.",
+      "He also criticized statements that governor Rochas Okorocha is regretting supporting the [ AA ] party in the upcoming elections."
+    ],
+    "template": "Ọ katọkwara okwu na - ekwu na gọvanọ Rochas Okorocha na - echegharị maka ịkwado pati AA na ntuliaka na - abịanụ .",
+    "tgt_lang": [
+      "Ọ katọkwara okwu na - ekwu na gọvanọ [ Rochas Okorocha ] na - echegharị maka ịkwado pati AA na ntuliaka na - abịanụ.",
+      "Ọ katọkwara okwu na - ekwu na gọvanọ Rochas Okorocha na - echegharị maka ịkwado pati [ AA ] na ntuliaka na - abịanụ."
+    ],
+    "r_logp_score": [
+      7.091103553771973,
+      4.141741752624512
+    ],
+    "score": [
+      -24.02125358581543,
+      -25.710769653320312
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ọ katọkwara okwu na - ekwu na gọvanọ [ Rochas Okorocha ] na - echegharị maka ịkwado pati AA na ntuliaka na - abịanụ .",
+      "Ọ katọkwara okwu na - ekwu na gọvanọ Rochas Okorocha na - echegharị maka ịkwado pati [ AA ] na ntuliaka na - abịanụ ."
+    ]
+  },
+  {
+    "template": "Ọchụchụ ya na - abịa naanị ụbọchị narị na isii e wechara ya n'ọrụ .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 99,
+    "src_lang": [
+      "The King also told [ BBC Igbo ] that Nsorom Nnamdi has been taken to the emergency room of the Federal Medical Center in Owere.",
+      "The King also told BBC Igbo that [ Nsorom Nnamdi ] has been taken to the emergency room of the Federal Medical Center in Owere.",
+      "The King also told BBC Igbo that Nsorom Nnamdi has been taken to the emergency room of the [ Federal Medical Center ] in Owere.",
+      "The King also told BBC Igbo that Nsorom Nnamdi has been taken to the emergency room of the Federal Medical Center in [ Owere. ]"
+    ],
+    "template": "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere .",
+    "tgt_lang": [
+      "Eze gwakwara [ BBC Igbo ] na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere.",
+      "Eze gwakwara BBC Igbo na akpọrọla [ Nsorom Nnamdi ] gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere.",
+      "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ [ Federal Medical Center ] dị n'Owere.",
+      "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị [ n'Owere. ]"
+    ],
+    "r_logp_score": [
+      7.3324503898620605,
+      11.096071243286133,
+      0.8448022603988647,
+      18.156829833984375
+    ],
+    "score": [
+      -47.95951461791992,
+      -49.6586799621582,
+      -47.988128662109375,
+      -53.61421203613281
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Eze gwakwara [ BBC Igbo ] na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere .",
+      "Eze gwakwara BBC Igbo na akpọrọla [ Nsorom Nnamdi ] gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị n'Owere .",
+      "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ [ Federal Medical Center ] dị n'Owere .",
+      "Eze gwakwara BBC Igbo na akpọrọla Nsorom Nnamdi gawa n'ogbe gbata - gbata nke ụlọọgwụ Federal Medical Center dị [ n'Owere . ]"
+    ]
+  }
+]

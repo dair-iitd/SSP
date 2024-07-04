@@ -1,0 +1,1181 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "It is a journey that starts from the [ Priki of the Volcanoes, ] which is home to many animals including the golden tiger and the half-black tiger, and continues with Richard Kandt's other routes through Rwanda.",
+      "It is a journey that starts from the Priki of the Volcanoes, which is home to many animals including the golden tiger and the half-black tiger, and continues with [ Richard Kandt's ] other routes through Rwanda.",
+      "It is a journey that starts from the Priki of the Volcanoes, which is home to many animals including the golden tiger and the half-black tiger, and continues with Richard Kandt's other routes through [ Rwanda. ]"
+    ],
+    "src_entities": [
+      "Priki of the Volcanoes,",
+      "Richard Kandt's",
+      "Rwanda."
+    ],
+    "template": "Ni urugendo rwahereye muri Priki y’Ibirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe n’ajya gusa n’ikigina n’umukara , bakomereza n’izindi nzira Richard Kandt yanyuzemo mu Rwanda .",
+    "tgt_lang": [
+      [
+        "Ni urugendo rwahereye muri [ Priki yIbirunga ] icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira Richard Kandt yanyuzemo mu Rwanda.",
+        "Ni urugendo rwahereye muri [ ] Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira Richard Kandt yanyuzemo mu Rwanda.",
+        "Ni urugendo rwahereye muri [ Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara ], bakomereza nizindi nzira Richard Kandt yanyuzemo mu Rwanda.",
+        "Ni urugendo rwahereye muri [ Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, ] bakomereza nizindi nzira Richard Kandt yanyuzemo mu Rwanda.",
+        "Ni urugendo rwahereye muri [ Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira Richard Kandt yanyuzemo mu Rwanda. ]"
+      ],
+      [
+        "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira [ Richard Kandt ] yanyuzemo mu Rwanda.",
+        "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira [ Richard Kandt yanyuzemo ] mu Rwanda.",
+        "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira [ Richard Kandt yanyuzemo mu Rwanda ].",
+        "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira [ ] Richard Kandt yanyuzemo mu Rwanda.",
+        "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira [ Richard Kandt yanyuzemo mu Rwanda. ]"
+      ],
+      [
+        "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira Richard Kandt yanyuzemo [ mu Rwanda ].",
+        "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira Richard Kandt yanyuzemo [ mu Rwanda. ]",
+        "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira Richard Kandt yanyuzemo mu [ Rwanda ].",
+        "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira Richard Kandt yanyuzemo mu Rwanda [ ].",
+        "Ni urugendo rwahereye muri Priki yIbirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe najya gusa nikigina numukara, bakomereza nizindi nzira Richard Kandt yanyuzemo mu Rwanda [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Priki y<unk>Ibirunga",
+        "",
+        "Priki y<unk>Ibirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe n<unk>ajya gusa n<unk>ikigina n<unk>umukara",
+        "Priki y<unk>Ibirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe n<unk>ajya gusa n<unk>ikigina n<unk>umukara,",
+        "Priki y<unk>Ibirunga icumbikiye inyamaswa nyinshi zirimo Inkima zifite ibara rya zahabu igice kimwe n<unk>ajya gusa n<unk>ikigina n<unk>umukara, bakomereza n<unk>izindi nzira Richard Kandt yanyuzemo mu Rwanda."
+      ],
+      [
+        "Richard Kandt",
+        "Richard Kandt yanyuzemo",
+        "Richard Kandt yanyuzemo mu Rwanda",
+        "",
+        "Richard Kandt yanyuzemo mu Rwanda."
+      ],
+      [
+        "mu Rwanda",
+        "mu Rwanda.",
+        "Rwanda",
+        "",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -149.2165069580078,
+        -158.8170166015625,
+        -161.05203247070312,
+        -164.51097106933594,
+        -165.2184600830078
+      ],
+      [
+        -151.3020782470703,
+        -156.28915405273438,
+        -158.0609130859375,
+        -160.15167236328125,
+        -164.11912536621094
+      ],
+      [
+        -145.8483428955078,
+        -148.7617645263672,
+        -149.41261291503906,
+        -151.8155517578125,
+        -151.9151153564453
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 1,
+    "src_lang": [],
+    "template": "Yakomeje ati “ Ntabwo tuzatangirira ku biciro biri hejuru , tugomba gutangirira hasi wenda umuntu akagenda azamuka bitewe n’uko abantu bagenda baza .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "Among the factors that have made [ Rwanda ] one of the best hosts for international conferences is that it is a safe, clean country, which has simplified the process of issuing visas and so on."
+    ],
+    "src_entities": [
+      "Rwanda"
+    ],
+    "template": "Mu bituma u Rwanda ruza imbere mu bihugu byakira neza inama mpuzamahanga harimo kuba ari igihugu gitekanye , kirangwa n’isuku , kikaba cyaranoroheje uburyo bwo gutanga visa n’ibindi .",
+    "tgt_lang": [
+      [
+        "Mu bituma [ u Rwanda ] ruza imbere mu bihugu byakira neza inama mpuzamahanga harimo kuba ari igihugu gitekanye, kirangwa nisuku, kikaba cyaranoroheje uburyo bwo gutanga visa nibindi.",
+        "Mu bituma u [ Rwanda ] ruza imbere mu bihugu byakira neza inama mpuzamahanga harimo kuba ari igihugu gitekanye, kirangwa nisuku, kikaba cyaranoroheje uburyo bwo gutanga visa nibindi.",
+        "Mu bituma u Rwanda ruza imbere mu [ bihugu ] byakira neza inama mpuzamahanga harimo kuba ari igihugu gitekanye, kirangwa nisuku, kikaba cyaranoroheje uburyo bwo gutanga visa nibindi.",
+        "Mu bituma u Rwanda ruza imbere mu bihugu byakira neza inama mpuzamahanga harimo kuba ari igihugu gitekanye [, ] kirangwa nisuku, kikaba cyaranoroheje uburyo bwo gutanga visa nibindi.",
+        "Mu bituma u Rwanda ruza imbere mu bihugu byakira neza inama mpuzamahanga harimo kuba ari igihugu gitekanye [, kirangwa nisuku ], kikaba cyaranoroheje uburyo bwo gutanga visa nibindi."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "u Rwanda",
+        "Rwanda",
+        "bihugu",
+        ",",
+        ", kirangwa n<unk>isuku"
+      ]
+    ],
+    "score": [
+      [
+        -84.55565643310547,
+        -85.91619873046875,
+        -96.4587631225586,
+        -101.07162475585938,
+        -101.56045532226562
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "The tower's CEO, [ Patrick Branco Ruivo, ] says that since its closure in March, the Eiffel Tower has lost $30 million, the longest shutdown since World War II.",
+      "The tower's CEO, Patrick Branco Ruivo, says that since its closure in March, the [ Eiffel Tower ] has lost $30 million, the longest shutdown since World War II."
+    ],
+    "src_entities": [
+      "Patrick Branco Ruivo,",
+      "Eiffel Tower"
+    ],
+    "template": "Umuyobozi Mukuru w’uyu munara , Patrick Branco Ruivo , avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura , Tour Eiffel yahombye miliyoni $ 30 , igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma y’Intambara ya Kabiri y’Isi .",
+    "tgt_lang": [
+      [
+        "Umuyobozi Mukuru wuyu munara, [ Patrick Branco Ruivo, ] avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura, Tour Eiffel yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi.",
+        "Umuyobozi Mukuru wuyu munara, [ Patrick Branco Ruivo ], avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura, Tour Eiffel yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi.",
+        "Umuyobozi Mukuru wuyu munara, [ ] Patrick Branco Ruivo, avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura, Tour Eiffel yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi.",
+        "Umuyobozi Mukuru wuyu munara, [ Patrick Branco Ruivo, avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura, Tour Eiffel yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi ].",
+        "Umuyobozi Mukuru wuyu munara, [ Patrick Branco Ruivo, avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura, Tour Eiffel yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi. ]"
+      ],
+      [
+        "Umuyobozi Mukuru wuyu munara, Patrick Branco Ruivo, avuga ko kuva ibikorwa byafungwa muri Werurwe [ abantu ntibemererwe kuhasura, Tour Eiffel ] yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi.",
+        "Umuyobozi Mukuru wuyu munara, Patrick Branco Ruivo, avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura, [ Tour Eiffel ] yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi.",
+        "Umuyobozi Mukuru wuyu munara, Patrick Branco Ruivo, avuga ko kuva ibikorwa byafungwa muri Werurwe [ abantu ntibemererwe kuhasura ], Tour Eiffel yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi.",
+        "Umuyobozi Mukuru wuyu munara, Patrick Branco Ruivo, avuga ko kuva ibikorwa bya [fungwa muri Werurwe abantu ntibemererwe kuhasura, Tour Eiffel ] yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi.",
+        "Umuyobozi Mukuru wuyu munara, Patrick Branco Ruivo, avuga ko kuva ibikorwa byafungwa muri Werurwe [ abantu ntibemererwe kuhasura, ] Tour Eiffel yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma yIntambara ya Kabiri yIsi."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Patrick Branco Ruivo,",
+        "Patrick Branco Ruivo",
+        "",
+        "Patrick Branco Ruivo, avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura, Tour Eiffel yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma y<unk>Intambara ya Kabiri y<unk>Isi",
+        "Patrick Branco Ruivo, avuga ko kuva ibikorwa byafungwa muri Werurwe abantu ntibemererwe kuhasura, Tour Eiffel yahombye miliyoni $ 30, igihe imaze ifunzwe kikaba ari cyo cya mbere kirekire ifunzwe nyuma y<unk>Intambara ya Kabiri y<unk>Isi."
+      ],
+      [
+        "abantu ntibemererwe kuhasura, Tour Eiffel",
+        "Tour Eiffel",
+        "abantu ntibemererwe kuhasura",
+        "fungwa muri Werurwe abantu ntibemererwe kuhasura, Tour Eiffel",
+        "abantu ntibemererwe kuhasura,"
+      ]
+    ],
+    "score": [
+      [
+        -165.72645568847656,
+        -166.31991577148438,
+        -173.04269409179688,
+        -183.4209747314453,
+        -183.47657775878906
+      ],
+      [
+        -169.29568481445312,
+        -169.79234313964844,
+        -171.3245391845703,
+        -173.87417602539062,
+        -174.41212463378906
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 4,
+    "src_lang": [],
+    "template": "Ingabire yatweretse imyambaro y’abakobwa n’abagore bifuza kurimba muri ibi bihe by’impeshyi ayishyize mu byiciro bitatu ;",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "The house is located in [ Nyamasheke ] District of Shangi District, Kandt moved to Kigali in 1907, when he was appointed Rezida of Rwanda.",
+      "The house is located in Nyamasheke District of [ Shangi District, ] Kandt moved to Kigali in 1907, when he was appointed Rezida of Rwanda.",
+      "The house is located in Nyamasheke District of Shangi District, [ Kandt ] moved to Kigali in 1907, when he was appointed Rezida of Rwanda.",
+      "The house is located in Nyamasheke District of Shangi District, Kandt moved to [ Kigali ] in 1907, when he was appointed Rezida of Rwanda.",
+      "The house is located in Nyamasheke District of Shangi District, Kandt moved to Kigali in 1907, when he was appointed [ Rezida ] of Rwanda.",
+      "The house is located in Nyamasheke District of Shangi District, Kandt moved to Kigali in 1907, when he was appointed Rezida of [ Rwanda. ]"
+    ],
+    "src_entities": [
+      "Nyamasheke",
+      "Shangi District,",
+      "Kandt",
+      "Kigali",
+      "Rezida",
+      "Rwanda."
+    ],
+    "template": "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi , Kandt , yaje kuruvamo ajya kuba i Kigali mu 1907 , ubwo yagirwaga Rezida w’u Rwanda .",
+    "tgt_lang": [
+      [
+        "Uru rugo ruherereye mu Karere ka [ Nyamasheke ] mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere [ ka Nyamasheke ] mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere [ ] ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka [ ] Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke [ mu Murenge wa Shangi ], Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda."
+      ],
+      [
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa [ Shangi, ] Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu [ Murenge wa Shangi, ] Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke [ mu Murenge wa Shangi, ] Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa [ Shangi ], Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke [ mu Murenge wa Shangi ], Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda."
+      ],
+      [
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, [ Kandt ], yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, [ Kandt, ] yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, [ Kandt, yaje kuruvamo ] ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, [ Kandt, yaje ] kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, [ Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda. ]"
+      ],
+      [
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i [ Kigali ] mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba [ i Kigali ] mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt [, yaje kuruvamo ajya kuba i Kigali ] mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje [ kuruvamo ajya kuba i Kigali ] mu 1907, ubwo yagirwaga Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu [ 1907 ], ubwo yagirwaga Rezida wu Rwanda."
+      ],
+      [
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga [ Rezida ] wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga [ Rezida wu Rwanda ].",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga [ Rezida wu Rwanda. ]",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga [ ] Rezida wu Rwanda.",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida [ wu Rwanda ]."
+      ],
+      [
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida w [u Rwanda ].",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu [ Rwanda ].",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida [ wu Rwanda ].",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida w [u Rwanda. ]",
+        "Uru rugo ruherereye mu Karere ka Nyamasheke mu Murenge wa Shangi, Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida wu Rwanda. [ ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Nyamasheke",
+        "ka Nyamasheke",
+        "",
+        "",
+        "mu Murenge wa Shangi"
+      ],
+      [
+        "Shangi,",
+        "Murenge wa Shangi,",
+        "mu Murenge wa Shangi,",
+        "Shangi",
+        "mu Murenge wa Shangi"
+      ],
+      [
+        "Kandt",
+        "Kandt,",
+        "Kandt, yaje kuruvamo",
+        "Kandt, yaje",
+        "Kandt, yaje kuruvamo ajya kuba i Kigali mu 1907, ubwo yagirwaga Rezida w<unk>u Rwanda."
+      ],
+      [
+        "Kigali",
+        "i Kigali",
+        ", yaje kuruvamo ajya kuba i Kigali",
+        "kuruvamo ajya kuba i Kigali",
+        "1907"
+      ],
+      [
+        "Rezida",
+        "Rezida w<unk>u Rwanda",
+        "Rezida w<unk>u Rwanda.",
+        "",
+        "w<unk>u Rwanda"
+      ],
+      [
+        "u Rwanda",
+        "Rwanda",
+        "w<unk>u Rwanda",
+        "u Rwanda.",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -87.30708312988281,
+        -91.00363159179688,
+        -96.52792358398438,
+        -96.7613754272461,
+        -99.18537139892578
+      ],
+      [
+        -88.10757446289062,
+        -88.28099060058594,
+        -88.77684020996094,
+        -90.09364318847656,
+        -90.87704467773438
+      ],
+      [
+        -85.0621337890625,
+        -87.09469604492188,
+        -91.80497741699219,
+        -94.84203338623047,
+        -94.97132873535156
+      ],
+      [
+        -85.1994400024414,
+        -86.6368408203125,
+        -89.80426025390625,
+        -90.16077423095703,
+        -91.81523132324219
+      ],
+      [
+        -83.40118408203125,
+        -95.48590850830078,
+        -96.26239776611328,
+        -96.54360961914062,
+        -96.6305923461914
+      ],
+      [
+        -86.44550323486328,
+        -86.57090759277344,
+        -87.22394561767578,
+        -87.61024475097656,
+        -88.62944793701172
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [],
+    "template": "Benshi mu bakiliya barwo akenshi babaga ari abanyamahanga ariko ingamba zashyizweho zo kwirinda coronavirus zishobora gukoma mu nkokora urwo rwego , kuko abakerarugendo mpuzamahanga bizatwara igihe ngo batangire kugaruka .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 7,
+    "src_lang": [],
+    "template": "Nko kuva ku wa 1 Nyakanga kugeza ku wa 30 Nzeri 2020 , abashaka gukora urugendo rw’amasaha abiri muri kajugujugu R44 y’imyanya itatu , igiciro cyavuye ku $ 1600 kiba $ 1120 naho muri A119 y’imyanya itandatu cyavuye ku $ 4000 kiba $ 2800 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 8,
+    "src_lang": [
+      "A spokesman for the park, [ Isaac Phaahla, ] told CNN It was rare to see them lying in the street during the day because of the constant traffic that forced them to flee into the",
+      "A spokesman for the park, Isaac Phaahla, told [ CNN ] It was rare to see them lying in the street during the day because of the constant traffic that forced them to flee into the"
+    ],
+    "src_entities": [
+      "Isaac Phaahla,",
+      "CNN"
+    ],
+    "template": "Umuvugizi w’iyo pariki , Isaac Phaahla yabwiye CNN ati “ Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya n’uruza bigatuma zihungira mu bihuru .",
+    "tgt_lang": [
+      [
+        "Umuvugizi wiyo pariki, [ Isaac Phaahla ] yabwiye CNN ati  Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru.",
+        "Umuvugizi wiyo pariki, Isaac Phaahla [ ] yabwiye CNN ati  Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru.",
+        "Umuvugizi wiyo pariki, [ Isaac Phaahla yabwiye CNN ] ati  Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru.",
+        "Umuvugizi wiyo pariki, [ ] Isaac Phaahla yabwiye CNN ati  Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru.",
+        "Umuvugizi wiyo pariki [, Isaac Phaahla ] yabwiye CNN ati  Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru."
+      ],
+      [
+        "Umuvugizi wiyo pariki, Isaac Phaahla yabwiye [ CNN ] ati  Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru.",
+        "Umuvugizi wiyo pariki, Isaac Phaahla yabwiye CNN ati [  ] Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru.",
+        "Umuvugizi wiyo pariki, Isaac Phaahla yabwiye [ CNN ati  ] Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru.",
+        "Umuvugizi wiyo pariki, Isaac Phaahla [ yabwiye CNN ] ati  Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru.",
+        "Umuvugizi wiyo pariki, Isaac Phaahla yabwiye CNN ati  [ ] Ubusanzwe kuzibona ziryamye mu muhanda ku manywa ntibyakundaga kubaho kuko hahoraga urujya nuruza bigatuma zihungira mu bihuru."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Isaac Phaahla",
+        "",
+        "Isaac Phaahla yabwiye CNN",
+        "",
+        ", Isaac Phaahla"
+      ],
+      [
+        "CNN",
+        "<unk>",
+        "CNN ati <unk>",
+        "yabwiye CNN",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -103.54612731933594,
+        -110.87308502197266,
+        -112.54078674316406,
+        -112.65390014648438,
+        -113.38786315917969
+      ],
+      [
+        -101.12867736816406,
+        -107.88575744628906,
+        -108.3987808227539,
+        -111.80719757080078,
+        -112.19522094726562
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "You have 72 hours to cast your vote and name one of [ Rwanda's ] new baby mountain gorillas."
+    ],
+    "src_entities": [
+      "Rwanda's"
+    ],
+    "template": "You've got 72 hours to cast your vote and name one of Rwanda's new baby mountain gorillas .",
+    "tgt_lang": [
+      [
+        "You've got 72 hours to cast your vote and name one of [ Rwanda's ] new baby mountain gorillas.",
+        "You've got 72 hours to cast your vote and name one of Rwanda's [ ] new baby mountain gorillas.",
+        "You've got 72 hours to cast your vote and name one of [ Rwanda ]'s new baby mountain gorillas.",
+        "[ You've got 72 hours to cast your vote and name one of Rwanda's ] new baby mountain gorillas.",
+        "You've got 72 hours to cast your vote and name one of Rwanda's new baby mountain gorillas [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Rwanda's",
+        "",
+        "Rwanda",
+        "You've got 72 hours to cast your vote and name one of Rwanda's",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -41.898494720458984,
+        -49.479618072509766,
+        -49.54642105102539,
+        -50.91550064086914,
+        -54.17715072631836
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [],
+    "template": "Bwavuze ko yari yari afite ihungabana ryinshi’ ari naryo ryatumye ahitamo kwiyambura ubuzima .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "The head of the [ Ministry of Cultural Heritage of Rwanda, ] Amb Robert Masozera, said that promoting tourism based on the Kandt expedition was not to promote his achievements as it was not good but the destination was a good place to grow and expand tourism beyond the jungle and parks.",
+      "The head of the Ministry of Cultural Heritage of Rwanda, Amb [ Robert Masozera, ] said that promoting tourism based on the Kandt expedition was not to promote his achievements as it was not good but the destination was a good place to grow and expand tourism beyond the jungle and parks.",
+      "The head of the Ministry of Cultural Heritage of Rwanda, Amb Robert Masozera, said that promoting tourism based on the [ Kandt ] expedition was not to promote his achievements as it was not good but the destination was a good place to grow and expand tourism beyond the jungle and parks."
+    ],
+    "src_entities": [
+      "Ministry of Cultural Heritage of Rwanda,",
+      "Robert Masozera,",
+      "Kandt"
+    ],
+    "template": "Umuyobozi w’Ingoro z’Umurage w’u Rwanda , Amb Robert Masozera , yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt ‘atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki’ .",
+    "tgt_lang": [
+      [
+        "Umuyobozi w [Ingoro zUmurage wu Rwanda, ] Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki.",
+        "Umuyobozi w [Ingoro ] zUmurage wu Rwanda, Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki.",
+        "Umuyobozi w [Ingoro zUmurage wu Rwanda ], Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki.",
+        "Umuyobozi w [Ingoro zUmurage wu Rwanda, Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki. ]",
+        "Umuyobozi w [Ingoro zUmurage wu Rwanda, Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi ] na Pariki."
+      ],
+      [
+        "Umuyobozi wIngoro zUmurage wu Rwanda, Amb [ Robert Masozera, ] yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki.",
+        "Umuyobozi wIngoro zUmurage wu Rwanda, Amb [ Robert Masozera ], yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki.",
+        "Umuyobozi wIngoro zUmurage wu Rwanda, Amb [ Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki. ]",
+        "Umuyobozi wIngoro zUmurage wu Rwanda, Amb [ Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki ].",
+        "Umuyobozi wIngoro zUmurage wu Rwanda, Amb [ Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi ] na Pariki."
+      ],
+      [
+        "Umuyobozi wIngoro zUmurage wu Rwanda, Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa [ Kandt ] atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki.",
+        "Umuyobozi wIngoro zUmurage wu Rwanda, Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo [ rwa Kandt ] atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki.",
+        "Umuyobozi wIngoro zUmurage wu Rwanda, Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa [ Kandt  ]atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki.",
+        "Umuyobozi wIngoro zUmurage wu Rwanda, Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo [ rwa Kandt  ]atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki.",
+        "Umuyobozi wIngoro zUmurage wu Rwanda, Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ingoro z<unk>Umurage w<unk>u Rwanda,",
+        "Ingoro",
+        "Ingoro z<unk>Umurage w<unk>u Rwanda",
+        "Ingoro z<unk>Umurage w<unk>u Rwanda, Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt <unk>atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki<unk>.",
+        "Ingoro z<unk>Umurage w<unk>u Rwanda, Amb Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt <unk>atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi"
+      ],
+      [
+        "Robert Masozera,",
+        "Robert Masozera",
+        "Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt <unk>atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki<unk>.",
+        "Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt <unk>atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi na Pariki<unk>",
+        "Robert Masozera, yavuze ko kumenyekanisha ubukerarugendo bushingiye ku rugendo rwa Kandt <unk>atari ugushyigikira ibyo yakoze kuko atari byiza ahubwo aho yageze ari ahantu heza habyazwa umusaruro no kwagura ubukerarugendo bukarenga gushingira ku ngagi"
+      ],
+      [
+        "Kandt",
+        "rwa Kandt",
+        "Kandt <unk>",
+        "rwa Kandt <unk>",
+        "<unk>"
+      ]
+    ],
+    "score": [
+      [
+        -161.9085693359375,
+        -166.9606170654297,
+        -168.8787078857422,
+        -176.4315643310547,
+        -177.95545959472656
+      ],
+      [
+        -164.9149169921875,
+        -168.02853393554688,
+        -180.54100036621094,
+        -182.17771911621094,
+        -182.38912963867188
+      ],
+      [
+        -164.9438934326172,
+        -166.5096893310547,
+        -169.2282257080078,
+        -170.1544647216797,
+        -171.575439453125
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [
+      "In 2018, [ Rwanda ] was visited by 1 million tourists."
+    ],
+    "src_entities": [
+      "Rwanda"
+    ],
+    "template": "Mu 2018 , u Rwanda rwasuwe n’abakerarugendo miliyoni 1 .",
+    "tgt_lang": [
+      [
+        "Mu 2018, [ u Rwanda ] rwasuwe nabakerarugendo miliyoni 1.",
+        "Mu 2018 [, u Rwanda ] rwasuwe nabakerarugendo miliyoni 1.",
+        "Mu 2018, u [ Rwanda ] rwasuwe nabakerarugendo miliyoni 1.",
+        "Mu [ 2018, u Rwanda ] rwasuwe nabakerarugendo miliyoni 1.",
+        "Mu 2018, [ ] u Rwanda rwasuwe nabakerarugendo miliyoni 1."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "u Rwanda",
+        ", u Rwanda",
+        "Rwanda",
+        "2018, u Rwanda",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -35.33412551879883,
+        -40.1315803527832,
+        -41.34037399291992,
+        -44.48200607299805,
+        -45.3980598449707
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 13,
+    "src_lang": [],
+    "template": "Urakomanga ugategereza ko abasore bahakora baza kukubaza ikikugenza bakaguha uburenganzira bwo kujyamo , bivuze ko hari n’ubwo bashobora kubukwima bitewe n’impamvu runaka .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "The ingagi baby named [ Icyamamare ] began to be sought for a name through National Geographic",
+      "The ingagi baby named Icyamamare began to be sought for a name through [ National Geographic ]"
+    ],
+    "src_entities": [
+      "Icyamamare",
+      "National Geographic"
+    ],
+    "template": "Umwana w’ingagi yitwa Icyamamare yatangiye gushakirwa izina binyuze kuri National Geographic",
+    "tgt_lang": [
+      [
+        "Umwana wingagi yitwa [ Icyamamare ] yatangiye gushakirwa izina binyuze kuri National Geographic",
+        "Umwana [ wingagi yitwa Icyamamare ] yatangiye gushakirwa izina binyuze kuri National Geographic",
+        "Umwana wingagi [ yitwa Icyamamare ] yatangiye gushakirwa izina binyuze kuri National Geographic",
+        "Umwana w [ingagi yitwa Icyamamare ] yatangiye gushakirwa izina binyuze kuri National Geographic",
+        "Umwana w [ingagi yitwa Icyamamare ] yatangiye gushakirwa izina binyuze kuri National Geographic"
+      ],
+      [
+        "Umwana wingagi yitwa Icyamamare yatangiye gushakirwa izina binyuze kuri [ National Geographic ]",
+        "Umwana wingagi yitwa Icyamamare yatangiye gushakirwa izina binyuze [ kuri National Geographic ]",
+        "Umwana wingagi yitwa Icyamamare yatangiye gushakirwa izina [ binyuze kuri National Geographic ]",
+        "Umwana wingagi yitwa Icyamamare yatangiye gushakirwa izina binyuze kuri [ ] National Geographic",
+        "Umwana wingagi yitwa Icyamamare yatangiye gushakirwa izina binyuze [ ] kuri National Geographic"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Icyamamare",
+        "w<unk>ingagi yitwa Icyamamare",
+        "yitwa Icyamamare",
+        "<unk>ingagi yitwa Icyamamare",
+        "ingagi yitwa Icyamamare"
+      ],
+      [
+        "National Geographic",
+        "kuri National Geographic",
+        "binyuze kuri National Geographic",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -31.139543533325195,
+        -40.17083740234375,
+        -41.19843292236328,
+        -42.16775131225586,
+        -42.681819915771484
+      ],
+      [
+        -28.829620361328125,
+        -34.233665466308594,
+        -39.39814758300781,
+        -40.65216064453125,
+        -42.11898422241211
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 15,
+    "src_lang": [],
+    "template": "Yakomeje ati “ Ibyumba birateguye , umuntu akeneye icyumba ashobora kukibona , ariko kuva bafungura nta mukiliya [ uraboneka ] .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "Among them are the [ Golden Monkeys of Volcanoes National Park. ]"
+    ],
+    "src_entities": [
+      "Golden Monkeys of Volcanoes National Park."
+    ],
+    "template": "Muri ibyo harimo Inkima zifite ibara rya Zahabu ( Golden Monkies ) ziba muri Pariki y’Ibirunga .",
+    "tgt_lang": [
+      [
+        "Muri ibyo harimo [ Inkima zifite ibara rya Zahabu ( Golden Monkies ) ziba muri Pariki yIbirunga. ]",
+        "Muri ibyo harimo [ Inkima zifite ibara rya Zahabu ( Golden Monkies ) ziba muri Pariki yIbirunga ].",
+        "[ Muri ibyo harimo Inkima zifite ibara rya Zahabu ( Golden Monkies ) ziba muri Pariki yIbirunga. ]",
+        "Muri ibyo harimo [ Inkima zifite ibara rya Zahabu ( Golden Monkies ) ] ziba muri Pariki yIbirunga.",
+        "Muri ibyo harimo Inkima zifite ibara rya Zahabu ( Golden Monkies ) ziba muri Pariki yIbirunga [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Inkima zifite ibara rya Zahabu ( Golden Monkies ) ziba muri Pariki y<unk>Ibirunga.",
+        "Inkima zifite ibara rya Zahabu ( Golden Monkies ) ziba muri Pariki y<unk>Ibirunga",
+        "Muri ibyo harimo Inkima zifite ibara rya Zahabu ( Golden Monkies ) ziba muri Pariki y<unk>Ibirunga.",
+        "Inkima zifite ibara rya Zahabu ( Golden Monkies )",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -111.19654083251953,
+        -113.30318450927734,
+        -114.9105224609375,
+        -116.25181579589844,
+        -117.02418518066406
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [],
+    "template": "Ku rugendo rw’iminota 30 , igiciro cyavuye ku $ 500 ku ndege y’imyanya itatu kigera ku $ 350 , naho ku y’imyanya itandatu kiva ku $ 1000 kigera ku $ 700 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 18,
+    "src_lang": [],
+    "template": "Bivuze ko kuva igihe twongereye ibiciro by’ingagi , amafaranga tubona ubu ngubu aruta amafaranga twabonaga mbere yuko twongera igiciro no mu bihe ba mukerarugendo baba ari bake .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 19,
+    "src_lang": [],
+    "template": "Nyuma y’itangazwa ry’ibyo biciro , abantu bavuze byinshi ko Abanyarwanda batazajya babasha kwishyura ayo mafaranga , ariko baza gushyirirwaho gahunda zihariye zibafasha kwitegereza ibyiza igihugu cyabo gifite .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "[ Hurley ] posted on Instagram expressing her grief over the death of Steve Bing.",
+      "Hurley posted on Instagram expressing her grief over the death of [ Steve Bing. ]"
+    ],
+    "src_entities": [
+      "Hurley",
+      "Steve Bing."
+    ],
+    "template": "Hurley babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda n’urupfu rwa Steve Bing .",
+    "tgt_lang": [
+      [
+        "[ Hurley babyaranye ] yanditse kuri Instagram agaragaza ko atewe agahinda nurupfu rwa Steve Bing.",
+        "[ Hurley ] babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda nurupfu rwa Steve Bing.",
+        "[ ] Hurley babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda nurupfu rwa Steve Bing.",
+        "[ Hurley babyaranye yanditse ] kuri Instagram agaragaza ko atewe agahinda nurupfu rwa Steve Bing.",
+        "[ Hurley babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda nurupfu rwa Steve Bing. ]"
+      ],
+      [
+        "Hurley babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda nurupfu rwa [ Steve Bing ].",
+        "Hurley babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda nurupfu rwa [ Steve Bing. ]",
+        "Hurley [ babyaranye ] yanditse kuri Instagram agaragaza ko atewe agahinda nurupfu rwa Steve Bing.",
+        "Hurley babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda nurupfu rwa Steve Bing [ ].",
+        "Hurley babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda nurupfu rwa [ ] Steve Bing."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Hurley babyaranye",
+        "Hurley",
+        "",
+        "Hurley babyaranye yanditse",
+        "Hurley babyaranye yanditse kuri Instagram agaragaza ko atewe agahinda n<unk>urupfu rwa Steve Bing."
+      ],
+      [
+        "Steve Bing",
+        "Steve Bing.",
+        "babyaranye",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -58.03661346435547,
+        -61.181732177734375,
+        -68.04881286621094,
+        -70.92142486572266,
+        -72.40509033203125
+      ],
+      [
+        -59.50469207763672,
+        -61.98719787597656,
+        -62.09458541870117,
+        -68.48908233642578,
+        -69.0904541015625
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "Otherwise, the way of travel in the provinces is that one buys a ticket from perhaps [ Kigali ] to Musanze, we are looking at how it can be integrated with it is used in Kigali, but there is also the use of a phone so that it can also work as a card and this technology we have already achieved.",
+      "Otherwise, the way of travel in the provinces is that one buys a ticket from perhaps Kigali to [ Musanze, ] we are looking at how it can be integrated with it is used in Kigali, but there is also the use of a phone so that it can also work as a card and this technology we have already achieved.",
+      "Otherwise, the way of travel in the provinces is that one buys a ticket from perhaps Kigali to Musanze, we are looking at how it can be integrated with it is used in [ Kigali, ] but there is also the use of a phone so that it can also work as a card and this technology we have already achieved."
+    ],
+    "src_entities": [
+      "Kigali",
+      "Musanze,",
+      "Kigali,"
+    ],
+    "template": "Ati “ Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i Musanze , turimo kureba uko byahuzwa n’irikoreshwa i Kigali , ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nk’ikarita kandi iryo koranabuhanga tumaze kurigera kure .",
+    "tgt_lang": [
+      [
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i [ Kigali ] akajya i Musanze, turimo kureba uko byahuzwa nirikoreshwa i Kigali, ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda [ i Kigali ] akajya i Musanze, turimo kureba uko byahuzwa nirikoreshwa i Kigali, ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali [ ] akajya i Musanze, turimo kureba uko byahuzwa nirikoreshwa i Kigali, ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda [ ] i Kigali akajya i Musanze, turimo kureba uko byahuzwa nirikoreshwa i Kigali, ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda [ i Kigali akajya ] i Musanze, turimo kureba uko byahuzwa nirikoreshwa i Kigali, ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure."
+      ],
+      [
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i [ Musanze, ] turimo kureba uko byahuzwa nirikoreshwa i Kigali, ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i Musanze, [ ] turimo kureba uko byahuzwa nirikoreshwa i Kigali, ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya [ i Musanze, ] turimo kureba uko byahuzwa nirikoreshwa i Kigali, ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i Musanze [, ] turimo kureba uko byahuzwa nirikoreshwa i Kigali, ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i [ Musanze ], turimo kureba uko byahuzwa nirikoreshwa i Kigali, ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure."
+      ],
+      [
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i Musanze, turimo kureba uko byahuzwa nirikoreshwa i [ Kigali, ] ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i Musanze, turimo kureba uko byahuzwa nirikoreshwa [ i Kigali, ] ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i Musanze, turimo kureba uko byahuzwa nirikoreshwa i [ Kigali ], ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i Musanze, turimo kureba uko byahuzwa nirikoreshwa [ i Kigali ], ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure.",
+        "Ati  Ubundi ingendo zo mu Ntara uko ziteye ni uko umuntu agura itike akava wenda i Kigali akajya i Musanze, turimo kureba uko byahuzwa nirikoreshwa i Kigali [, ] ariko hakaba hanabaho gukoresha telefoni ku buryo nayo yajya ikora nkikarita kandi iryo koranabuhanga tumaze kurigera kure."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kigali",
+        "i Kigali",
+        "",
+        "",
+        "i Kigali akajya"
+      ],
+      [
+        "Musanze,",
+        "",
+        "i Musanze,",
+        ",",
+        "Musanze"
+      ],
+      [
+        "Kigali,",
+        "i Kigali,",
+        "Kigali",
+        "i Kigali",
+        ","
+      ]
+    ],
+    "score": [
+      [
+        -141.8677520751953,
+        -142.25953674316406,
+        -146.5491943359375,
+        -151.7376251220703,
+        -153.2612762451172
+      ],
+      [
+        -141.73184204101562,
+        -143.3301544189453,
+        -143.982177734375,
+        -144.0458221435547,
+        -144.95550537109375
+      ],
+      [
+        -139.8585968017578,
+        -139.8673858642578,
+        -143.54835510253906,
+        -143.806396484375,
+        -143.87327575683594
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "You walk about 50 meters to some old houses built in the 1930s, when [ Rwanda ] was under the control of the Belgians but apparently they were among the most modern in their time."
+    ],
+    "src_entities": [
+      "Rwanda"
+    ],
+    "template": "Ugenda nka metero 50 ukagera ku nzu zimaze igihe zubatswe mu 1930 , mu gihe u Rwanda rwagenzurwaga n’Ababiligi ariko bigaragara ko mu gihe cyazo zari mu zigezweho .",
+    "tgt_lang": [
+      [
+        "Ugenda nka metero 50 ukagera ku nzu zimaze igihe zubatswe mu 1930, mu gihe [ u Rwanda ] rwagenzurwaga nAbabiligi ariko bigaragara ko mu gihe cyazo zari mu zigezweho.",
+        "Ugenda nka metero 50 ukagera ku nzu zimaze igihe zubatswe mu 1930, mu gihe u [ Rwanda ] rwagenzurwaga nAbabiligi ariko bigaragara ko mu gihe cyazo zari mu zigezweho.",
+        "Ugenda nka metero 50 ukagera ku nzu zimaze igihe zubatswe mu 1930, mu gihe [ u Rwanda rwa ]genzurwaga nAbabiligi ariko bigaragara ko mu gihe cyazo zari mu zigezweho.",
+        "Ugenda nka metero 50 ukagera ku nzu zimaze igihe zubatswe mu 1930, mu gihe u Rwanda rwagenzurwaga nAbabiligi ariko bigaragara ko mu gihe cyazo zari [ mu zigezweho ].",
+        "Ugenda nka metero 50 ukagera ku nzu zimaze igihe zubatswe mu 1930, mu gihe u Rwanda rwagenzurwaga nAbabiligi ariko bigaragara ko mu gihe cyazo zari [ mu ] zigezweho."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "u Rwanda",
+        "Rwanda",
+        "u Rwanda rwa",
+        "mu zigezweho",
+        "mu"
+      ]
+    ],
+    "score": [
+      [
+        -78.72571563720703,
+        -84.54634094238281,
+        -89.71215057373047,
+        -98.22833251953125,
+        -98.50055694580078
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "A researcher at the [ National Institute of Cultural Heritage, ] Mugabowagahunde Maurice, said it was in this house that Kandt did his research.",
+      "A researcher at the National Institute of Cultural Heritage, [ Mugabowagahunde ] Maurice, said it was in this house that Kandt did his research.",
+      "A researcher at the National Institute of Cultural Heritage, Mugabowagahunde [ Maurice, ] said it was in this house that Kandt did his research.",
+      "A researcher at the National Institute of Cultural Heritage, Mugabowagahunde Maurice, said it was in this house that [ Kandt ] did his research."
+    ],
+    "src_entities": [
+      "National Institute of Cultural Heritage,",
+      "Mugabowagahunde",
+      "Maurice,",
+      "Kandt"
+    ],
+    "template": "Umushakashatsi mu kigo cy’igihugu cy’ingoro z’Umurage , Mugabowagahunde Maurice , yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye .",
+    "tgt_lang": [
+      [
+        "Umushakashatsi mu [ kigo cyigihugu cyingoro zUmurage, ] Mugabowagahunde Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+        "Umushakashatsi mu kigo [ cyigihugu cyingoro zUmurage, ] Mugabowagahunde Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+        "Umushakashatsi mu [ kigo cyigihugu cyingoro zUmurage, Mugabowagahunde Maurice, ] yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+        "Umushakashatsi mu [ kigo cyigihugu cyingoro zUmurage, Mugabowagahunde Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye. ]",
+        "Umushakashatsi mu [ kigo cyigihugu cyingoro zUmurage, Mugabowagahunde Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye ]."
+      ],
+      [
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, [ Mugabowagahunde ] Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, [ Mugabowagahunde Maurice ], yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde [ Maurice ], yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, [ Mugabowagahunde Maurice, ] yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde [ Maurice, ] yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye."
+      ],
+      [
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde [ Maurice, ] yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde [ Maurice ], yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde [ Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye. ]",
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde [ Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye ].",
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde [ Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi ] butandukanye."
+      ],
+      [
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde Maurice, yavuze ko muri uru rugo ariho [ Kandt ] yakoreraga ubushakashatsi butandukanye.",
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde Maurice, yavuze ko muri uru rugo ariho [ ] Kandt yakoreraga ubushakashatsi butandukanye.",
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde Maurice, yavuze ko muri uru rugo [ ariho Kandt ] yakoreraga ubushakashatsi butandukanye.",
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde Maurice, yavuze ko muri uru rugo [ ] ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+        "Umushakashatsi mu kigo cyigihugu cyingoro zUmurage, Mugabowagahunde Maurice, yavuze ko muri uru rugo ariho [ Kandt yakoreraga ] ubushakashatsi butandukanye."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "kigo cy<unk>igihugu cy<unk>ingoro z<unk>Umurage,",
+        "cy<unk>igihugu cy<unk>ingoro z<unk>Umurage,",
+        "kigo cy<unk>igihugu cy<unk>ingoro z<unk>Umurage, Mugabowagahunde Maurice,",
+        "kigo cy<unk>igihugu cy<unk>ingoro z<unk>Umurage, Mugabowagahunde Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+        "kigo cy<unk>igihugu cy<unk>ingoro z<unk>Umurage, Mugabowagahunde Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye"
+      ],
+      [
+        "Mugabowagahunde",
+        "Mugabowagahunde Maurice",
+        "Maurice",
+        "Mugabowagahunde Maurice,",
+        "Maurice,"
+      ],
+      [
+        "Maurice,",
+        "Maurice",
+        "Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye.",
+        "Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi butandukanye",
+        "Maurice, yavuze ko muri uru rugo ariho Kandt yakoreraga ubushakashatsi"
+      ],
+      [
+        "Kandt",
+        "",
+        "ariho Kandt",
+        "",
+        "Kandt yakoreraga"
+      ]
+    ],
+    "score": [
+      [
+        -82.43263244628906,
+        -85.99653625488281,
+        -86.92356872558594,
+        -94.6647720336914,
+        -95.0186538696289
+      ],
+      [
+        -75.7243881225586,
+        -85.57262420654297,
+        -87.279541015625,
+        -87.75633239746094,
+        -90.40931701660156
+      ],
+      [
+        -78.49775695800781,
+        -79.74072265625,
+        -96.04483032226562,
+        -97.3680191040039,
+        -100.42115783691406
+      ],
+      [
+        -76.31477355957031,
+        -84.86492156982422,
+        -90.10192108154297,
+        -90.78975677490234,
+        -91.0741958618164
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "The benefits of the [ RDB ] collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as Youtube increased by 100%, Instagram increased by 507%, Twitter increased by 72% and Facebook increased by 30%.",
+      "The benefits of the RDB collaboration are also evident in the number of visitors to Visit [ Rwanda, ] where the number of followers on social media platforms such as Youtube increased by 100%, Instagram increased by 507%, Twitter increased by 72% and Facebook increased by 30%.",
+      "The benefits of the RDB collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as [ Youtube ] increased by 100%, Instagram increased by 507%, Twitter increased by 72% and Facebook increased by 30%.",
+      "The benefits of the RDB collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as Youtube increased by 100%, [ Instagram ] increased by 507%, Twitter increased by 72% and Facebook increased by 30%.",
+      "The benefits of the RDB collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as Youtube increased by 100%, Instagram increased by 507%, [ Twitter ] increased by 72% and Facebook increased by 30%.",
+      "The benefits of the RDB collaboration are also evident in the number of visitors to Visit Rwanda, where the number of followers on social media platforms such as Youtube increased by 100%, Instagram increased by 507%, Twitter increased by 72% and [ Facebook ] increased by 30%."
+    ],
+    "src_entities": [
+      "RDB",
+      "Rwanda,",
+      "Youtube",
+      "Instagram",
+      "Twitter",
+      "Facebook"
+    ],
+    "template": "Inyungu kandi y’ubwo bufatanye RDB igaragaza ko ibonekera mu mubare w’abatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 % , kuri Instagram biyongeye ku kigero cya 507 % , kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+    "tgt_lang": [
+      [
+        "Inyungu kandi yubwo bufatanye [ RDB ] igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu [ kandi yubwo bufatanye RDB ] igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye [ ] RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB [ ] igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB [ igaragaza ko ] ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya"
+      ],
+      [
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura [ u Rwanda ] ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit [ Rwanda ] ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira [ ibikorwa byo gusura u Rwanda ] ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda [ ] ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit [ Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya ]"
+      ],
+      [
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka [ Youtube ] ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga [ nka Youtube ] ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka [ ] Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube [ ] ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka [ Youtube ababikurikira biyongereye ku kigero cya cya 100 % ], kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya"
+      ],
+      [
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri [ Instagram ] biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, [ kuri Instagram ] biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya [ 100 ] %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya [ cya 100 ] %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 % [, kuri Instagram ] biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya"
+      ],
+      [
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri [ Twitter ] biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri [ Twitter biyongera ku kigero cya 72 % ] naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri [ Twitter biyongera ku kigero cya ] 72 % naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 % [, kuri Twitter biyongera ku kigero cya 72 % ] naho kuri Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri [ Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya ]"
+      ],
+      [
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri [ Facebook ] biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho [ kuri Facebook ] biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere [ ku kigero cya ]",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho [ kuri ] Facebook biyongeyere ku kigero cya",
+        "Inyungu kandi yubwo bufatanye RDB igaragaza ko ibonekera mu mubare wabatangiye gukurikira ibikorwa byo gusura u Rwanda ( Visit Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook [ biyongeyere ku kigero cya ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "RDB",
+        "kandi y<unk>ubwo bufatanye RDB",
+        "",
+        "",
+        "igaragaza ko"
+      ],
+      [
+        "u Rwanda",
+        "Rwanda",
+        "ibikorwa byo gusura u Rwanda",
+        "",
+        "Rwanda ) aho ku mbuga nkoranyambaga nka Youtube ababikurikira biyongereye ku kigero cya cya 100 %, kuri Instagram biyongeye ku kigero cya 507 %, kuri Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya"
+      ],
+      [
+        "Youtube",
+        "nka Youtube",
+        "",
+        "",
+        "Youtube ababikurikira biyongereye ku kigero cya cya 100 %"
+      ],
+      [
+        "Instagram",
+        "kuri Instagram",
+        "100",
+        "cya 100",
+        ", kuri Instagram"
+      ],
+      [
+        "Twitter",
+        "Twitter biyongera ku kigero cya 72 %",
+        "Twitter biyongera ku kigero cya",
+        ", kuri Twitter biyongera ku kigero cya 72 %",
+        "Twitter biyongera ku kigero cya 72 % naho kuri Facebook biyongeyere ku kigero cya"
+      ],
+      [
+        "Facebook",
+        "kuri Facebook",
+        "ku kigero cya",
+        "kuri",
+        "biyongeyere ku kigero cya"
+      ]
+    ],
+    "score": [
+      [
+        -214.9613800048828,
+        -224.62989807128906,
+        -225.2340545654297,
+        -226.84182739257812,
+        -228.90008544921875
+      ],
+      [
+        -222.1952667236328,
+        -222.19747924804688,
+        -224.82180786132812,
+        -225.8356170654297,
+        -226.52015686035156
+      ],
+      [
+        -211.0631866455078,
+        -222.67681884765625,
+        -222.93016052246094,
+        -223.20822143554688,
+        -223.27540588378906
+      ],
+      [
+        -212.70408630371094,
+        -216.73971557617188,
+        -218.92381286621094,
+        -221.4062957763672,
+        -221.45291137695312
+      ],
+      [
+        -213.70448303222656,
+        -219.30625915527344,
+        -221.04481506347656,
+        -224.4806365966797,
+        -226.7886505126953
+      ],
+      [
+        -214.00567626953125,
+        -214.6369171142578,
+        -221.53668212890625,
+        -222.3926239013672,
+        -224.00286865234375
+      ]
+    ],
+    "flag": 1
+  }
+]

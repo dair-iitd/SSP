@@ -1,0 +1,1165 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "But [ Atiku, ] who claimed to have taken the citizenship papers, vowed that he \"\"will not throw away the call of Nigerians to him in the February 23 elections. \"\"\"\""
+    ],
+    "src_entities": [
+      "Atiku,"
+    ],
+    "template": "Mana Atiku onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ , ṅụrụ iyi na ya \"\"\"\" agaghị atufu oku ụmụ Naijiria kpọrọ ya na ntuliaka e mere n'abalị 23 nke ọnwa Febụwarị . \"\"\"\"",
+    "tgt_lang": [
+      [
+        "Mana [ Atiku ] onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ, ṅụrụ iyi na ya \"\"\"\" agaghị atufu oku ụmụ Naijiria kpọrọ ya na ntuliaka e mere n'abalị 23 nke ọnwa Febụwarị. \"\"\"\"",
+        "Mana Atiku [ onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ ], ṅụrụ iyi na ya \"\"\"\" agaghị atufu oku ụmụ Naijiria kpọrọ ya na ntuliaka e mere n'abalị 23 nke ọnwa Febụwarị. \"\"\"\"",
+        "Mana [ Atiku onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ, ṅụrụ iyi na ya \"\"\"\" agaghị atufu oku ụmụ Naijiria kpọrọ ya na ntuliaka e mere n'abalị 23 nke ọnwa Febụwarị. \"\"\"\" ]",
+        "Mana Atiku [ onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ, ṅụrụ iyi na ya \"\"\"\" agaghị atufu oku ụmụ Naijiria kpọrọ ya na ntuliaka e mere n'abalị 23 nke ọnwa Febụwarị. \"\"\"\" ]",
+        "Mana [ Atiku onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ, ṅụrụ iyi na ya \"\"\"\" agaghị atufu oku ụmụ Naijiria kpọrọ ya na ntuliaka e mere n'abalị 23 nke ọnwa Febụwarị. ] \"\"\"\""
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Atiku",
+        "onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ",
+        "Atiku onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ, ṅụrụ iyi na ya \"\"\"\" agaghị atufu oku ụmụ Naijiria kpọrọ ya na ntuliaka e mere n'abalị 23 nke ọnwa Febụwarị. \"\"\"\"",
+        "onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ, ṅụrụ iyi na ya \"\"\"\" agaghị atufu oku ụmụ Naijiria kpọrọ ya na ntuliaka e mere n'abalị 23 nke ọnwa Febụwarị. \"\"\"\"",
+        "Atiku onye kwuru na ha were akwụkwọ ụlọ nwa amadị ahụ, ṅụrụ iyi na ya \"\"\"\" agaghị atufu oku ụmụ Naijiria kpọrọ ya na ntuliaka e mere n'abalị 23 nke ọnwa Febụwarị."
+      ]
+    ],
+    "score": [
+      [
+        -83.30025482177734,
+        -97.74161529541016,
+        -101.9515380859375,
+        -101.95667266845703,
+        -102.7397232055664
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "Listen to the [ BBC ] news in one minute"
+    ],
+    "src_entities": [
+      "BBC"
+    ],
+    "template": "Gere akụkọ BBC n'otu nkeji",
+    "tgt_lang": [
+      [
+        "Gere akụkọ [ BBC ] n'otu nkeji",
+        "Gere akụkọ [ BBC n'otu nkeji ]",
+        "Gere [ akụkọ BBC ] n'otu nkeji",
+        "[ Gere akụkọ BBC ] n'otu nkeji",
+        "Gere akụkọ BBC [ n'otu nkeji ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "BBC",
+        "BBC n'otu nkeji",
+        "akụkọ BBC",
+        "Gere akụkọ BBC",
+        "n'otu nkeji"
+      ]
+    ],
+    "score": [
+      [
+        -4.7972564697265625,
+        -13.695157051086426,
+        -14.224295616149902,
+        -15.961859703063965,
+        -15.970653533935547
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 2,
+    "src_lang": [],
+    "template": "Dịka ọ dị ugbua ụlọikpe enyebeghi ha nzaghachị ma ọ bụ hiwe ụbọchị ikpe a ga - amalite .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "But [ Enugwu ] and Taraba states saved themselves:",
+      "But Enugwu and [ Taraba ] states saved themselves:"
+    ],
+    "src_entities": [
+      "Enugwu",
+      "Taraba"
+    ],
+    "template": "Mana Enugwu na Taraba steeti zọtara isi onwe ha :",
+    "tgt_lang": [
+      [
+        "Mana [ Enugwu ] na Taraba steeti zọtara isi onwe ha :",
+        "[ Mana Enugwu ] na Taraba steeti zọtara isi onwe ha :",
+        "Mana [ Enugwu na Taraba steeti ] zọtara isi onwe ha :",
+        "Mana Enugwu na Taraba [ steeti ] zọtara isi onwe ha :",
+        "Mana [ Enugwu na Taraba ] steeti zọtara isi onwe ha :"
+      ],
+      [
+        "Mana Enugwu na [ Taraba ] steeti zọtara isi onwe ha :",
+        "Mana Enugwu na Taraba [ steeti ] zọtara isi onwe ha :",
+        "Mana [ Enugwu na Taraba ] steeti zọtara isi onwe ha :",
+        "Mana Enugwu na [ Taraba steeti ] zọtara isi onwe ha :",
+        "[ Mana Enugwu na Taraba ] steeti zọtara isi onwe ha :"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Enugwu",
+        "Mana Enugwu",
+        "Enugwu na Taraba steeti",
+        "steeti",
+        "Enugwu na Taraba"
+      ],
+      [
+        "Taraba",
+        "steeti",
+        "Enugwu na Taraba",
+        "Taraba steeti",
+        "Mana Enugwu na Taraba"
+      ]
+    ],
+    "score": [
+      [
+        -35.18012237548828,
+        -40.83169174194336,
+        -43.417503356933594,
+        -44.65837097167969,
+        -44.69768524169922
+      ],
+      [
+        -33.36471176147461,
+        -40.524044036865234,
+        -41.756038665771484,
+        -42.3979377746582,
+        -44.18986511230469
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "[ SERAP ] said it was the government's behaviour against freedom of expression and the Nigerian society."
+    ],
+    "src_entities": [
+      "SERAP"
+    ],
+    "template": "SERAP sị na ya bụ agwa gọọmentị na - akpa megidere ikike dịrị onye ịkwu uche ya na obodo Naịjirịa .",
+    "tgt_lang": [
+      [
+        "[ SERAP ] sị na ya bụ agwa gọọmentị na - akpa megidere ikike dịrị onye ịkwu uche ya na obodo Naịjirịa.",
+        "[ SERAP sị ] na ya bụ agwa gọọmentị na - akpa megidere ikike dịrị onye ịkwu uche ya na obodo Naịjirịa.",
+        "[ ] SERAP sị na ya bụ agwa gọọmentị na - akpa megidere ikike dịrị onye ịkwu uche ya na obodo Naịjirịa.",
+        "SERAP [ ] sị na ya bụ agwa gọọmentị na - akpa megidere ikike dịrị onye ịkwu uche ya na obodo Naịjirịa.",
+        "SERAP [ sị ] na ya bụ agwa gọọmentị na - akpa megidere ikike dịrị onye ịkwu uche ya na obodo Naịjirịa."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "SERAP",
+        "SERAP sị",
+        "",
+        "",
+        "sị"
+      ]
+    ],
+    "score": [
+      [
+        -67.61014556884766,
+        -78.10596466064453,
+        -79.85295867919922,
+        -82.6837158203125,
+        -83.05921173095703
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "Besides the plane fare, try to talk about where you will stay before you set foot in [ Arabia. ]"
+    ],
+    "src_entities": [
+      "Arabia."
+    ],
+    "template": "Ewezuga ụgwọ ụgbọelu ị ga - aba , tupu ịzọpụ ụkwụ ije , gbaa mbọ kwuo okwu ebe ị ga - ehi ma i rue Alabekee .",
+    "tgt_lang": [
+      [
+        "Ewezuga ụgwọ ụgbọelu ị ga - aba, tupu ịzọpụ ụkwụ ije, gbaa mbọ kwuo okwu ebe ị ga - ehi ma i rue [ Alabekee. ]",
+        "Ewezuga ụgwọ ụgbọelu ị ga - aba, tupu ịzọpụ ụkwụ ije, gbaa mbọ kwuo okwu ebe ị ga - ehi ma i rue [ Alabekee ].",
+        "Ewezuga ụgwọ ụgbọelu ị ga - aba, tupu ịzọpụ ụkwụ [ ije, gbaa mbọ kwuo okwu ebe ị ga - ehi ma i rue Alabekee. ]",
+        "Ewezuga ụgwọ ụgbọelu ị ga - aba, tupu ịzọpụ ụkwụ [ ije, gbaa mbọ kwuo okwu ebe ị ga - ehi ma i rue Alabekee ].",
+        "Ewezuga ụgwọ ụgbọelu ị ga - aba, tupu ịzọpụ ụkwụ ije [, gbaa mbọ kwuo okwu ebe ị ga - ehi ma i rue Alabekee. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Alabekee.",
+        "Alabekee",
+        "ije, gbaa mbọ kwuo okwu ebe ị ga - ehi ma i rue Alabekee.",
+        "ije, gbaa mbọ kwuo okwu ebe ị ga - ehi ma i rue Alabekee",
+        ", gbaa mbọ kwuo okwu ebe ị ga - ehi ma i rue Alabekee."
+      ]
+    ],
+    "score": [
+      [
+        -120.75798034667969,
+        -121.17025756835938,
+        -122.26263427734375,
+        -122.79744720458984,
+        -123.40676879882812
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [
+      "Our cows are happy because of [ Buhari's ] victory - Miyetti Allah",
+      "Our cows are happy because of Buhari's victory - [ Miyetti Allah ]"
+    ],
+    "src_entities": [
+      "Buhari's",
+      "Miyetti Allah"
+    ],
+    "template": "Ehi anyị na - enwe ọṅụ n'ihi mmeri Buhari - Miyetti Allah",
+    "tgt_lang": [
+      [
+        "Ehi anyị na - enwe ọṅụ n'ihi mmeri [ Buhari ] - Miyetti Allah",
+        "Ehi anyị na - enwe ọṅụ n'ihi mmeri [ Buhari - Miyetti Allah ]",
+        "Ehi anyị na - enwe ọṅụ [ n'ihi mmeri Buhari ] - Miyetti Allah",
+        "Ehi anyị na - enwe ọṅụ [ n'ihi mmeri Buhari - Miyetti Allah ]",
+        "Ehi anyị na - enwe ọṅụ [ n'ihi mmeri ] Buhari - Miyetti Allah"
+      ],
+      [
+        "Ehi anyị na - enwe ọṅụ n'ihi mmeri Buhari - [ Miyetti Allah ]",
+        "Ehi anyị na - enwe ọṅụ n'ihi mmeri Buhari - [ ] Miyetti Allah",
+        "Ehi anyị na - enwe ọṅụ n'ihi mmeri Buhari - [ Miyetti ] Allah",
+        "Ehi anyị na - enwe ọṅụ n'ihi mmeri Buhari - [ Miy ]etti Allah"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Buhari",
+        "Buhari - Miyetti Allah",
+        "n'ihi mmeri Buhari",
+        "n'ihi mmeri Buhari - Miyetti Allah",
+        "n'ihi mmeri"
+      ],
+      [
+        "Miyetti Allah",
+        "",
+        "Miyetti",
+        "Miy"
+      ]
+    ],
+    "score": [
+      [
+        -13.708972930908203,
+        -19.072664260864258,
+        -22.16579818725586,
+        -25.89730453491211,
+        -27.000865936279297
+      ],
+      [
+        -14.422276496887207,
+        -28.118806838989258,
+        -31.308643341064453,
+        -39.49983215332031
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "Is it the one who left the [ PDP ] for the APC who becomes a saint?",
+      "Is it the one who left the PDP for the [ APC ] who becomes a saint?"
+    ],
+    "src_entities": [
+      "PDP",
+      "APC"
+    ],
+    "template": "Ọ bụ onye gbahapụ PDP banye APC ọ bụrụ onye nsọ ?",
+    "tgt_lang": [
+      [
+        "Ọ bụ onye gbahapụ [ PDP ] banye APC ọ bụrụ onye nsọ?",
+        "Ọ bụ onye gbahapụ [ PDP banye APC ] ọ bụrụ onye nsọ?",
+        "Ọ bụ onye gbahapụ PDP [ banye APC ] ọ bụrụ onye nsọ?",
+        "Ọ bụ onye gbahapụ [ ] PDP banye APC ọ bụrụ onye nsọ?",
+        "Ọ bụ onye gbahapụ [ PDP banye ] APC ọ bụrụ onye nsọ?"
+      ],
+      [
+        "Ọ bụ onye gbahapụ PDP banye [ APC ] ọ bụrụ onye nsọ?",
+        "Ọ bụ onye gbahapụ PDP [ banye APC ] ọ bụrụ onye nsọ?",
+        "Ọ bụ onye gbahapụ PDP banye [ ] APC ọ bụrụ onye nsọ?",
+        "Ọ bụ onye gbahapụ PDP banye [ APC ọ ] bụrụ onye nsọ?",
+        "Ọ bụ onye gbahapụ PDP banye APC [ ọ bụrụ onye nsọ? ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "PDP",
+        "PDP banye APC",
+        "banye APC",
+        "",
+        "PDP banye"
+      ],
+      [
+        "APC",
+        "banye APC",
+        "",
+        "APC ọ",
+        "ọ bụrụ onye nsọ?"
+      ]
+    ],
+    "score": [
+      [
+        -25.79380989074707,
+        -37.272377014160156,
+        -37.665069580078125,
+        -39.59093475341797,
+        -41.353416442871094
+      ],
+      [
+        -24.804916381835938,
+        -33.57579040527344,
+        -38.24052047729492,
+        -38.46636962890625,
+        -39.15665817260742
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 8,
+    "src_lang": [
+      "[ US ] President Donald Trump and North Korean leader Kim Jong-un have entered the final two days of talks on denuclearisation.",
+      "US President [ Donald Trump ] and North Korean leader Kim Jong-un have entered the final two days of talks on denuclearisation.",
+      "US President Donald Trump and North Korean leader [ Kim Jong-un ] have entered the final two days of talks on denuclearisation."
+    ],
+    "src_entities": [
+      "US",
+      "Donald Trump",
+      "Kim Jong-un"
+    ],
+    "template": "Onyeisiala mba Amerịka bụ Donald Trump , na nke mba Nọt Korea bụ Kim Jung - Un , abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\" .",
+    "tgt_lang": [
+      [
+        "[ ] Onyeisiala mba Amerịka bụ Donald Trump, na nke mba Nọt Korea bụ Kim Jung - Un, abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+        "Onyeisiala mba [ Amerịka ] bụ Donald Trump, na nke mba Nọt Korea bụ Kim Jung - Un, abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+        "Onyeisiala [ mba Amerịka ] bụ Donald Trump, na nke mba Nọt Korea bụ Kim Jung - Un, abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+        "[ Onyeisiala mba Amerịka ] bụ Donald Trump, na nke mba Nọt Korea bụ Kim Jung - Un, abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+        "[ Onyeisiala ] mba Amerịka bụ Donald Trump, na nke mba Nọt Korea bụ Kim Jung - Un, abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\"."
+      ],
+      [
+        "Onyeisiala mba Amerịka bụ [ Donald Trump ], na nke mba Nọt Korea bụ Kim Jung - Un, abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+        "Onyeisiala mba Amerịka bụ [ Donald Trump, ] na nke mba Nọt Korea bụ Kim Jung - Un, abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+        "Onyeisiala mba Amerịka [ bụ Donald Trump ], na nke mba Nọt Korea bụ Kim Jung - Un, abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+        "Onyeisiala mba Amerịka [ bụ Donald Trump, ] na nke mba Nọt Korea bụ Kim Jung - Un, abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+        "Onyeisiala mba Amerịka bụ [ ] Donald Trump, na nke mba Nọt Korea bụ Kim Jung - Un, abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\"."
+      ],
+      [
+        "Onyeisiala mba Amerịka bụ Donald Trump, na nke mba Nọt Korea bụ [ Kim Jung - Un ], abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+        "Onyeisiala mba Amerịka bụ Donald Trump, na nke mba Nọt Korea bụ [ Kim Jung - Un, ] abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+        "Onyeisiala mba Amerịka bụ Donald Trump, na nke mba Nọt Korea [ bụ Kim Jung - Un ], abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+        "Onyeisiala mba Amerịka bụ Donald Trump, na nke mba Nọt Korea [ bụ Kim Jung - Un, ] abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\".",
+        "Onyeisiala mba Amerịka bụ Donald Trump, na nke mba Nọt [ Korea ] bụ Kim Jung - Un, abanyela ụbọchị abụọ bụ ụbọchị ikpeazụ ha ga - ama ebe ha kwụ akwụ gbasara ihe bekee kpọrọ \"\"\"\" denuclearisation \"\"\"\"."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "",
+        "Amerịka",
+        "mba Amerịka",
+        "Onyeisiala mba Amerịka",
+        "Onyeisiala"
+      ],
+      [
+        "Donald Trump",
+        "Donald Trump,",
+        "bụ Donald Trump",
+        "bụ Donald Trump,",
+        ""
+      ],
+      [
+        "Kim Jung - Un",
+        "Kim Jung - Un,",
+        "bụ Kim Jung - Un",
+        "bụ Kim Jung - Un,",
+        "Korea"
+      ]
+    ],
+    "score": [
+      [
+        -159.71365356445312,
+        -164.70118713378906,
+        -164.9525146484375,
+        -165.02294921875,
+        -170.19419860839844
+      ],
+      [
+        -156.54286193847656,
+        -157.300048828125,
+        -158.38815307617188,
+        -159.2574005126953,
+        -159.7583465576172
+      ],
+      [
+        -152.61068725585938,
+        -153.7161865234375,
+        -154.85415649414062,
+        -156.6078643798828,
+        -157.9844970703125
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "Riots broke out in the [ APC ] election campaign in Imo State",
+      "Riots broke out in the APC election campaign in [ Imo State ]"
+    ],
+    "src_entities": [
+      "APC",
+      "Imo State"
+    ],
+    "template": "Ọgbaghara dara n'achụmnta vootu APC n'Imo steeti",
+    "tgt_lang": [
+      [
+        "Ọgbaghara dara n'achụmnta vootu [ APC ] n'Imo steeti",
+        "Ọgbaghara dara n'achụmnta vootu [ APC n'Imo steeti ]",
+        "Ọgbaghara dara n'achụmnta vootu [ APC n'Imo ] steeti",
+        "Ọgbaghara dara n'achụmnta vootu APC n'Imo [ steeti ]",
+        "Ọgbaghara dara n'achụmnta [ vootu APC ] n'Imo steeti"
+      ],
+      [
+        "Ọgbaghara dara n'achụmnta vootu APC n'Imo [ steeti ]",
+        "Ọgbaghara dara n'achụmnta vootu APC [ n'Imo steeti ]",
+        "Ọgbaghara dara n'achụmnta vootu APC n'Imo steeti [ ]",
+        "Ọgbaghara dara n'achụmnta vootu APC n' [Imo steeti ]",
+        "Ọgbaghara dara n'achụmnta vootu APC n'Imo [ ] steeti"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "APC",
+        "APC n'Imo steeti",
+        "APC n'Imo",
+        "steeti",
+        "vootu APC"
+      ],
+      [
+        "steeti",
+        "n'Imo steeti",
+        "",
+        "Imo steeti",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -17.611459732055664,
+        -23.66741943359375,
+        -27.503881454467773,
+        -31.934518814086914,
+        -32.08979415893555
+      ],
+      [
+        -21.624513626098633,
+        -22.330551147460938,
+        -29.09064483642578,
+        -30.799762725830078,
+        -31.173728942871094
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "[ Mbaka ] had previously said that Buhari was \"\"\"\"savior\"\"\"\"",
+      "Mbaka had previously said that [ Buhari ] was \"\"\"\"savior\"\"\"\""
+    ],
+    "src_entities": [
+      "Mbaka",
+      "Buhari"
+    ],
+    "template": "Mbaka kwuburu na Buhari bụ \"\"\"\" onye nzọpụta \"\"\"\"",
+    "tgt_lang": [
+      [
+        "[ Mbaka ] kwuburu na Buhari bụ \"\"\"\" onye nzọpụta \"\"\"\"",
+        "[ Mbaka kwuburu ] na Buhari bụ \"\"\"\" onye nzọpụta \"\"\"\"",
+        "[ ] Mbaka kwuburu na Buhari bụ \"\"\"\" onye nzọpụta \"\"\"\"",
+        "[ Mbaka kwuburu na Buhari bụ ] \"\"\"\" onye nzọpụta \"\"\"\"",
+        "[ Mbaka kwuburu na Buhari bụ \"\"\"\" ] onye nzọpụta \"\"\"\""
+      ],
+      [
+        "Mbaka kwuburu na [ Buhari ] bụ \"\"\"\" onye nzọpụta \"\"\"\"",
+        "Mbaka kwuburu na [ Buhari bụ ] \"\"\"\" onye nzọpụta \"\"\"\"",
+        "Mbaka kwuburu na [ ] Buhari bụ \"\"\"\" onye nzọpụta \"\"\"\"",
+        "Mbaka kwuburu na [ Buhari bụ \"\"\"\" ] onye nzọpụta \"\"\"\"",
+        "Mbaka kwuburu na [ Buhari bụ \"\"\"\" onye nzọpụta \"\"\"\" ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mbaka",
+        "Mbaka kwuburu",
+        "",
+        "Mbaka kwuburu na Buhari bụ",
+        "Mbaka kwuburu na Buhari bụ \"\"\"\""
+      ],
+      [
+        "Buhari",
+        "Buhari bụ",
+        "",
+        "Buhari bụ \"\"\"\"",
+        "Buhari bụ \"\"\"\" onye nzọpụta \"\"\"\""
+      ]
+    ],
+    "score": [
+      [
+        -18.23229217529297,
+        -25.964935302734375,
+        -28.932710647583008,
+        -35.07750701904297,
+        -36.67069625854492
+      ],
+      [
+        -17.40397834777832,
+        -23.831052780151367,
+        -30.620758056640625,
+        -34.347042083740234,
+        -36.070335388183594
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "Read the full story here: Election Result 2019: The [ UK ] says Buhari's victory is certain",
+      "Read the full story here: Election Result 2019: The UK says [ Buhari's ] victory is certain"
+    ],
+    "src_entities": [
+      "UK",
+      "Buhari's"
+    ],
+    "template": "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : Mba Briten sị na mmeri Buhari kwụ ọtọ",
+    "tgt_lang": [
+      [
+        "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : [ Mba Briten ] sị na mmeri Buhari kwụ ọtọ",
+        "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : Mba [ Briten ] sị na mmeri Buhari kwụ ọtọ",
+        "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : [ Mba Briten sị na mmeri Buhari kwụ ọtọ ]",
+        "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : [ Mba Briten sị ] na mmeri Buhari kwụ ọtọ",
+        "Gụọ akụkọ a n'uju ebe a : [ Election Result 2019 : Mba Briten sị na mmeri Buhari kwụ ọtọ ]"
+      ],
+      [
+        "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : Mba Briten sị na mmeri [ Buhari ] kwụ ọtọ",
+        "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : Mba Briten sị na mmeri [ Buhari kwụ ọtọ ]",
+        "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : Mba Briten sị na mmeri Buhari [ kwụ ọtọ ]",
+        "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : Mba Briten sị [ na mmeri Buhari ] kwụ ọtọ",
+        "Gụọ akụkọ a n'uju ebe a : Election Result 2019 : Mba Briten sị [ na mmeri Buhari kwụ ọtọ ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mba Briten",
+        "Briten",
+        "Mba Briten sị na mmeri Buhari kwụ ọtọ",
+        "Mba Briten sị",
+        "Election Result 2019 : Mba Briten sị na mmeri Buhari kwụ ọtọ"
+      ],
+      [
+        "Buhari",
+        "Buhari kwụ ọtọ",
+        "kwụ ọtọ",
+        "na mmeri Buhari",
+        "na mmeri Buhari kwụ ọtọ"
+      ]
+    ],
+    "score": [
+      [
+        -51.9515495300293,
+        -52.96385192871094,
+        -54.73712158203125,
+        -57.54358673095703,
+        -60.82170867919922
+      ],
+      [
+        -46.744834899902344,
+        -53.52680969238281,
+        -57.90080261230469,
+        -58.7205924987793,
+        -59.17642593383789
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [],
+    "template": "N'ime ihe ndị ha rịọrọ ụlọịkpe , ha kwuru ka akagbuo ntuliaka ahụ ma megharịa ya ọzọ .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "Before leaving [ Nigeria, ] it is important to buy an anti-cold blanket because the cold is not a given."
+    ],
+    "src_entities": [
+      "Nigeria,"
+    ],
+    "template": "Tupu ị hapụ Naijiria , ọ dị mkpa na ị ga - azụ akwa mgbochi oyii n'ihi na oyii alabekee abụghị ụkwa achị n'aka .",
+    "tgt_lang": [
+      [
+        "Tupu ị hapụ [ Naijiria, ] ọ dị mkpa na ị ga - azụ akwa mgbochi oyii n'ihi na oyii alabekee abụghị ụkwa achị n'aka.",
+        "Tupu ị hapụ [ Naijiria ], ọ dị mkpa na ị ga - azụ akwa mgbochi oyii n'ihi na oyii alabekee abụghị ụkwa achị n'aka.",
+        "Tupu ị [ hapụ Naijiria, ] ọ dị mkpa na ị ga - azụ akwa mgbochi oyii n'ihi na oyii alabekee abụghị ụkwa achị n'aka.",
+        "Tupu ị [ hapụ Naijiria ], ọ dị mkpa na ị ga - azụ akwa mgbochi oyii n'ihi na oyii alabekee abụghị ụkwa achị n'aka.",
+        "Tupu ị [ hapụ ] Naijiria, ọ dị mkpa na ị ga - azụ akwa mgbochi oyii n'ihi na oyii alabekee abụghị ụkwa achị n'aka."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Naijiria,",
+        "Naijiria",
+        "hapụ Naijiria,",
+        "hapụ Naijiria",
+        "hapụ"
+      ]
+    ],
+    "score": [
+      [
+        -108.43899536132812,
+        -110.7400894165039,
+        -110.98091888427734,
+        -113.89016723632812,
+        -115.81068420410156
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "The [ Catholic Church ] forbids the clergy to get involved in politics"
+    ],
+    "src_entities": [
+      "Catholic Church"
+    ],
+    "template": "Ụka katọlik amachiela ndị ụkọchukwu ịtinye ọnụ n'okwu gbasara ndọrọndọrọ ọchịchị",
+    "tgt_lang": [
+      [
+        "Ụka [ katọlik ] amachiela ndị ụkọchukwu ịtinye ọnụ n'okwu gbasara ndọrọndọrọ ọchịchị",
+        "[ Ụka katọlik ] amachiela ndị ụkọchukwu ịtinye ọnụ n'okwu gbasara ndọrọndọrọ ọchịchị",
+        "[ Ụka ] katọlik amachiela ndị ụkọchukwu ịtinye ọnụ n'okwu gbasara ndọrọndọrọ ọchịchị",
+        "Ụka katọlik amachiela ndị ụkọchukwu [ ịtinye ọnụ n'okwu gbasara ndọrọndọrọ ọchịchị ]",
+        "Ụka [ ] katọlik amachiela ndị ụkọchukwu ịtinye ọnụ n'okwu gbasara ndọrọndọrọ ọchịchị"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "katọlik",
+        "Ụka katọlik",
+        "Ụka",
+        "ịtinye ọnụ n'okwu gbasara ndọrọndọrọ ọchịchị",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -52.06466293334961,
+        -53.809268951416016,
+        -56.57175064086914,
+        -58.075599670410156,
+        -58.16242218017578
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "In the match, [ Watford ] have taken two wickets in a row to defeat Leicester (2-1).",
+      "In the match, Watford have taken two wickets in a row to defeat [ Leicester ] (2-1)."
+    ],
+    "src_entities": [
+      "Watford",
+      "Leicester"
+    ],
+    "template": "N'egwuruegwu e Watford ewerela ọkpụ abụọ asatara otu merie Leicester ( 2 - 1 ) na .",
+    "tgt_lang": [
+      [
+        "N'egwuruegwu e [ Watford ] ewerela ọkpụ abụọ asatara otu merie Leicester ( 2 - 1 ) na.",
+        "N'egwuruegwu [ e ] Watford ewerela ọkpụ abụọ asatara otu merie Leicester ( 2 - 1 ) na.",
+        "N'egwuruegwu [ e Watford ] ewerela ọkpụ abụọ asatara otu merie Leicester ( 2 - 1 ) na.",
+        "N'egwuruegwu e [ ] Watford ewerela ọkpụ abụọ asatara otu merie Leicester ( 2 - 1 ) na.",
+        "N'egwuruegwu [ ] e Watford ewerela ọkpụ abụọ asatara otu merie Leicester ( 2 - 1 ) na."
+      ],
+      [
+        "N'egwuruegwu e Watford ewerela ọkpụ abụọ asatara otu merie [ Leicester ] ( 2 - 1 ) na.",
+        "N'egwuruegwu e Watford ewerela ọkpụ abụọ asatara otu merie [ Leicester ( 2 - 1 ) ] na.",
+        "N'egwuruegwu e Watford ewerela ọkpụ abụọ asatara otu merie Leicester ( 2 - 1 ) [ na ].",
+        "N'egwuruegwu e Watford ewerela ọkpụ abụọ asatara otu merie Leicester ( 2 - 1 ) na [ ].",
+        "N'egwuruegwu e Watford ewerela ọkpụ abụọ asatara otu merie [ ] Leicester ( 2 - 1 ) na."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Watford",
+        "e",
+        "e Watford",
+        "",
+        ""
+      ],
+      [
+        "Leicester",
+        "Leicester ( 2 - 1 )",
+        "na",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -98.54645538330078,
+        -102.15785217285156,
+        -105.097412109375,
+        -108.68815612792969,
+        -111.23648834228516
+      ],
+      [
+        -106.82109069824219,
+        -109.13063049316406,
+        -112.43846130371094,
+        -112.88059997558594,
+        -113.75141143798828
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "Justice [ Ijem Onwuamaegbu ] is the first woman chief justice in Anambara state",
+      "Justice Ijem Onwuamaegbu is the first woman chief justice in [ Anambara ] state"
+    ],
+    "src_entities": [
+      "Ijem Onwuamaegbu",
+      "Anambara"
+    ],
+    "template": "Jọstịs Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu n'Anambara steeti",
+    "tgt_lang": [
+      [
+        "Jọstịs [ Ijem Onwuamaegbu ] bụ nwaanyị mbụ bụ ọkaikpe ukwu n'Anambara steeti",
+        "Jọstịs [ Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu n'Anambara steeti ]",
+        "[ Jọstịs Ijem Onwuamaegbu ] bụ nwaanyị mbụ bụ ọkaikpe ukwu n'Anambara steeti",
+        "Jọstịs [ Ijem Onwuamaegbu bụ ] nwaanyị mbụ bụ ọkaikpe ukwu n'Anambara steeti",
+        "Jọstịs [ Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu n'Anambara ] steeti"
+      ],
+      [
+        "Jọstịs Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu [ n'Anambara ] steeti",
+        "Jọstịs Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu n' [Anambara ] steeti",
+        "Jọstịs Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu [ n'Anambara steeti ]",
+        "Jọstịs Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu n' [Anambara steeti ]",
+        "Jọstịs Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu n'Anambara steeti [ ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ijem Onwuamaegbu",
+        "Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu n'Anambara steeti",
+        "Jọstịs Ijem Onwuamaegbu",
+        "Ijem Onwuamaegbu bụ",
+        "Ijem Onwuamaegbu bụ nwaanyị mbụ bụ ọkaikpe ukwu n'Anambara"
+      ],
+      [
+        "n'Anambara",
+        "Anambara",
+        "n'Anambara steeti",
+        "Anambara steeti",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -22.47200584411621,
+        -26.479652404785156,
+        -28.745376586914062,
+        -32.992149353027344,
+        -36.114681243896484
+      ],
+      [
+        -27.223249435424805,
+        -27.67806625366211,
+        -28.470935821533203,
+        -31.71094512939453,
+        -34.728759765625
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "But the [ PDP ] has rejected the meaning of the election."
+    ],
+    "src_entities": [
+      "PDP"
+    ],
+    "template": "Mana PDP ajụla mpụtara ntuliaka ahụ .",
+    "tgt_lang": [
+      [
+        "Mana [ PDP ] ajụla mpụtara ntuliaka ahụ.",
+        "[ Mana PDP ] ajụla mpụtara ntuliaka ahụ.",
+        "Mana PDP [ ajụla ] mpụtara ntuliaka ahụ.",
+        "Mana [ ] PDP ajụla mpụtara ntuliaka ahụ.",
+        "Mana PDP ajụla [ mpụtara ] ntuliaka ahụ."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "PDP",
+        "Mana PDP",
+        "ajụla",
+        "",
+        "mpụtara"
+      ]
+    ],
+    "score": [
+      [
+        -16.63289451599121,
+        -26.81102180480957,
+        -28.47524642944336,
+        -29.2717342376709,
+        -30.031696319580078
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "What you don't know about the man [ Customs ] refused to accept a bribe"
+    ],
+    "src_entities": [
+      "Customs"
+    ],
+    "template": "Ihe ị maghị maka nwoke Customs jụrụ ịnara akaazụ",
+    "tgt_lang": [
+      [
+        "Ihe ị maghị maka nwoke [ Customs ] jụrụ ịnara akaazụ",
+        "Ihe ị maghị maka nwoke [ ] Customs jụrụ ịnara akaazụ",
+        "Ihe ị maghị maka nwoke [ Customs jụrụ ịnara akaazụ ]",
+        "Ihe ị maghị maka nwoke [ Customs jụrụ ] ịnara akaazụ",
+        "Ihe ị maghị [ maka nwoke Customs ] jụrụ ịnara akaazụ"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Customs",
+        "",
+        "Customs jụrụ ịnara akaazụ",
+        "Customs jụrụ",
+        "maka nwoke Customs"
+      ]
+    ],
+    "score": [
+      [
+        -15.156172752380371,
+        -32.597537994384766,
+        -33.116912841796875,
+        -34.266414642333984,
+        -37.29862976074219
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "The Catholic Church in the [ Highlands ] now has two Bishops"
+    ],
+    "src_entities": [
+      "Highlands"
+    ],
+    "template": "Ụka Katọliki n'Enugwu enweela Bishop abụọ",
+    "tgt_lang": [
+      [
+        "Ụka Katọliki [ n'Enugwu ] enweela Bishop abụọ",
+        "Ụka Katọliki n'Enugwu enweela [ Bishop ] abụọ",
+        "Ụka Katọliki n'Enugwu [ enweela Bishop abụọ ]",
+        "Ụka Katọliki n'Enugwu enweela [ Bishop abụọ ]",
+        "Ụka Katọliki n'Enugwu [ ] enweela Bishop abụọ"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "n'Enugwu",
+        "Bishop",
+        "enweela Bishop abụọ",
+        "Bishop abụọ",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -44.24998092651367,
+        -45.78479766845703,
+        -45.81771469116211,
+        -46.17360305786133,
+        -47.542030334472656
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "In [ Ōtaka, ] many markets are near Baba Ewe, where protesters on election day did not open out of fear.",
+      "In Ōtaka, many markets are near [ Baba Ewe, ] where protesters on election day did not open out of fear."
+    ],
+    "src_entities": [
+      "Ōtaka,",
+      "Baba Ewe,"
+    ],
+    "template": "N' Ọkọta , ọtụtụ ọdọahịa dị nso na Baba Ewe , ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu .",
+    "tgt_lang": [
+      [
+        "N' [ Ọkọta, ] ọtụtụ ọdọahịa dị nso na Baba Ewe, ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu.",
+        "N' [ Ọkọta ], ọtụtụ ọdọahịa dị nso na Baba Ewe, ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu.",
+        "N' Ọkọta, [ ] ọtụtụ ọdọahịa dị nso na Baba Ewe, ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu.",
+        "N' [ ] Ọkọta, ọtụtụ ọdọahịa dị nso na Baba Ewe, ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu.",
+        "[ N' Ọkọta, ] ọtụtụ ọdọahịa dị nso na Baba Ewe, ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu."
+      ],
+      [
+        "N' Ọkọta, ọtụtụ ọdọahịa dị nso na [ Baba Ewe, ] ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu.",
+        "N' Ọkọta, ọtụtụ ọdọahịa dị nso [ na Baba Ewe, ] ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu.",
+        "N' Ọkọta, ọtụtụ ọdọahịa dị nso na [ Baba Ewe ], ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu.",
+        "N' Ọkọta, ọtụtụ ọdọahịa dị nso na Baba Ewe [, ] ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu.",
+        "N' Ọkọta, ọtụtụ ọdọahịa dị nso [ na Baba Ewe ], ebe ndị agboro kpara ike ụbọchị ntuliaka agbapeghị n'ihi egwu."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ọkọta,",
+        "Ọkọta",
+        "",
+        "",
+        "N' Ọkọta,"
+      ],
+      [
+        "Baba Ewe,",
+        "na Baba Ewe,",
+        "Baba Ewe",
+        ",",
+        "na Baba Ewe"
+      ]
+    ],
+    "score": [
+      [
+        -85.95211029052734,
+        -87.76793670654297,
+        -91.33738708496094,
+        -91.63040924072266,
+        -93.32209014892578
+      ],
+      [
+        -83.60576629638672,
+        -90.20238494873047,
+        -90.20896911621094,
+        -91.9040756225586,
+        -95.78889465332031
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "[ Akpabioure ] said this would help to investigate the confusion that occurred during the vote."
+    ],
+    "src_entities": [
+      "Akpabioure"
+    ],
+    "template": "Akpabịọ sị na nke a ga - enye aka inyocha ihe mgbagwoju anya mere mgbe a tụrụ vootu ahụ .",
+    "tgt_lang": [
+      [
+        "[ Akpabịọ ] sị na nke a ga - enye aka inyocha ihe mgbagwoju anya mere mgbe a tụrụ vootu ahụ.",
+        "[ Akpabịọ sị ] na nke a ga - enye aka inyocha ihe mgbagwoju anya mere mgbe a tụrụ vootu ahụ.",
+        "[ Akpabịọ sị na ] nke a ga - enye aka inyocha ihe mgbagwoju anya mere mgbe a tụrụ vootu ahụ.",
+        "[ Akpa ]bịọ sị na nke a ga - enye aka inyocha ihe mgbagwoju anya mere mgbe a tụrụ vootu ahụ.",
+        "[ Akpabịọ sị na nke a ga - enye aka inyocha ihe mgbagwoju anya mere mgbe a tụrụ vootu ahụ. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Akpabịọ",
+        "Akpabịọ sị",
+        "Akpabịọ sị na",
+        "Akpa",
+        "Akpabịọ sị na nke a ga - enye aka inyocha ihe mgbagwoju anya mere mgbe a tụrụ vootu ahụ."
+      ]
+    ],
+    "score": [
+      [
+        -53.833534240722656,
+        -55.77885055541992,
+        -59.122642517089844,
+        -61.85356521606445,
+        -62.48598861694336
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "Listen to the [ BBC ] news in a minute:"
+    ],
+    "src_entities": [
+      "BBC"
+    ],
+    "template": "Gere akụkọ BBC na nkeji :",
+    "tgt_lang": [
+      [
+        "Gere akụkọ [ BBC ] na nkeji :",
+        "Gere akụkọ [ ] BBC na nkeji :",
+        "Gere akụkọ [ BBC na nkeji ] :",
+        "Gere akụkọ [ BBC na ] nkeji :",
+        "Gere akụkọ [ BBC na nkeji : ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "BBC",
+        "",
+        "BBC na nkeji",
+        "BBC na",
+        "BBC na nkeji :"
+      ]
+    ],
+    "score": [
+      [
+        -18.427331924438477,
+        -28.462167739868164,
+        -28.5059871673584,
+        -30.1129093170166,
+        -30.416545867919922
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "Election result 2019: [ APC ] and PDP are arguing about the 2019 elections",
+      "Election result 2019: APC and [ PDP ] are arguing about the 2019 elections"
+    ],
+    "src_entities": [
+      "APC",
+      "PDP"
+    ],
+    "template": "Election result 2019 : APC na PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019",
+    "tgt_lang": [
+      [
+        "Election result 2019 : [ APC ] na PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019",
+        "[ Election result 2019 : APC ] na PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019",
+        "Election result 2019 : [ APC na PDP ] na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019",
+        "Election result 2019 [ : APC ] na PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019",
+        "Election result 2019 : [ ] APC na PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019"
+      ],
+      [
+        "Election result 2019 : APC na [ PDP ] na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019",
+        "Election result 2019 : APC na [ PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019 ]",
+        "[ Election result 2019 : APC na PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019 ]",
+        "Election result 2019 : APC na [ ] PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019",
+        "[ Election result 2019 ] : APC na PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "APC",
+        "Election result 2019 : APC",
+        "APC na PDP",
+        ": APC",
+        ""
+      ],
+      [
+        "PDP",
+        "PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019",
+        "Election result 2019 : APC na PDP na - arụ onwe ha aka n'ọnụ banyere ntuliaka 2019",
+        "",
+        "Election result 2019"
+      ]
+    ],
+    "score": [
+      [
+        -51.10295104980469,
+        -59.276302337646484,
+        -60.37966537475586,
+        -62.900238037109375,
+        -64.2485122680664
+      ],
+      [
+        -50.36477279663086,
+        -60.11534881591797,
+        -61.114501953125,
+        -62.241310119628906,
+        -63.5210075378418
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "His spokesperson on social media [ Ebere Nzewuji ] said that they do not know what to do now about it is a decision."
+    ],
+    "src_entities": [
+      "Ebere Nzewuji"
+    ],
+    "template": "Onụ na - ekwuchitere ya n'ihe gbasara mgbaozi soshal midia bụ Ebere Nzewuji kwuru na ha mabeghị ihe ha ga - eme ugbua gbasara ya bụ mkpebi .",
+    "tgt_lang": [
+      [
+        "Onụ na - ekwuchitere ya n'ihe gbasara mgbaozi soshal midia bụ [ Ebere Nzewuji ] kwuru na ha mabeghị ihe ha ga - eme ugbua gbasara ya bụ mkpebi.",
+        "Onụ na - ekwuchitere ya n'ihe gbasara mgbaozi soshal midia [ bụ Ebere Nzewuji ] kwuru na ha mabeghị ihe ha ga - eme ugbua gbasara ya bụ mkpebi.",
+        "Onụ na - ekwuchitere ya n'ihe gbasara mgbaozi soshal midia bụ [ Ebere Nzewuji kwuru ] na ha mabeghị ihe ha ga - eme ugbua gbasara ya bụ mkpebi.",
+        "Onụ na - ekwuchitere ya n'ihe gbasara [ mgbaozi soshal midia ] bụ Ebere Nzewuji kwuru na ha mabeghị ihe ha ga - eme ugbua gbasara ya bụ mkpebi.",
+        "Onụ na - ekwuchitere ya n'ihe gbasara mgbaozi soshal midia bụ Ebere Nzewuji [ ] kwuru na ha mabeghị ihe ha ga - eme ugbua gbasara ya bụ mkpebi."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ebere Nzewuji",
+        "bụ Ebere Nzewuji",
+        "Ebere Nzewuji kwuru",
+        "mgbaozi soshal midia",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -76.23615264892578,
+        -82.88689422607422,
+        -84.75328063964844,
+        -84.85415649414062,
+        -85.38195037841797
+      ]
+    ],
+    "flag": 1
+  }
+]

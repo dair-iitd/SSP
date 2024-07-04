@@ -1,0 +1,101 @@
+input	output	language
+Gáta : Ein gáta er ein stutt søga , sum endar við einum spurningi .	Gáta_NOUN :_PUNCT Ein_DET gáta_NOUN er_AUX ein_DET stutt_ADJ søga_NOUN ,_PUNCT sum_PRON endar_VERB við_ADP einum_DET spurningi_NOUN ._PUNCT	fo
+Pávin er hægsti myndugleiki fyri róma- kirkjuni .	Pávin_NOUN er_AUX hægsti_ADJ myndugleiki_NOUN fyri_ADP róma-_NOUN kirkjuni_NOUN ._PUNCT	fo
+Ein trummuspælari við navnið Chad Smith kom við í tónleikabólkinum .	Ein_DET trummuspælari_NOUN við_ADP navnið_NOUN Chad_PROPN Smith_PROPN kom_VERB við_ADP í_ADP tónleikabólkinum_NOUN ._PUNCT	fo
+Tey eru eisini undir Grønlandi og Føroyum .	Tey_PRON eru_AUX eisini_ADV undir_ADP Grønlandi_PROPN og_CCONJ Føroyum_PROPN ._PUNCT	fo
+Hann var eirindaleysur einaræðisharri .	Hann_PRON var_AUX eirindaleysur_ADJ einaræðisharri_NOUN ._PUNCT	fo
+Mitt í Moskva er Kreml , russiska tinginum .	Mitt_ADV í_ADP Moskva_PROPN er_AUX Kreml_PROPN ,_PUNCT russiska_ADJ tinginum_NOUN ._PUNCT	fo
+Hansara stóri áhugi er tónleikur .	Hansara_ADV stóri_ADJ áhugi_NOUN er_AUX tónleikur_NOUN ._PUNCT	fo
+Í Íslandi er stovnurin fleiri ferðir so stórur .	Í_ADP Íslandi_PROPN er_AUX stovnurin_NOUN fleiri_DET ferðir_NOUN so_ADV stórur_ADJ ._PUNCT	fo
+Høvuðsstaður er Lilongwe .	Høvuðsstaður_NOUN er_AUX Lilongwe_PROPN ._PUNCT	fo
+Fram við strondini eru mong stór oljureinsiverk .	Fram_ADV við_ADP strondini_NOUN eru_AUX mong_DET stór_ADJ oljureinsiverk_NOUN ._PUNCT	fo
+Hernaðarstýrið var frá 1962 til 2011 .	Hernaðarstýrið_NOUN var_AUX frá_ADP 1962_NUM til_ADP 2011_NUM ._PUNCT	fo
+Høvuðsstaðurin í Noregi er Oslo .	Høvuðsstaðurin_NOUN í_ADP Noregi_PROPN er_AUX Oslo_PROPN ._PUNCT	fo
+Hetta var ein góð avgerð .	Hetta_PRON var_AUX ein_DET góð_ADJ avgerð_NOUN ._PUNCT	fo
+Luzern og Lugano eru viðgitnir ferðamannabýir .	Luzern_PROPN og_CCONJ Lugano_PROPN eru_AUX viðgitnir_ADJ ferðamannabýir_NOUN ._PUNCT	fo
+Stórur tørvur er á útbúgving og heilsuhjálp .	Stórur_ADJ tørvur_NOUN er_AUX á_ADP útbúgving_NOUN og_CCONJ heilsuhjálp_NOUN ._PUNCT	fo
+Naksos er kent fyri síni eplir í restini av Grikkalandi .	Naksos_PROPN er_AUX kent_VERB fyri_ADP síni_PRON eplir_NOUN í_ADP restini_NOUN av_ADP Grikkalandi_PROPN ._PUNCT	fo
+Mismunur verður í stóran mun gjørdur mótvegis kvinnum .	Mismunur_NOUN verður_AUX í_ADP stóran_ADJ mun_NOUN gjørdur_VERB mótvegis_NOUN kvinnum_NOUN ._PUNCT	fo
+Hann er vakur býur við prýðiligum bygningum og vakstrargørðum .	Hann_PRON er_AUX vakur_ADJ býur_NOUN við_ADP prýðiligum_ADJ bygningum_NOUN og_CCONJ vakstrargørðum_NOUN ._PUNCT	fo
+Norðmenn eru stoltir av sínum tjóðardegi .	Norðmenn_PROPN eru_AUX stoltir_VERB av_ADP sínum_PRON tjóðardegi_NOUN ._PUNCT	fo
+Har eru eisini stór margarin- og sápuvirki .	Har_ADV eru_AUX eisini_ADV stór_ADJ margarin-_NOUN og_CCONJ sápuvirki_NOUN ._PUNCT	fo
+Seyður á vegnum er ein stórur trupulleiki í Føroyum .	Seyður_NOUN á_ADP vegnum_NOUN er_AUX ein_DET stórur_ADJ trupulleiki_NOUN í_ADP Føroyum_PROPN ._PUNCT	fo
+Bjørnin er størsta rovdýrið í West Virginia .	Bjørnin_NOUN er_AUX størsta_ADJ rovdýrið_NOUN í_ADP West_PROPN Virginia_PROPN ._PUNCT	fo
+Meginparturin av fólkinum eru lutherskar .	Meginparturin_NOUN av_ADP fólkinum_NOUN eru_AUX lutherskar_ADJ ._PUNCT	fo
+Hetta verður ofta nevnt at hava “ formansskapin í ES ” .	Hetta_PRON verður_AUX ofta_ADV nevnt_VERB at_PART hava_AUX “_PUNCT formansskapin_NOUN í_ADP ES_PROPN ”_PUNCT ._PUNCT	fo
+Høvuðsstaður er Mariehamn .	Høvuðsstaður_NOUN er_AUX Mariehamn_PROPN ._PUNCT	fo
+Avgerðin um at gevast í filmsídnaðinum .	Avgerðin_NOUN um_ADP at_PART gevast_VERB í_ADP filmsídnaðinum_NOUN ._PUNCT	fo
+Eftir tað flutti hon til Bergens , og tók cand. polit .	Eftir_ADP tað_PRON flutti_VERB hon_PRON til_ADP Bergens_PROPN ,_PUNCT og_CCONJ tók_VERB cand._NOUN polit_NOUN ._PUNCT	fo
+Nógvir indiánar í Utah vóru eisini dugnaligir handverkarar .	Nógvir_ADJ indiánar_NOUN í_ADP Utah_PROPN vóru_AUX eisini_ADV dugnaligir_ADJ handverkarar_NOUN ._PUNCT	fo
+Høvuðsstaður er Kiel .	Høvuðsstaður_NOUN er_AUX Kiel_PROPN ._PUNCT	fo
+So varð .	So_ADV varð_VERB ._PUNCT	fo
+Tronga sundið við Gibraltar er einasta farleið úr Miðjarðarhavi í Atlantshav .	Tronga_ADJ sundið_NOUN við_ADP Gibraltar_PROPN er_AUX einasta_ADJ farleið_NOUN úr_ADP Miðjarðarhavi_PROPN í_ADP Atlantshav_PROPN ._PUNCT	fo
+Nú á døgum eru indiánarnir í minniluta allastaðni í USA .	Nú_ADV á_ADP døgum_NOUN eru_AUX indiánarnir_NOUN í_ADP minniluta_NOUN allastaðni_ADV í_ADP USA_PROPN ._PUNCT	fo
+Har er nógv gull og kopar .	Har_ADV er_AUX nógv_ADJ gull_NOUN og_CCONJ kopar_NOUN ._PUNCT	fo
+Konservatisma er í stóran mun grundað á liberalismu .	Konservatisma_NOUN er_AUX í_ADP stóran_ADJ mun_NOUN grundað_VERB á_ADP liberalismu_NOUN ._PUNCT	fo
+Í dag er fótbóltsvøllur , har Holið var .	Í_ADP dag_NOUN er_AUX fótbóltsvøllur_NOUN ,_PUNCT har_ADV Holið_PROPN var_AUX ._PUNCT	fo
+Hon hevur eisini teknað nógv frímerki og jólamerki .	Hon_PRON hevur_AUX eisini_ADV teknað_VERB nógv_ADJ frímerki_NOUN og_CCONJ jólamerki_NOUN ._PUNCT	fo
+Í Kalifornia er deyðarevsing .	Í_ADP Kalifornia_PROPN er_AUX deyðarevsing_NOUN ._PUNCT	fo
+Hon fer aftan á djóraætinum , ið eisini fer uppeftir um náttina .	Hon_PRON fer_VERB aftan_ADV á_ADP djóraætinum_NOUN ,_PUNCT ið_PRON eisini_ADV fer_VERB uppeftir_ADV um_ADP náttina_NOUN ._PUNCT	fo
+Men tó eru undantøk .	Men_CCONJ tó_ADV eru_AUX undantøk_NOUN ._PUNCT	fo
+Greinarnar eru taktar uttan við grasi og leyvi .	Greinarnar_NOUN eru_AUX taktar_ADJ uttan_ADV við_ADP grasi_NOUN og_CCONJ leyvi_NOUN ._PUNCT	fo
+Meginparturin av fólkinum er katolikkar .	Meginparturin_NOUN av_ADP fólkinum_NOUN er_AUX katolikkar_ADJ ._PUNCT	fo
+Hon vann gullnál .	Hon_PRON vann_VERB gullnál_NOUN ._PUNCT	fo
+Floygdir ungar eru littir sum bøgan .	Floygdir_ADJ ungar_NOUN eru_AUX littir_ADJ sum_ADP bøgan_NOUN ._PUNCT	fo
+Og soleiðis bleiv tað eisini .	Og_CCONJ soleiðis_ADV bleiv_VERB tað_PRON eisini_ADV ._PUNCT	fo
+Aalborg er vinarbýur hjá Fuglafirði .	Aalborg_PROPN er_AUX vinarbýur_NOUN hjá_ADP Fuglafirði_PROPN ._PUNCT	fo
+Denver : Denver er býur í Colorado .	Denver_PROPN :_PUNCT Denver_PROPN er_AUX býur_NOUN í_ADP Colorado_PROPN ._PUNCT	fo
+Og hon kom at virka í bestu semju við fólkakirkjuna .	Og_CCONJ hon_PRON kom_VERB at_PART virka_VERB í_ADP bestu_ADJ semju_NOUN við_ADP fólkakirkjuna_NOUN ._PUNCT	fo
+Í 2011 vóru 14 nýggir bussar keyptir til býbusskoyringini hjá Tórshavnar kommunu .	Í_ADP 2011_NUM vóru_AUX 14_NUM nýggir_ADJ bussar_NOUN keyptir_VERB til_ADP býbusskoyringini_NOUN hjá_ADP Tórshavnar_PROPN kommunu_NOUN ._PUNCT	fo
+Um orðið .	Um_ADP orðið_NOUN ._PUNCT	fo
+Hegri stendur í kjallara .	Hegri_PROPN stendur_VERB í_ADP kjallara_NOUN ._PUNCT	fo
+Nuuk er nútíðarbýur í menning .	Nuuk_PROPN er_AUX nútíðarbýur_NOUN í_ADP menning_NOUN ._PUNCT	fo
+Størsti býur í Sælandi er Keypmannahavn .	Størsti_ADJ býur_NOUN í_ADP Sælandi_PROPN er_AUX Keypmannahavn_PROPN ._PUNCT	fo
+Landsstýrið er hægsti umsitingarligi myndugleiki í Føroyum .	Landsstýrið_NOUN er_AUX hægsti_ADJ umsitingarligi_ADJ myndugleiki_NOUN í_ADP Føroyum_PROPN ._PUNCT	fo
+26 kommunur eru í Rogaland og Stavanger er fyrisitingarbýur í fylkinum .	26_NUM kommunur_NOUN eru_AUX í_ADP Rogaland_PROPN og_CCONJ Stavanger_PROPN er_AUX fyrisitingarbýur_NOUN í_ADP fylkinum_NOUN ._PUNCT	fo
+Í 2012 er hann venjari hjá B71 , sum spælir í 1. deild .	Í_ADP 2012_NUM er_AUX hann_PRON venjari_NOUN hjá_ADP B71_PROPN ,_PUNCT sum_SCONJ spælir_VERB í_ADP 1._PROPN deild_NOUN ._PUNCT	fo
+Aðrir trúarbólkar í Føroyum eru t.d. islam .	Aðrir_PRON trúarbólkar_NOUN í_ADP Føroyum_PROPN eru_AUX t.d._X islam_NOUN ._PUNCT	fo
+Búskaparligu broytingarnar vóru eisini stórar .	Búskaparligu_ADJ broytingarnar_NOUN vóru_AUX eisini_ADV stórar_ADJ ._PUNCT	fo
+Høvuðsstaðurin og størsti býurin er Providence .	Høvuðsstaðurin_NOUN og_CCONJ størsti_ADJ býurin_NOUN er_AUX Providence_PROPN ._PUNCT	fo
+Høvuðsstaðurin er Oslo .	Høvuðsstaðurin_NOUN er_AUX Oslo_PROPN ._PUNCT	fo
+Meginparturin av fólkinum í Butan býr á bygd og livir av landbúnaði .	Meginparturin_NOUN av_ADP fólkinum_NOUN í_ADP Butan_PROPN býr_VERB á_ADP bygd_NOUN og_CCONJ livir_VERB av_ADP landbúnaði_NOUN ._PUNCT	fo
+Hon er nú alfriðað .	Hon_PRON er_AUX nú_ADV alfriðað_ADJ ._PUNCT	fo
+Føroyskt mál : Føroyskt er høvuðsmálið í Føroyum .	Føroyskt_PROPN mál_NOUN :_PUNCT Føroyskt_PROPN er_AUX høvuðsmálið_NOUN í_ADP Føroyum_PROPN ._PUNCT	fo
+Tá ið kommunisman kom til Russlands .	Tá_SCONJ ið_PRON kommunisman_NOUN kom_VERB til_ADP Russlands_PROPN ._PUNCT	fo
+Endamál felagsins er at varðveita gomlu føroysku bátamentanina .	Endamál_NOUN felagsins_NOUN er_AUX at_PART varðveita_VERB gomlu_ADJ føroysku_ADJ bátamentanina_NOUN ._PUNCT	fo
+Sí dømini fyri at síggja gongdina .	Sí_VERB dømini_NOUN fyri_ADP at_PART síggja_VERB gongdina_NOUN ._PUNCT	fo
+Í 895 var ungarskt landnám .	Í_ADP 895_NUM var_AUX ungarskt_ADJ landnám_NOUN ._PUNCT	fo
+Í stórbýum sum Keypmannahavn er nógv fartan aftur og fram .	Í_ADP stórbýum_NOUN sum_SCONJ Keypmannahavn_PROPN er_AUX nógv_ADJ fartan_ADJ aftur_ADV og_CCONJ fram_ADP ._PUNCT	fo
+Nú er landið betur kent fyri at vera miðstøð fyri evropeiskar rúmdarverkætlanir .	Nú_ADV er_AUX landið_NOUN betur_ADV kent_VERB fyri_ADP at_PART vera_AUX miðstøð_NOUN fyri_ADP evropeiskar_ADJ rúmdarverkætlanir_NOUN ._PUNCT	fo
+Kuldin sýnist ikki at rína á honum .	Kuldin_NOUN sýnist_VERB ikki_ADV at_PART rína_VERB á_ADP honum_PRON ._PUNCT	fo
+Fólkatalið er í dag 102 .	Fólkatalið_NOUN er_AUX í_ADP dag_NOUN 102_NUM ._PUNCT	fo
+Kongadagur : Kongadagur er 11. februar .	Kongadagur_PROPN :_PUNCT Kongadagur_PROPN er_AUX 11._NUM februar_PROPN ._PUNCT	fo
+Atlanta er høvuðsstaðurin og størsti býurin .	Atlanta_PROPN er_AUX høvuðsstaðurin_NOUN og_CCONJ størsti_ADJ býurin_NOUN ._PUNCT	fo
+Akførini hjá sløkkiliðnum eru somuleiðis í ringum standi .	Akførini_NOUN hjá_ADP sløkkiliðnum_NOUN eru_AUX somuleiðis_ADV í_ADP ringum_ADJ standi_NOUN ._PUNCT	fo
+Býurin er handils- og samferðslumiðdepilin í lutstatinum .	Býurin_NOUN er_AUX handils-_NOUN og_CCONJ samferðslumiðdepilin_NOUN í_ADP lutstatinum_NOUN ._PUNCT	fo
+Bisjkek er bæði høvuðsstaður og størsti býur í Kirgisistan .	Bisjkek_PROPN er_AUX bæði_CCONJ høvuðsstaður_NOUN og_CCONJ størsti_ADJ býur_NOUN í_ADP Kirgisistan_PROPN ._PUNCT	fo
+Endaliga støðan sæst í klombrunum .	Endaliga_ADJ støðan_NOUN sæst_VERB í_ADP klombrunum_NOUN ._PUNCT	fo
+Summir soppar liva sum snultarar á dýrum og plantum .	Summir_DET soppar_NOUN liva_VERB sum_ADP snultarar_ADJ á_ADP dýrum_NOUN og_CCONJ plantum_NOUN ._PUNCT	fo
+Ferðavinnan hevur stóran týdning fyri Áland .	Ferðavinnan_NOUN hevur_VERB stóran_ADJ týdning_NOUN fyri_ADP Áland_PROPN ._PUNCT	fo
+Barbara byggir á skaldsøgu eftir Jørgen - Frantz Jacobsen .	Barbara_PROPN byggir_VERB á_ADP skaldsøgu_NOUN eftir_ADP Jørgen_PROPN -_PUNCT Frantz_PROPN Jacobsen_PROPN ._PUNCT	fo
+Býurin var høvuðsstaður í ríkinum leingi .	Býurin_NOUN var_AUX høvuðsstaður_NOUN í_ADP ríkinum_NOUN leingi_ADV ._PUNCT	fo
+Svarið er ein kúgv .	Svarið_NOUN er_AUX ein_DET kúgv_NOUN ._PUNCT	fo
+Tað eru 36 kommunur í Møre og Romsdal .	Tað_PRON eru_AUX 36_NUM kommunur_NOUN í_ADP Møre_PROPN og_CCONJ Romsdal_PROPN ._PUNCT	fo
+Høvuðsstaðurin er Harrisburg og størsti býurin er Philadelphia .	Høvuðsstaðurin_NOUN er_AUX Harrisburg_PROPN og_CCONJ størsti_ADJ býurin_NOUN er_AUX Philadelphia_PROPN ._PUNCT	fo
+Tvær ferðir varð hann útnevndur Ársins evropeiski fótbóltsleikari .	Tvær_NUM ferðir_NOUN varð_AUX hann_PRON útnevndur_VERB Ársins_PROPN evropeiski_ADJ fótbóltsleikari_NOUN ._PUNCT	fo
+Hetta kom í lag við kongsbrævi , dagfest 19. mars .	Hetta_PRON kom_VERB í_ADP lag_NOUN við_ADP kongsbrævi_NOUN ,_PUNCT dagfest_ADJ 19._NUM mars_PROPN ._PUNCT	fo
+Í Panama eru nógvar áir .	Í_ADP Panama_PROPN eru_AUX nógvar_ADJ áir_NOUN ._PUNCT	fo
+Týskland var fallið .	Týskland_PROPN var_AUX fallið_VERB ._PUNCT	fo
+Á mongum oyggjum eru amerikanskar hernaðarstøðir .	Á_ADP mongum_ADJ oyggjum_NOUN eru_AUX amerikanskar_ADJ hernaðarstøðir_NOUN ._PUNCT	fo
+Barnablaðið : Barnablaðið er eitt føroyskt tíðarrit fyri børn .	Barnablaðið_PROPN :_PUNCT Barnablaðið_PROPN er_AUX eitt_DET føroyskt_ADJ tíðarrit_NOUN fyri_ADP børn_NOUN ._PUNCT	fo
+Men hetta var honum ikki nokk .	Men_CCONJ hetta_PRON var_AUX honum_PRON ikki_ADV nokk_DET ._PUNCT	fo
+Í 2014 eru 164 130 menn og 162 920 kvinnur .	Í_ADP 2014_NUM eru_AUX 164_NUM 130_NUM menn_NOUN og_CCONJ 162_NUM 920_NUM kvinnur_NOUN ._PUNCT	fo
+Fyrr vóru stórir skógir á Fílabeinsstrondini .	Fyrr_ADV vóru_AUX stórir_ADJ skógir_NOUN á_ADP Fílabeinsstrondini_PROPN ._PUNCT	fo
+Har áin rennur í havið , eru stórar fruktagóðar oyrar .	Har_SCONJ áin_NOUN rennur_VERB í_ADP havið_NOUN ,_PUNCT eru_AUX stórar_ADJ fruktagóðar_ADJ oyrar_NOUN ._PUNCT	fo
+Á tunguni eru smáar tenn .	Á_ADP tunguni_NOUN eru_AUX smáar_ADJ tenn_NOUN ._PUNCT	fo
+Undir ABC-samgonguni varð Samvit í 2009 lagt undir Uttanríkisráðið .	Undir_ADP ABC-samgonguni_PROPN varð_AUX Samvit_PROPN í_ADP 2009_NUM lagt_VERB undir_ADP Uttanríkisráðið_PROPN ._PUNCT	fo
+Funningur var nýggjársbygd .	Funningur_NOUN var_AUX nýggjársbygd_ADJ ._PUNCT	fo
+Í 2010 var fólkatalið í býnum 9.065 .	Í_ADP 2010_NUM var_AUX fólkatalið_NOUN í_ADP býnum_NOUN 9.065_NUM ._PUNCT	fo
+Høgar brekkur eru fram við strondini , og í dølunum eru umstøðurnar góðar til landbúnað .	Høgar_ADJ brekkur_NOUN eru_AUX fram_ADP við_ADP strondini_NOUN ,_PUNCT og_CCONJ í_ADP dølunum_NOUN eru_AUX umstøðurnar_NOUN góðar_ADJ til_ADP landbúnað_NOUN ._PUNCT	fo
+Men búskapar- og ídnaðarmiðdepilin í landinum er Johannesburg , eisini nevndur " Gullbýurin " .	Men_CCONJ búskapar-_NOUN og_CCONJ ídnaðarmiðdepilin_NOUN í_ADP landinum_NOUN er_AUX Johannesburg_PROPN ,_PUNCT eisini_ADV nevndur_VERB "_PUNCT Gullbýurin_PROPN "_PUNCT ._PUNCT	fo
+Betesda : Betesda er brøðrasamkoma í Klaksvík .	Betesda_PROPN :_PUNCT Betesda_PROPN er_AUX brøðrasamkoma_NOUN í_ADP Klaksvík_PROPN ._PUNCT	fo

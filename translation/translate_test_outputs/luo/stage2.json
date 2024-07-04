@@ -1,0 +1,3305 @@
+[
+  {
+    "src_lang": "Migosi Odundo told Ramogi's daughter-in-law that the chicken was also caught with a hammer that is used to cut electrical wood, as well as a pitchfork that he used from his home on the slopes of Mt Nanga and Weyni which he had crossed.",
+    "src_entities": [
+      "Migosi Odundo",
+      "Ramogi's",
+      "Mt Nanga",
+      "Weyni"
+    ],
+    "template": "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima , kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+    "text_to_decode": [
+      {
+        "text": "[ Migosi Odundo ] told Ramogi's daughter-in-law that the chicken was also caught with a hammer that is used to cut electrical wood, as well as a pitchfork that he used from his home on the slopes of Mt Nanga and Weyni which he had crossed.",
+        "candidates": [
+          2,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12
+        ]
+      },
+      {
+        "text": "Migosi Odundo told [ Ramogi's ] daughter-in-law that the chicken was also caught with a hammer that is used to cut electrical wood, as well as a pitchfork that he used from his home on the slopes of Mt Nanga and Weyni which he had crossed.",
+        "candidates": [
+          8,
+          10,
+          12,
+          13,
+          16,
+          17
+        ]
+      },
+      {
+        "text": "Migosi Odundo told Ramogi's daughter-in-law that the chicken was also caught with a hammer that is used to cut electrical wood, as well as a pitchfork that he used from his home on the slopes of [ Mt Nanga ] and Weyni which he had crossed.",
+        "candidates": [
+          49,
+          51,
+          53,
+          54,
+          59
+        ]
+      },
+      {
+        "text": "Migosi Odundo told Ramogi's daughter-in-law that the chicken was also caught with a hammer that is used to cut electrical wood, as well as a pitchfork that he used from his home on the slopes of Mt Nanga and [ Weyni ] which he had crossed.",
+        "candidates": [
+          53,
+          54,
+          56,
+          57,
+          59,
+          60,
+          62,
+          63
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In a message sent to hospitals, the health department explained that 169 patients have been released after recovering.",
+    "src_entities": [],
+    "template": "E ote mane oor ne ute fwambo , bad migao mar thieth olero ni jii 169 owe thuolo odok pacho bang chango .",
+    "text_to_decode": [
+      {
+        "text": "In a message sent to hospitals, the health department explained that 169 patients have been released after recovering.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "This was announced by the deputy head of the health department in Turkey, Dr. Mercy Mwangangi, who said that the number of cases was 796 out of 6,754 people tested in the last 24 hours.",
+    "src_entities": [
+      "Turkey,",
+      "Mercy Mwangangi,"
+    ],
+    "template": "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e thurka laktar Mercy Mwangangi mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo",
+    "text_to_decode": [
+      {
+        "text": "This was announced by the deputy head of the health department in [ Turkey, ] Dr. Mercy Mwangangi, who said that the number of cases was 796 out of 6,754 people tested in the last 24 hours.",
+        "candidates": [
+          14,
+          17,
+          18,
+          22,
+          23,
+          24,
+          25,
+          27
+        ]
+      },
+      {
+        "text": "This was announced by the deputy head of the health department in Turkey, Dr. [ Mercy Mwangangi, ] who said that the number of cases was 796 out of 6,754 people tested in the last 24 hours.",
+        "candidates": [
+          2,
+          41,
+          45,
+          46,
+          18,
+          50,
+          23,
+          24,
+          25,
+          27,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The dock was closed even after the Doho store in the home of David Maraga gave permission to open the facilities after it was discovered that 11 workers at the dock had been smuggling drumsticks and toiletries to the smokers.",
+    "src_entities": [
+      "Doho",
+      "David Maraga"
+    ],
+    "template": "Doho no ne ochak olor kata bang ogai mar Doho e pachoka David Maraga chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo .",
+    "text_to_decode": [
+      {
+        "text": "The dock was closed even after the [ Doho ] store in the home of David Maraga gave permission to open the facilities after it was discovered that 11 workers at the dock had been smuggling drumsticks and toiletries to the smokers.",
+        "candidates": [
+          12,
+          13,
+          14,
+          15,
+          17,
+          18,
+          19,
+          20,
+          25,
+          26,
+          27,
+          29,
+          30,
+          32
+        ]
+      },
+      {
+        "text": "The dock was closed even after the Doho store in the home of [ David Maraga ] gave permission to open the facilities after it was discovered that 11 workers at the dock had been smuggling drumsticks and toiletries to the smokers.",
+        "candidates": [
+          2,
+          3,
+          5,
+          6,
+          15,
+          20,
+          23
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Migosi Raila said that MCAS has shamed the people with their constant wars instead of serving the people who elected them.",
+    "src_entities": [
+      "Raila",
+      "MCAS"
+    ],
+    "template": "Migosi Raila nowacho ni MCAS osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi",
+    "text_to_decode": [
+      {
+        "text": "Migosi [ Raila ] said that MCAS has shamed the people with their constant wars instead of serving the people who elected them.",
+        "candidates": [
+          35,
+          4,
+          6,
+          31
+        ]
+      },
+      {
+        "text": "Migosi Raila said that [ MCAS ] has shamed the people with their constant wars instead of serving the people who elected them.",
+        "candidates": [
+          35,
+          8,
+          10,
+          12,
+          31
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Commenting on the matter, Deputy Director General of the Ministry of Foreign Affairs Victor Bwire said that the action was taken after the revelations that there is an increase in the number of journalists and the number of abductions.",
+    "src_entities": [
+      "Ministry of Foreign Affairs",
+      "Victor Bwire"
+    ],
+    "template": "Kanowuoyo ewii wachno jalup jataa tije e duondno migosi Victor Bwire nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila",
+    "text_to_decode": [
+      {
+        "text": "Commenting on the matter, Deputy Director General of the [ Ministry of Foreign Affairs ] Victor Bwire said that the action was taken after the revelations that there is an increase in the number of journalists and the number of abductions.",
+        "candidates": [
+          2,
+          5,
+          11,
+          12,
+          15,
+          16,
+          18
+        ]
+      },
+      {
+        "text": "Commenting on the matter, Deputy Director General of the Ministry of Foreign Affairs [ Victor Bwire ] said that the action was taken after the revelations that there is an increase in the number of journalists and the number of abductions.",
+        "candidates": [
+          18,
+          12,
+          16,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The Association of Home Nurses has submitted its 21st petition to the state and county governments to put into practice the agreement they made in their call to return to work.",
+    "src_entities": [
+      "Association of Home Nurses"
+    ],
+    "template": "Riwruog nurses e pachoka ochiwo notis mar 21 ne piny owacho ma malo gi piny owacho mag counties mondomi gikete tim winjruok mane giketoe e kokgi mar dok etich maka okotimore gibiro bago nganyo .",
+    "text_to_decode": [
+      {
+        "text": "The [ Association of Home Nurses ] has submitted its 21st petition to the state and county governments to put into practice the agreement they made in their call to return to work.",
+        "candidates": [
+          2,
+          4,
+          6,
+          9,
+          12,
+          14,
+          15,
+          16
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Meanwhile, 2 other patients died of the infection.",
+    "src_entities": [],
+    "template": "Gi e kindeno jotuo mok 2 owito ngimagi gi tuo makochno .",
+    "text_to_decode": [
+      {
+        "text": "Meanwhile, 2 other patients died of the infection.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The body of a high school student is still being searched",
+    "src_entities": [],
+    "template": "Ringre ja sekondar pod imanyo",
+    "text_to_decode": [
+      {
+        "text": "The body of a high school student is still being searched",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Local leader Joel Otieno discovers that he was accidentally stabbed in the stomach by another student during a soccer game after the fifth exam and runs away with him to the hospital in Rodi to where his father took him to the homabay county teaching and referal hospital in Ongielo where he escaped.",
+    "src_entities": [
+      "Joel Otieno",
+      "Rodi",
+      "Ongielo"
+    ],
+    "template": "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo .",
+    "text_to_decode": [
+      {
+        "text": "Local leader [ Joel Otieno ] discovers that he was accidentally stabbed in the stomach by another student during a soccer game after the fifth exam and runs away with him to the hospital in Rodi to where his father took him to the homabay county teaching and referal hospital in Ongielo where he escaped.",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          34,
+          10,
+          12,
+          13,
+          14,
+          16,
+          18,
+          29,
+          62,
+          31,
+          64
+        ]
+      },
+      {
+        "text": "Local leader Joel Otieno discovers that he was accidentally stabbed in the stomach by another student during a soccer game after the fifth exam and runs away with him to the hospital in [ Rodi ] to where his father took him to the homabay county teaching and referal hospital in Ongielo where he escaped.",
+        "candidates": [
+          43,
+          47,
+          50,
+          54,
+          55
+        ]
+      },
+      {
+        "text": "Local leader Joel Otieno discovers that he was accidentally stabbed in the stomach by another student during a soccer game after the fifth exam and runs away with him to the hospital in Rodi to where his father took him to the homabay county teaching and referal hospital in [ Ongielo ] where he escaped.",
+        "candidates": [
+          69,
+          70,
+          72,
+          73,
+          75,
+          59,
+          29,
+          64
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "which is after the committee representing the law and punishment at the bottom of the odm cave dropped the proposal to expel the incumbent MP Aisha Jumwa and Msambweni MP Suleiman Dori over allegations of non-compliance with ODM rules and backing power",
+    "src_entities": [
+      "Aisha Jumwa",
+      "Msambweni",
+      "Suleiman Dori",
+      "ODM"
+    ],
+    "template": "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+    "text_to_decode": [
+      {
+        "text": "which is after the committee representing the law and punishment at the bottom of the odm cave dropped the proposal to expel the incumbent MP [ Aisha Jumwa ] and Msambweni MP Suleiman Dori over allegations of non-compliance with ODM rules and backing power",
+        "candidates": [
+          34,
+          35,
+          36,
+          40,
+          41,
+          29,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "which is after the committee representing the law and punishment at the bottom of the odm cave dropped the proposal to expel the incumbent MP Aisha Jumwa and [ Msambweni ] MP Suleiman Dori over allegations of non-compliance with ODM rules and backing power",
+        "candidates": [
+          34,
+          41,
+          44,
+          45,
+          29,
+          33
+        ]
+      },
+      {
+        "text": "which is after the committee representing the law and punishment at the bottom of the odm cave dropped the proposal to expel the incumbent MP Aisha Jumwa and Msambweni MP [ Suleiman Dori ] over allegations of non-compliance with ODM rules and backing power",
+        "candidates": [
+          48
+        ]
+      },
+      {
+        "text": "which is after the committee representing the law and punishment at the bottom of the odm cave dropped the proposal to expel the incumbent MP Aisha Jumwa and Msambweni MP Suleiman Dori over allegations of non-compliance with [ ODM ] rules and backing power",
+        "candidates": [
+          67,
+          58,
+          59,
+          61,
+          62,
+          63,
+          64
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Ngwele has been out of the race since November last year when Elachi wrote to the EACC that he was wrongly elected.",
+    "src_entities": [
+      "Ngwele",
+      "Elachi",
+      "EACC"
+    ],
+    "template": "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare .",
+    "text_to_decode": [
+      {
+        "text": "[ Ngwele ] has been out of the race since November last year when Elachi wrote to the EACC that he was wrongly elected.",
+        "candidates": [
+          2,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "Ngwele has been out of the race since November last year when [ Elachi ] wrote to the EACC that he was wrongly elected.",
+        "candidates": [
+          13,
+          16,
+          17,
+          18,
+          22
+        ]
+      },
+      {
+        "text": "Ngwele has been out of the race since November last year when Elachi wrote to the [ EACC ] that he was wrongly elected.",
+        "candidates": [
+          34,
+          17,
+          22,
+          25,
+          26
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Obila in the sub-county of Bondo has denied some allegations from the authorities that they are taking advantage of the ongoing rainy season and taking bribes from matatu owners and border guards.",
+    "src_entities": [
+      "Obila",
+      "Bondo"
+    ],
+    "template": "Obila e subcounty ma Bondo okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo bodaboda .",
+    "text_to_decode": [
+      {
+        "text": "[ Obila ] in the sub-county of Bondo has denied some allegations from the authorities that they are taking advantage of the ongoing rainy season and taking bribes from matatu owners and border guards.",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          39,
+          8,
+          42,
+          11,
+          43,
+          44,
+          45,
+          15
+        ]
+      },
+      {
+        "text": "Obila in the sub-county of [ Bondo ] has denied some allegations from the authorities that they are taking advantage of the ongoing rainy season and taking bribes from matatu owners and border guards.",
+        "candidates": [
+          9,
+          11,
+          44,
+          45,
+          43
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The student, identified as Javan Onyango, sustained a spinal cord injury while playing football with his teammates in the school's stadium.",
+    "src_entities": [
+      "Javan Onyango,"
+    ],
+    "template": "japuonjreno ma oyangi kaka Javan Onyango ne oyudo hinyruok e bund iy e kinde maneotugo kod jowetene opira e pap mar skundno .",
+    "text_to_decode": [
+      {
+        "text": "The student, identified as [ Javan Onyango, ] sustained a spinal cord injury while playing football with his teammates in the school's stadium.",
+        "candidates": [
+          2,
+          4,
+          6,
+          7,
+          8,
+          9,
+          11,
+          16
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+    "src_entities": [
+      "Homabay",
+      "Kisumu",
+      "Kisumu;",
+      "Kanyidoto",
+      "Walter Were Muok",
+      "Homabay",
+      "Central Karachuonyo",
+      "Julius Gaya."
+    ],
+    "template": "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya .",
+    "text_to_decode": [
+      {
+        "text": "This is after 2 MCAs wanted [ Homabay ] was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+        "candidates": [
+          7,
+          9,
+          10,
+          11,
+          12,
+          13,
+          18,
+          23,
+          24,
+          27,
+          28,
+          29,
+          31,
+          32
+        ]
+      },
+      {
+        "text": "This is after 2 MCAs wanted Homabay was also transferred to [ Kisumu ] there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+        "candidates": [
+          36,
+          19,
+          20,
+          22,
+          23,
+          24,
+          29,
+          30,
+          31,
+          33
+        ]
+      },
+      {
+        "text": "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to [ Kisumu; ] the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+        "candidates": [
+          34,
+          36,
+          37,
+          38,
+          41,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of [ Kanyidoto ] Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+        "candidates": [
+          36,
+          37,
+          40,
+          41,
+          45
+        ]
+      },
+      {
+        "text": "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto [ Walter Were Muok ] who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+        "candidates": [
+          45,
+          49,
+          40,
+          41
+        ]
+      },
+      {
+        "text": "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the [ Homabay ] parliament and the MCA of Central Karachuonyo Julius Gaya.",
+        "candidates": [
+          53,
+          55,
+          57,
+          59,
+          60,
+          62
+        ]
+      },
+      {
+        "text": "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of [ Central Karachuonyo ] Julius Gaya.",
+        "candidates": [
+          66,
+          70,
+          72,
+          65
+        ]
+      },
+      {
+        "text": "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo [ Julius Gaya. ]",
+        "candidates": [
+          70,
+          72,
+          73
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The total number of confirmed cases of the Coronavirus today is 637",
+    "src_entities": [],
+    "template": "Kwan jii moyudi ni nikod tuo mar Coronavirus ei kawuononi gin jii 637",
+    "text_to_decode": [
+      {
+        "text": "The total number of confirmed cases of the Coronavirus today is 637",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Oguk says that they have noticed that people now only buy medicines in pharmacies while others visit our sisters in the countryside to seek treatment.",
+    "src_entities": [
+      "Oguk"
+    ],
+    "template": "Oguk wacho ni gisefwenyo ni jii sani thoro mana ng' iew yien e kuonde uso yedhe ka mamoko to limo nyamrerwa mae kor gwenge ka gimanyo thieth .",
+    "text_to_decode": [
+      {
+        "text": "[ Oguk ] says that they have noticed that people now only buy medicines in pharmacies while others visit our sisters in the countryside to seek treatment.",
+        "candidates": [
+          2,
+          4,
+          6,
+          44
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "960 people infected",
+    "src_entities": [],
+    "template": "JII 960 OYUDO KORONA",
+    "text_to_decode": [
+      {
+        "text": "960 people infected",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The people of Kakrao Ward Sub County of Suna East in Migori County are now more bitter than the government of their county and the elected officials of their village there for neglecting them, saying that their villages have been lagging behind in matters of equality for centuries.",
+    "src_entities": [
+      "Kakrao Ward",
+      "Suna East",
+      "Migori County"
+    ],
+    "template": "Jo Kakrao Ward Sub County ma Suna East e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+    "text_to_decode": [
+      {
+        "text": "The people of [ Kakrao Ward ] Sub County of Suna East in Migori County are now more bitter than the government of their county and the elected officials of their village there for neglecting them, saying that their villages have been lagging behind in matters of equality for centuries.",
+        "candidates": [
+          2,
+          3,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The people of Kakrao Ward Sub County of [ Suna East ] in Migori County are now more bitter than the government of their county and the elected officials of their village there for neglecting them, saying that their villages have been lagging behind in matters of equality for centuries.",
+        "candidates": [
+          11,
+          13,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "The people of Kakrao Ward Sub County of Suna East in [ Migori County ] are now more bitter than the government of their county and the elected officials of their village there for neglecting them, saying that their villages have been lagging behind in matters of equality for centuries.",
+        "candidates": [
+          11,
+          12,
+          13,
+          14,
+          16
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "This is according to a medical consultant in the county of James Oguk.",
+    "src_entities": [
+      "James Oguk."
+    ],
+    "template": "Maeri en kaluwore g apisa moro mar thieth e countino James Oguk .",
+    "text_to_decode": [
+      {
+        "text": "This is according to a medical consultant in the county of [ James Oguk. ]",
+        "candidates": [
+          11,
+          15,
+          16,
+          19
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "A total of 796 positive cases of Covid - 19 have been confirmed today",
+    "src_entities": [],
+    "template": "Kwan jii maromo 796 mane oyudi ni nigi Covid - 19 ei kawuononi",
+    "text_to_decode": [
+      {
+        "text": "A total of 796 positive cases of Covid - 19 have been confirmed today",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The chairman of the ODM board of directors Raila Amolo Odinga has today blamed the MCAS for abusing the state-appointed development ministries",
+    "src_entities": [
+      "ODM",
+      "Raila Amolo Odinga",
+      "MCAS"
+    ],
+    "template": "Jatend duond bura mar ODM migosi Raila Amolo Odinga kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+    "text_to_decode": [
+      {
+        "text": "The chairman of the [ ODM ] board of directors Raila Amolo Odinga has today blamed the MCAS for abusing the state-appointed development ministries",
+        "candidates": [
+          35,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          38,
+          29,
+          30,
+          31,
+          33
+        ]
+      },
+      {
+        "text": "The chairman of the ODM board of directors [ Raila Amolo Odinga ] has today blamed the MCAS for abusing the state-appointed development ministries",
+        "candidates": [
+          2,
+          35,
+          36,
+          6,
+          38,
+          9,
+          10,
+          11,
+          29,
+          30,
+          31,
+          33
+        ]
+      },
+      {
+        "text": "The chairman of the ODM board of directors Raila Amolo Odinga has today blamed the [ MCAS ] for abusing the state-appointed development ministries",
+        "candidates": [
+          17,
+          20,
+          21,
+          22,
+          23,
+          25,
+          29,
+          30,
+          31,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "praised President Kenyatta for the measures taken by his government to fight corruption and urged him to do so without prejudice.",
+    "src_entities": [
+      "Kenyatta"
+    ],
+    "template": "ne opuoyo Ker Kenyatta kuom okenge ma piny owacho mare osekao mar kedo gi mibadhi ka okwaye mondo otime ma ok odewo ngato angata .",
+    "text_to_decode": [
+      {
+        "text": "praised President [ Kenyatta ] for the measures taken by his government to fight corruption and urged him to do so without prejudice.",
+        "candidates": [
+          2,
+          4,
+          36,
+          37,
+          7,
+          13,
+          14,
+          15,
+          16
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "On the other hand, seven other doctors who work in the board of health insurance of NHIF have also been arrested.",
+    "src_entities": [
+      "NHIF"
+    ],
+    "template": "To kumachielo bende apisas mamoko 7 ma jotiyo e board mochungne insurance mar thieth ka NHIF bende nyo omaki",
+    "text_to_decode": [
+      {
+        "text": "On the other hand, seven other doctors who work in the board of health insurance of [ NHIF ] have also been arrested.",
+        "candidates": [
+          2,
+          3,
+          4,
+          6,
+          7,
+          8,
+          17,
+          20,
+          21,
+          22,
+          24,
+          25,
+          28,
+          30
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "they are hired and then they see that they are hiring a new person and then they see that the writer is not there yet",
+    "src_entities": [],
+    "template": "oketinegi to nyochane gineno ni gikau jii manyien emane gikawoe jagono ni to ne pok",
+    "text_to_decode": [
+      {
+        "text": "they are hired and then they see that they are hiring a new person and then they see that the writer is not there yet",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "According to the Ministry of Health, this brings the total number of cases to 17,603.",
+    "src_entities": [
+      "Ministry of Health,"
+    ],
+    "template": "Bad migao mar thieth olero ni mano koro kelo kwan jii moseyudo tuono chopo 17 , 603 .",
+    "text_to_decode": [
+      {
+        "text": "According to the [ Ministry of Health, ] this brings the total number of cases to 17,603.",
+        "candidates": [
+          3,
+          4,
+          6,
+          8,
+          11,
+          12,
+          13,
+          15,
+          16,
+          19,
+          20,
+          21
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Governor Migori Okoli Obado may smile after Kibra releases him with a 500 thousand shilling ransom.",
+    "src_entities": [
+      "Migori Okoli Obado",
+      "Kibra"
+    ],
+    "template": "Gavana ma Migori migosi Okoth Obado nyalo buonjo bang doho ma Kibra weye thuolo gi rambun mar silings gana 500 .",
+    "text_to_decode": [
+      {
+        "text": "Governor [ Migori Okoli Obado ] may smile after Kibra releases him with a 500 thousand shilling ransom.",
+        "candidates": [
+          2,
+          34,
+          4,
+          5,
+          7,
+          9,
+          10,
+          13,
+          14,
+          17,
+          18,
+          29,
+          30,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "Governor Migori Okoli Obado may smile after [ Kibra ] releases him with a 500 thousand shilling ransom.",
+        "candidates": [
+          4,
+          7,
+          8,
+          10,
+          14,
+          17,
+          18,
+          19,
+          20,
+          22,
+          24,
+          26,
+          27
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Speaking live on television from the Afya House in Nairobi, Dr Aman also announced that 10 people have died today, bringing the total number of deaths in the country to 260.",
+    "src_entities": [
+      "Afya House",
+      "Nairobi,",
+      "Aman"
+    ],
+    "template": "Kanowuoyo gi jopiny kachiel kachiel e tipo mar telebisen kowuok Afya House e boma ma Nairobika laktar Aman bende ne oyango ni nitie jii 10 mane tuono olal gi ngimagi ei kawuononi makoro kelo kwan jogo duto ma tuono osenego e thurka chopo jii 260",
+    "text_to_decode": [
+      {
+        "text": "Speaking live on television from the [ Afya House ] in Nairobi, Dr Aman also announced that 10 people have died today, bringing the total number of deaths in the country to 260.",
+        "candidates": [
+          14,
+          16,
+          18,
+          21,
+          22,
+          24,
+          28,
+          33
+        ]
+      },
+      {
+        "text": "Speaking live on television from the Afya House in [ Nairobi, ] Dr Aman also announced that 10 people have died today, bringing the total number of deaths in the country to 260.",
+        "candidates": [
+          18,
+          22,
+          23,
+          24,
+          28
+        ]
+      },
+      {
+        "text": "Speaking live on television from the Afya House in Nairobi, Dr [ Aman ] also announced that 10 people have died today, bringing the total number of deaths in the country to 260.",
+        "candidates": [
+          48,
+          52,
+          53,
+          24,
+          28,
+          30,
+          31,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Oppositon still stands at his feet",
+    "src_entities": [],
+    "template": "Oppositon pod ochung kar tiende",
+    "text_to_decode": [
+      {
+        "text": "Oppositon still stands at his feet",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Doho leaves the governor Obado with the rambun",
+    "src_entities": [
+      "Doho",
+      "Obado"
+    ],
+    "template": "Doho oweyo thuolo gavana Obado gi rambun",
+    "text_to_decode": [
+      {
+        "text": "[ Doho ] leaves the governor Obado with the rambun",
+        "candidates": [
+          2,
+          4,
+          7,
+          11,
+          12
+        ]
+      },
+      {
+        "text": "Doho leaves the governor [ Obado ] with the rambun",
+        "candidates": [
+          4,
+          6,
+          7,
+          9,
+          11,
+          12
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He said that their so-called \"Building Bridges Initiative\" is now being implemented in all parts of Kenya, gathering the world's attention on how to solve the problems of government corruption.",
+    "src_entities": [
+      "Kenya,"
+    ],
+    "template": "Nowacho ni winjruok margi mongére kaka Building Bridges Initiative sani luorore e tung Kenya mangima ka choko pach jopiny ewii kaka inyalotieko weche mag jotelo chamo pes jopinygo",
+    "text_to_decode": [
+      {
+        "text": "He said that their so-called \"Building Bridges Initiative\" is now being implemented in all parts of [ Kenya, ] gathering the world's attention on how to solve the problems of government corruption.",
+        "candidates": [
+          5,
+          6,
+          7,
+          8,
+          39,
+          10,
+          40,
+          42,
+          43,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "A 17-year-old student who took the KCSE exam ran away",
+    "src_entities": [],
+    "template": "Japuonjre ma jahigni 17 manetimo penj mar KCSE ongielo orengo",
+    "text_to_decode": [
+      {
+        "text": "A 17-year-old student who took the KCSE exam ran away",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "41-year-old man arrested for stealing from Ugenya power plant",
+    "src_entities": [
+      "Ugenya"
+    ],
+    "template": "Jago ma jahigni 41 ne omaki ka okwalo weyni mag keyo teko stima Ugenya",
+    "text_to_decode": [
+      {
+        "text": "41-year-old man arrested for stealing from [ Ugenya ] power plant",
+        "candidates": [
+          20,
+          21,
+          22,
+          25
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "said that they have taken measures and a fair system of punishment for those who violate the laws of the country",
+    "src_entities": [],
+    "template": "ne owacho ni giseketo okenge to kod chenmro makare mar chiwo kum ne jogo mabiro ketho chike mag apaya",
+    "text_to_decode": [
+      {
+        "text": "said that they have taken measures and a fair system of punishment for those who violate the laws of the country",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Prosecutor Kibra Joyce Gandani was told there was not enough evidence from the witches to extend the ban on his release for 2 weeks as they wanted...",
+    "src_entities": [
+      "Kibra Joyce Gandani"
+    ],
+    "template": "Jangad buche edoho ma Kibra Joyce Gandani ne okoni onge neno moromo mane ochiw gi jomin wach eloo piny manyalo miyo mmed gengne migosi Obado kuom thuolo mar jumbe 2 kaka ne gidwaro . .",
+    "text_to_decode": [
+      {
+        "text": "Prosecutor [ Kibra Joyce Gandani ] was told there was not enough evidence from the witches to extend the ban on his release for 2 weeks as they wanted...",
+        "candidates": [
+          2,
+          5,
+          6,
+          7,
+          8,
+          9,
+          14,
+          15,
+          16,
+          17,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          42,
+          51,
+          52,
+          53
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The Mcas are Evans Marieba, from Gwasi North, Phelimon Onditi (Kagan), Dan Were (Kakelo Kokwanawa), Paul Wamunga (North Karachuonyo ward), and the Mca Sunny ward Peter Kaula.",
+    "src_entities": [
+      "Evans Marieba,",
+      "Gwasi North,",
+      "Phelimon Onditi",
+      "Dan Were",
+      "Paul Wamunga",
+      "Mca Sunny",
+      "Peter Kaula."
+    ],
+    "template": "Mcas gin Evans Marieba , ma Gwasi North , Phelimon Onditi ( Kagan ) , Dan Were ( Kakelo Kokwanyo ) Paul Wamunga ( North Karachuonyo ward ) , kod Mca ma Wang' chieng ward Peter Kaula .",
+    "text_to_decode": [
+      {
+        "text": "The Mcas are [ Evans Marieba, ] from Gwasi North, Phelimon Onditi (Kagan), Dan Were (Kakelo Kokwanawa), Paul Wamunga (North Karachuonyo ward), and the Mca Sunny ward Peter Kaula.",
+        "candidates": [
+          2,
+          5,
+          8,
+          9,
+          10,
+          13,
+          14,
+          22,
+          27,
+          32
+        ]
+      },
+      {
+        "text": "The Mcas are Evans Marieba, from [ Gwasi North, ] Phelimon Onditi (Kagan), Dan Were (Kakelo Kokwanawa), Paul Wamunga (North Karachuonyo ward), and the Mca Sunny ward Peter Kaula.",
+        "candidates": [
+          8,
+          10,
+          13,
+          14,
+          20,
+          22,
+          23
+        ]
+      },
+      {
+        "text": "The Mcas are Evans Marieba, from Gwasi North, [ Phelimon Onditi ] (Kagan), Dan Were (Kakelo Kokwanawa), Paul Wamunga (North Karachuonyo ward), and the Mca Sunny ward Peter Kaula.",
+        "candidates": [
+          37,
+          8,
+          9,
+          10,
+          42,
+          43,
+          14,
+          48,
+          19,
+          20,
+          22,
+          23,
+          27,
+          31,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "The Mcas are Evans Marieba, from Gwasi North, Phelimon Onditi (Kagan), [ Dan Were ] (Kakelo Kokwanawa), Paul Wamunga (North Karachuonyo ward), and the Mca Sunny ward Peter Kaula.",
+        "candidates": [
+          37,
+          42,
+          43,
+          22,
+          23,
+          24,
+          26,
+          27,
+          31,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "The Mcas are Evans Marieba, from Gwasi North, Phelimon Onditi (Kagan), Dan Were (Kakelo Kokwanawa), [ Paul Wamunga ] (North Karachuonyo ward), and the Mca Sunny ward Peter Kaula.",
+        "candidates": [
+          36,
+          37,
+          8,
+          10,
+          23,
+          27,
+          31,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "The Mcas are Evans Marieba, from Gwasi North, Phelimon Onditi (Kagan), Dan Were (Kakelo Kokwanawa), Paul Wamunga (North Karachuonyo ward), and the [ Mca Sunny ] ward Peter Kaula.",
+        "candidates": [
+          10,
+          43,
+          45,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          55,
+          27,
+          31,
+          32
+        ]
+      },
+      {
+        "text": "The Mcas are Evans Marieba, from Gwasi North, Phelimon Onditi (Kagan), Dan Were (Kakelo Kokwanawa), Paul Wamunga (North Karachuonyo ward), and the Mca Sunny ward [ Peter Kaula. ]",
+        "candidates": [
+          10,
+          42,
+          43,
+          44,
+          45,
+          47,
+          48,
+          50,
+          51,
+          52,
+          55,
+          56,
+          27,
+          31,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He said that MCAS only knows how to take a few rats that can use the county's money instead of serving the people",
+    "src_entities": [
+      "MCAS"
+    ],
+    "template": "Nowacho ni gima MCAS ongéyo en mana ngíyo rode moko ma ginyalochamo godo pes county kar tiyone jopiny",
+    "text_to_decode": [
+      {
+        "text": "He said that [ MCAS ] only knows how to take a few rats that can use the county's money instead of serving the people",
+        "candidates": [
+          5,
+          6,
+          8,
+          12,
+          13,
+          14,
+          18
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The Beast Kills the Commander",
+    "src_entities": [],
+    "template": "ONDIEK ONEGO JAMNI OCHIKO",
+    "text_to_decode": [
+      {
+        "text": "The Beast Kills the Commander",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Speaking about the matter, Mikai Oido said that the mines have not been working because they are still trying to meet the regulations to keep the mines open and now they are taking the time to call the medical apologists in Homa Bay County in the afternoon to compare their old employees with the new ones who sent a request to be fired.",
+    "src_entities": [
+      "Mikai Oido",
+      "Homa Bay County"
+    ],
+    "template": "Kanomedowuoyo ewii wachno mikai Oido nowacho ni magawa margino ok osebedo katiyo nikech pod ne gitemo mondo gichop chike mane oketigo mondo ekane giyepi ema koro nyochane gikawoe thuolo mar luongo apisas mochungne yoore thieth e County ma Homa Bay kuno chieng wuok tich mondo ne jobi opim jotijgi machon kod mane gikao manyien go mane jooro kwayo ni ne duaro tich kargi",
+    "text_to_decode": [
+      {
+        "text": "Speaking about the matter, [ Mikai Oido ] said that the mines have not been working because they are still trying to meet the regulations to keep the mines open and now they are taking the time to call the medical apologists in Homa Bay County in the afternoon to compare their old employees with the new ones who sent a request to be fired.",
+        "candidates": [
+          2,
+          3,
+          7,
+          9,
+          10,
+          11,
+          13,
+          15
+        ]
+      },
+      {
+        "text": "Speaking about the matter, Mikai Oido said that the mines have not been working because they are still trying to meet the regulations to keep the mines open and now they are taking the time to call the medical apologists in [ Homa Bay County ] in the afternoon to compare their old employees with the new ones who sent a request to be fired.",
+        "candidates": [
+          68,
+          54,
+          55,
+          58,
+          59,
+          60,
+          62,
+          63,
+          64,
+          65
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The governing body of the media houses also known as The Media Council of Kenya is now organizing a special communication between the media houses and the media houses as a way to ensure a good working relationship between the two groups to ensure that they can serve the congregation.",
+    "src_entities": [
+      "The",
+      "Media Council of Kenya"
+    ],
+    "template": "Duol matayo ute fwambo mapachoka mabende ongére kaka The Media Council of Kenya koro jochano bago lalruok makende e kind apisas mag obila kod ute fwambo mathurka kaka yoo mar neno ni winjruok maber obedo e kind kweth ariyogo mar neno ni ginyalotiyo kanyakla",
+    "text_to_decode": [
+      {
+        "text": "The governing body of the media houses also known as [ The ] Media Council of Kenya is now organizing a special communication between the media houses and the media houses as a way to ensure a good working relationship between the two groups to ensure that they can serve the congregation.",
+        "candidates": [
+          12,
+          16,
+          17,
+          18,
+          22
+        ]
+      },
+      {
+        "text": "The governing body of the media houses also known as The [ Media Council of Kenya ] is now organizing a special communication between the media houses and the media houses as a way to ensure a good working relationship between the two groups to ensure that they can serve the congregation.",
+        "candidates": [
+          2,
+          3,
+          4,
+          6,
+          7,
+          9,
+          10,
+          12,
+          14,
+          15,
+          17,
+          18,
+          22,
+          23,
+          33,
+          35,
+          38,
+          42,
+          43,
+          59,
+          64,
+          65
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Speaking about the matter, the manager of the Blue Ridge Hotel, Hellen Oido, said that they have been hiring new employees and marrying them for the opening of the hotel after the closure of the hotel due to the spread of the Covid-19 pandemic.",
+    "src_entities": [
+      "Blue Ridge Hotel,",
+      "Hellen Oido,"
+    ],
+    "template": "Kanowuoyo ewii wachno jataa tije e magawa ma Blue Ridge Hotelno Hellen Oido nowacho ni gisebedo ka gikao jotich manyien ka gihikore godo ne yepo mar magawano bang lor mane olor godo magawa mapachoka nikech wach landruok mar tuo mar Covid - 19 kowacho ni kakoro nyochane jatend piny Kenya migosi Uhuru Kenyatta ne oyao magawa mathurka kendo mondo jotii e bwo chike mager manyochane",
+    "text_to_decode": [
+      {
+        "text": "Speaking about the matter, the manager of the [ Blue Ridge Hotel, ] Hellen Oido, said that they have been hiring new employees and marrying them for the opening of the hotel after the closure of the hotel due to the spread of the Covid-19 pandemic.",
+        "candidates": [
+          38,
+          39,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          42,
+          43,
+          45,
+          18,
+          19,
+          46
+        ]
+      },
+      {
+        "text": "Speaking about the matter, the manager of the Blue Ridge Hotel, [ Hellen Oido, ] said that they have been hiring new employees and marrying them for the opening of the hotel after the closure of the hotel due to the spread of the Covid-19 pandemic.",
+        "candidates": [
+          5,
+          38,
+          7,
+          8,
+          9,
+          39,
+          11,
+          12,
+          13,
+          42,
+          43,
+          46,
+          47,
+          18,
+          19
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The port of Mombasa today officially began its court proceedings after it was delayed due to the large number of employees who were recently diagnosed with the coronavirus.",
+    "src_entities": [
+      "Mombasa"
+    ],
+    "template": "Doho ma Mombasa kawuono ochako ayanga chenro mage mag winjo buche bang kanyocha olore kaluwore gi kwan mathoth mag jogo matiyo e doho kanyo manyocha oyangi ni neogamo midhusi mar Corona .",
+    "text_to_decode": [
+      {
+        "text": "The port of [ Mombasa ] today officially began its court proceedings after it was delayed due to the large number of employees who were recently diagnosed with the coronavirus.",
+        "candidates": [
+          2,
+          4,
+          5,
+          8,
+          10,
+          12,
+          13
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "At a press conference, the mayor of the city announced that such communication will begin in the new year",
+    "src_entities": [],
+    "template": "Jatelono mane loso e boma ma Siaya e romo mane obedo godo gi jofuamb weche ne owacho ni lalruok machalo kamano birochakore e higa manyien",
+    "text_to_decode": [
+      {
+        "text": "At a press conference, the mayor of the city announced that such communication will begin in the new year",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Public buses are now ordered to postpone and enforce the Christmas holidays in six counties of the state.",
+    "src_entities": [],
+    "template": "Apisa mag obila mag wangapaya koro omi chik mar chwalo nyime kendo rido chike mag wangapaya e kinde nyasi mar christmas e counties 6 mag nyanza",
+    "text_to_decode": [
+      {
+        "text": "Public buses are now ordered to postpone and enforce the Christmas holidays in six counties of the state.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Child custody overturned the ruling by a mother named Mary Kwamboka who complained that the justice department's chief justice, David Maraga, refused to take responsibility for the child she claimed to have given birth to.",
+    "src_entities": [
+      "Mary Kwamboka",
+      "David Maraga,"
+    ],
+    "template": "Doho mar nyithindo owito oko bura ma yande ochwal miyo moro ma nyinge Mary Kwamboka ka ywak ni ogai mar bad migao mar doho justice David Maraga odagi kawo ting' mar nyathi ma owacho ni ne ginyuolo kode .",
+    "text_to_decode": [
+      {
+        "text": "Child custody overturned the ruling by a mother named [ Mary Kwamboka ] who complained that the justice department's chief justice, David Maraga, refused to take responsibility for the child she claimed to have given birth to.",
+        "candidates": [
+          10,
+          11,
+          13,
+          14,
+          15,
+          19,
+          23
+        ]
+      },
+      {
+        "text": "Child custody overturned the ruling by a mother named Mary Kwamboka who complained that the justice department's chief justice, [ David Maraga, ] refused to take responsibility for the child she claimed to have given birth to.",
+        "candidates": [
+          36,
+          37,
+          40,
+          51,
+          55,
+          31
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The two men, aged 43 and 48, stole the goat from Pamela's mother's home in Nyakagere Island at around 10am.",
+    "src_entities": [
+      "Pamela's",
+      "Nyakagere Island"
+    ],
+    "template": "Achije 2 go majohigni 43 gi 48 nyoo okwalo dielno manyuok edala mama pamela atieno odindo ei chula ma Nyakagere mayudore enam lolwe kar saa 10 ma kogwen .",
+    "text_to_decode": [
+      {
+        "text": "The two men, aged 43 and 48, stole the goat from [ Pamela's ] mother's home in Nyakagere Island at around 10am.",
+        "candidates": [
+          19,
+          20,
+          23,
+          24,
+          25,
+          27,
+          28,
+          29,
+          30,
+          32
+        ]
+      },
+      {
+        "text": "The two men, aged 43 and 48, stole the goat from Pamela's mother's home in [ Nyakagere Island ] at around 10am.",
+        "candidates": [
+          34,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "denied the rumors that the Turkish opposition has ended due to the greeting of opposition leader Raila Amolo Odinga to President Uhuru Kenyatta.",
+    "src_entities": [
+      "Raila Amolo Odinga",
+      "Uhuru Kenyatta."
+    ],
+    "template": "ne okwedo weche moko maosebedo ka liekore ni oposition ma thurka orumo kaluowore kod mosruok maneobedo e kiind jatend kweth makwedo piny owacho Raila Amolo Odinga kor ker Uhuru Kenyatta .",
+    "text_to_decode": [
+      {
+        "text": "denied the rumors that the Turkish opposition has ended due to the greeting of opposition leader [ Raila Amolo Odinga ] to President Uhuru Kenyatta.",
+        "candidates": [
+          38,
+          42,
+          43,
+          50,
+          51,
+          22,
+          23,
+          55,
+          26,
+          27,
+          28,
+          31
+        ]
+      },
+      {
+        "text": "denied the rumors that the Turkish opposition has ended due to the greeting of opposition leader Raila Amolo Odinga to President [ Uhuru Kenyatta. ]",
+        "candidates": [
+          34,
+          36,
+          38,
+          41,
+          42,
+          43,
+          50,
+          51,
+          55
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Magawa's Blue Ridge Hotel in the city of Mbita says a guest who tested positive for Covid-19 is not their registered employee",
+    "src_entities": [
+      "Magawa's",
+      "Blue Ridge Hotel",
+      "Mbita"
+    ],
+    "template": "Magawa ma Blue Ridge Hotel manie boma ma Mbita owacho ni jago manyo oyudi ni nigi Covid - 19 cha ok en jatijgi moyangi",
+    "text_to_decode": [
+      {
+        "text": "[ Magawa's ] Blue Ridge Hotel in the city of Mbita says a guest who tested positive for Covid-19 is not their registered employee",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          20,
+          23,
+          24,
+          26
+        ]
+      },
+      {
+        "text": "Magawa's [ Blue Ridge Hotel ] in the city of Mbita says a guest who tested positive for Covid-19 is not their registered employee",
+        "candidates": [
+          2,
+          4,
+          5,
+          8,
+          9,
+          19,
+          24,
+          26
+        ]
+      },
+      {
+        "text": "Magawa's Blue Ridge Hotel in the city of [ Mbita ] says a guest who tested positive for Covid-19 is not their registered employee",
+        "candidates": [
+          5,
+          10,
+          11,
+          12,
+          17,
+          19,
+          24,
+          26
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The number of people visiting hospitals for medical treatment in Migori County has decreased since the outbreak of the coronavirus in Turkey.",
+    "src_entities": [
+      "Migori County",
+      "Turkey."
+    ],
+    "template": "Kwan mar jii madhi e ute mag thieth manyo thieth e County ma Migori odok piny mokalo nyaka ne midhusi mar corona muoji e thurka .",
+    "text_to_decode": [
+      {
+        "text": "The number of people visiting hospitals for medical treatment in [ Migori County ] has decreased since the outbreak of the coronavirus in Turkey.",
+        "candidates": [
+          34,
+          36,
+          12,
+          16,
+          17,
+          20,
+          22,
+          23,
+          24,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "The number of people visiting hospitals for medical treatment in Migori County has decreased since the outbreak of the coronavirus in [ Turkey. ]",
+        "candidates": [
+          34,
+          35,
+          36,
+          7,
+          8,
+          9,
+          12,
+          17,
+          30,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Aman also said that Nairobi County has yet to record the highest number of Covid-19 cases at 342 people.",
+    "src_entities": [
+      "Aman",
+      "Nairobi County"
+    ],
+    "template": "Aman bende nowacho ni County ma Nairobi emapod ne okao namba kuom bedo kod kwan maduong mag joma nigi midusi mar Covid - 19no mane gin jii 342",
+    "text_to_decode": [
+      {
+        "text": "[ Aman ] also said that Nairobi County has yet to record the highest number of Covid-19 cases at 342 people.",
+        "candidates": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "Aman also said that [ Nairobi County ] has yet to record the highest number of Covid-19 cases at 342 people.",
+        "candidates": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          17,
+          18
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "After this, his body has been sent to the morgue where Homabay is waiting for him to recover.",
+    "src_entities": [
+      "Homabay"
+    ],
+    "template": "ka giesani ringre osechwal e kar kano ringruok ma Homabay kairito timone bero .",
+    "text_to_decode": [
+      {
+        "text": "After this, his body has been sent to the morgue where [ Homabay ] is waiting for him to recover.",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          20
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "THE PREPARED BISHOP Teaching the Word with a Balanced View",
+    "src_entities": [],
+    "template": "BISOBE MAKPERE PUONJO WACH PIMO KAHERA",
+    "text_to_decode": [
+      {
+        "text": "THE PREPARED BISHOP Teaching the Word with a Balanced View",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Five guns were found in Lavingtone's possession and three were found in Migori's possession, which the anti-corruption group EACC is investigating over the alleged corruption of 2 billion shillings in the country.",
+    "src_entities": [
+      "Lavingtone's",
+      "Migori's",
+      "EACC"
+    ],
+    "template": "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno .",
+    "text_to_decode": [
+      {
+        "text": "Five guns were found in [ Lavingtone's ] possession and three were found in Migori's possession, which the anti-corruption group EACC is investigating over the alleged corruption of 2 billion shillings in the country.",
+        "candidates": [
+          4,
+          8,
+          9,
+          10,
+          11,
+          12,
+          16,
+          17,
+          18,
+          19,
+          23,
+          24,
+          28,
+          29
+        ]
+      },
+      {
+        "text": "Five guns were found in Lavingtone's possession and three were found in [ Migori's ] possession, which the anti-corruption group EACC is investigating over the alleged corruption of 2 billion shillings in the country.",
+        "candidates": [
+          16,
+          17,
+          19,
+          21,
+          22,
+          23,
+          25,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "text": "Five guns were found in Lavingtone's possession and three were found in Migori's possession, which the anti-corruption group [ EACC ] is investigating over the alleged corruption of 2 billion shillings in the country.",
+        "candidates": [
+          35,
+          36,
+          37,
+          40,
+          42,
+          46,
+          49,
+          51,
+          54,
+          27,
+          28,
+          29,
+          30,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It was also reported that there were 499 people who recovered today and were allowed to go home, saying that of those, 403 were newly ill patients who were being treated in their homes known as Home Based Care.",
+    "src_entities": [],
+    "template": "Bende ne oyangi ni nitie jii 499 mane ochango ei kawuononi ma owe odhi pacho kowacho ni kuom jogo , 403 ne gin jogo manyocha tuo to ne yudo thieth gie utegi mong' ere gi dho ngere kaka Home Based Care",
+    "text_to_decode": [
+      {
+        "text": "It was also reported that there were 499 people who recovered today and were allowed to go home, saying that of those, 403 were newly ill patients who were being treated in their homes known as Home Based Care.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The MCA said that the forms of the bursary will be available to all public schools in the entire County to make it easier for students who are not able to get the forms when the school opens on 1st of the new year to submit the application for the bursary.",
+    "src_entities": [
+      "MCA"
+    ],
+    "template": "MCAno nyowacho ni form mag bursaryno birobedo eskunde duto mag piny owacho e Countyno mangima mar mondo mi ochiu thuolo mayot ne jopuonjre maonge gi nyalo e yudo formsgo ka obi oyau school e dwe mar 1 mar higa manyien mar oro kwayo mar yudo bursaryno",
+    "text_to_decode": [
+      {
+        "text": "The [ MCA ] said that the forms of the bursary will be available to all public schools in the entire County to make it easier for students who are not able to get the forms when the school opens on 1st of the new year to submit the application for the bursary.",
+        "candidates": [
+          2,
+          60,
+          5,
+          57
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The 9 MCAs of Homabay is in my hands",
+    "src_entities": [
+      "Homabay"
+    ],
+    "template": "MCAs 9 ma Homabay ni e lwet obila",
+    "text_to_decode": [
+      {
+        "text": "The 9 MCAs of [ Homabay ] is in my hands",
+        "candidates": [
+          2,
+          5,
+          6,
+          8,
+          10,
+          11
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "WHO are the medical professionals in your country?",
+    "src_entities": [],
+    "template": "KWAN JOK MA MANYO THIETH ODOK PINY MIGORI",
+    "text_to_decode": [
+      {
+        "text": "WHO are the medical professionals in your country?",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Earlier, the Mcas had volunteered for a beehive after receiving a secret that the beehive was seeking them for the attack on the speaker of the Homabay party but was prompted by the enema doho.",
+    "src_entities": [
+      "Mcas",
+      "Homabay"
+    ],
+    "template": "Motelone mano Mcas go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma Homabay bange to ne ochwal gi enim doho .",
+    "text_to_decode": [
+      {
+        "text": "Earlier, the [ Mcas ] had volunteered for a beehive after receiving a secret that the beehive was seeking them for the attack on the speaker of the Homabay party but was prompted by the enema doho.",
+        "candidates": [
+          3,
+          5,
+          6,
+          8,
+          10,
+          11,
+          18,
+          19,
+          21,
+          23,
+          24,
+          29
+        ]
+      },
+      {
+        "text": "Earlier, the Mcas had volunteered for a beehive after receiving a secret that the beehive was seeking them for the attack on the speaker of the [ Homabay ] party but was prompted by the enema doho.",
+        "candidates": [
+          36,
+          38,
+          39,
+          41,
+          42,
+          43,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "A 17-year-old student who passed the main kcse exam at the DC mixed secondary school in Randung, Gem west location in the constituency where Rangwe ongielo is running",
+    "src_entities": [
+      "DC",
+      "Randung,",
+      "Gem",
+      "Rangwe ongielo"
+    ],
+    "template": "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung , Gem west location e constituency ma Rangwe ongielo orengo",
+    "text_to_decode": [
+      {
+        "text": "A 17-year-old student who passed the main kcse exam at the [ DC ] mixed secondary school in Randung, Gem west location in the constituency where Rangwe ongielo is running",
+        "candidates": [
+          14,
+          15,
+          19,
+          22,
+          23,
+          24,
+          27
+        ]
+      },
+      {
+        "text": "A 17-year-old student who passed the main kcse exam at the DC mixed secondary school in [ Randung, ] Gem west location in the constituency where Rangwe ongielo is running",
+        "candidates": [
+          34,
+          35,
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "A 17-year-old student who passed the main kcse exam at the DC mixed secondary school in Randung, [ Gem ] west location in the constituency where Rangwe ongielo is running",
+        "candidates": [
+          34,
+          37,
+          29,
+          33
+        ]
+      },
+      {
+        "text": "A 17-year-old student who passed the main kcse exam at the DC mixed secondary school in Randung, Gem west location in the constituency where [ Rangwe ongielo ] is running",
+        "candidates": [
+          35,
+          37,
+          39,
+          40,
+          44,
+          45
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono and Robert Mureithi",
+    "src_entities": [
+      "Mudzo Nzili",
+      "Kwale,",
+      "Yussuf Ibrahiim,",
+      "Simeon Kirgoty,",
+      "Ruth Sudoi,",
+      "Gilbert Kamau,",
+      "Irene Rono",
+      "Robert Mureithi"
+    ],
+    "template": "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale , Yussuf Ibrahiim , Simeon Kirgoty , Ruth Sudoi , Gilbert Kamau , Irene Rono kod Robert Mureithi",
+    "text_to_decode": [
+      {
+        "text": "The seven brothers are [ Mudzo Nzili ] from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono and Robert Mureithi",
+        "candidates": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          12,
+          14,
+          15,
+          20
+        ]
+      },
+      {
+        "text": "The seven brothers are Mudzo Nzili from the county of [ Kwale, ] Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono and Robert Mureithi",
+        "candidates": [
+          14,
+          15,
+          17,
+          18,
+          20,
+          21,
+          26
+        ]
+      },
+      {
+        "text": "The seven brothers are Mudzo Nzili from the county of Kwale, [ Yussuf Ibrahiim, ] Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono and Robert Mureithi",
+        "candidates": [
+          20,
+          21,
+          26,
+          27,
+          31
+        ]
+      },
+      {
+        "text": "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, [ Simeon Kirgoty, ] Ruth Sudoi, Gilbert Kamau, Irene Rono and Robert Mureithi",
+        "candidates": [
+          26,
+          27,
+          31
+        ]
+      },
+      {
+        "text": "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, [ Ruth Sudoi, ] Gilbert Kamau, Irene Rono and Robert Mureithi",
+        "candidates": [
+          36,
+          31,
+          32
+        ]
+      },
+      {
+        "text": "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, [ Gilbert Kamau, ] Irene Rono and Robert Mureithi",
+        "candidates": [
+          35,
+          36,
+          39,
+          40,
+          31
+        ]
+      },
+      {
+        "text": "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, [ Irene Rono ] and Robert Mureithi",
+        "candidates": [
+          39,
+          40
+        ]
+      },
+      {
+        "text": "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono and [ Robert Mureithi ]",
+        "candidates": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          43,
+          44,
+          48
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Edward Gichana has consumed the Bible as the new library of the Nairobi courthouse.",
+    "src_entities": [
+      "Edward Gichana",
+      "Nairobi"
+    ],
+    "template": "Edward Gichana osechamo muma kaka karan manyien mar od bura ma Nairobi .",
+    "text_to_decode": [
+      {
+        "text": "[ Edward Gichana ] has consumed the Bible as the new library of the Nairobi courthouse.",
+        "candidates": [
+          2,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "text": "Edward Gichana has consumed the Bible as the new library of the [ Nairobi ] courthouse.",
+        "candidates": [
+          11,
+          12,
+          14,
+          16,
+          17,
+          18
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The family members who died were 9, 14, and 20 years old",
+    "src_entities": [],
+    "template": "Jo familia achiel mane jothogo gin ja higni 9 , ja higni 14 kod ja higni 20",
+    "text_to_decode": [
+      {
+        "text": "The family members who died were 9, 14, and 20 years old",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Maraga receives a bone marrow transplant",
+    "src_entities": [
+      "Maraga"
+    ],
+    "template": "Maraga oyudo fuong' ruok",
+    "text_to_decode": [
+      {
+        "text": "[ Maraga ] receives a bone marrow transplant",
+        "candidates": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          10
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The same group carried out a similar campaign in a small town, where they taught businessmen about the benefits of medical examinations.",
+    "src_entities": [],
+    "template": "Kweth ma kamano notero kampen ma kamano e boma ma awasi kama nopuonj jo ohala ber mar dhi e pim e osiptal .",
+    "text_to_decode": [
+      {
+        "text": "The same group carried out a similar campaign in a small town, where they taught businessmen about the benefits of medical examinations.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Speaking to Kisumu Migosi Raila said that the MCA of the counties of Kisumu, Homa Bay, Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+    "src_entities": [
+      "Kisumu",
+      "Migosi Raila",
+      "MCA",
+      "Kisumu,",
+      "Homa Bay,",
+      "Nairobi",
+      "Kakamega"
+    ],
+    "template": "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu , Homa Bay , Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+    "text_to_decode": [
+      {
+        "text": "Speaking to [ Kisumu ] Migosi Raila said that the MCA of the counties of Kisumu, Homa Bay, Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+        "candidates": [
+          2,
+          34,
+          4,
+          37,
+          6,
+          38,
+          40,
+          42,
+          17,
+          20,
+          21,
+          54,
+          55,
+          24,
+          56,
+          33
+        ]
+      },
+      {
+        "text": "Speaking to Kisumu [ Migosi Raila ] said that the MCA of the counties of Kisumu, Homa Bay, Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+        "candidates": [
+          2,
+          4,
+          37,
+          6,
+          38,
+          40,
+          17,
+          20,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "Speaking to Kisumu Migosi Raila said that the [ MCA ] of the counties of Kisumu, Homa Bay, Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+        "candidates": [
+          37,
+          38,
+          12,
+          45,
+          15,
+          48,
+          49,
+          33
+        ]
+      },
+      {
+        "text": "Speaking to Kisumu Migosi Raila said that the MCA of the counties of [ Kisumu, ] Homa Bay, Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+        "candidates": [
+          34,
+          37,
+          38,
+          42,
+          15,
+          17,
+          18,
+          20,
+          24,
+          33
+        ]
+      },
+      {
+        "text": "Speaking to Kisumu Migosi Raila said that the MCA of the counties of Kisumu, [ Homa Bay, ] Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+        "candidates": [
+          17,
+          20,
+          21,
+          25,
+          26
+        ]
+      },
+      {
+        "text": "Speaking to Kisumu Migosi Raila said that the MCA of the counties of Kisumu, Homa Bay, [ Nairobi ] and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+        "candidates": [
+          20,
+          21,
+          24,
+          25,
+          30
+        ]
+      },
+      {
+        "text": "Speaking to Kisumu Migosi Raila said that the MCA of the counties of Kisumu, Homa Bay, Nairobi and [ Kakamega ] are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+        "candidates": [
+          36,
+          37,
+          38,
+          26,
+          27,
+          30,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The deputy county commissioner of the sub county, Rangwe Elvis Kolum, upon hearing this, was rushed to the homabay county Referal Hospital for intensive care where he suffered a concussion.",
+    "src_entities": [
+      "Rangwe Elvis Kolum,",
+      "Referal Hospital"
+    ],
+    "template": "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum kaneyango wachni owachoni ne ochwale e kar thieth ma homabay county Referal Hospital ne thieth makende kama ne ongielo orengo .",
+    "text_to_decode": [
+      {
+        "text": "The deputy county commissioner of the sub county, [ Rangwe Elvis Kolum, ] upon hearing this, was rushed to the homabay county Referal Hospital for intensive care where he suffered a concussion.",
+        "candidates": [
+          2,
+          4,
+          14,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          29
+        ]
+      },
+      {
+        "text": "The deputy county commissioner of the sub county, Rangwe Elvis Kolum, upon hearing this, was rushed to the homabay county [ Referal Hospital ] for intensive care where he suffered a concussion.",
+        "candidates": [
+          35,
+          37,
+          39,
+          40,
+          41,
+          44,
+          24,
+          27,
+          29,
+          30,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Homa Bay County's scholarship money is now up for grabs",
+    "src_entities": [
+      "Homa Bay County's"
+    ],
+    "template": "Pes bursary ma County ma Homa Bay koro oyudo mijing'o",
+    "text_to_decode": [
+      {
+        "text": "[ Homa Bay County's ] scholarship money is now up for grabs",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          12
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Mcas from the county assembly of Homabay who led the Kisumu doyim and are accused of assaulting the speaker of the county assembly, Elizabeth Ayoo joo will be the mayor of Kodiaga for two weeks while the investigation continues.",
+    "src_entities": [
+      "Mcas",
+      "Homabay",
+      "Kisumu",
+      "Elizabeth Ayoo",
+      "Kodiaga"
+    ],
+    "template": "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime .",
+    "text_to_decode": [
+      {
+        "text": "[ Mcas ] from the county assembly of Homabay who led the Kisumu doyim and are accused of assaulting the speaker of the county assembly, Elizabeth Ayoo joo will be the mayor of Kodiaga for two weeks while the investigation continues.",
+        "candidates": [
+          2,
+          3,
+          4,
+          42,
+          43,
+          44,
+          49
+        ]
+      },
+      {
+        "text": "Mcas from the county assembly of [ Homabay ] who led the Kisumu doyim and are accused of assaulting the speaker of the county assembly, Elizabeth Ayoo joo will be the mayor of Kodiaga for two weeks while the investigation continues.",
+        "candidates": [
+          7,
+          11,
+          12,
+          14,
+          15,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "text": "Mcas from the county assembly of Homabay who led the [ Kisumu ] doyim and are accused of assaulting the speaker of the county assembly, Elizabeth Ayoo joo will be the mayor of Kodiaga for two weeks while the investigation continues.",
+        "candidates": [
+          14,
+          15,
+          17,
+          19,
+          20,
+          21,
+          22,
+          27
+        ]
+      },
+      {
+        "text": "Mcas from the county assembly of Homabay who led the Kisumu doyim and are accused of assaulting the speaker of the county assembly, [ Elizabeth Ayoo ] joo will be the mayor of Kodiaga for two weeks while the investigation continues.",
+        "candidates": [
+          43,
+          45,
+          15,
+          48,
+          50,
+          19,
+          20,
+          52,
+          22
+        ]
+      },
+      {
+        "text": "Mcas from the county assembly of Homabay who led the Kisumu doyim and are accused of assaulting the speaker of the county assembly, Elizabeth Ayoo joo will be the mayor of [ Kodiaga ] for two weeks while the investigation continues.",
+        "candidates": [
+          67,
+          15,
+          17,
+          49,
+          19,
+          20,
+          53,
+          22,
+          54,
+          55,
+          62,
+          65
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "there - to be tested for the Coronavirus",
+    "src_entities": [],
+    "template": "kanyo - mane odhi opim ne tuo mar Coronavirusno",
+    "text_to_decode": [
+      {
+        "text": "there - to be tested for the Coronavirus",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Briton Mike falls into the water late in the evening while trying to catch a swimming pool.",
+    "src_entities": [
+      "Mike"
+    ],
+    "template": "Briton Mike Odhiambo nyo okier molwar e pii odhiambo ma nyoro kanyo otemo gamo besen moro manyo oriko dhii gi pii .",
+    "text_to_decode": [
+      {
+        "text": "Briton [ Mike ] falls into the water late in the evening while trying to catch a swimming pool.",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          10,
+          11,
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          25,
+          29,
+          30
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Yesterday some of the border guards and political officials led by them and the MCA invited to the county assembly in which Siaya Tabu Osewe had opened the doors of the abbey when finally they were harassing the matatu owners by taking bribes from them.",
+    "src_entities": [
+      "MCA",
+      "Siaya Tabu Osewe"
+    ],
+    "template": "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod mca ma ogwel ecounty assembly ma Siaya Tabu Osewe ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi .",
+    "text_to_decode": [
+      {
+        "text": "Yesterday some of the border guards and political officials led by them and the [ MCA ] invited to the county assembly in which Siaya Tabu Osewe had opened the doors of the abbey when finally they were harassing the matatu owners by taking bribes from them.",
+        "candidates": [
+          16,
+          17,
+          18,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "text": "Yesterday some of the border guards and political officials led by them and the MCA invited to the county assembly in which [ Siaya Tabu Osewe ] had opened the doors of the abbey when finally they were harassing the matatu owners by taking bribes from them.",
+        "candidates": [
+          38,
+          41,
+          42,
+          44,
+          46,
+          48,
+          49,
+          50,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "These were photographed with the deputy head of the medical department at the home of Dr. Rashid Aman",
+    "src_entities": [
+      "Rashid Aman"
+    ],
+    "template": "Magi ne oyangi kod jalup jatend migao mochungne yoore mag thieth e pachoka laktar Rashid Aman",
+    "text_to_decode": [
+      {
+        "text": "These were photographed with the deputy head of the medical department at the home of Dr. [ Rashid Aman ]",
+        "candidates": [
+          27,
+          30
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Such a ceremony was attended by the speaker Beatrivce Elachi just a day before he was to announce his name to the court at a press conference, as it seemed that a new war could break out in the assembly in Nairobi.",
+    "src_entities": [
+      "Beatrivce Elachi",
+      "Nairobi."
+    ],
+    "template": "Nyasi ma kamano notelie kkod spika Beatrivce Elachi mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere , ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma Nairobi .",
+    "text_to_decode": [
+      {
+        "text": "Such a ceremony was attended by the speaker [ Beatrivce Elachi ] just a day before he was to announce his name to the court at a press conference, as it seemed that a new war could break out in the assembly in Nairobi.",
+        "candidates": [
+          6,
+          7,
+          8,
+          10,
+          12,
+          18,
+          50,
+          20,
+          21,
+          22,
+          23,
+          52,
+          25
+        ]
+      },
+      {
+        "text": "Such a ceremony was attended by the speaker Beatrivce Elachi just a day before he was to announce his name to the court at a press conference, as it seemed that a new war could break out in the assembly in [ Nairobi. ]",
+        "candidates": [
+          2,
+          3,
+          7,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          27,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          42,
+          43,
+          44,
+          45,
+          48,
+          51,
+          52,
+          53
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The leaders were impressed by the increasing number of Chinese nationals and urged the country to investigate the issue on the basis of domestic lending.",
+    "src_entities": [],
+    "template": "jotelogi ne ohum kod kwan jopiny china ma osemedore e pachoka ka okwayo piny wacho mondo ongi matut wachni kotenore kod uchumi ma pachoka",
+    "text_to_decode": [
+      {
+        "text": "The leaders were impressed by the increasing number of Chinese nationals and urged the country to investigate the issue on the basis of domestic lending.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Seven other MCAs of Homabay county arrived in person in front of the honeymooners in Kisumu this morning to report on the recent attack on the homabay speaker Elizabeth Ayoo.",
+    "src_entities": [
+      "Homabay",
+      "Kisumu",
+      "Elizabeth Ayoo."
+    ],
+    "template": "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo .",
+    "text_to_decode": [
+      {
+        "text": "Seven other MCAs of [ Homabay ] county arrived in person in front of the honeymooners in Kisumu this morning to report on the recent attack on the homabay speaker Elizabeth Ayoo.",
+        "candidates": [
+          2,
+          5,
+          6,
+          7,
+          9,
+          10,
+          12,
+          13,
+          15,
+          21,
+          22,
+          24,
+          25,
+          26,
+          32,
+          36,
+          37,
+          45,
+          47,
+          48,
+          50
+        ]
+      },
+      {
+        "text": "Seven other MCAs of Homabay county arrived in person in front of the honeymooners in [ Kisumu ] this morning to report on the recent attack on the homabay speaker Elizabeth Ayoo.",
+        "candidates": [
+          2,
+          5,
+          6,
+          19,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          30,
+          32,
+          36,
+          37,
+          50,
+          51,
+          55
+        ]
+      },
+      {
+        "text": "Seven other MCAs of Homabay county arrived in person in front of the honeymooners in Kisumu this morning to report on the recent attack on the homabay speaker [ Elizabeth Ayoo. ]",
+        "candidates": [
+          2,
+          5,
+          45,
+          47,
+          48,
+          50,
+          51,
+          52,
+          55
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Former Kakamega county senator Boni Khalwale is now asking the ODM parliamentarians to expel the nasa railway station by throwing a bell at the mouth of the cave.",
+    "src_entities": [
+      "Kakamega",
+      "Boni Khalwale",
+      "ODM"
+    ],
+    "template": "Senator machon mar county ma Kakamega migosi Boni Khalwale koro kwayo jood bura mag ODM mondo mii oriemb ogai mar nasa raila amolo odinga e duond burano .",
+    "text_to_decode": [
+      {
+        "text": "Former [ Kakamega ] county senator Boni Khalwale is now asking the ODM parliamentarians to expel the nasa railway station by throwing a bell at the mouth of the cave.",
+        "candidates": [
+          4,
+          13,
+          7,
+          8
+        ]
+      },
+      {
+        "text": "Former Kakamega county senator [ Boni Khalwale ] is now asking the ODM parliamentarians to expel the nasa railway station by throwing a bell at the mouth of the cave.",
+        "candidates": [
+          11,
+          12,
+          13,
+          16
+        ]
+      },
+      {
+        "text": "Former Kakamega county senator Boni Khalwale is now asking the [ ODM ] parliamentarians to expel the nasa railway station by throwing a bell at the mouth of the cave.",
+        "candidates": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          24,
+          25
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The total number of cases of the Coronavirus worldwide now stands at 16.481.01 million and the total number of deaths worldwide is 644.679",
+    "src_entities": [],
+    "template": "Kwan jogo man kod midusi mar Coronavirus e bwo piny mangima koro en million 16 gi alufu 48 gi 101 ka kwan jogo ma tuono osenego e bwo piny mangima gin jii alufu 644 gi 679",
+    "text_to_decode": [
+      {
+        "text": "The total number of cases of the Coronavirus worldwide now stands at 16.481.01 million and the total number of deaths worldwide is 644.679",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "claiming that the earth is a planet capable of sustainable development",
+    "src_entities": [],
+    "template": "kowacho ni piny ma dhano ngimae e piny manyalobedo kod dongruok mowinjore",
+    "text_to_decode": [
+      {
+        "text": "claiming that the earth is a planet capable of sustainable development",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The Media Council of Kenya organizes a meeting between the Uzila and the media",
+    "src_entities": [
+      "Media Council of Kenya",
+      "Uzila"
+    ],
+    "template": "Media Council of Kenya chano bago lalruok e kind obila gi jofuamb weche",
+    "text_to_decode": [
+      {
+        "text": "The [ Media Council of Kenya ] organizes a meeting between the Uzila and the media",
+        "candidates": [
+          2,
+          4,
+          6,
+          8,
+          9,
+          10,
+          13,
+          15,
+          16,
+          17,
+          20
+        ]
+      },
+      {
+        "text": "The Media Council of Kenya organizes a meeting between the [ Uzila ] and the media",
+        "candidates": [
+          8,
+          9,
+          10,
+          13,
+          15,
+          18,
+          20
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "As the case progressed, Harriet warned that those who continued to obey the rules would soon be arrested and charged with disorderly conduct.",
+    "src_entities": [
+      "Harriet"
+    ],
+    "template": "Kane omedo loso ewii wachno mikayi Harriet ne okoni joo go mapod okluw chikego mag apaya ibiro maki machwal enyim doho kendo donjnegi kod keth mar rem luwo chike mag apaya .",
+    "text_to_decode": [
+      {
+        "text": "As the case progressed, [ Harriet ] warned that those who continued to obey the rules would soon be arrested and charged with disorderly conduct.",
+        "candidates": [
+          7,
+          8,
+          11,
+          13,
+          14,
+          15,
+          46,
+          17,
+          47,
+          49,
+          20
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He's cheating the MCAs by stealing the public's money",
+    "src_entities": [],
+    "template": "Odinga seyo MCAs kuom chamo pes jopiny",
+    "text_to_decode": [
+      {
+        "text": "He's cheating the MCAs by stealing the public's money",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Obila stopped a 41-year-old businessman at the ubila plant in Ukwala after he was caught stealing electricity harvesting wines from the Ligega Ugenya sub-county",
+    "src_entities": [
+      "Obila",
+      "Ukwala",
+      "Ligega Ugenya"
+    ],
+    "template": "Obila ne ogengone jago moro ma jahigni 41 e tesend obila ma Ukwala bang kane omake ka okwalo weyni mag keyo teko stima egweng ma Ligega Ugenya sub - county",
+    "text_to_decode": [
+      {
+        "text": "[ Obila ] stopped a 41-year-old businessman at the ubila plant in Ukwala after he was caught stealing electricity harvesting wines from the Ligega Ugenya sub-county",
+        "candidates": [
+          2,
+          35,
+          4,
+          5,
+          36,
+          7,
+          37,
+          39,
+          43,
+          48,
+          50,
+          30,
+          31,
+          33
+        ]
+      },
+      {
+        "text": "Obila stopped a 41-year-old businessman at the ubila plant in [ Ukwala ] after he was caught stealing electricity harvesting wines from the Ligega Ugenya sub-county",
+        "candidates": [
+          16,
+          17,
+          18,
+          20,
+          21,
+          24
+        ]
+      },
+      {
+        "text": "Obila stopped a 41-year-old businessman at the ubila plant in Ukwala after he was caught stealing electricity harvesting wines from the [ Ligega Ugenya ] sub-county",
+        "candidates": [
+          35,
+          37,
+          38,
+          39,
+          40,
+          46,
+          47,
+          48,
+          50
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Bondo's Obila has denied allegations that he took bribes from his ex-wives",
+    "src_entities": [
+      "Bondo's",
+      "Obila"
+    ],
+    "template": "Obila ma Bondo okwedo weche moko ni gikao asoya eseche ma gitimo apedha eapaya",
+    "text_to_decode": [
+      {
+        "text": "[ Bondo's ] Obila has denied allegations that he took bribes from his ex-wives",
+        "candidates": [
+          2,
+          4,
+          5,
+          7,
+          9,
+          10,
+          11,
+          13,
+          18,
+          19,
+          20,
+          21,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "text": "Bondo's [ Obila ] has denied allegations that he took bribes from his ex-wives",
+        "candidates": [
+          2,
+          4,
+          5,
+          7,
+          9,
+          10,
+          11,
+          12,
+          16,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The villagers said that they have tried to get rid of their complaints about the alleged abuse of their MCA, George Owiti, but the MCA has been taking it above and beyond the call of duty without hesitation to talk about it.",
+    "src_entities": [
+      "George Owiti,",
+      "MCA"
+    ],
+    "template": "Jogwenggo joowacho ni gisetemo golo yuak margi ewii gik ma giduaro ni ng' iigo ne MCA margi migosi George Owiti to MCAno osebedo ka okao mamalo gi ma piny omuno maok oduar katamana wuoyo ewii wachno",
+    "text_to_decode": [
+      {
+        "text": "The villagers said that they have tried to get rid of their complaints about the alleged abuse of their MCA, [ George Owiti, ] but the MCA has been taking it above and beyond the call of duty without hesitation to talk about it.",
+        "candidates": [
+          36,
+          26,
+          28,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "The villagers said that they have tried to get rid of their complaints about the alleged abuse of their MCA, George Owiti, but the [ MCA ] has been taking it above and beyond the call of duty without hesitation to talk about it.",
+        "candidates": [
+          37,
+          39,
+          40,
+          43,
+          44,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The hiker, who was carrying a woodsman's helmet, fell from a steep hill and died instantly.",
+    "src_entities": [],
+    "template": "Jaloero mane oyudo ilao gi apisa marito bunge nokier molwar koridore e gode ma gwassi kanyo ema kaeto nowito ngimane .",
+    "text_to_decode": [
+      {
+        "text": "The hiker, who was carrying a woodsman's helmet, fell from a steep hill and died instantly.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The nurses' planned resignation protests continue",
+    "src_entities": [],
+    "template": "Ng'anyo mar nurses mane ochan timo wuok tich koro ochwal nyime",
+    "text_to_decode": [
+      {
+        "text": "The nurses' planned resignation protests continue",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The number of confirmed cases of the Coronavirus today is 637, bringing the total number of household cases to 14,805",
+    "src_entities": [],
+    "template": "Kwan jii ma oyudi kod tuo mar Coronavirus ei kawuononi gin 637 makoro kelo kwan jogo duto man kod tuo magalagalano e pachoka chopo jii alufu 14 gi 805",
+    "text_to_decode": [
+      {
+        "text": "The number of confirmed cases of the Coronavirus today is 637, bringing the total number of household cases to 14,805",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The total number of confirmed cases of the Coronavirus today is 796, bringing the total number of household cases to 15,601 today.",
+    "src_entities": [],
+    "template": "Kwan jii mane oyudi ni nikod tuo mar Coronavirus ei kawuononi gin jii 796 makoro kelo kwan jogo duto man kod midusi makochno e pachoka ei kawuononi chopo jii alufu 15 gi 601",
+    "text_to_decode": [
+      {
+        "text": "The total number of confirmed cases of the Coronavirus today is 796, bringing the total number of household cases to 15,601 today.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "3 people including 2 children from the same family died on the spot and 3 others were killed by lightning in the villages of Achudinet in Teso North",
+    "src_entities": [
+      "Achudinet",
+      "Teso North"
+    ],
+    "template": "Jii 3 moko ma oting'o nyithindo 2 mawuok e familia achiel ne jotho kanyo kanyo ka mamoko 3 to rem nego bang polo gogi e gwenge mag Achudinet ei Teso North",
+    "text_to_decode": [
+      {
+        "text": "3 people including 2 children from the same family died on the spot and 3 others were killed by lightning in the villages of [ Achudinet ] in Teso North",
+        "candidates": [
+          36,
+          37,
+          40,
+          43,
+          44,
+          19,
+          22,
+          23,
+          26,
+          27,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "text": "3 people including 2 children from the same family died on the spot and 3 others were killed by lightning in the villages of Achudinet in [ Teso North ]",
+        "candidates": [
+          40,
+          41,
+          43,
+          44,
+          19,
+          22,
+          23,
+          27,
+          29,
+          30,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Earlier today, a row broke out after Speaker Elachi refused to recognize Jacob Ngwele as the secretary of the court.",
+    "src_entities": [
+      "Elachi",
+      "Jacob Ngwele"
+    ],
+    "template": "Motelo odiechieng ma kawuono , yuaruok nomuoch bang' spika Elachi nodagi yango Jacob Ngwele kaka karan mar od Burano .",
+    "text_to_decode": [
+      {
+        "text": "Earlier today, a row broke out after Speaker [ Elachi ] refused to recognize Jacob Ngwele as the secretary of the court.",
+        "candidates": [
+          18,
+          20,
+          16
+        ]
+      },
+      {
+        "text": "Earlier today, a row broke out after Speaker Elachi refused to recognize [ Jacob Ngwele ] as the secretary of the court.",
+        "candidates": [
+          20,
+          22,
+          23,
+          27,
+          30,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The union took a similar step to give the Salaries and Remuneration Commission an opportunity to achieve the goal of their agreement to raise wages",
+    "src_entities": [
+      "Salaries and Remuneration Commission"
+    ],
+    "template": "Riuruogno ne okao okang machalo kamano mar mondo mi gimi duol mochungne osach jotij piny owacho - Salaries and Remuneration Commission thuolo maber mar chopo dwach winjruok manegibedo godo kodgi mar medogi osara",
+    "text_to_decode": [
+      {
+        "text": "The union took a similar step to give the [ Salaries and Remuneration Commission ] an opportunity to achieve the goal of their agreement to raise wages",
+        "candidates": [
+          3,
+          7,
+          8,
+          10,
+          12,
+          15,
+          16,
+          17,
+          18,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          36,
+          37,
+          40
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "THE BIBLE CHANGES the way I listen to my neighbors",
+    "src_entities": [],
+    "template": "DOHO MA MOMBASA OCHAKO WINJO BUCHE AYANGA",
+    "text_to_decode": [
+      {
+        "text": "THE BIBLE CHANGES the way I listen to my neighbors",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The king ordered that the owners of buses that transport tourists during the Christmas season must have the necessary signs to send tourists to their homes.",
+    "src_entities": [],
+    "template": "migosi kingi ne owaco ni weg nyamburko matingo jowuoth e kinde nyasi mar christamas nyaka bed kod obok madwarore mar chwalo jowuoth e pachoka",
+    "text_to_decode": [
+      {
+        "text": "The king ordered that the owners of buses that transport tourists during the Christmas season must have the necessary signs to send tourists to their homes.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The Homa Bay County Legislature is now amending the Education Bursary Fund Amendment bill 2018 to ensure that people living with disabilities are included in the bursary committee and help ensure that the bursary is distributed fairly and without corruption.",
+    "src_entities": [
+      "Homa Bay County Legislature"
+    ],
+    "template": "Bunge mar County ma Homa Bay koro otimo lokruok ne chike matayo weche mag chiwo bursary mag somo mongere kaka Education Bursary Fund Ammendment bill 2018 mabiro konyo neno ni jogo ma odak gi ng'ol bende onyuandi e komiti mochungne bursary kod konyo neno ni bursaryno ipogo e yoo mowinjore maonge mibadhi moro amora",
+    "text_to_decode": [
+      {
+        "text": "The [ Homa Bay County Legislature ] is now amending the Education Bursary Fund Amendment bill 2018 to ensure that people living with disabilities are included in the bursary committee and help ensure that the bursary is distributed fairly and without corruption.",
+        "candidates": [
+          2,
+          4,
+          5,
+          6,
+          39,
+          40,
+          10,
+          11,
+          42,
+          44,
+          15,
+          49
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The agency of nasa Raila Amolo Odinga now invites the residents of kisumu county to prepare to welcome the president of Kenya during his visit to the city next December the first visit of the president for the first time since last year's elections and to greet each other in March this year.",
+    "src_entities": [
+      "Raila Amolo Odinga",
+      "Kenya"
+    ],
+    "template": "Ogai mar nasa Raila Amolo Odinga koro okwayo jodak e county ma kisumu mondo mii oikore mar rwako ker Kenyataa e kinde ma obiro wendo bomano machiegni e dwe marapar gariyo limbeno mokuongo mar ker kenyataa chakre yiero ma higa mokalo to kod tok mosruok e kindgi dwe mar adek higani",
+    "text_to_decode": [
+      {
+        "text": "The agency of nasa [ Raila Amolo Odinga ] now invites the residents of kisumu county to prepare to welcome the president of Kenya during his visit to the city next December the first visit of the president for the first time since last year's elections and to greet each other in March this year.",
+        "candidates": [
+          3,
+          4,
+          5,
+          6,
+          12,
+          13,
+          46,
+          48,
+          18,
+          50,
+          20,
+          52,
+          53,
+          54,
+          25,
+          30
+        ]
+      },
+      {
+        "text": "The agency of nasa Raila Amolo Odinga now invites the residents of kisumu county to prepare to welcome the president of [ Kenya ] during his visit to the city next December the first visit of the president for the first time since last year's elections and to greet each other in March this year.",
+        "candidates": [
+          3,
+          4,
+          43,
+          44,
+          46,
+          48,
+          50,
+          52,
+          54,
+          25,
+          26,
+          30,
+          31
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It has recently been announced that 40 wards of Homa Baygo County have been allocated bursaries totalling 2.5 million silings for the 2018 / 2019 financial year from 1.5 million silings that was included in the previous budget to ensure that all underprivileged children receive the bursary money.",
+    "src_entities": [
+      "Homa Baygo County"
+    ],
+    "template": "Nyo oyango ni wards 40 mag County ma Homa Baygo oketnegi omenda maromo silings million 2 . 5 mar hik manyonge mar 2018 / 2019 kowuok e silings million 1 . 5 mane entieree e budget mokalo mar neno ni nyithindo duto maonge gi nyalo joyudo pes bursaryno",
+    "text_to_decode": [
+      {
+        "text": "It has recently been announced that 40 wards of [ Homa Baygo County ] have been allocated bursaries totalling 2.5 million silings for the 2018 / 2019 financial year from 1.5 million silings that was included in the previous budget to ensure that all underprivileged children receive the bursary money.",
+        "candidates": [
+          34,
+          3,
+          4,
+          7,
+          9,
+          10,
+          11,
+          12,
+          27,
+          29,
+          30,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Seven suspects have been arrested in connection with the theft of amenda from the board",
+    "src_entities": [],
+    "template": "Apisas abiryogo nyo omaki kaluwore kod wach kuo mar omenda e boardno",
+    "text_to_decode": [
+      {
+        "text": "Seven suspects have been arrested in connection with the theft of amenda from the board",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Prosecutor Gerald Gitonga argued that the case did not have as strong a basis as he had been led to believe.",
+    "src_entities": [
+      "Gerald Gitonga"
+    ],
+    "template": "Jayal bura Gerald Gitonga okoo ni burano ne onge kod mise motegno kaka ne ochwale e doho .",
+    "text_to_decode": [
+      {
+        "text": "Prosecutor [ Gerald Gitonga ] argued that the case did not have as strong a basis as he had been led to believe.",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          8,
+          9,
+          10,
+          11,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "They had only one wife, but she was arrested.",
+    "src_entities": [],
+    "template": "Miyo moro achiel mane gin godo to kata kamano nomaki .",
+    "text_to_decode": [
+      {
+        "text": "They had only one wife, but she was arrested.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Speaking about the nightly show, he said that they believe that the problem of bad roads and traffic lights and modern tobacco farming is back to normal.",
+    "src_entities": [],
+    "template": "Kanomedowuoyo ewii wachno migosi Otieno nowacho ni giduaro ni wach ndara maricho makono ng' ii kaachiel gi ng' iyo wach taya mag chiche makono kod wach pur ndawa masani koro odok chieng kuno bende ng' ii",
+    "text_to_decode": [
+      {
+        "text": "Speaking about the nightly show, he said that they believe that the problem of bad roads and traffic lights and modern tobacco farming is back to normal.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  }
+]

@@ -1,0 +1,1280 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [],
+    "template": "Ndị otu ụkọchukwu ụka Katọlik Naịjirịa enyela gọọmentị ndụmọdụ ka o binye aka \"\"\"\" n'Electoral Law \"\"\"\" ọhụrụ , na ọ bụ nke a ga - eme ka nsogbu kwụsị ịdapụta na ntuliaka .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "I am not in a better position to die - [ El-Rufai ]"
+    ],
+    "src_entities": [
+      "El-Rufai"
+    ],
+    "template": "Anọghị m n'ọnọdụ ọdị ndụ ọnwụ ka mma - El - Rufai",
+    "tgt_lang": [
+      [
+        "Anọghị m n'ọnọdụ ọdị ndụ ọnwụ ka mma - [ El - Rufai ]",
+        "Anọghị m n'ọnọdụ ọdị ndụ ọnwụ ka mma - [ ] El - Rufai",
+        "Anọghị m n'ọnọdụ ọdị ndụ ọnwụ ka mma - [ El ] - Rufai",
+        "Anọghị m n'ọnọdụ [ ọdị ndụ ọnwụ ka mma - El - Rufai ]",
+        "Anọghị m n'ọnọdụ ọdị ndụ ọnwụ [ ka mma - El - Rufai ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "El - Rufai",
+        "",
+        "El",
+        "ọdị ndụ ọnwụ ka mma - El - Rufai",
+        "ka mma - El - Rufai"
+      ]
+    ],
+    "score": [
+      [
+        -38.60152053833008,
+        -51.632232666015625,
+        -51.98560333251953,
+        -53.20431137084961,
+        -53.501644134521484
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "[ Anambara ] State Governor Willie Obiano led Justice Ijem Onwuamaegbu to resign as the first female chief justice.",
+      "Anambara State Governor [ Willie Obiano ] led Justice Ijem Onwuamaegbu to resign as the first female chief justice.",
+      "Anambara State Governor Willie Obiano led [ Justice ] Ijem Onwuamaegbu to resign as the first female chief justice.",
+      "Anambara State Governor Willie Obiano led Justice [ Ijem Onwuamaegbu ] to resign as the first female chief justice."
+    ],
+    "src_entities": [
+      "Anambara",
+      "Willie Obiano",
+      "Justice",
+      "Ijem Onwuamaegbu"
+    ],
+    "template": "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+    "tgt_lang": [
+      [
+        "Gọvanọ [ Anambara ] steeti bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "[ ] Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ [ Anambara steeti ] bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu [ ] n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka [ ọkaikpe ukwu ] nwaanyị mbụ"
+      ],
+      [
+        "Gọvanọ Anambara steeti bụ [ Willie Obiano ] duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti [ bụ Willie Obiano ] duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti bụ Willie Obiano [ ] duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu [ ] n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu n'iyi ọrụ [ dịka ] ọkaikpe ukwu nwaanyị mbụ"
+      ],
+      [
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru [ Jọstịs ] Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs [ Ijem Onwuamaegbu ] n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs [ ] Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru [ Jọstịs Ijem Onwuamaegbu ] n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs [ Ijem ] Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ"
+      ],
+      [
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs [ Ijem Onwuamaegbu ] n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs [ Ijem Onwuamaegbu n'iyi ọrụ ] dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu [ n'iyi ọrụ ] dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs [ ] Ijem Onwuamaegbu n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ",
+        "Gọvanọ Anambara steeti bụ Willie Obiano duru Jọstịs Ijem Onwuamaegbu [ ] n'iyi ọrụ dịka ọkaikpe ukwu nwaanyị mbụ"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Anambara",
+        "",
+        "Anambara steeti",
+        "",
+        "ọkaikpe ukwu"
+      ],
+      [
+        "Willie Obiano",
+        "bụ Willie Obiano",
+        "",
+        "",
+        "dịka"
+      ],
+      [
+        "Jọstịs",
+        "Ijem Onwuamaegbu",
+        "",
+        "Jọstịs Ijem Onwuamaegbu",
+        "Ijem"
+      ],
+      [
+        "Ijem Onwuamaegbu",
+        "Ijem Onwuamaegbu n'iyi ọrụ",
+        "n'iyi ọrụ",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -53.424964904785156,
+        -63.34624481201172,
+        -68.33753204345703,
+        -73.952880859375,
+        -76.05851745605469
+      ],
+      [
+        -50.2873420715332,
+        -52.58204650878906,
+        -62.402496337890625,
+        -69.04850769042969,
+        -72.55089569091797
+      ],
+      [
+        -41.22053146362305,
+        -50.29764938354492,
+        -53.5561408996582,
+        -56.896942138671875,
+        -56.95278549194336
+      ],
+      [
+        -42.2493896484375,
+        -54.754638671875,
+        -55.30221176147461,
+        -55.91896057128906,
+        -56.19752502441406
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 3,
+    "src_lang": [],
+    "template": ".",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "[ Ahaneze, ] NEF, Afenifere, MBF and NDF have supported Atiku to go to court.",
+      "Ahaneze, [ NEF, ] Afenifere, MBF and NDF have supported Atiku to go to court.",
+      "Ahaneze, NEF, [ Afenifere, ] MBF and NDF have supported Atiku to go to court.",
+      "Ahaneze, NEF, Afenifere, [ MBF ] and NDF have supported Atiku to go to court.",
+      "Ahaneze, NEF, Afenifere, MBF and [ NDF ] have supported Atiku to go to court.",
+      "Ahaneze, NEF, Afenifere, MBF and NDF have supported [ Atiku ] to go to court."
+    ],
+    "src_entities": [
+      "Ahaneze,",
+      "NEF,",
+      "Afenifere,",
+      "MBF",
+      "NDF",
+      "Atiku"
+    ],
+    "template": "Ohaneze , NEF , Afenifere , MBF na NDF akwadola Atiku ịga ụlọikpe",
+    "tgt_lang": [
+      [
+        "[ Ohaneze, ] NEF, Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe",
+        "[ Ohaneze ], NEF, Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe",
+        "[ Ohaneze, NEF, Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe ]",
+        "Ohaneze, NEF, Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe [ ]",
+        "[ Ohaneze, NEF, Afenifere, MBF na NDF akwadola Atiku ] ịga ụlọikpe"
+      ],
+      [
+        "Ohaneze, [ NEF, ] Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, [ NEF ], Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, [ ] Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe [ ]",
+        "Ohaneze, NEF, [ Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe ]"
+      ],
+      [
+        "Ohaneze, NEF, [ Afenifere, ] MBF na NDF akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, [ Afenifere ], MBF na NDF akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere, [ MBF ] na NDF akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere, [ MBF na NDF ] akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere, [ MBF na NDF akwadola Atiku ịga ụlọikpe ]"
+      ],
+      [
+        "Ohaneze, NEF, Afenifere, [ MBF ] na NDF akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere, [ ] MBF na NDF akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere, MBF [ ] na NDF akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere, MBF [ na NDF ] akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere [, MBF ] na NDF akwadola Atiku ịga ụlọikpe"
+      ],
+      [
+        "Ohaneze, NEF, Afenifere, MBF na [ NDF ] akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere, MBF na NDF [ ] akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere, MBF na [ ] NDF akwadola Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere, MBF na NDF [ akwadola Atiku ịga ụlọikpe ]",
+        "Ohaneze, NEF, Afenifere, MBF na NDF [ akwadola ] Atiku ịga ụlọikpe"
+      ],
+      [
+        "Ohaneze, NEF, Afenifere, MBF na NDF akwadola [ Atiku ] ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere, MBF na NDF akwadola Atiku [ ịga ụlọikpe ]",
+        "Ohaneze, NEF, Afenifere, MBF na NDF akwadola Atiku [ ] ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere, MBF na NDF akwadola [ ] Atiku ịga ụlọikpe",
+        "Ohaneze, NEF, Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe [ ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ohaneze,",
+        "Ohaneze",
+        "Ohaneze, NEF, Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe",
+        "",
+        "Ohaneze, NEF, Afenifere, MBF na NDF akwadola Atiku"
+      ],
+      [
+        "NEF,",
+        "NEF",
+        "",
+        "",
+        "Afenifere, MBF na NDF akwadola Atiku ịga ụlọikpe"
+      ],
+      [
+        "Afenifere,",
+        "Afenifere",
+        "MBF",
+        "MBF na NDF",
+        "MBF na NDF akwadola Atiku ịga ụlọikpe"
+      ],
+      [
+        "MBF",
+        "",
+        "",
+        "na NDF",
+        ", MBF"
+      ],
+      [
+        "NDF",
+        "",
+        "",
+        "akwadola Atiku ịga ụlọikpe",
+        "akwadola"
+      ],
+      [
+        "Atiku",
+        "ịga ụlọikpe",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -19.653533935546875,
+        -27.173870086669922,
+        -36.85822677612305,
+        -37.11558532714844,
+        -42.74825668334961
+      ],
+      [
+        -21.13253402709961,
+        -31.274940490722656,
+        -31.587947845458984,
+        -38.088356018066406,
+        -39.35584259033203
+      ],
+      [
+        -22.47380256652832,
+        -32.020389556884766,
+        -33.12637710571289,
+        -40.04878234863281,
+        -41.63228988647461
+      ],
+      [
+        -22.425695419311523,
+        -34.03556442260742,
+        -34.914268493652344,
+        -35.02477264404297,
+        -35.654441833496094
+      ],
+      [
+        -22.268943786621094,
+        -32.194374084472656,
+        -33.669677734375,
+        -35.89200210571289,
+        -39.07695007324219
+      ],
+      [
+        -22.693675994873047,
+        -35.0945930480957,
+        -35.7274284362793,
+        -37.78628158569336,
+        -39.487709045410156
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "Recall that [ Inec ] had earlier cancelled the collection and announcement of the results of the gubernatorial and parliamentary elections held in Rivas on the night of March 10 due to reports of violence, followed by elections.",
+      "Recall that Inec had earlier cancelled the collection and announcement of the results of the gubernatorial and parliamentary elections held in [ Rivas ] on the night of March 10 due to reports of violence, followed by elections."
+    ],
+    "src_entities": [
+      "Inec",
+      "Rivas"
+    ],
+    "template": "Cheta na Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo , so ya bụ ntuliaka .",
+    "tgt_lang": [
+      [
+        "Cheta na [ Inec ] kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo, so ya bụ ntuliaka.",
+        "Cheta na [ Inec kwụsị ]buru nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo, so ya bụ ntuliaka.",
+        "Cheta na [ Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo ], so ya bụ ntuliaka.",
+        "Cheta na [ Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo, so ya bụ ntuliaka ].",
+        "Cheta na [ Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo, so ya bụ ntuliaka. ]"
+      ],
+      [
+        "Cheta na Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na [ Rivas ] n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo, so ya bụ ntuliaka.",
+        "Cheta na Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere [ na Rivas ] n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo, so ya bụ ntuliaka.",
+        "Cheta na Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere [ na Rivas n'abali 10 nke ọnwa Maachi ] n'ihi akụkọ tigbu - zọgbuo, so ya bụ ntuliaka.",
+        "Cheta na Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na [ Rivas n'abali 10 nke ọnwa Maachi ] n'ihi akụkọ tigbu - zọgbuo, so ya bụ ntuliaka.",
+        "Cheta na Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na [ ] Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo, so ya bụ ntuliaka."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Inec",
+        "Inec kwụsị",
+        "Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo",
+        "Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo, so ya bụ ntuliaka",
+        "Inec kwụsịburu nchịkọta na mkpọpụta mpụtara ntuliaka ọkwa gọvanọ na ụlọomeiwu e mere na Rivas n'abali 10 nke ọnwa Maachi n'ihi akụkọ tigbu - zọgbuo, so ya bụ ntuliaka."
+      ],
+      [
+        "Rivas",
+        "na Rivas",
+        "na Rivas n'abali 10 nke ọnwa Maachi",
+        "Rivas n'abali 10 nke ọnwa Maachi",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -112.29084777832031,
+        -127.81774139404297,
+        -135.5792694091797,
+        -136.8668212890625,
+        -137.61126708984375
+      ],
+      [
+        -112.66508483886719,
+        -115.96224975585938,
+        -121.06452941894531,
+        -121.79188537597656,
+        -123.5546646118164
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [],
+    "template": "Dịka ọ dị ugbua a mabeghi mmadụ ole nke a metụtara dịka ndị ọrụ gbatagbata a bịabeghi n'ebe ahụ dịka @ TopsyAshaolu siri kwuo n'akara twitter ya ;",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 7,
+    "src_lang": [],
+    "template": "Onyeisiala 2023 na nsonso a ?",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 8,
+    "src_lang": [],
+    "template": "Election Update : Nchịkọta ihe mere taa",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "The [ NLC ] has criticized Inec for the way the 2019 elections went and has called for them to ensure that the electoral process in some states that was established on the night of March 23 goes ahead.",
+      "The NLC has criticized [ Inec ] for the way the 2019 elections went and has called for them to ensure that the electoral process in some states that was established on the night of March 23 goes ahead."
+    ],
+    "src_entities": [
+      "NLC",
+      "Inec"
+    ],
+    "template": "Otu jikoro ndị ọrụ bụ NLC n'aha ịchafụ akatọọla Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya .",
+    "tgt_lang": [
+      [
+        "Otu [ jikoro ndị ọrụ bụ NLC n'aha ịchafụ ] akatọọla Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya.",
+        "[ Otu jikoro ndị ọrụ bụ NLC n'aha ịchafụ ] akatọọla Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya.",
+        "Otu jikoro ndị ọrụ bụ [ NLC n'aha ịchafụ ] akatọọla Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya.",
+        "Otu jikoro ndị ọrụ bụ NLC [ n'aha ịchafụ ] akatọọla Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya.",
+        "Otu jikoro [ ndị ọrụ bụ NLC n'aha ịchafụ ] akatọọla Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya."
+      ],
+      [
+        "Otu jikoro ndị ọrụ bụ NLC n'aha ịchafụ akatọọla [ Inec ] maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya.",
+        "Otu jikoro ndị ọrụ bụ NLC n'aha [ ịchafụ ] akatọọla Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya.",
+        "Otu jikoro ndị ọrụ bụ NLC n'aha ịchafụ akatọọla [ Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach ] gara n'anya ya.",
+        "Otu jikoro ndị ọrụ bụ NLC n'aha ịchafụ akatọọla [ Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ] ya.",
+        "Otu jikoro ndị ọrụ bụ NLC n'aha ịchafụ akatọọla [ Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "jikoro ndị ọrụ bụ NLC n'aha ịchafụ",
+        "Otu jikoro ndị ọrụ bụ NLC n'aha ịchafụ",
+        "NLC n'aha ịchafụ",
+        "n'aha ịchafụ",
+        "ndị ọrụ bụ NLC n'aha ịchafụ"
+      ],
+      [
+        "Inec",
+        "ịchafụ",
+        "Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach",
+        "Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya",
+        "Inec maka etu ntuliaka 2019 siri gaa ma kpoo oku ka ha hụ na mmegharị ntuliaka na steeti ụfọdụ nke e hiwere n'abali iri abụọ na atọ nke ọnwa Maach gara n'anya ya"
+      ]
+    ],
+    "score": [
+      [
+        -130.67013549804688,
+        -133.41314697265625,
+        -133.63729858398438,
+        -134.88815307617188,
+        -137.67337036132812
+      ],
+      [
+        -130.73385620117188,
+        -137.28521728515625,
+        -152.58880615234375,
+        -153.10879516601562,
+        -153.65386962890625
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [],
+    "template": "Ha dekwara sị na mpụtara ntuliaka a dabara n'ogo ha nyochapụtara na o kwesịrị :",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "The [ Nigerian Election Commission ] (INEC) has announced that President Muhammadu Buhari has won the 2019 presidential election.",
+      "The Nigerian Election Commission (INEC) has announced that President [ Muhammadu Buhari ] has won the 2019 presidential election."
+    ],
+    "src_entities": [
+      "Nigerian Election Commission",
+      "Muhammadu Buhari"
+    ],
+    "template": "Ngalaba na - ahazi ntuliaka na Naijiria bụ Inec n'aha ịchafụ ekwuola na ọ bụ onyeisiala Muhammadu Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019 .",
+    "tgt_lang": [
+      [
+        "Ngalaba na - ahazi ntuliaka na Naijiria bụ [ Inec ] n'aha ịchafụ ekwuola na ọ bụ onyeisiala Muhammadu Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019.",
+        "Ngalaba na - ahazi ntuliaka na Naijiria bụ [ Inec n'aha ịchafụ ] ekwuola na ọ bụ onyeisiala Muhammadu Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019.",
+        "Ngalaba na - ahazi ntuliaka [ na Naijiria ] bụ Inec n'aha ịchafụ ekwuola na ọ bụ onyeisiala Muhammadu Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019.",
+        "Ngalaba na - ahazi ntuliaka na Naijiria bụ Inec n'aha [ ịchafụ ] ekwuola na ọ bụ onyeisiala Muhammadu Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019.",
+        "Ngalaba [ na - ahazi ntuliaka na Naijiria bụ Inec ] n'aha ịchafụ ekwuola na ọ bụ onyeisiala Muhammadu Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019."
+      ],
+      [
+        "Ngalaba na - ahazi ntuliaka na Naijiria bụ Inec n'aha ịchafụ ekwuola na ọ bụ onyeisiala [ Muhammadu Buhari ] meriri na ntuliaka ọkwa onyeisiala afọ 2019.",
+        "Ngalaba na - ahazi ntuliaka na Naijiria bụ Inec n'aha ịchafụ ekwuola na ọ bụ onyeisiala [ ] Muhammadu Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019.",
+        "Ngalaba na - ahazi ntuliaka na Naijiria bụ Inec n'aha ịchafụ ekwuola na ọ bụ onyeisiala [ Muhammadu ] Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019.",
+        "Ngalaba na - ahazi ntuliaka na Naijiria bụ Inec n'aha ịchafụ ekwuola na ọ bụ onyeisiala [ Muhammadu Buhari meriri ] na ntuliaka ọkwa onyeisiala afọ 2019.",
+        "Ngalaba na - ahazi ntuliaka na Naijiria bụ Inec n'aha ịchafụ ekwuola na ọ bụ onyeisiala [ Muhammadu Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019 ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Inec",
+        "Inec n'aha ịchafụ",
+        "na Naijiria",
+        "ịchafụ",
+        "na - ahazi ntuliaka na Naijiria bụ Inec"
+      ],
+      [
+        "Muhammadu Buhari",
+        "",
+        "Muhammadu",
+        "Muhammadu Buhari meriri",
+        "Muhammadu Buhari meriri na ntuliaka ọkwa onyeisiala afọ 2019"
+      ]
+    ],
+    "score": [
+      [
+        -76.0585708618164,
+        -77.24828338623047,
+        -78.51720428466797,
+        -79.0667953491211,
+        -79.88582611083984
+      ],
+      [
+        -68.21060180664062,
+        -82.36202239990234,
+        -84.50900268554688,
+        -87.13224029541016,
+        -89.17677307128906
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [
+      "[ Brenton Tarrant, ] 28, was taken to court on Saturday for the attack on two mosques in New Zealand.",
+      "Brenton Tarrant, 28, was taken to court on Saturday for the attack on two mosques in [ New Zealand. ]"
+    ],
+    "src_entities": [
+      "Brenton Tarrant,",
+      "New Zealand."
+    ],
+    "template": "A kpụpụrụ Brenton Tarrant , onye dị afọ 28 , ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na Nu Ziland",
+    "tgt_lang": [
+      [
+        "A kpụpụrụ [ Brenton Tarrant ], onye dị afọ 28, ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na Nu Ziland",
+        "A kpụpụrụ [ Brenton Tarrant, ] onye dị afọ 28, ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na Nu Ziland",
+        "A kpụpụrụ Brenton Tarrant, onye dị afọ 28, ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka [ Alakụba ] abụọ na Nu Ziland",
+        "A kpụpụrụ [ Brenton Tarrant, onye dị afọ 28, ] ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na Nu Ziland",
+        "A kpụpụrụ Brenton Tarrant, onye dị afọ 28, ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na [ Nu Ziland ]"
+      ],
+      [
+        "A kpụpụrụ Brenton Tarrant, onye dị afọ 28, ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na [ Nu Ziland ]",
+        "A kpụpụrụ Brenton Tarrant, onye dị afọ 28, ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ [ na Nu Ziland ]",
+        "A kpụpụrụ Brenton Tarrant, onye dị afọ 28, ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na Nu [ Ziland ]",
+        "A kpụpụrụ Brenton Tarrant, onye dị afọ 28, ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka Alakụba abụọ na Nu Ziland [ ]",
+        "A kpụpụrụ Brenton Tarrant, onye dị afọ 28, ụlọikpe ụbọchị Satode maka mwakpo a wakporo ụlọụka [ Alakụba abụọ na Nu Ziland ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Brenton Tarrant",
+        "Brenton Tarrant,",
+        "Alakụba",
+        "Brenton Tarrant, onye dị afọ 28,",
+        "Nu Ziland"
+      ],
+      [
+        "Nu Ziland",
+        "na Nu Ziland",
+        "Ziland",
+        "",
+        "Alakụba abụọ na Nu Ziland"
+      ]
+    ],
+    "score": [
+      [
+        -67.10443878173828,
+        -67.15547180175781,
+        -68.3829574584961,
+        -69.181640625,
+        -70.71041870117188
+      ],
+      [
+        -58.75367736816406,
+        -63.82581329345703,
+        -66.0442886352539,
+        -66.0853271484375,
+        -66.26721954345703
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "[ NTA, ] AIT, Channels and others have violated NBC policy",
+      "NTA, [ AIT, ] Channels and others have violated NBC policy",
+      "NTA, AIT, [ Channels ] and others have violated NBC policy",
+      "NTA, AIT, Channels and others have violated [ NBC ] policy"
+    ],
+    "src_entities": [
+      "NTA,",
+      "AIT,",
+      "Channels",
+      "NBC"
+    ],
+    "template": "NTA , AIT , Channels na ndị ọzọ adaala iwu NBC",
+    "tgt_lang": [
+      [
+        "[ NTA, ] AIT, Channels na ndị ọzọ adaala iwu NBC",
+        "[ NTA ], AIT, Channels na ndị ọzọ adaala iwu NBC",
+        "[ NTA, AIT ], Channels na ndị ọzọ adaala iwu NBC",
+        "[ NTA, AIT, Channels ] na ndị ọzọ adaala iwu NBC",
+        "[ NTA, AIT, Channels na ndị ọzọ adaala iwu NBC ]"
+      ],
+      [
+        "NTA, [ AIT, ] Channels na ndị ọzọ adaala iwu NBC",
+        "NTA, AIT, [ ] Channels na ndị ọzọ adaala iwu NBC",
+        "NTA, AIT, [ Channels ] na ndị ọzọ adaala iwu NBC",
+        "NTA [, AIT, ] Channels na ndị ọzọ adaala iwu NBC",
+        "NTA, [ AIT ], Channels na ndị ọzọ adaala iwu NBC"
+      ],
+      [
+        "NTA, AIT, [ Channels ] na ndị ọzọ adaala iwu NBC",
+        "NTA, AIT, [ Channels na ndị ọzọ ] adaala iwu NBC",
+        "NTA, AIT, [ ] Channels na ndị ọzọ adaala iwu NBC",
+        "NTA, AIT, [ Channels na ] ndị ọzọ adaala iwu NBC",
+        "NTA, AIT, [ Channels na ndị ọzọ adaala iwu NBC ]"
+      ],
+      [
+        "NTA, AIT, Channels na ndị ọzọ adaala iwu [ NBC ]",
+        "NTA, AIT, Channels na ndị ọzọ adaala iwu [ ] NBC",
+        "NTA, AIT, Channels na ndị ọzọ adaala iwu NBC [ ]",
+        "NTA [, AIT, Channels na ndị ọzọ adaala iwu NBC ]",
+        "NTA [, AIT, Channels ] na ndị ọzọ adaala iwu NBC"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "NTA,",
+        "NTA",
+        "NTA, AIT",
+        "NTA, AIT, Channels",
+        "NTA, AIT, Channels na ndị ọzọ adaala iwu NBC"
+      ],
+      [
+        "AIT,",
+        "",
+        "Channels",
+        ", AIT,",
+        "AIT"
+      ],
+      [
+        "Channels",
+        "Channels na ndị ọzọ",
+        "",
+        "Channels na",
+        "Channels na ndị ọzọ adaala iwu NBC"
+      ],
+      [
+        "NBC",
+        "",
+        "",
+        ", AIT, Channels na ndị ọzọ adaala iwu NBC",
+        ", AIT, Channels"
+      ]
+    ],
+    "score": [
+      [
+        -11.569292068481445,
+        -19.813777923583984,
+        -21.90022850036621,
+        -25.459142684936523,
+        -27.15088653564453
+      ],
+      [
+        -14.00355052947998,
+        -25.705018997192383,
+        -26.263113021850586,
+        -26.420635223388672,
+        -27.29559326171875
+      ],
+      [
+        -11.789990425109863,
+        -24.59137725830078,
+        -26.628995895385742,
+        -27.45665740966797,
+        -27.569435119628906
+      ],
+      [
+        -11.030496597290039,
+        -24.760644912719727,
+        -25.262622833251953,
+        -30.118555068969727,
+        -30.469594955444336
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "[ Uwazuruike ] said that the problem was caused by the fact that some had a color on the patch that said \"\"\"\"king who told me\"\"\", he said."
+    ],
+    "src_entities": [
+      "Uwazuruike"
+    ],
+    "template": "Uwazuruike kwuru na ọ bụ n'ihi na ụfọdụ nwere agba na patị ahụ bụ \"\"\"\" eze onye agwala m \"\"\"\" , na ọ bụ ya butere nsogbu a .",
+    "tgt_lang": [
+      [
+        "[ Uwazuruike ] kwuru na ọ bụ n'ihi na ụfọdụ nwere agba na patị ahụ bụ \"\"\"\" eze onye agwala m \"\"\"\", na ọ bụ ya butere nsogbu a.",
+        "Uwazuruike kwuru na ọ bụ n'ihi na ụfọdụ nwere agba na patị ahụ bụ [ \"\"\"\" eze onye agwala m \"\"\"\" ], na ọ bụ ya butere nsogbu a.",
+        "Uwazuruike [ kwuru ] na ọ bụ n'ihi na ụfọdụ nwere agba na patị ahụ bụ \"\"\"\" eze onye agwala m \"\"\"\", na ọ bụ ya butere nsogbu a.",
+        "[ Uwazuruike kwuru ] na ọ bụ n'ihi na ụfọdụ nwere agba na patị ahụ bụ \"\"\"\" eze onye agwala m \"\"\"\", na ọ bụ ya butere nsogbu a.",
+        "Uwazuruike kwuru na ọ bụ n'ihi na ụfọdụ nwere agba [ na patị ahụ bụ ] \"\"\"\" eze onye agwala m \"\"\"\", na ọ bụ ya butere nsogbu a."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Uwazuruike",
+        "\"\"\"\" eze onye agwala m \"\"\"\"",
+        "kwuru",
+        "Uwazuruike kwuru",
+        "na patị ahụ bụ"
+      ]
+    ],
+    "score": [
+      [
+        -69.35753631591797,
+        -79.27794647216797,
+        -80.00060272216797,
+        -80.18994140625,
+        -82.24250793457031
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "Criminals have set fire to [ Inec ] factory in Agw Ibom",
+      "Criminals have set fire to Inec factory in [ Agw Ibom ]"
+    ],
+    "src_entities": [
+      "Inec",
+      "Agw Ibom"
+    ],
+    "template": "Ndị omekome agbaala ụlọọrụ Inec ọkụ n'Akwa Ibom",
+    "tgt_lang": [
+      [
+        "Ndị omekome agbaala ụlọọrụ [ Inec ] ọkụ n'Akwa Ibom",
+        "Ndị omekome agbaala ụlọọrụ [ Inec ọkụ ] n'Akwa Ibom",
+        "Ndị omekome agbaala ụlọọrụ [ ] Inec ọkụ n'Akwa Ibom",
+        "Ndị omekome agbaala ụlọọrụ [ Inec ọkụ n'Akwa Ibom ]",
+        "Ndị omekome agbaala ụlọ [ọrụ Inec ] ọkụ n'Akwa Ibom"
+      ],
+      [
+        "Ndị omekome agbaala ụlọọrụ Inec ọkụ [ n'Akwa Ibom ]",
+        "Ndị omekome agbaala ụlọọrụ Inec ọkụ n'Akwa Ibom [ ]",
+        "Ndị omekome agbaala ụlọọrụ Inec ọkụ n' [Akwa Ibom ]",
+        "Ndị omekome agbaala ụlọọrụ Inec ọkụ [ ] n'Akwa Ibom",
+        "Ndị omekome agbaala ụlọọrụ Inec ọkụ n'A [kwa Ibom ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Inec",
+        "Inec ọkụ",
+        "",
+        "Inec ọkụ n'Akwa Ibom",
+        "ọrụ Inec"
+      ],
+      [
+        "n'Akwa Ibom",
+        "",
+        "Akwa Ibom",
+        "",
+        "kwa Ibom"
+      ]
+    ],
+    "score": [
+      [
+        -15.540926933288574,
+        -27.993669509887695,
+        -28.958026885986328,
+        -30.971240997314453,
+        -31.92164421081543
+      ],
+      [
+        -20.970396041870117,
+        -26.578243255615234,
+        -26.82923698425293,
+        -27.971281051635742,
+        -30.50879669189453
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 16,
+    "src_lang": [],
+    "template": "Ya mere ha na - eji igwe a ga - eji arụ otu ogogo ụlọ elu arụ ogogo ụlọ elu anọ .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "Since the completion of the [ Senate ] elections, Inec has awarded President Buhari and his Vice President with their victory certificates and has also awarded their own Members of Parliament.",
+      "Since the completion of the Senate elections, [ Inec ] has awarded President Buhari and his Vice President with their victory certificates and has also awarded their own Members of Parliament.",
+      "Since the completion of the Senate elections, Inec has awarded President [ Buhari ] and his Vice President with their victory certificates and has also awarded their own Members of Parliament."
+    ],
+    "src_entities": [
+      "Senate",
+      "Inec",
+      "Buhari"
+    ],
+    "template": "Kamgbe emechara ntuliaka nke ọkwa sineti , Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha .",
+    "tgt_lang": [
+      [
+        "Kamgbe emechara ntuliaka [ nke ọkwa sineti ], Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha.",
+        "Kamgbe emechara ntuliaka nke [ ọkwa sineti ], Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha.",
+        "Kamgbe emechara ntuliaka [ nke ọkwa sineti, Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha ].",
+        "Kamgbe emechara ntuliaka [ nke ọkwa sineti, Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu ] nke ha.",
+        "Kamgbe emechara ntuliaka [ nke ọkwa sineti, Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha. ]"
+      ],
+      [
+        "Kamgbe emechara ntuliaka nke ọkwa sineti, [ Inec ] enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha.",
+        "Kamgbe emechara ntuliaka nke ọkwa sineti [, Inec ] enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha.",
+        "Kamgbe emechara ntuliaka nke ọkwa sineti, [ ] Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha.",
+        "Kamgbe emechara ntuliaka nke ọkwa sineti, Inec [ ] enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha.",
+        "Kamgbe emechara ntuliaka nke ọkwa sineti, [ Inec enyela ] onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha."
+      ],
+      [
+        "Kamgbe emechara ntuliaka nke ọkwa sineti, Inec enyela onyeisiala [ Buhari ] na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha.",
+        "Kamgbe emechara ntuliaka nke ọkwa sineti, Inec enyela onyeisiala [ Buhari na osote ya ] asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha.",
+        "Kamgbe emechara ntuliaka nke ọkwa sineti, Inec enyela onyeisiala [ ] Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha.",
+        "Kamgbe emechara ntuliaka nke ọkwa sineti, Inec enyela onyeisiala [ Buhari na osote ya asambodo mmeri ] ma nyekwa ndị otu ụlọomeiwu ukwu nke ha.",
+        "Kamgbe emechara ntuliaka nke ọkwa sineti, Inec enyela onyeisiala [ Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "nke ọkwa sineti",
+        "ọkwa sineti",
+        "nke ọkwa sineti, Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha",
+        "nke ọkwa sineti, Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu",
+        "nke ọkwa sineti, Inec enyela onyeisiala Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha."
+      ],
+      [
+        "Inec",
+        ", Inec",
+        "",
+        "",
+        "Inec enyela"
+      ],
+      [
+        "Buhari",
+        "Buhari na osote ya",
+        "",
+        "Buhari na osote ya asambodo mmeri",
+        "Buhari na osote ya asambodo mmeri ma nyekwa ndị otu ụlọomeiwu ukwu nke ha"
+      ]
+    ],
+    "score": [
+      [
+        -54.41162109375,
+        -56.959598541259766,
+        -67.6237564086914,
+        -69.5015869140625,
+        -69.71492767333984
+      ],
+      [
+        -52.96383285522461,
+        -63.7879753112793,
+        -67.31161499023438,
+        -67.81794738769531,
+        -67.87037658691406
+      ],
+      [
+        -53.786476135253906,
+        -64.07310485839844,
+        -69.14697265625,
+        -81.24221801757812,
+        -83.09870910644531
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "[ Real Madrid ] football manager Gareth Bale has criticized Real Madrid fans for mocking Bale and said it was a shame for them.",
+      "Real Madrid football manager [ Gareth Bale ] has criticized Real Madrid fans for mocking Bale and said it was a shame for them.",
+      "Real Madrid football manager Gareth Bale has criticized [ Real Madrid ] fans for mocking Bale and said it was a shame for them.",
+      "Real Madrid football manager Gareth Bale has criticized Real Madrid fans for mocking [ Bale ] and said it was a shame for them."
+    ],
+    "src_entities": [
+      "Real Madrid",
+      "Gareth Bale",
+      "Real Madrid",
+      "Bale"
+    ],
+    "template": "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha .",
+    "tgt_lang": [
+      [
+        "Onye nlekọta Gareth bale na - agbara [ Real Madrid ] bọọlụ akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado [ Real Madrid ] kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta Gareth bale na - agbara [ Real Madrid bọọlụ ] akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta Gareth bale na - agbara [ Real ] Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo [ ndị nkwado Real Madrid ] kwara Bale ma kwuo na ọ bụ ihe ihere nye ha."
+      ],
+      [
+        "Onye nlekọta [ Gareth bale ] na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta [ Gareth bale na - agbara Real Madrid bọọlụ ] akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta [ Gareth bale na - agbara ] Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta Gareth bale [ na - agbara Real Madrid bọọlụ ] akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye [ nlekọta Gareth bale ] na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha."
+      ],
+      [
+        "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado [ Real Madrid ] kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị [ nkwado Real Madrid ] kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta Gareth bale [ na - agbara Real Madrid bọọlụ ] akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado [ ] Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị [ nkwado ] Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha."
+      ],
+      [
+        "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara [ Bale ] ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta Gareth bale na - [ agbara ] Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta Gareth bale na - [ agbara Real Madrid bọọlụ ] akatọọla emo ndị nkwado Real Madrid kwara Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara [ Bale ma kwuo na ọ bụ ihe ihere nye ha. ]",
+        "Onye nlekọta Gareth bale na - agbara Real Madrid bọọlụ akatọọla emo ndị nkwado Real Madrid kwara [ Bale ma kwuo na ọ bụ ihe ihere nye ha ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Real Madrid",
+        "Real Madrid",
+        "Real Madrid bọọlụ",
+        "Real",
+        "ndị nkwado Real Madrid"
+      ],
+      [
+        "Gareth bale",
+        "Gareth bale na - agbara Real Madrid bọọlụ",
+        "Gareth bale na - agbara",
+        "na - agbara Real Madrid bọọlụ",
+        "nlekọta Gareth bale"
+      ],
+      [
+        "Real Madrid",
+        "nkwado Real Madrid",
+        "na - agbara Real Madrid bọọlụ",
+        "",
+        "nkwado"
+      ],
+      [
+        "Bale",
+        "agbara",
+        "agbara Real Madrid bọọlụ",
+        "Bale ma kwuo na ọ bụ ihe ihere nye ha.",
+        "Bale ma kwuo na ọ bụ ihe ihere nye ha"
+      ]
+    ],
+    "score": [
+      [
+        -66.7181167602539,
+        -73.8930435180664,
+        -75.23580169677734,
+        -78.10616302490234,
+        -78.67969512939453
+      ],
+      [
+        -63.261619567871094,
+        -65.8863296508789,
+        -68.41302490234375,
+        -70.53691864013672,
+        -71.43777465820312
+      ],
+      [
+        -63.23708724975586,
+        -72.64030456542969,
+        -72.92723083496094,
+        -75.74447631835938,
+        -76.44416809082031
+      ],
+      [
+        -63.940879821777344,
+        -80.24974060058594,
+        -80.95465087890625,
+        -81.33771514892578,
+        -82.28205871582031
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "[ Mbaka, ] Oyedepo, and other priests are effective",
+      "Mbaka, [ Oyedepo, ] and other priests are effective"
+    ],
+    "src_entities": [
+      "Mbaka,",
+      "Oyedepo,"
+    ],
+    "template": "Mbaka , Oyedepo na ụkọchukwu ndị ọzọ okwu ha na - adị ire",
+    "tgt_lang": [
+      [
+        "[ Mbaka, ] Oyedepo na ụkọchukwu ndị ọzọ okwu ha na - adị ire",
+        "[ Mbaka ], Oyedepo na ụkọchukwu ndị ọzọ okwu ha na - adị ire",
+        "Mbaka, [ Oyedepo ] na ụkọchukwu ndị ọzọ okwu ha na - adị ire",
+        "[ ] Mbaka, Oyedepo na ụkọchukwu ndị ọzọ okwu ha na - adị ire",
+        "[ Mbaka, Oyedepo ] na ụkọchukwu ndị ọzọ okwu ha na - adị ire"
+      ],
+      [
+        "Mbaka, [ Oyedepo ] na ụkọchukwu ndị ọzọ okwu ha na - adị ire",
+        "Mbaka, [ Oyedepo na ] ụkọchukwu ndị ọzọ okwu ha na - adị ire",
+        "Mbaka [, Oyedepo ] na ụkọchukwu ndị ọzọ okwu ha na - adị ire",
+        "Mbaka, [ Oyedepo na ụkọchukwu ndị ọzọ ] okwu ha na - adị ire",
+        "Mbaka, Oyedepo [ ] na ụkọchukwu ndị ọzọ okwu ha na - adị ire"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mbaka,",
+        "Mbaka",
+        "Oyedepo",
+        "",
+        "Mbaka, Oyedepo"
+      ],
+      [
+        "Oyedepo",
+        "Oyedepo na",
+        ", Oyedepo",
+        "Oyedepo na ụkọchukwu ndị ọzọ",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -40.65937042236328,
+        -49.67710494995117,
+        -54.17929458618164,
+        -54.937095642089844,
+        -55.13195037841797
+      ],
+      [
+        -39.20188522338867,
+        -43.37217712402344,
+        -46.01198959350586,
+        -46.39311218261719,
+        -48.65512466430664
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "The [ PDP ] has asked Nigerians to reject Inec's results if Inec refuses to produce a report on the card reader.",
+      "The PDP has asked Nigerians to reject [ Inec's ] results if Inec refuses to produce a report on the card reader.",
+      "The PDP has asked Nigerians to reject Inec's results if [ Inec ] refuses to produce a report on the card reader."
+    ],
+    "src_entities": [
+      "PDP",
+      "Inec's",
+      "Inec"
+    ],
+    "template": "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader . '",
+    "tgt_lang": [
+      [
+        "[ PDP ] rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader. '",
+        "PDP [ rịọrọ ] ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader. '",
+        "[ ] PDP rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader. '",
+        "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara Inec [ wepụtara ] ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader. '",
+        "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader. [']"
+      ],
+      [
+        "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara [ Inec wepụtara ] ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader. '",
+        "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara [ Inec ] wepụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader. '",
+        "PDP rịọrọ ndị Naijiria ka ha jụ [ mpụtara Inec wepụtara ] ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader. '",
+        "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara [ Inec we ]pụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader. '",
+        "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara [ ] Inec wepụtara ma ọ bụrụ na Inec jụ iwepụta ngụkọ nke igwe 'cardi reader. '"
+      ],
+      [
+        "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na [ Inec ] jụ iwepụta ngụkọ nke igwe 'cardi reader. '",
+        "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na Inec [ jụ ] iwepụta ngụkọ nke igwe 'cardi reader. '",
+        "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na [ Inec jụ ] iwepụta ngụkọ nke igwe 'cardi reader. '",
+        "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ [ na Inec ] jụ iwepụta ngụkọ nke igwe 'cardi reader. '",
+        "PDP rịọrọ ndị Naijiria ka ha jụ mpụtara Inec wepụtara ma ọ bụrụ na Inec jụ iwepụta [ ngụkọ ] nke igwe 'cardi reader. '"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "PDP",
+        "rịọrọ",
+        "",
+        "wepụtara",
+        "'"
+      ],
+      [
+        "Inec wepụtara",
+        "Inec",
+        "mpụtara Inec wepụtara",
+        "Inec we",
+        ""
+      ],
+      [
+        "Inec",
+        "jụ",
+        "Inec jụ",
+        "na Inec",
+        "ngụkọ"
+      ]
+    ],
+    "score": [
+      [
+        -87.84014129638672,
+        -95.82273864746094,
+        -97.1263427734375,
+        -100.62509155273438,
+        -107.21998596191406
+      ],
+      [
+        -84.77220153808594,
+        -87.56451416015625,
+        -94.69009399414062,
+        -95.18400573730469,
+        -96.57229614257812
+      ],
+      [
+        -84.97673797607422,
+        -95.72074890136719,
+        -99.39730072021484,
+        -99.98214721679688,
+        -101.7464828491211
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "2014: 13 buildings collapsed in [ Lagos ] and two in Abuja.",
+      "2014: 13 buildings collapsed in Lagos and two in [ Abuja. ]"
+    ],
+    "src_entities": [
+      "Lagos",
+      "Abuja."
+    ],
+    "template": "2014 : Ụlọ iri na atọ dara na Lagos ebe abụọ dara n'Abuja .",
+    "tgt_lang": [
+      [
+        "2014 : Ụlọ iri na atọ dara na [ Lagos ] ebe abụọ dara n'Abuja.",
+        "2014 : Ụlọ iri na atọ dara na Lagos [ ebe abụọ dara n'Abuja ].",
+        "2014 : Ụlọ iri na atọ dara na [ Lagos ebe abụọ dara n'Abuja ].",
+        "2014 : Ụlọ iri na atọ dara na Lagos [ ] ebe abụọ dara n'Abuja.",
+        "2014 : Ụlọ iri na atọ dara na Lagos [ ebe ] abụọ dara n'Abuja."
+      ],
+      [
+        "2014 : Ụlọ iri na atọ dara na Lagos ebe abụọ dara [ n'Abuja ].",
+        "2014 : Ụlọ iri na atọ dara na Lagos ebe abụọ dara [ n'Abuja. ]",
+        "2014 : Ụlọ iri na atọ dara na Lagos ebe abụọ dara n'Abuja [. ]",
+        "2014 : Ụlọ iri na atọ dara na Lagos ebe abụọ dara n'Abuja [ ].",
+        "2014 : Ụlọ iri na atọ dara na Lagos ebe abụọ dara n' [Abuja ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Lagos",
+        "ebe abụọ dara n'Abuja",
+        "Lagos ebe abụọ dara n'Abuja",
+        "",
+        "ebe"
+      ],
+      [
+        "n'Abuja",
+        "n'Abuja.",
+        ".",
+        "",
+        "Abuja"
+      ]
+    ],
+    "score": [
+      [
+        -26.64992332458496,
+        -34.51606369018555,
+        -34.67485809326172,
+        -34.80504608154297,
+        -36.25279235839844
+      ],
+      [
+        -30.596094131469727,
+        -31.711915969848633,
+        -34.81403732299805,
+        -35.04331588745117,
+        -37.08013153076172
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "Many people criticized the \"\"\"\"strange\"\" thing that happened in front of the [ Lukau ] church near Johannesburg, while many made fun of it.",
+      "Many people criticized the \"\"\"\"strange\"\" thing that happened in front of the Lukau church near [ Johannesburg, ] while many made fun of it."
+    ],
+    "src_entities": [
+      "Lukau",
+      "Johannesburg,"
+    ],
+    "template": "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka Lukau dị nso n'obodo Johannesburg , ebe ọtụtụ ji ya mere ihe ọchị .",
+    "tgt_lang": [
+      [
+        "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka [ Lukau ] dị nso n'obodo Johannesburg, ebe ọtụtụ ji ya mere ihe ọchị.",
+        "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu [ ụlọụka Lukau ] dị nso n'obodo Johannesburg, ebe ọtụtụ ji ya mere ihe ọchị.",
+        "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka [ ] Lukau dị nso n'obodo Johannesburg, ebe ọtụtụ ji ya mere ihe ọchị.",
+        "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka Lukau [ dị nso n'obodo Johannesburg ], ebe ọtụtụ ji ya mere ihe ọchị.",
+        "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka [ Lukau dị nso n'obodo Johannesburg, ebe ọtụtụ ] ji ya mere ihe ọchị."
+      ],
+      [
+        "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka Lukau dị nso n'obodo [ Johannesburg, ] ebe ọtụtụ ji ya mere ihe ọchị.",
+        "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka Lukau dị nso [ n'obodo Johannesburg, ] ebe ọtụtụ ji ya mere ihe ọchị.",
+        "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka Lukau dị nso n'obodo [ Johannesburg ], ebe ọtụtụ ji ya mere ihe ọchị.",
+        "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka Lukau dị nso n'obodo Johannesburg [, ] ebe ọtụtụ ji ya mere ihe ọchị.",
+        "Ọtụtu ndị mmadụ katọrọ ihe \"\"\"\" ịtụ n'anya \"\"\"\" ahụ mere n'ihu ụlọụka Lukau dị nso [ n'obodo Johannesburg ], ebe ọtụtụ ji ya mere ihe ọchị."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Lukau",
+        "ụlọụka Lukau",
+        "",
+        "dị nso n'obodo Johannesburg",
+        "Lukau dị nso n'obodo Johannesburg, ebe ọtụtụ"
+      ],
+      [
+        "Johannesburg,",
+        "n'obodo Johannesburg,",
+        "Johannesburg",
+        ",",
+        "n'obodo Johannesburg"
+      ]
+    ],
+    "score": [
+      [
+        -63.548362731933594,
+        -73.58016967773438,
+        -76.88923645019531,
+        -82.07212829589844,
+        -87.9419937133789
+      ],
+      [
+        -64.25467681884766,
+        -68.10423278808594,
+        -70.45892333984375,
+        -73.56051635742188,
+        -74.48316955566406
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [],
+    "template": "Obi kwuru na nke a tinyere ụjọ na ndị si na mpaghara ọwụwa anyanwụ na ndị ndịda anyanwụ ma na - ekwu na onweghị nrụrụaka ka nke a .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 24,
+    "src_lang": [],
+    "template": "Ntọala na - esighi ike",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  }
+]

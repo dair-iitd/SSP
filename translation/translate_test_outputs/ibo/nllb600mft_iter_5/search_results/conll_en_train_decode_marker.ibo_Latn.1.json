@@ -1,0 +1,1430 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "This left [ Manchester City ] still standing as king at the top of the table in the Premier League."
+    ],
+    "src_entities": [
+      "Manchester City"
+    ],
+    "template": "Nke a mere ka Manchester City ka kwụrụ ọtọ dịka eze n'elu tebulu na Premier League .",
+    "tgt_lang": [
+      [
+        "Nke a mere ka [ Manchester City ] ka kwụrụ ọtọ dịka eze n'elu tebulu na Premier League.",
+        "Nke a mere ka [ Manchester ] City ka kwụrụ ọtọ dịka eze n'elu tebulu na Premier League.",
+        "Nke a mere ka Manchester City [ ka ] kwụrụ ọtọ dịka eze n'elu tebulu na Premier League.",
+        "Nke a mere ka Manchester City [ ] ka kwụrụ ọtọ dịka eze n'elu tebulu na Premier League.",
+        "Nke a mere ka Manchester City ka kwụrụ ọtọ dịka eze n'elu tebulu [ na Premier League ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Manchester City",
+        "Manchester",
+        "ka",
+        "",
+        "na Premier League"
+      ]
+    ],
+    "score": [
+      [
+        -20.119308471679688,
+        -29.99717140197754,
+        -34.21273422241211,
+        -34.25214767456055,
+        -36.29014205932617
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "As President [ Muhammadu Buhari ] won the 2019 election, Nigerians have begun to wonder about who they want to run for the presidency in 2023."
+    ],
+    "src_entities": [
+      "Muhammadu Buhari"
+    ],
+    "template": "Dịka onyeisiala Muhammadu Buhari meriri na ntuliaka 2019 , ụmụ Naijiria ebidola ị ma atụ gbasara ndị ha chọrọ ka ha zọọ ọkwa onyeisiala n'afọ 2023 .",
+    "tgt_lang": [
+      [
+        "Dịka onyeisiala [ Muhammadu Buhari ] meriri na ntuliaka 2019, ụmụ Naijiria ebidola ị ma atụ gbasara ndị ha chọrọ ka ha zọọ ọkwa onyeisiala n'afọ 2023.",
+        "Dịka onyeisiala [ Muhammadu Buhari meriri na ntuliaka 2019 ], ụmụ Naijiria ebidola ị ma atụ gbasara ndị ha chọrọ ka ha zọọ ọkwa onyeisiala n'afọ 2023.",
+        "Dịka onyeisiala [ Muhammadu Buhari meriri na ntuliaka 2019, ụmụ Naijiria ebidola ị ma atụ gbasara ndị ha chọrọ ka ha zọọ ọkwa onyeisiala n'afọ 2023 ].",
+        "Dịka onyeisiala [ Muhammadu Buhari meriri na ntuliaka 2019, ụmụ Naijiria ebidola ị ma atụ gbasara ndị ha chọrọ ka ha zọọ ọkwa onyeisiala n'afọ 2023. ]",
+        "Dịka onyeisiala [ Muhammadu Buhari meriri na ntuliaka 2019, ụmụ Naijiria ebidola ị ma atụ gbasara ndị ha chọrọ ka ha zọọ ọkwa onyeisiala ] n'afọ 2023."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Muhammadu Buhari",
+        "Muhammadu Buhari meriri na ntuliaka 2019",
+        "Muhammadu Buhari meriri na ntuliaka 2019, ụmụ Naijiria ebidola ị ma atụ gbasara ndị ha chọrọ ka ha zọọ ọkwa onyeisiala n'afọ 2023",
+        "Muhammadu Buhari meriri na ntuliaka 2019, ụmụ Naijiria ebidola ị ma atụ gbasara ndị ha chọrọ ka ha zọọ ọkwa onyeisiala n'afọ 2023.",
+        "Muhammadu Buhari meriri na ntuliaka 2019, ụmụ Naijiria ebidola ị ma atụ gbasara ndị ha chọrọ ka ha zọọ ọkwa onyeisiala"
+      ]
+    ],
+    "score": [
+      [
+        -51.60782241821289,
+        -61.24532699584961,
+        -71.01786041259766,
+        -72.27750396728516,
+        -73.20879364013672
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "\"We do not believe there is such a thing as racism\", the [ Department of Culture, Religious and Linguistic Affairs ] (CRL Rights Commission) told reporters in South Africa.",
+      "\"We do not believe there is such a thing as racism\", the Department of Culture, Religious and Linguistic Affairs (CRL Rights Commission) told reporters in [ South Africa. ]"
+    ],
+    "src_entities": [
+      "Department of Culture, Religious and Linguistic Affairs",
+      "South Africa."
+    ],
+    "template": "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\" , ka ngalaba na - ahụ maka omenaala , ofufe na asụsụ a kpọrọ \"\"\"\" ( CRL Rights Commission ) \"\"\"\" gwara ndị ntaakụkọ mba Saụt Afrịka .",
+    "tgt_lang": [
+      [
+        "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\", ka ngalaba na - ahụ maka omenaala, ofufe na asụsụ a kpọrọ \"\"\"\" [ ( CRL Rights Commission ) \"\"\"\" ] gwara ndị ntaakụkọ mba Saụt Afrịka.",
+        "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\", ka [ ngalaba na - ahụ maka omenaala, ofufe na asụsụ ] a kpọrọ \"\"\"\" ( CRL Rights Commission ) \"\"\"\" gwara ndị ntaakụkọ mba Saụt Afrịka.",
+        "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\", ka ngalaba [ na - ahụ maka omenaala, ofufe na asụsụ ] a kpọrọ \"\"\"\" ( CRL Rights Commission ) \"\"\"\" gwara ndị ntaakụkọ mba Saụt Afrịka.",
+        "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\", ka ngalaba na - ahụ maka omenaala, ofufe na asụsụ a kpọrọ \"\"\"\" ( [ CRL Rights Commission ) \"\"\"\" ] gwara ndị ntaakụkọ mba Saụt Afrịka.",
+        "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\", ka ngalaba na - ahụ maka omenaala, ofufe na asụsụ a kpọrọ \"\"\"\" ( CRL Rights Commission ) [ \"\"\"\" ] gwara ndị ntaakụkọ mba Saụt Afrịka."
+      ],
+      [
+        "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\", ka ngalaba na - ahụ maka omenaala, ofufe na asụsụ a kpọrọ \"\"\"\" ( CRL Rights Commission ) \"\"\"\" gwara ndị ntaakụkọ [ mba Saụt Afrịka ].",
+        "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\", ka ngalaba na - ahụ maka omenaala, ofufe na asụsụ a kpọrọ \"\"\"\" ( CRL Rights Commission ) \"\"\"\" gwara ndị ntaakụkọ [ mba Saụt Afrịka. ]",
+        "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\", ka ngalaba na - ahụ maka omenaala, ofufe na asụsụ a kpọrọ \"\"\"\" ( CRL Rights Commission ) \"\"\"\" gwara ndị ntaakụkọ mba [ Saụt Afrịka ].",
+        "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\", ka ngalaba na - ahụ maka omenaala, ofufe na asụsụ a kpọrọ \"\"\"\" ( CRL Rights Commission ) \"\"\"\" gwara ndị ntaakụkọ mba [ Saụt Afrịka. ]",
+        "\"\"\"\" Anyị ekwenyeghị na e nwere ihe ọbụla dịka ihe iribama \"\"\"\", ka ngalaba na - ahụ maka omenaala, ofufe na asụsụ a kpọrọ \"\"\"\" ( CRL Rights Commission ) \"\"\"\" gwara ndị ntaakụkọ [ ] mba Saụt Afrịka."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "( CRL Rights Commission ) \"\"\"\"",
+        "ngalaba na - ahụ maka omenaala, ofufe na asụsụ",
+        "na - ahụ maka omenaala, ofufe na asụsụ",
+        "CRL Rights Commission ) \"\"\"\"",
+        "\"\"\"\""
+      ],
+      [
+        "mba Saụt Afrịka",
+        "mba Saụt Afrịka.",
+        "Saụt Afrịka",
+        "Saụt Afrịka.",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -176.64146423339844,
+        -177.0968017578125,
+        -177.32444763183594,
+        -177.61874389648438,
+        -178.1411590576172
+      ],
+      [
+        -159.53273010253906,
+        -162.2737274169922,
+        -163.88079833984375,
+        -166.12615966796875,
+        -166.684814453125
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 3,
+    "src_lang": [],
+    "template": "6 . Ndị mmadụ na kachị ntị biri n'ụlọ na - achọ ịda ada",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "[ U.S. ] Secretary of State Mike Pompeo said the two countries agreed to work on this issue.",
+      "U.S. Secretary of State [ Mike Pompeo ] said the two countries agreed to work on this issue."
+    ],
+    "src_entities": [
+      "U.S.",
+      "Mike Pompeo"
+    ],
+    "template": "Mike Pompeo bụ odeakwụkwọ kachasị nke mba Amerịka , kwuru na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a .",
+    "tgt_lang": [
+      [
+        "[ Mike Pompeo ] bụ odeakwụkwọ kachasị nke mba Amerịka, kwuru na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a.",
+        "[ Mike Pompeo bụ odeakwụkwọ kachasị nke mba Amerịka ], kwuru na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a.",
+        "Mike Pompeo bụ odeakwụkwọ kachasị nke mba Amerịka, kwuru na mba abụọ ahụ kwekọrịtara na ha ga [ na - agbalị ịhụ na isi pụtara n'isiokwu a. ]",
+        "Mike Pompeo bụ odeakwụkwọ kachasị nke mba Amerịka, kwuru na mba abụọ ahụ kwekọrịtara na ha ga [ na - agbalị ịhụ na isi pụtara n'isiokwu a ].",
+        "Mike Pompeo bụ odeakwụkwọ kachasị nke mba Amerịka, kwuru na mba abụọ ahụ kwekọrịtara na ha ga [ na - agbalị ] ịhụ na isi pụtara n'isiokwu a."
+      ],
+      [
+        "[ Mike Pompeo ] bụ odeakwụkwọ kachasị nke mba Amerịka, kwuru na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a.",
+        "[ Mike Pompeo bụ ] odeakwụkwọ kachasị nke mba Amerịka, kwuru na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a.",
+        "[ Mike Pompeo bụ odeakwụkwọ kachasị nke mba Amerịka, ] kwuru na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a.",
+        "Mike Pompeo [ bụ odeakwụkwọ kachasị nke mba Amerịka, kwuru ] na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a.",
+        "[ Mike Pompeo bụ odeakwụkwọ kachasị nke mba Amerịka, kwuru ] na mba abụọ ahụ kwekọrịtara na ha ga na - agbalị ịhụ na isi pụtara n'isiokwu a."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mike Pompeo",
+        "Mike Pompeo bụ odeakwụkwọ kachasị nke mba Amerịka",
+        "na - agbalị ịhụ na isi pụtara n'isiokwu a.",
+        "na - agbalị ịhụ na isi pụtara n'isiokwu a",
+        "na - agbalị"
+      ],
+      [
+        "Mike Pompeo",
+        "Mike Pompeo bụ",
+        "Mike Pompeo bụ odeakwụkwọ kachasị nke mba Amerịka,",
+        "bụ odeakwụkwọ kachasị nke mba Amerịka, kwuru",
+        "Mike Pompeo bụ odeakwụkwọ kachasị nke mba Amerịka, kwuru"
+      ]
+    ],
+    "score": [
+      [
+        -83.67292022705078,
+        -84.52730560302734,
+        -85.15706634521484,
+        -86.33041381835938,
+        -86.44424438476562
+      ],
+      [
+        -74.93019104003906,
+        -84.79440307617188,
+        -85.2365493774414,
+        -87.169677734375,
+        -87.35145568847656
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "Will [ Nwosu ] go to court?"
+    ],
+    "src_entities": [
+      "Nwosu"
+    ],
+    "template": "Uche Nwosu ọ ga - aga n'ụlọikpe ?",
+    "tgt_lang": [
+      [
+        "Uche [ Nwosu ] ọ ga - aga n'ụlọikpe?",
+        "[ Uche Nwosu ] ọ ga - aga n'ụlọikpe?",
+        "Uche Nwosu [ ] ọ ga - aga n'ụlọikpe?",
+        "Uche Nwosu ọ ga - aga [ n'ụlọikpe ]?",
+        "Uche Nwosu [ ọ ga - aga n'ụlọikpe? ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Nwosu",
+        "Uche Nwosu",
+        "",
+        "n'ụlọikpe",
+        "ọ ga - aga n'ụlọikpe?"
+      ]
+    ],
+    "score": [
+      [
+        -25.661792755126953,
+        -31.516658782958984,
+        -31.98357582092285,
+        -32.571754455566406,
+        -33.71660614013672
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [
+      "[ Pogu Petru. ]"
+    ],
+    "src_entities": [
+      "Pogu Petru."
+    ],
+    "template": "Pogu Bitrus .",
+    "tgt_lang": [
+      [
+        "[ Pogu Bitrus. ]",
+        "[ Pogu Bitrus ].",
+        "[ ] Pogu Bitrus.",
+        "[ Pogu ] Bitrus.",
+        "Pogu Bitrus. [ ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Pogu Bitrus.",
+        "Pogu Bitrus",
+        "",
+        "Pogu",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -13.924476623535156,
+        -19.209552764892578,
+        -23.604528427124023,
+        -26.818716049194336,
+        -27.399850845336914
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "But [ Okoroocha ] said Inec did not have the authority to do this.",
+      "But Okoroocha said [ Inec ] did not have the authority to do this."
+    ],
+    "src_entities": [
+      "Okoroocha",
+      "Inec"
+    ],
+    "template": "Mana Okoroocha kwuru na Inec enweghị ikike ime nke a .",
+    "tgt_lang": [
+      [
+        "Mana [ Okoroocha ] kwuru na Inec enweghị ikike ime nke a.",
+        "Mana [ Okoroocha kwuru ] na Inec enweghị ikike ime nke a.",
+        "Mana [ ] Okoroocha kwuru na Inec enweghị ikike ime nke a.",
+        "Mana Okoroocha [ kwuru ] na Inec enweghị ikike ime nke a.",
+        "Mana Okoroocha [ ] kwuru na Inec enweghị ikike ime nke a."
+      ],
+      [
+        "Mana Okoroocha kwuru na [ Inec ] enweghị ikike ime nke a.",
+        "Mana Okoroocha kwuru [ na Inec ] enweghị ikike ime nke a.",
+        "Mana Okoroocha kwuru na [ ] Inec enweghị ikike ime nke a.",
+        "Mana Okoroocha kwuru na [ Inec enweghị ] ikike ime nke a.",
+        "Mana Okoroocha kwuru [ na Inec enweghị ikike ime nke a ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Okoroocha",
+        "Okoroocha kwuru",
+        "",
+        "kwuru",
+        ""
+      ],
+      [
+        "Inec",
+        "na Inec",
+        "",
+        "Inec enweghị",
+        "na Inec enweghị ikike ime nke a"
+      ]
+    ],
+    "score": [
+      [
+        -9.371001243591309,
+        -18.755531311035156,
+        -19.507997512817383,
+        -19.574438095092773,
+        -23.91016960144043
+      ],
+      [
+        -5.290018081665039,
+        -14.841617584228516,
+        -18.14755630493164,
+        -19.642560958862305,
+        -20.518909454345703
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 8,
+    "src_lang": [
+      "The Nigerian military has said it is shocked by [ Inec's ] accusation that it played a role in the corruption of the governorship election in Rivas state.",
+      "The Nigerian military has said it is shocked by Inec's accusation that it played a role in the corruption of the governorship election in [ Rivas ] state."
+    ],
+    "src_entities": [
+      "Inec's",
+      "Rivas"
+    ],
+    "template": "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo Inec boro ha na ha so mebie ntuliaka ọkwa gọvanọ e mere na Rivas steeti .",
+    "tgt_lang": [
+      [
+        "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo [ Inec ] boro ha na ha so mebie ntuliaka ọkwa gọvanọ e mere na Rivas steeti.",
+        "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo [ Inec boro ha ] na ha so mebie ntuliaka ọkwa gọvanọ e mere na Rivas steeti.",
+        "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo Inec boro [ ha ] na ha so mebie ntuliaka ọkwa gọvanọ e mere na Rivas steeti.",
+        "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo [ ] Inec boro ha na ha so mebie ntuliaka ọkwa gọvanọ e mere na Rivas steeti.",
+        "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo [ Inec boro ] ha na ha so mebie ntuliaka ọkwa gọvanọ e mere na Rivas steeti."
+      ],
+      [
+        "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo Inec boro ha na ha so mebie ntuliaka ọkwa gọvanọ e mere na [ Rivas ] steeti.",
+        "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo Inec boro ha na ha so mebie ntuliaka ọkwa gọvanọ e mere [ na Rivas ] steeti.",
+        "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo Inec boro ha na ha so mebie ntuliaka ọkwa gọvanọ [ e mere na Rivas ] steeti.",
+        "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo Inec boro ha na ha so mebie ntuliaka ọkwa gọvanọ e mere na [ Rivas steeti ].",
+        "Ndị agha Naịjirịa ekwuola na ọ bụ ihe ịtụrụ ha n'anya banyere ebubo Inec boro ha na ha so mebie ntuliaka ọkwa gọvanọ e mere [ na Rivas steeti ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Inec",
+        "Inec boro ha",
+        "ha",
+        "",
+        "Inec boro"
+      ],
+      [
+        "Rivas",
+        "na Rivas",
+        "e mere na Rivas",
+        "Rivas steeti",
+        "na Rivas steeti"
+      ]
+    ],
+    "score": [
+      [
+        -46.5770263671875,
+        -55.65736389160156,
+        -58.66664505004883,
+        -58.790714263916016,
+        -61.318275451660156
+      ],
+      [
+        -44.99104690551758,
+        -49.04115295410156,
+        -53.36943817138672,
+        -54.83546829223633,
+        -55.13005447387695
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "Fr [ Mbaka ] is very happy because Buhari has won",
+      "Fr Mbaka is very happy because [ Buhari ] has won"
+    ],
+    "src_entities": [
+      "Mbaka",
+      "Buhari"
+    ],
+    "template": "Fr Mbaka na - enwe nnukwu aṅụrị n'ihi na Buhari emeriela",
+    "tgt_lang": [
+      [
+        "Fr [ Mbaka ] na - enwe nnukwu aṅụrị n'ihi na Buhari emeriela",
+        "[ Fr Mbaka ] na - enwe nnukwu aṅụrị n'ihi na Buhari emeriela",
+        "Fr [ Mbaka na - enwe ] nnukwu aṅụrị n'ihi na Buhari emeriela",
+        "Fr [ Mbaka na - enwe nnukwu aṅụrị ] n'ihi na Buhari emeriela",
+        "Fr [ Mbaka na - enwe nnukwu aṅụrị n'ihi na Buhari emeriela ]"
+      ],
+      [
+        "Fr Mbaka na - enwe nnukwu aṅụrị n'ihi na [ Buhari ] emeriela",
+        "Fr Mbaka na - enwe nnukwu aṅụrị n'ihi na [ Buhari emeriela ]",
+        "Fr Mbaka na - enwe nnukwu aṅụrị [ n'ihi na Buhari emeriela ]",
+        "Fr Mbaka na - enwe nnukwu aṅụrị [ n'ihi na Buhari ] emeriela",
+        "Fr Mbaka na - enwe [ nnukwu aṅụrị ] n'ihi na Buhari emeriela"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mbaka",
+        "Fr Mbaka",
+        "Mbaka na - enwe",
+        "Mbaka na - enwe nnukwu aṅụrị",
+        "Mbaka na - enwe nnukwu aṅụrị n'ihi na Buhari emeriela"
+      ],
+      [
+        "Buhari",
+        "Buhari emeriela",
+        "n'ihi na Buhari emeriela",
+        "n'ihi na Buhari",
+        "nnukwu aṅụrị"
+      ]
+    ],
+    "score": [
+      [
+        -21.999513626098633,
+        -25.298358917236328,
+        -30.701641082763672,
+        -34.07038116455078,
+        -38.29915237426758
+      ],
+      [
+        -23.402847290039062,
+        -25.74162483215332,
+        -31.569971084594727,
+        -34.053470611572266,
+        -37.19797897338867
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [],
+    "template": "O kwuru na ọ mabeghị .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "[ Ngige ] ruled Anambra after winning the governorship under the PDP, in the year 2003 to 2006.",
+      "Ngige ruled [ Anambra ] after winning the governorship under the PDP, in the year 2003 to 2006.",
+      "Ngige ruled Anambra after winning the governorship under the [ PDP, ] in the year 2003 to 2006."
+    ],
+    "src_entities": [
+      "Ngige",
+      "Anambra",
+      "PDP,"
+    ],
+    "template": "Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP , n'afọ 2003 ruo 2006 .",
+    "tgt_lang": [
+      [
+        "[ Ngige ] chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006.",
+        "[ ] Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006.",
+        "[ Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP ], n'afọ 2003 ruo 2006.",
+        "[ Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006. ]",
+        "[ Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006 ]."
+      ],
+      [
+        "Ngige chịrị [ Anambra ] mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006.",
+        "Ngige chịrị [ ] Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006.",
+        "Ngige chịrị Anambra [ mgbe o meriri ọkwa Gọvanọ n'okpuru PDP ], n'afọ 2003 ruo 2006.",
+        "Ngige chịrị Anambra [ mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006 ].",
+        "Ngige chịrị Anambra [ mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006. ]"
+      ],
+      [
+        "Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru [ PDP, ] n'afọ 2003 ruo 2006.",
+        "Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru [ ] PDP, n'afọ 2003 ruo 2006.",
+        "Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru [ PDP ], n'afọ 2003 ruo 2006.",
+        "Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru [ PDP, n'afọ 2003 ruo 2006 ].",
+        "Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru [ PDP, n'afọ 2003 ruo 2006. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ngige",
+        "",
+        "Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP",
+        "Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006.",
+        "Ngige chịrị Anambra mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006"
+      ],
+      [
+        "Anambra",
+        "",
+        "mgbe o meriri ọkwa Gọvanọ n'okpuru PDP",
+        "mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006",
+        "mgbe o meriri ọkwa Gọvanọ n'okpuru PDP, n'afọ 2003 ruo 2006."
+      ],
+      [
+        "PDP,",
+        "",
+        "PDP",
+        "PDP, n'afọ 2003 ruo 2006",
+        "PDP, n'afọ 2003 ruo 2006."
+      ]
+    ],
+    "score": [
+      [
+        -11.626836776733398,
+        -24.93975257873535,
+        -35.875606536865234,
+        -37.529884338378906,
+        -37.670928955078125
+      ],
+      [
+        -12.4171781539917,
+        -23.559640884399414,
+        -29.441265106201172,
+        -30.68193244934082,
+        -33.032470703125
+      ],
+      [
+        -11.171653747558594,
+        -21.852691650390625,
+        -22.55348777770996,
+        -25.240087509155273,
+        -27.58976173400879
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [],
+    "template": "6 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "A tradition and ethnic group in [ Nigeria, ] the Igbo Ohaneze, the Northern Elders Forum, the Middle Belt Forum and the Niger Delta Forum have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+      "A tradition and ethnic group in Nigeria, the [ Igbo Ohaneze, ] the Northern Elders Forum, the Middle Belt Forum and the Niger Delta Forum have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+      "A tradition and ethnic group in Nigeria, the Igbo Ohaneze, the [ Northern Elders Forum, ] the Middle Belt Forum and the Niger Delta Forum have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+      "A tradition and ethnic group in Nigeria, the Igbo Ohaneze, the Northern Elders Forum, the [ Middle Belt Forum ] and the Niger Delta Forum have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+      "A tradition and ethnic group in Nigeria, the Igbo Ohaneze, the Northern Elders Forum, the Middle Belt Forum and the [ Niger Delta Forum ] have been involved in a petition to get Atiku to go to court over the observation of the election held on Saturday which they believe was incorrect.",
+      "A tradition and ethnic group in Nigeria, the Igbo Ohaneze, the Northern Elders Forum, the Middle Belt Forum and the Niger Delta Forum have been involved in a petition to get [ Atiku ] to go to court over the observation of the election held on Saturday which they believe was incorrect."
+    ],
+    "src_entities": [
+      "Nigeria,",
+      "Igbo Ohaneze,",
+      "Northern Elders Forum,",
+      "Middle Belt Forum",
+      "Niger Delta Forum",
+      "Atiku"
+    ],
+    "template": "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo , Northern Elders Forum , Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi .",
+    "tgt_lang": [
+      [
+        "Otu ọdịnala na agbụrụ dị na [ Naịjirịa ] bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị [ na Naịjirịa ] bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na [ Naịjirịa bụ ] Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị [ na Naịjirịa bụ ] Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ [ Ohaneze ndị Igbo ], Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi."
+      ],
+      [
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ [ Ohaneze ndị Igbo, ] Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ [ Ohaneze ndị Igbo ], Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze [ ndị Igbo, ] Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, [ Northern Elders Forum, Middle Belt Forum na Niger Delta Forum ] etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, [ Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde ] nke ha kwenyere na ozighịezi."
+      ],
+      [
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, [ Northern Elders Forum, ] Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, [ Northern Elders Forum ], Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, [ Middle Belt Forum ] na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, [ ] Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, [ Middle Belt Forum na Niger Delta Forum ] etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi."
+      ],
+      [
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, [ Middle Belt Forum ] na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum [ ] na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum [, Middle Belt Forum ] na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum [ na Niger Delta Forum ] etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, [ Middle Belt ] Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi."
+      ],
+      [
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na [ Niger Delta Forum ] etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na Niger Delta Forum [ ] etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na [ ] Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na [ Niger ] Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na [ Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde ] nke ha kwenyere na ozighịezi."
+      ],
+      [
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado [ Atiku ] ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku [ ] ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado [ Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde ] nke ha kwenyere na ozighịezi.",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado [ Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi ].",
+        "Otu ọdịnala na agbụrụ dị na Naịjirịa bụ Ohaneze ndị Igbo, Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado [ Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighị ]ezi."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Naịjirịa",
+        "na Naịjirịa",
+        "Naịjirịa bụ",
+        "na Naịjirịa bụ",
+        "Ohaneze ndị Igbo"
+      ],
+      [
+        "Ohaneze ndị Igbo,",
+        "Ohaneze ndị Igbo",
+        "ndị Igbo,",
+        "Northern Elders Forum, Middle Belt Forum na Niger Delta Forum",
+        "Northern Elders Forum, Middle Belt Forum na Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde"
+      ],
+      [
+        "Northern Elders Forum,",
+        "Northern Elders Forum",
+        "Middle Belt Forum",
+        "",
+        "Middle Belt Forum na Niger Delta Forum"
+      ],
+      [
+        "Middle Belt Forum",
+        "",
+        ", Middle Belt Forum",
+        "na Niger Delta Forum",
+        "Middle Belt"
+      ],
+      [
+        "Niger Delta Forum",
+        "",
+        "",
+        "Niger",
+        "Niger Delta Forum etinyela aka n'akwụkwọ ịgwado Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde"
+      ],
+      [
+        "Atiku",
+        "",
+        "Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde",
+        "Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighịezi",
+        "Atiku ịgawa ụlọikpe maka ịlebe anya na - atụm vootu emere ụbọchị satọde nke ha kwenyere na ozighị"
+      ]
+    ],
+    "score": [
+      [
+        -137.33233642578125,
+        -138.75601196289062,
+        -139.68045043945312,
+        -141.11776733398438,
+        -141.97511291503906
+      ],
+      [
+        -138.46340942382812,
+        -139.961669921875,
+        -140.2119598388672,
+        -144.79942321777344,
+        -152.61978149414062
+      ],
+      [
+        -133.8080596923828,
+        -137.1914520263672,
+        -141.97618103027344,
+        -144.1070556640625,
+        -144.51063537597656
+      ],
+      [
+        -133.831298828125,
+        -143.18014526367188,
+        -143.5049285888672,
+        -143.5978240966797,
+        -144.22061157226562
+      ],
+      [
+        -132.80087280273438,
+        -145.1621856689453,
+        -145.67823791503906,
+        -148.01341247558594,
+        -158.68153381347656
+      ],
+      [
+        -133.4882354736328,
+        -147.6186065673828,
+        -152.2989044189453,
+        -155.5673828125,
+        -155.6625213623047
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 14,
+    "src_lang": [],
+    "template": "O kwuru na ọ chọrọ ikpọlite ngalaba o hibere maka nlekọta ndị mmadụ anya n'efu nke ọ kpọrọ \"\"\"\" Gateway Front Foundation ( GFF ) \"\"\"\" , na ndụ .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "Popular news now is that [ Atiku Abubakar ] and a PDP party have filed a lawsuit over the results of the 2019 presidential election.",
+      "Popular news now is that Atiku Abubakar and a [ PDP ] party have filed a lawsuit over the results of the 2019 presidential election."
+    ],
+    "src_entities": [
+      "Atiku Abubakar",
+      "PDP"
+    ],
+    "template": "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar nakwa otu PDP azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019 .",
+    "tgt_lang": [
+      [
+        "Akụkọ na - ewu ewu ugbua bụ na [ Atiku Abubakar ] nakwa otu PDP azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019.",
+        "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar [ nakwa otu PDP ] azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019.",
+        "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar [ ] nakwa otu PDP azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019.",
+        "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar [ nakwa otu PDP azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019 ].",
+        "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar [ nakwa otu PDP azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019. ]"
+      ],
+      [
+        "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar nakwa otu [ PDP ] azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019.",
+        "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar nakwa otu [ ] PDP azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019.",
+        "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar [ nakwa otu PDP ] azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019.",
+        "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar nakwa otu [ PDP azọnyela ] ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019.",
+        "Akụkọ na - ewu ewu ugbua bụ na Atiku Abubakar nakwa otu PDP [ ] azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Atiku Abubakar",
+        "nakwa otu PDP",
+        "",
+        "nakwa otu PDP azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019",
+        "nakwa otu PDP azọnyela ụkwụ n'ụlọikpe maka mpụtara ntuliaka ọkwa onyeisiala 2019."
+      ],
+      [
+        "PDP",
+        "",
+        "nakwa otu PDP",
+        "PDP azọnyela",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -59.86022186279297,
+        -67.81592559814453,
+        -70.55452728271484,
+        -78.95980072021484,
+        -79.93246459960938
+      ],
+      [
+        -56.20979690551758,
+        -70.00843811035156,
+        -70.6720199584961,
+        -70.79469299316406,
+        -72.2041244506836
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "Recall that Mr. [ Abubakar ] was a candidate for the presidency on behalf of the PDP party.",
+      "Recall that Mr. Abubakar was a candidate for the presidency on behalf of the [ PDP ] party."
+    ],
+    "src_entities": [
+      "Abubakar",
+      "PDP"
+    ],
+    "template": "Cheta na Maazị Abubakar bụ onye ji aha pati PDP zọọ ọkwa onyeisiala .",
+    "tgt_lang": [
+      [
+        "Cheta na Maazị [ Abubakar ] bụ onye ji aha pati PDP zọọ ọkwa onyeisiala.",
+        "Cheta na Maazị [ Abubakar bụ ] onye ji aha pati PDP zọọ ọkwa onyeisiala.",
+        "Cheta na Maazị [ Abubakar bụ onye ji aha pati PDP zọọ ọkwa onyeisiala ].",
+        "Cheta na Maazị [ Abubakar bụ onye ji aha pati PDP ] zọọ ọkwa onyeisiala.",
+        "Cheta na Maazị [ Abubakar bụ onye ji aha pati PDP zọọ ọkwa onyeisiala. ]"
+      ],
+      [
+        "Cheta na Maazị Abubakar bụ onye ji aha pati [ PDP ] zọọ ọkwa onyeisiala.",
+        "Cheta na Maazị Abubakar bụ onye ji aha [ pati PDP ] zọọ ọkwa onyeisiala.",
+        "Cheta na Maazị Abubakar bụ onye ji aha pati [ ] PDP zọọ ọkwa onyeisiala.",
+        "Cheta na Maazị Abubakar bụ onye ji [ aha pati PDP ] zọọ ọkwa onyeisiala.",
+        "Cheta na Maazị Abubakar bụ onye [ ji aha pati PDP ] zọọ ọkwa onyeisiala."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Abubakar",
+        "Abubakar bụ",
+        "Abubakar bụ onye ji aha pati PDP zọọ ọkwa onyeisiala",
+        "Abubakar bụ onye ji aha pati PDP",
+        "Abubakar bụ onye ji aha pati PDP zọọ ọkwa onyeisiala."
+      ],
+      [
+        "PDP",
+        "pati PDP",
+        "",
+        "aha pati PDP",
+        "ji aha pati PDP"
+      ]
+    ],
+    "score": [
+      [
+        -15.418378829956055,
+        -25.828746795654297,
+        -33.880855560302734,
+        -36.17741394042969,
+        -36.74283218383789
+      ],
+      [
+        -16.4440975189209,
+        -21.52760887145996,
+        -28.2714900970459,
+        -29.83067512512207,
+        -31.268531799316406
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "The spokesperson, Attorney [ Ifeanyi Ulumma ] explained that the election being \"\"\"\" inconclusive \"\"\"\" means \"\"\"\" where the election was conducted without prejudice. \"\"\"\""
+    ],
+    "src_entities": [
+      "Ifeanyi Ulumma"
+    ],
+    "template": "Onye ọnụ na - eru n'okwu bụ Ọkaiwu Ifeanyi Ulumma kọwara na ntuliaka ịdị \"\"\"\" inconclusive \"\"\"\" pụtara \"\"\"\" ebe e mere ntuliaka a na - emerughị n'isi . \"\"\"\"",
+    "tgt_lang": [
+      [
+        "Onye ọnụ na - eru n'okwu bụ Ọkaiwu [ Ifeanyi Ulumma ] kọwara na ntuliaka ịdị \"\"\"\" inconclusive \"\"\"\" pụtara \"\"\"\" ebe e mere ntuliaka a na - emerughị n'isi. \"\"\"\"",
+        "Onye ọnụ na - eru n'okwu bụ [ Ọkaiwu Ifeanyi Ulumma ] kọwara na ntuliaka ịdị \"\"\"\" inconclusive \"\"\"\" pụtara \"\"\"\" ebe e mere ntuliaka a na - emerughị n'isi. \"\"\"\"",
+        "Onye ọnụ na - eru n'okwu bụ [ Ọkaiwu ] Ifeanyi Ulumma kọwara na ntuliaka ịdị \"\"\"\" inconclusive \"\"\"\" pụtara \"\"\"\" ebe e mere ntuliaka a na - emerughị n'isi. \"\"\"\"",
+        "Onye ọnụ na - eru n'okwu bụ [ Ọkaiwu Ifeanyi Ulumma kọwara ] na ntuliaka ịdị \"\"\"\" inconclusive \"\"\"\" pụtara \"\"\"\" ebe e mere ntuliaka a na - emerughị n'isi. \"\"\"\"",
+        "Onye ọnụ na - eru n'okwu bụ Ọkaiwu [ ] Ifeanyi Ulumma kọwara na ntuliaka ịdị \"\"\"\" inconclusive \"\"\"\" pụtara \"\"\"\" ebe e mere ntuliaka a na - emerughị n'isi. \"\"\"\""
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ifeanyi Ulumma",
+        "Ọkaiwu Ifeanyi Ulumma",
+        "Ọkaiwu",
+        "Ọkaiwu Ifeanyi Ulumma kọwara",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -75.07330322265625,
+        -81.77053833007812,
+        -84.95993041992188,
+        -89.25281524658203,
+        -90.3403549194336
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "For example, [ London ] was at nine degrees, while New York was at four degrees.",
+      "For example, London was at nine degrees, while [ New York ] was at four degrees."
+    ],
+    "src_entities": [
+      "London",
+      "New York"
+    ],
+    "template": "Ọmụma atụ , London nọ na digri itoolu , ebe Nu Yọk nọ na deigri anọ .",
+    "tgt_lang": [
+      [
+        "Ọmụma atụ, [ London ] nọ na digri itoolu, ebe Nu Yọk nọ na deigri anọ.",
+        "Ọmụma atụ, London nọ na [ digri itoolu ], ebe Nu Yọk nọ na deigri anọ.",
+        "Ọmụma atụ, [ ] London nọ na digri itoolu, ebe Nu Yọk nọ na deigri anọ.",
+        "Ọmụma atụ, [ London nọ ] na digri itoolu, ebe Nu Yọk nọ na deigri anọ.",
+        "Ọmụma atụ, London nọ na [ digri itoolu, ] ebe Nu Yọk nọ na deigri anọ."
+      ],
+      [
+        "Ọmụma atụ, London nọ na digri itoolu, ebe [ Nu Yọk ] nọ na deigri anọ.",
+        "Ọmụma atụ, London nọ na digri itoolu, ebe Nu [ Yọk ] nọ na deigri anọ.",
+        "Ọmụma atụ, London nọ na digri itoolu, ebe [ Nu ] Yọk nọ na deigri anọ.",
+        "Ọmụma atụ, London nọ na [ digri itoolu, ebe Nu Yọk ] nọ na deigri anọ.",
+        "Ọmụma atụ, London nọ na [ digri itoolu ], ebe Nu Yọk nọ na deigri anọ."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "London",
+        "digri itoolu",
+        "",
+        "London nọ",
+        "digri itoolu,"
+      ],
+      [
+        "Nu Yọk",
+        "Yọk",
+        "Nu",
+        "digri itoolu, ebe Nu Yọk",
+        "digri itoolu"
+      ]
+    ],
+    "score": [
+      [
+        -58.40483093261719,
+        -65.57504272460938,
+        -68.03213500976562,
+        -68.40968322753906,
+        -68.52989959716797
+      ],
+      [
+        -58.97426986694336,
+        -64.7917709350586,
+        -65.90184020996094,
+        -67.55217742919922,
+        -68.14622497558594
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "A Nigerian junior football team will start their training in [ Tunisia ] today as they prepare to meet Libya to determine who qualified for the Junior Africa Cup of Nations.",
+      "A Nigerian junior football team will start their training in Tunisia today as they prepare to meet [ Libya ] to determine who qualified for the Junior Africa Cup of Nations."
+    ],
+    "src_entities": [
+      "Tunisia",
+      "Libya"
+    ],
+    "template": "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na mba Tunisia taa dịka ha na akwado ịzute mba Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere .",
+    "tgt_lang": [
+      [
+        "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na [ mba Tunisia ] taa dịka ha na akwado ịzute mba Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere.",
+        "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na mba [ Tunisia ] taa dịka ha na akwado ịzute mba Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere.",
+        "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha [ na mba Tunisia ] taa dịka ha na akwado ịzute mba Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere.",
+        "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na [ mba Tunisia taa ] dịka ha na akwado ịzute mba Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere.",
+        "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha [ na ] mba Tunisia taa dịka ha na akwado ịzute mba Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere."
+      ],
+      [
+        "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na mba Tunisia taa dịka ha na akwado ịzute [ mba Libya ] iji mara onye tozuru asọmpị iko mba Afrịka nke obere.",
+        "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na mba Tunisia taa dịka ha na akwado ịzute mba [ Libya ] iji mara onye tozuru asọmpị iko mba Afrịka nke obere.",
+        "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na mba Tunisia taa dịka ha na akwado ịzute [ mba ] Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere.",
+        "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na mba Tunisia taa dịka ha na akwado ịzute [ ] mba Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere.",
+        "Otu bọọlụ Naịjirịa ndị obere ga - ebido ọzụzụ ha na mba Tunisia taa dịka ha na akwado ịzute [ mba Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "mba Tunisia",
+        "Tunisia",
+        "na mba Tunisia",
+        "mba Tunisia taa",
+        "na"
+      ],
+      [
+        "mba Libya",
+        "Libya",
+        "mba",
+        "",
+        "mba Libya iji mara onye tozuru asọmpị iko mba Afrịka nke obere"
+      ]
+    ],
+    "score": [
+      [
+        -73.41411590576172,
+        -73.77057647705078,
+        -74.69172668457031,
+        -82.04396057128906,
+        -82.1720199584961
+      ],
+      [
+        -74.22566986083984,
+        -76.01956939697266,
+        -83.4852523803711,
+        -83.85911560058594,
+        -92.75855255126953
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "Igbo artist and internationally renowned art collector [ Okwui Enwezor, ] from Awkuzu, Anambara state died on Friday in Germany after suffering from cancer for several years.",
+      "Igbo artist and internationally renowned art collector Okwui Enwezor, from [ Awkuzu, ] Anambara state died on Friday in Germany after suffering from cancer for several years.",
+      "Igbo artist and internationally renowned art collector Okwui Enwezor, from Awkuzu, [ Anambara ] state died on Friday in Germany after suffering from cancer for several years.",
+      "Igbo artist and internationally renowned art collector Okwui Enwezor, from Awkuzu, Anambara state died on Friday in [ Germany ] after suffering from cancer for several years."
+    ],
+    "src_entities": [
+      "Okwui Enwezor,",
+      "Awkuzu,",
+      "Anambara",
+      "Germany"
+    ],
+    "template": "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor , onye Awkuzu , Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole .",
+    "tgt_lang": [
+      [
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ [ Okwui Enwezor, ] onye Awkuzu, Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ [ Okwui Enwezor ], onye Awkuzu, Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor [, ] onye Awkuzu, Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa [ bụ Okwui Enwezor, ] onye Awkuzu, Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, [ Anambara steeti ] anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole."
+      ],
+      [
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye [ Awkuzu, ] Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye [ Awkuzu ], Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye [ Awkuzu, Anambara steeti ] anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye [ Awkuzu, Anambara ] steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, [ Anambara ] steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole."
+      ],
+      [
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, [ Anambara ] steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, [ Anambara steeti ] anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, [ ] Anambara steeti anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, Anambara steeti [ anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole ].",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, Anambara steeti [ anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole. ]"
+      ],
+      [
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, Anambara steeti anwụọla ụbọchị Fraide na mba [ Germany ] ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, Anambara steeti anwụọla ụbọchị Fraide na [ mba Germany ] ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, Anambara steeti anwụọla ụbọchị Fraide [ na mba Germany ] ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, Anambara steeti anwụọla ụbọchị Fraide na [ ] mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole.",
+        "Nwafọ Igbo bụ ọkaibe na idokwa ihe nka ama ama na mbauwa bụ Okwui Enwezor, onye Awkuzu, Anambara steeti anwụọla ụbọchị Fraide na [ mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Okwui Enwezor,",
+        "Okwui Enwezor",
+        ",",
+        "bụ Okwui Enwezor,",
+        "Anambara steeti"
+      ],
+      [
+        "Awkuzu,",
+        "Awkuzu",
+        "Awkuzu, Anambara steeti",
+        "Awkuzu, Anambara",
+        "Anambara"
+      ],
+      [
+        "Anambara",
+        "Anambara steeti",
+        "",
+        "anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole",
+        "anwụọla ụbọchị Fraide na mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole."
+      ],
+      [
+        "Germany",
+        "mba Germany",
+        "na mba Germany",
+        "",
+        "mba Germany ka ọ rịachara ọrịa kansa afọ ole na ole."
+      ]
+    ],
+    "score": [
+      [
+        -85.26922607421875,
+        -90.8349380493164,
+        -92.72953796386719,
+        -94.2525863647461,
+        -97.68099212646484
+      ],
+      [
+        -82.87187957763672,
+        -90.0161361694336,
+        -91.07220458984375,
+        -91.40310668945312,
+        -91.80254364013672
+      ],
+      [
+        -81.51144409179688,
+        -90.72425842285156,
+        -94.34391021728516,
+        -105.9604263305664,
+        -106.29276275634766
+      ],
+      [
+        -86.97502136230469,
+        -88.71548461914062,
+        -89.17945861816406,
+        -98.59307861328125,
+        -105.68024444580078
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "[ Leicester City: ] The owner has died in an accident?"
+    ],
+    "src_entities": [
+      "Leicester City:"
+    ],
+    "template": "Leicester City : Onye nwe ya ọ nwụọla n'ihe mberede ?",
+    "tgt_lang": [
+      [
+        "[ Leicester City : ] Onye nwe ya ọ nwụọla n'ihe mberede?",
+        "[ Leicester City ] : Onye nwe ya ọ nwụọla n'ihe mberede?",
+        "[ Leicester City : Onye nwe ya ọ nwụọla n'ihe mberede ]?",
+        "[ Leicester City : Onye ] nwe ya ọ nwụọla n'ihe mberede?",
+        "[ Leicester City : Onye nwe ya ọ nwụọla n'ihe mberede? ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Leicester City :",
+        "Leicester City",
+        "Leicester City : Onye nwe ya ọ nwụọla n'ihe mberede",
+        "Leicester City : Onye",
+        "Leicester City : Onye nwe ya ọ nwụọla n'ihe mberede?"
+      ]
+    ],
+    "score": [
+      [
+        -25.247703552246094,
+        -36.20841598510742,
+        -44.09505844116211,
+        -45.15426254272461,
+        -45.569644927978516
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "He also asked that the false rumors not be spread among the [ Imo ] people to mislead them to include the AA party in the elections for the post of governor and the state legislature.",
+      "He also asked that the false rumors not be spread among the Imo people to mislead them to include the [ AA ] party in the elections for the post of governor and the state legislature."
+    ],
+    "src_entities": [
+      "Imo",
+      "AA"
+    ],
+    "template": "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ Imo gbajọọ itunyere pati AA na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti .",
+    "tgt_lang": [
+      [
+        "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ [ Imo ] gbajọọ itunyere pati AA na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti.",
+        "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị [ ụmụ Imo ] gbajọọ itunyere pati AA na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti.",
+        "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ [ Imo gbajọọ ] itunyere pati AA na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti.",
+        "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị [ ụmụ Imo gbajọọ ] itunyere pati AA na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti.",
+        "Ọ rịọkwara ka akụkọ ụgha a ghara [ ime ] ndị ụmụ Imo gbajọọ itunyere pati AA na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti."
+      ],
+      [
+        "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ Imo gbajọọ itunyere pati [ AA ] na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti.",
+        "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ Imo gbajọọ itunyere pati AA [ ] na ntuliaka nke ọkwa gọvanọ nakwa ụlọomeiwu nke steeti.",
+        "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ Imo gbajọọ itunyere pati AA na ntuliaka nke [ ọkwa gọvanọ ] nakwa ụlọomeiwu nke steeti.",
+        "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ Imo gbajọọ itunyere pati AA na ntuliaka nke ọkwa gọvanọ nakwa [ ụlọomeiwu nke steeti ].",
+        "Ọ rịọkwara ka akụkọ ụgha a ghara ime ndị ụmụ Imo gbajọọ itunyere pati AA na ntuliaka nke ọkwa gọvanọ [ nakwa ụlọomeiwu nke steeti ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Imo",
+        "ụmụ Imo",
+        "Imo gbajọọ",
+        "ụmụ Imo gbajọọ",
+        "ime"
+      ],
+      [
+        "AA",
+        "",
+        "ọkwa gọvanọ",
+        "ụlọomeiwu nke steeti",
+        "nakwa ụlọomeiwu nke steeti"
+      ]
+    ],
+    "score": [
+      [
+        -87.69544982910156,
+        -91.22113800048828,
+        -96.11861419677734,
+        -98.57758331298828,
+        -99.72476959228516
+      ],
+      [
+        -89.70446014404297,
+        -101.53860473632812,
+        -102.26031494140625,
+        -102.7541732788086,
+        -102.8319320678711
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "He said [ Nsorom ] was chasing Ihedioha who was running for governor of Imo state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+      "He said Nsorom was chasing [ Ihedioha ] who was running for governor of Imo state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+      "He said Nsorom was chasing Ihedioha who was running for governor of [ Imo ] state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+      "He said Nsorom was chasing Ihedioha who was running for governor of Imo state under the [ PDP ] election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+      "He said Nsorom was chasing Ihedioha who was running for governor of Imo state under the PDP election party under [ Isu, ] met this accident while he was about to enter the house of a candidate for the Senate in the Labour zone.",
+      "He said Nsorom was chasing Ihedioha who was running for governor of Imo state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the [ Senate ] in the Labour zone.",
+      "He said Nsorom was chasing Ihedioha who was running for governor of Imo state under the PDP election party under Isu, met this accident while he was about to enter the house of a candidate for the Senate in the [ Labour ] zone."
+    ],
+    "src_entities": [
+      "Nsorom",
+      "Ihedioha",
+      "Imo",
+      "PDP",
+      "Isu,",
+      "Senate",
+      "Labour"
+    ],
+    "template": "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu , zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone .",
+    "tgt_lang": [
+      [
+        "Ọ kwuru na [ Nsorom ] na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na [ ] Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na [ Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone ].",
+        "Ọ kwuru na [ Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ ] zone.",
+        "Ọ kwuru na [ Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone. ]"
+      ],
+      [
+        "Ọ kwuru na Nsorom na - achụrụ [ Ihedioha ] na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati [ PDP ] vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ [ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone ].",
+        "Ọ kwuru na Nsorom na - achụrụ [ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ ] zone.",
+        "Ọ kwuru na Nsorom na - achụrụ [ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone. ]"
+      ],
+      [
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ [ Imo ] steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ [ Imo steeti ] n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati [ PDP ] vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ [ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ ] zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ [ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone ]."
+      ],
+      [
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati [ PDP ] vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru [ pati PDP ] vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati [ PDP vootu ] n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru [ pati PDP vootu ] n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru [ pati ] PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone."
+      ],
+      [
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị [ Isu, ] zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuru [ọchịchị Isu, ] zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, [ ] zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị [ Isu ], zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ [ zone ]."
+      ],
+      [
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa [ Sineti ] n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye [ ji aha otu Pati PDP zọọ ọkwa Sineti ] n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji [ aha otu Pati PDP ] zọọ ọkwa Sineti n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji [ aha otu Pati PDP zọọ ọkwa Sineti ] n'Ọlụ zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha [ otu Pati PDP zọọ ọkwa Sineti ] n'Ọlụ zone."
+      ],
+      [
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n' [Ọlụ ] zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ [ ] zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọ [lụ ] zone.",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ [ zone ].",
+        "Ọ kwuru na Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Nsorom",
+        "",
+        "Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone",
+        "Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ",
+        "Nsorom na - achụrụ Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone."
+      ],
+      [
+        "Ihedioha",
+        "PDP",
+        "Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone",
+        "Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ",
+        "Ihedioha na - azọ ọkwa gọvanọ Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone."
+      ],
+      [
+        "Imo",
+        "Imo steeti",
+        "PDP",
+        "Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ",
+        "Imo steeti n'okpuru pati PDP vootu n'okpuruọchịchị Isu, zutere ihe mberede a oge ọ na - achọ ịbata n'ụlọ onye ji aha otu Pati PDP zọọ ọkwa Sineti n'Ọlụ zone"
+      ],
+      [
+        "PDP",
+        "pati PDP",
+        "PDP vootu",
+        "pati PDP vootu",
+        "pati"
+      ],
+      [
+        "Isu,",
+        "ọchịchị Isu,",
+        "",
+        "Isu",
+        "zone"
+      ],
+      [
+        "Sineti",
+        "ji aha otu Pati PDP zọọ ọkwa Sineti",
+        "aha otu Pati PDP",
+        "aha otu Pati PDP zọọ ọkwa Sineti",
+        "otu Pati PDP zọọ ọkwa Sineti"
+      ],
+      [
+        "Ọlụ",
+        "",
+        "lụ",
+        "zone",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -121.50213623046875,
+        -133.3412628173828,
+        -145.01788330078125,
+        -145.51170349121094,
+        -145.82168579101562
+      ],
+      [
+        -123.26605224609375,
+        -138.60601806640625,
+        -142.59878540039062,
+        -143.4484405517578,
+        -143.90594482421875
+      ],
+      [
+        -121.65139770507812,
+        -131.0234832763672,
+        -134.592529296875,
+        -145.86033630371094,
+        -146.3375244140625
+      ],
+      [
+        -120.58184814453125,
+        -126.3984375,
+        -128.8433837890625,
+        -133.3759307861328,
+        -136.2222442626953
+      ],
+      [
+        -123.62411499023438,
+        -127.84248352050781,
+        -130.71937561035156,
+        -133.0590362548828,
+        -136.92820739746094
+      ],
+      [
+        -128.1061248779297,
+        -133.83639526367188,
+        -134.1417236328125,
+        -134.15052795410156,
+        -134.23976135253906
+      ],
+      [
+        -127.17481994628906,
+        -128.62005615234375,
+        -133.04563903808594,
+        -133.79046630859375,
+        -139.54725646972656
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "Listen to the [ BBC ] one minute news here."
+    ],
+    "src_entities": [
+      "BBC"
+    ],
+    "template": "Gee akụkọ BBC n'otu nkeji ebe a .",
+    "tgt_lang": [
+      [
+        "Gee akụkọ [ BBC ] n'otu nkeji ebe a.",
+        "Gee akụkọ [ BBC n'otu nkeji ] ebe a.",
+        "Gee akụkọ [ BBC n'otu nkeji ebe a ].",
+        "Gee akụkọ [ ] BBC n'otu nkeji ebe a.",
+        "Gee akụkọ [ BBC n'otu nkeji ebe a. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "BBC",
+        "BBC n'otu nkeji",
+        "BBC n'otu nkeji ebe a",
+        "",
+        "BBC n'otu nkeji ebe a."
+      ]
+    ],
+    "score": [
+      [
+        -11.488380432128906,
+        -19.217466354370117,
+        -21.500593185424805,
+        -22.403888702392578,
+        -25.645126342773438
+      ]
+    ],
+    "flag": 1
+  }
+]

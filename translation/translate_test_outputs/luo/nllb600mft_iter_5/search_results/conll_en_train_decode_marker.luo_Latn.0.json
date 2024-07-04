@@ -1,0 +1,1340 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "[ Migosi Odundo ] told Ramogi's daughter-in-law that the chicken was also caught with a hammer that is used to cut electrical wood, as well as a pitchfork that he used from his home on the slopes of Mt Nanga and Weyni which he had crossed.",
+      "Migosi Odundo told [ Ramogi's ] daughter-in-law that the chicken was also caught with a hammer that is used to cut electrical wood, as well as a pitchfork that he used from his home on the slopes of Mt Nanga and Weyni which he had crossed.",
+      "Migosi Odundo told Ramogi's daughter-in-law that the chicken was also caught with a hammer that is used to cut electrical wood, as well as a pitchfork that he used from his home on the slopes of [ Mt Nanga ] and Weyni which he had crossed.",
+      "Migosi Odundo told Ramogi's daughter-in-law that the chicken was also caught with a hammer that is used to cut electrical wood, as well as a pitchfork that he used from his home on the slopes of Mt Nanga and [ Weyni ] which he had crossed."
+    ],
+    "src_entities": [
+      "Migosi Odundo",
+      "Ramogi's",
+      "Mt Nanga",
+      "Weyni"
+    ],
+    "template": "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima , kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+    "tgt_lang": [
+      [
+        "[ Migosi Odundo ] ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+        "[ Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityi ]ogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+        "[ ] Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+        "[ Migosi Odundo ne ] okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+        "[ Migosi Odundo ne okone ] nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado"
+      ],
+      [
+        "Migosi Odundo ne okone nyakalondo mar [ Ramogi ] ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+        "Migosi Odundo ne okone nyakalondo [ mar Ramogi ] ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+        "Migosi Odundo ne okone nyakalondo mar [ Ramogi ni achijno bende ne omaki gi misip ma ityi ]ogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+        "Migosi Odundo ne okone nyakalondo mar [ ] Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado",
+        "Migosi Odundo ne okone nyakalondo [ ] mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado"
+      ],
+      [
+        "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag [ Got Nanga ] kod Weyni mane osengado",
+        "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng [ mag Got Nanga ] kod Weyni mane osengado",
+        "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi [ egweng mag Got Nanga ] kod Weyni mane osengado",
+        "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng [ ] mag Got Nanga kod Weyni mane osengado",
+        "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag [ ] Got Nanga kod Weyni mane osengado"
+      ],
+      [
+        "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod [ Weyni ] mane osengado",
+        "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga [ kod Weyni ] mane osengado",
+        "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod [ ] Weyni mane osengado",
+        "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag Got Nanga kod Weyni mane osengado [ ]",
+        "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityiogodo e idhoo yien mar stima, kachiel gi apiko mane otiyo godo kowuok dalagi egweng mag [ Got Nanga kod Weyni ] mane osengado"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Migosi Odundo",
+        "Migosi Odundo ne okone nyakalondo mar Ramogi ni achijno bende ne omaki gi misip ma ityi",
+        "",
+        "Migosi Odundo ne",
+        "Migosi Odundo ne okone"
+      ],
+      [
+        "Ramogi",
+        "mar Ramogi",
+        "Ramogi ni achijno bende ne omaki gi misip ma ityi",
+        "",
+        ""
+      ],
+      [
+        "Got Nanga",
+        "mag Got Nanga",
+        "egweng mag Got Nanga",
+        "",
+        ""
+      ],
+      [
+        "Weyni",
+        "kod Weyni",
+        "",
+        "",
+        "Got Nanga kod Weyni"
+      ]
+    ],
+    "score": [
+      [
+        -203.56031799316406,
+        -211.1861114501953,
+        -211.5072784423828,
+        -213.22048950195312,
+        -213.7650604248047
+      ],
+      [
+        -206.97915649414062,
+        -208.6140594482422,
+        -214.330322265625,
+        -214.45777893066406,
+        -214.6576385498047
+      ],
+      [
+        -201.9879608154297,
+        -205.05291748046875,
+        -213.04605102539062,
+        -213.2523651123047,
+        -213.58938598632812
+      ],
+      [
+        -200.53125,
+        -208.3944091796875,
+        -211.7013397216797,
+        -211.703857421875,
+        -211.987060546875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 1,
+    "src_lang": [],
+    "template": "E ote mane oor ne ute fwambo , bad migao mar thieth olero ni jii 169 owe thuolo odok pacho bang chango .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "This was announced by the deputy head of the health department in [ Turkey, ] Dr. Mercy Mwangangi, who said that the number of cases was 796 out of 6,754 people tested in the last 24 hours.",
+      "This was announced by the deputy head of the health department in Turkey, Dr. [ Mercy Mwangangi, ] who said that the number of cases was 796 out of 6,754 people tested in the last 24 hours."
+    ],
+    "src_entities": [
+      "Turkey,",
+      "Mercy Mwangangi,"
+    ],
+    "template": "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e thurka laktar Mercy Mwangangi mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo",
+    "tgt_lang": [
+      [
+        "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e [ thurka ] laktar Mercy Mwangangi mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo",
+        "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth [ e thurka ] laktar Mercy Mwangangi mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo",
+        "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e thurka laktar [ Mercy Mwangangi ] mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo",
+        "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e thurka [ ] laktar Mercy Mwangangi mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo",
+        "Magi ne oyangi gi jalup jatend migao mochungne [ yoore mag thieth e thurka ] laktar Mercy Mwangangi mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo"
+      ],
+      [
+        "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e thurka laktar [ Mercy Mwangangi ] mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo",
+        "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e thurka laktar Mercy Mwangangi [ ] mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo",
+        "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e thurka laktar [ Mercy Mwangangi mane ] owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo",
+        "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e thurka laktar [ Mercy Mwangangi mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo ]",
+        "Magi ne oyangi gi jalup jatend migao mochungne yoore mag thieth e thurka laktar [ Mercy Mwangangi mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim ] tok seche 24 mokalo"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "thurka",
+        "e thurka",
+        "Mercy Mwangangi",
+        "",
+        "yoore mag thieth e thurka"
+      ],
+      [
+        "Mercy Mwangangi",
+        "",
+        "Mercy Mwangangi mane",
+        "Mercy Mwangangi mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim tok seche 24 mokalo",
+        "Mercy Mwangangi mane owacho ni kwan mar jii 796 no ne oyudi kuom kwan jii maromo alufu 6 gi 754 mane opim"
+      ]
+    ],
+    "score": [
+      [
+        -145.01573181152344,
+        -147.13697814941406,
+        -147.27479553222656,
+        -148.56520080566406,
+        -150.965576171875
+      ],
+      [
+        -142.29652404785156,
+        -150.96099853515625,
+        -152.59043884277344,
+        -156.19886779785156,
+        -162.67408752441406
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "The dock was closed even after the [ Doho ] store in the home of David Maraga gave permission to open the facilities after it was discovered that 11 workers at the dock had been smuggling drumsticks and toiletries to the smokers.",
+      "The dock was closed even after the Doho store in the home of [ David Maraga ] gave permission to open the facilities after it was discovered that 11 workers at the dock had been smuggling drumsticks and toiletries to the smokers."
+    ],
+    "src_entities": [
+      "Doho",
+      "David Maraga"
+    ],
+    "template": "Doho no ne ochak olor kata bang ogai mar Doho e pachoka David Maraga chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo .",
+    "tgt_lang": [
+      [
+        "Doho no ne ochak olor kata bang ogai mar [ Doho ] e pachoka David Maraga chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo.",
+        "Doho no ne ochak olor kata bang ogai [ mar Doho ] e pachoka David Maraga chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo.",
+        "Doho no ne ochak olor kata bang ogai mar [ ] Doho e pachoka David Maraga chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo.",
+        "Doho no ne ochak olor kata bang ogai mar Doho e pachoka [ David Maraga ] chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo.",
+        "Doho no ne ochak olor kata bang [ ogai mar Doho ] e pachoka David Maraga chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo."
+      ],
+      [
+        "Doho no ne ochak olor kata bang ogai mar Doho e pachoka [ David Maraga ] chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo.",
+        "Doho no ne ochak olor kata bang ogai mar Doho e pachoka [ ] David Maraga chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo.",
+        "Doho no ne ochak olor kata bang ogai mar Doho e pachoka [ David Maraga chiwo ] thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo.",
+        "Doho no ne ochak olor kata bang ogai mar Doho e pachoka David Maraga [ ] chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi noendo.",
+        "Doho no ne ochak olor kata bang ogai mar Doho e pachoka [ David Maraga chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi no ]endo."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Doho",
+        "mar Doho",
+        "",
+        "David Maraga",
+        "ogai mar Doho"
+      ],
+      [
+        "David Maraga",
+        "",
+        "David Maraga chiwo",
+        "",
+        "David Maraga chiwo thuolo mondo mi oyaw kuondego bang yangore ni jii 11 matiyo e doho kanyo monywando okinde kod apisas mag doho ne jogamo midhusi no"
+      ]
+    ],
+    "score": [
+      [
+        -227.20925903320312,
+        -232.0467987060547,
+        -234.34364318847656,
+        -234.7157440185547,
+        -234.8689422607422
+      ],
+      [
+        -225.28759765625,
+        -237.79241943359375,
+        -237.92335510253906,
+        -237.94496154785156,
+        -244.31060791015625
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "Migosi [ Raila ] said that MCAS has shamed the people with their constant wars instead of serving the people who elected them.",
+      "Migosi Raila said that [ MCAS ] has shamed the people with their constant wars instead of serving the people who elected them."
+    ],
+    "src_entities": [
+      "Raila",
+      "MCAS"
+    ],
+    "template": "Migosi Raila nowacho ni MCAS osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi",
+    "tgt_lang": [
+      [
+        "Migosi [ Raila ] nowacho ni MCAS osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi",
+        "Migosi Raila [ ] nowacho ni MCAS osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi",
+        "Migosi [ ] Raila nowacho ni MCAS osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi",
+        "Migosi Raila nowacho ni MCAS osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny [ mane oyierogi ]",
+        "Migosi Raila nowacho ni MCAS osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi [ ]"
+      ],
+      [
+        "Migosi Raila nowacho ni [ MCAS ] osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi",
+        "Migosi Raila nowacho ni [ ] MCAS osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi",
+        "Migosi Raila nowacho ni MCAS osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny [ mane oyierogi ]",
+        "Migosi Raila nowacho ni MCAS osebedo ka [ kuodo wii jii ] gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi",
+        "Migosi Raila nowacho ni MCAS osebedo ka kuodo wii jii gi lweny ma gisiko godo e kinde ka kinde kar tiyone jopiny mane oyierogi [ ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Raila",
+        "",
+        "",
+        "mane oyierogi",
+        ""
+      ],
+      [
+        "MCAS",
+        "",
+        "mane oyierogi",
+        "kuodo wii jii",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -74.39682006835938,
+        -84.88731384277344,
+        -85.57879638671875,
+        -94.99125671386719,
+        -95.97860717773438
+      ],
+      [
+        -74.57099151611328,
+        -85.67282104492188,
+        -90.35552215576172,
+        -90.62517547607422,
+        -91.15006256103516
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "Commenting on the matter, Deputy Director General of the [ Ministry of Foreign Affairs ] Victor Bwire said that the action was taken after the revelations that there is an increase in the number of journalists and the number of abductions.",
+      "Commenting on the matter, Deputy Director General of the Ministry of Foreign Affairs [ Victor Bwire ] said that the action was taken after the revelations that there is an increase in the number of journalists and the number of abductions."
+    ],
+    "src_entities": [
+      "Ministry of Foreign Affairs",
+      "Victor Bwire"
+    ],
+    "template": "Kanowuoyo ewii wachno jalup jataa tije e duondno migosi Victor Bwire nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila",
+    "tgt_lang": [
+      [
+        "Kanowuoyo ewii wachno jalup jataa tije [ e duondno ] migosi Victor Bwire nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila",
+        "Kanowuoyo ewii wachno jalup jataa tije e duondno [ migosi ] Victor Bwire nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila",
+        "Kanowuoyo ewii wachno jalup jataa tije [ e duondno migosi ] Victor Bwire nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila",
+        "Kanowuoyo ewii wachno jalup jataa tije e duondno migosi [ ] Victor Bwire nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila",
+        "Kanowuoyo ewii wachno jalup jataa tije e duond [no migosi ] Victor Bwire nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila"
+      ],
+      [
+        "Kanowuoyo ewii wachno jalup jataa tije e duondno migosi [ Victor Bwire ] nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila",
+        "Kanowuoyo ewii wachno jalup jataa tije e duondno [ migosi Victor Bwire ] nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila",
+        "Kanowuoyo ewii wachno jalup jataa tije e duondno migosi [ ] Victor Bwire nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila",
+        "Kanowuoyo ewii wachno jalup jataa tije e duondno [ ] migosi Victor Bwire nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila",
+        "Kanowuoyo ewii wachno jalup jataa tije e duondno migosi [ Victor ] Bwire nowacho ni okang makama ochope bang weche yangore ni okak maduong medore e kind jofwambo to kod apisas mag obila"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "e duondno",
+        "migosi",
+        "e duondno migosi",
+        "",
+        "no migosi"
+      ],
+      [
+        "Victor Bwire",
+        "migosi Victor Bwire",
+        "",
+        "",
+        "Victor"
+      ]
+    ],
+    "score": [
+      [
+        -201.16302490234375,
+        -202.14523315429688,
+        -204.09811401367188,
+        -204.63375854492188,
+        -205.53663635253906
+      ],
+      [
+        -194.89027404785156,
+        -202.65713500976562,
+        -204.67034912109375,
+        -205.14422607421875,
+        -207.9084930419922
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [
+      "The [ Association of Home Nurses ] has submitted its 21st petition to the state and county governments to put into practice the agreement they made in their call to return to work."
+    ],
+    "src_entities": [
+      "Association of Home Nurses"
+    ],
+    "template": "Riwruog nurses e pachoka ochiwo notis mar 21 ne piny owacho ma malo gi piny owacho mag counties mondomi gikete tim winjruok mane giketoe e kokgi mar dok etich maka okotimore gibiro bago nganyo .",
+    "tgt_lang": [
+      [
+        "[ Riwruog nurses ] e pachoka ochiwo notis mar 21 ne piny owacho ma malo gi piny owacho mag counties mondomi gikete tim winjruok mane giketoe e kokgi mar dok etich maka okotimore gibiro bago nganyo.",
+        "[ Riwruog nurses e pachoka ] ochiwo notis mar 21 ne piny owacho ma malo gi piny owacho mag counties mondomi gikete tim winjruok mane giketoe e kokgi mar dok etich maka okotimore gibiro bago nganyo.",
+        "Riwruog [ nurses ] e pachoka ochiwo notis mar 21 ne piny owacho ma malo gi piny owacho mag counties mondomi gikete tim winjruok mane giketoe e kokgi mar dok etich maka okotimore gibiro bago nganyo.",
+        "Riwruog [ ] nurses e pachoka ochiwo notis mar 21 ne piny owacho ma malo gi piny owacho mag counties mondomi gikete tim winjruok mane giketoe e kokgi mar dok etich maka okotimore gibiro bago nganyo.",
+        "[ Riwruog nurses e ] pachoka ochiwo notis mar 21 ne piny owacho ma malo gi piny owacho mag counties mondomi gikete tim winjruok mane giketoe e kokgi mar dok etich maka okotimore gibiro bago nganyo."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Riwruog nurses",
+        "Riwruog nurses e pachoka",
+        "nurses",
+        "",
+        "Riwruog nurses e"
+      ]
+    ],
+    "score": [
+      [
+        -252.2751922607422,
+        -253.28956604003906,
+        -253.8708038330078,
+        -255.84368896484375,
+        -256.9632568359375
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 7,
+    "src_lang": [],
+    "template": "Gi e kindeno jotuo mok 2 owito ngimagi gi tuo makochno .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 8,
+    "src_lang": [],
+    "template": "Ringre ja sekondar pod imanyo",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "Local leader [ Joel Otieno ] discovers that he was accidentally stabbed in the stomach by another student during a soccer game after the fifth exam and runs away with him to the hospital in Rodi to where his father took him to the homabay county teaching and referal hospital in Ongielo where he escaped.",
+      "Local leader Joel Otieno discovers that he was accidentally stabbed in the stomach by another student during a soccer game after the fifth exam and runs away with him to the hospital in [ Rodi ] to where his father took him to the homabay county teaching and referal hospital in Ongielo where he escaped.",
+      "Local leader Joel Otieno discovers that he was accidentally stabbed in the stomach by another student during a soccer game after the fifth exam and runs away with him to the hospital in Rodi to where his father took him to the homabay county teaching and referal hospital in [ Ongielo ] where he escaped."
+    ],
+    "src_entities": [
+      "Joel Otieno",
+      "Rodi",
+      "Ongielo"
+    ],
+    "template": "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo .",
+    "tgt_lang": [
+      [
+        "Ruoth ma gwenge go [ Joel Otieno ] yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo.",
+        "Ruoth ma gwenge go [ Joel Otieno yango ] ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo.",
+        "Ruoth ma gwenge go [ Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich ] kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo.",
+        "Ruoth ma gwenge go [ Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ] ma Ongieloe orengo.",
+        "Ruoth ma gwenge go [ Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo ]."
+      ],
+      [
+        "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma [ rodi ] kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo.",
+        "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma [ rodi kopany ] kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo.",
+        "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany [ ] kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo.",
+        "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma [ ] rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo.",
+        "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e [ kar thieth ma rodi ] kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo."
+      ],
+      [
+        "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma [ Ongielo ]e orengo.",
+        "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongielo [e orengo ].",
+        "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma [ Ongieloe ] orengo.",
+        "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongielo [e orengo. ]",
+        "Ruoth ma gwenge go Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongielo [e ] orengo."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Joel Otieno",
+        "Joel Otieno yango",
+        "Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich",
+        "Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital",
+        "Joel Otieno yango ni ne ogweye e iye kuom hawi marach gi japuonjre machielo e kinde manegitugo opira bang penj ma tich abich kendo ring kode e kar thieth ma rodi kopany kama bange ne ochwale e kar thieth ma homabay county teaching and referal hospital ma Ongieloe orengo"
+      ],
+      [
+        "rodi",
+        "rodi kopany",
+        "",
+        "",
+        "kar thieth ma rodi"
+      ],
+      [
+        "Ongielo",
+        "e orengo",
+        "Ongieloe",
+        "e orengo.",
+        "e"
+      ]
+    ],
+    "score": [
+      [
+        -229.1284637451172,
+        -238.67959594726562,
+        -246.24856567382812,
+        -247.61740112304688,
+        -247.9095001220703
+      ],
+      [
+        -231.52386474609375,
+        -234.23484802246094,
+        -234.62705993652344,
+        -235.95118713378906,
+        -236.40179443359375
+      ],
+      [
+        -226.29074096679688,
+        -231.779052734375,
+        -232.79345703125,
+        -236.8748016357422,
+        -239.1334991455078
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "which is after the committee representing the law and punishment at the bottom of the odm cave dropped the proposal to expel the incumbent MP [ Aisha Jumwa ] and Msambweni MP Suleiman Dori over allegations of non-compliance with ODM rules and backing power",
+      "which is after the committee representing the law and punishment at the bottom of the odm cave dropped the proposal to expel the incumbent MP Aisha Jumwa and [ Msambweni ] MP Suleiman Dori over allegations of non-compliance with ODM rules and backing power",
+      "which is after the committee representing the law and punishment at the bottom of the odm cave dropped the proposal to expel the incumbent MP Aisha Jumwa and Msambweni MP [ Suleiman Dori ] over allegations of non-compliance with ODM rules and backing power",
+      "which is after the committee representing the law and punishment at the bottom of the odm cave dropped the proposal to expel the incumbent MP Aisha Jumwa and Msambweni MP Suleiman Dori over allegations of non-compliance with [ ODM ] rules and backing power"
+    ],
+    "src_entities": [
+      "Aisha Jumwa",
+      "Msambweni",
+      "Suleiman Dori",
+      "ODM"
+    ],
+    "template": "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+    "tgt_lang": [
+      [
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi [ Aisha Jumwa ] kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi [ mikayi Aisha Jumwa ] kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma [ malindi mikayi Aisha Jumwa ] kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa [ ] kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi [ ] Aisha Jumwa kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko"
+      ],
+      [
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma [ Msambweni ] Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma [ ] Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura [ ma Msambweni ] Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod [ jaod bura ma Msambweni ] Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura [ ] ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko"
+      ],
+      [
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni [ Suleiman Dori ] kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni [ ] Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni [ Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko ]",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni [ Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM ] kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni [ Suleiman Dori kaluore kod weche mag rem ] luwo chike mag ODM kendo bedo gi tok teko"
+      ],
+      [
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag [ ODM ] kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike [ mag ODM ] kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem [ luwo chike mag ODM ] kendo bedo gi tok teko",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag rem luwo chike mag [ ODM kendo bedo gi tok teko ]",
+        "ma en bang kamati ma ochungne chike to kod kum e duond bur mar odm ne golo paro mar dwaro riembo jaod bura ma malindi mikayi Aisha Jumwa kod jaod bura ma Msambweni Suleiman Dori kaluore kod weche mag [ rem ] luwo chike mag ODM kendo bedo gi tok teko"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Aisha Jumwa",
+        "mikayi Aisha Jumwa",
+        "malindi mikayi Aisha Jumwa",
+        "",
+        ""
+      ],
+      [
+        "Msambweni",
+        "",
+        "ma Msambweni",
+        "jaod bura ma Msambweni",
+        ""
+      ],
+      [
+        "Suleiman Dori",
+        "",
+        "Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM kendo bedo gi tok teko",
+        "Suleiman Dori kaluore kod weche mag rem luwo chike mag ODM",
+        "Suleiman Dori kaluore kod weche mag rem"
+      ],
+      [
+        "ODM",
+        "mag ODM",
+        "luwo chike mag ODM",
+        "ODM kendo bedo gi tok teko",
+        "rem"
+      ]
+    ],
+    "score": [
+      [
+        -165.0421142578125,
+        -168.72299194335938,
+        -172.7936248779297,
+        -175.59588623046875,
+        -177.09542846679688
+      ],
+      [
+        -166.48451232910156,
+        -175.79443359375,
+        -175.98028564453125,
+        -178.135498046875,
+        -178.4835205078125
+      ],
+      [
+        -161.87826538085938,
+        -174.89402770996094,
+        -179.3253631591797,
+        -181.09158325195312,
+        -181.31414794921875
+      ],
+      [
+        -164.26361083984375,
+        -171.2554168701172,
+        -173.39015197753906,
+        -174.0211181640625,
+        -174.3457489013672
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "[ Ngwele ] has been out of the race since November last year when Elachi wrote to the EACC that he was wrongly elected.",
+      "Ngwele has been out of the race since November last year when [ Elachi ] wrote to the EACC that he was wrongly elected.",
+      "Ngwele has been out of the race since November last year when Elachi wrote to the [ EACC ] that he was wrongly elected."
+    ],
+    "src_entities": [
+      "Ngwele",
+      "Elachi",
+      "EACC"
+    ],
+    "template": "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare .",
+    "tgt_lang": [
+      [
+        "[ Ngwele ] osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare.",
+        "[ ] Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare.",
+        "Ngwele [ ] osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare.",
+        "[ Ngwele osebedo ] oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare.",
+        "Ngwele osebedo [ oko ] mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare."
+      ],
+      [
+        "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka [ Elachi ] nondiko ne EACC ni noyiere e yoo maok ni kare.",
+        "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka [ ] Elachi nondiko ne EACC ni noyiere e yoo maok ni kare.",
+        "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok [ ka Elachi ] nondiko ne EACC ni noyiere e yoo maok ni kare.",
+        "Ngwele osebedo oko mar apisi chakre dwe mar [ 11 ] higa mokalo tok ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare.",
+        "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok [ ] ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare."
+      ],
+      [
+        "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne [ EACC ] ni noyiere e yoo maok ni kare.",
+        "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne [ ] EACC ni noyiere e yoo maok ni kare.",
+        "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne EACC [ ] ni noyiere e yoo maok ni kare.",
+        "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare [ ].",
+        "Ngwele osebedo oko mar apisi chakre dwe mar 11 higa mokalo tok ka Elachi nondiko ne EACC ni noyiere e yoo maok ni kare [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ngwele",
+        "",
+        "",
+        "Ngwele osebedo",
+        "oko"
+      ],
+      [
+        "Elachi",
+        "",
+        "ka Elachi",
+        "11",
+        ""
+      ],
+      [
+        "EACC",
+        "",
+        "",
+        "",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -70.6495361328125,
+        -78.74485778808594,
+        -82.49703979492188,
+        -84.75334930419922,
+        -89.16349029541016
+      ],
+      [
+        -69.85812377929688,
+        -79.73424530029297,
+        -81.68376159667969,
+        -83.00762176513672,
+        -83.51184844970703
+      ],
+      [
+        -70.35530090332031,
+        -79.74028778076172,
+        -80.07442474365234,
+        -86.13362884521484,
+        -87.13456726074219
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [
+      "[ Obila ] in the sub-county of Bondo has denied some allegations from the authorities that they are taking advantage of the ongoing rainy season and taking bribes from matatu owners and border guards.",
+      "Obila in the sub-county of [ Bondo ] has denied some allegations from the authorities that they are taking advantage of the ongoing rainy season and taking bribes from matatu owners and border guards."
+    ],
+    "src_entities": [
+      "Obila",
+      "Bondo"
+    ],
+    "template": "Obila e subcounty ma Bondo okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo bodaboda .",
+    "tgt_lang": [
+      [
+        "[ Obila ] e subcounty ma Bondo okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo bodaboda.",
+        "[ ] Obila e subcounty ma Bondo okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo bodaboda.",
+        "Obila [ ] e subcounty ma Bondo okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo bodaboda.",
+        "Obila e subcounty ma Bondo okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo [ bodaboda ].",
+        "Obila e subcounty ma Bondo okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo boda [boda ]."
+      ],
+      [
+        "Obila e subcounty ma [ Bondo ] okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo bodaboda.",
+        "Obila e subcounty ma Bondo [ ] okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo bodaboda.",
+        "Obila e subcounty ma [ ] Bondo okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo bodaboda.",
+        "Obila e subcounty ma Bondo okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo [ bodaboda ].",
+        "Obila e subcounty ma Bondo okwedo weche moko mawuok kuom jotelo ni gitiyo kod thuolo mar apedha madhii nyime eapaya ekawo asoya kuom weg matatu kod jo boda [boda ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Obila",
+        "",
+        "",
+        "bodaboda",
+        "boda"
+      ],
+      [
+        "Bondo",
+        "",
+        "",
+        "bodaboda",
+        "boda"
+      ]
+    ],
+    "score": [
+      [
+        -133.281494140625,
+        -141.62594604492188,
+        -142.33493041992188,
+        -147.47943115234375,
+        -149.2363739013672
+      ],
+      [
+        -136.2740936279297,
+        -142.2511749267578,
+        -142.6741485595703,
+        -145.45489501953125,
+        -146.58297729492188
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "The student, identified as [ Javan Onyango, ] sustained a spinal cord injury while playing football with his teammates in the school's stadium."
+    ],
+    "src_entities": [
+      "Javan Onyango,"
+    ],
+    "template": "japuonjreno ma oyangi kaka Javan Onyango ne oyudo hinyruok e bund iy e kinde maneotugo kod jowetene opira e pap mar skundno .",
+    "tgt_lang": [
+      [
+        "japuonjreno ma oyangi kaka [ Javan Onyango ] ne oyudo hinyruok e bund iy e kinde maneotugo kod jowetene opira e pap mar skundno.",
+        "japuonjreno [ ma oyangi kaka Javan Onyango ] ne oyudo hinyruok e bund iy e kinde maneotugo kod jowetene opira e pap mar skundno.",
+        "japuonjreno ma oyangi kaka [ ] Javan Onyango ne oyudo hinyruok e bund iy e kinde maneotugo kod jowetene opira e pap mar skundno.",
+        "[ ] japuonjreno ma oyangi kaka Javan Onyango ne oyudo hinyruok e bund iy e kinde maneotugo kod jowetene opira e pap mar skundno.",
+        "japuonjreno ma oyangi kaka [ Javan Onyango ne ] oyudo hinyruok e bund iy e kinde maneotugo kod jowetene opira e pap mar skundno."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Javan Onyango",
+        "ma oyangi kaka Javan Onyango",
+        "",
+        "",
+        "Javan Onyango ne"
+      ]
+    ],
+    "score": [
+      [
+        -89.36237335205078,
+        -95.55854034423828,
+        -96.32994079589844,
+        -96.51434326171875,
+        -97.81737518310547
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "This is after 2 MCAs wanted [ Homabay ] was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to [ Kisumu ] there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to [ Kisumu; ] the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of [ Kanyidoto ] Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto [ Walter Were Muok ] who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the [ Homabay ] parliament and the MCA of Central Karachuonyo Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of [ Central Karachuonyo ] Julius Gaya.",
+      "This is after 2 MCAs wanted Homabay was also transferred to Kisumu there and prevented them from coming to Kisumu; the MCA of Kanyidoto Walter Were Muok who is the majority leader in the Homabay parliament and the MCA of Central Karachuonyo [ Julius Gaya. ]"
+    ],
+    "src_entities": [
+      "Homabay",
+      "Kisumu",
+      "Kisumu;",
+      "Kanyidoto",
+      "Walter Were Muok",
+      "Homabay",
+      "Central Karachuonyo",
+      "Julius Gaya."
+    ],
+    "template": "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya .",
+    "tgt_lang": [
+      [
+        "Maa en bang' ka MCAs 2 manyo omaki [ Homabay ] bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 [ manyo omaki Homabay ] bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo [ omaki Homabay ] bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki [ ] Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e [ tesend obila ma Kisumu ; ] mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya."
+      ],
+      [
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e [ Kisumu ] kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter [ e Kisumu ] kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e [ tesend obila ma Kisumu ] ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e [ tesend obila ] ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e [ tesend obila ma ] Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya."
+      ],
+      [
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e [ tesend obila ma Kisumu ; ] mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e [ tesend obila ma Kisumu ; mano ] MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e [ tesend obila ma Kisumu ] ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e [ tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya ].",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e [ tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya. ]"
+      ],
+      [
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma [ Kanyidoto ] Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA [ ma Kanyidoto ] Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto [ Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay ] kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto [ Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya ].",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto [ Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya. ]"
+      ],
+      [
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto [ Walter Were Muok ] ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto [ Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya ].",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto [ Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya. ]",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok [ ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya ].",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto [ Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo ] Julius Gaya."
+      ],
+      [
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma [ Homabay ] kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura [ ma Homabay ] kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e [ od bura ma Homabay ] kod MCA ma Central Karachuonyo Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma [ Homabay kod MCA ma Central Karachuonyo Julius Gaya ].",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma [ Homabay kod MCA ma Central ] Karachuonyo Julius Gaya."
+      ],
+      [
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma [ Central Karachuonyo ] Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA [ ma Central Karachuonyo ] Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo [ Julius Gaya ].",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo [ ] Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma [ ] Central Karachuonyo Julius Gaya."
+      ],
+      [
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo [ Julius Gaya ].",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo [ Julius Gaya. ]",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya [ ].",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo [ ] Julius Gaya.",
+        "Maa en bang' ka MCAs 2 manyo omaki Homabay bende ne oseter e Kisumu kuno kendo ogeng' negi e tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Homabay",
+        "manyo omaki Homabay",
+        "omaki Homabay",
+        "",
+        "tesend obila ma Kisumu ;"
+      ],
+      [
+        "Kisumu",
+        "e Kisumu",
+        "tesend obila ma Kisumu",
+        "tesend obila",
+        "tesend obila ma"
+      ],
+      [
+        "tesend obila ma Kisumu ;",
+        "tesend obila ma Kisumu ; mano",
+        "tesend obila ma Kisumu",
+        "tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya",
+        "tesend obila ma Kisumu ; mano MCA ma Kanyidoto Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya."
+      ],
+      [
+        "Kanyidoto",
+        "ma Kanyidoto",
+        "Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay",
+        "Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya",
+        "Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya."
+      ],
+      [
+        "Walter Were Muok",
+        "Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya",
+        "Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya.",
+        "ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo Julius Gaya",
+        "Walter Were Muok ma en jatend kweth mathoth e od bura ma Homabay kod MCA ma Central Karachuonyo"
+      ],
+      [
+        "Homabay",
+        "ma Homabay",
+        "od bura ma Homabay",
+        "Homabay kod MCA ma Central Karachuonyo Julius Gaya",
+        "Homabay kod MCA ma Central"
+      ],
+      [
+        "Central Karachuonyo",
+        "ma Central Karachuonyo",
+        "Julius Gaya",
+        "",
+        ""
+      ],
+      [
+        "Julius Gaya",
+        "Julius Gaya.",
+        "",
+        "",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -162.2385711669922,
+        -171.8448486328125,
+        -173.69259643554688,
+        -174.2844696044922,
+        -178.16455078125
+      ],
+      [
+        -169.73348999023438,
+        -171.18833923339844,
+        -173.2542266845703,
+        -173.45071411132812,
+        -175.7858123779297
+      ],
+      [
+        -155.25576782226562,
+        -163.78244018554688,
+        -163.78709411621094,
+        -167.6059112548828,
+        -170.12326049804688
+      ],
+      [
+        -171.32508850097656,
+        -178.6334228515625,
+        -185.09266662597656,
+        -188.19863891601562,
+        -189.7792205810547
+      ],
+      [
+        -166.68946838378906,
+        -186.82366943359375,
+        -188.89373779296875,
+        -189.65634155273438,
+        -190.05068969726562
+      ],
+      [
+        -170.62930297851562,
+        -177.34666442871094,
+        -179.10455322265625,
+        -191.57850646972656,
+        -194.0135498046875
+      ],
+      [
+        -170.4192657470703,
+        -176.15391540527344,
+        -180.4495391845703,
+        -180.72402954101562,
+        -180.73341369628906
+      ],
+      [
+        -164.89846801757812,
+        -167.48678588867188,
+        -176.9153594970703,
+        -178.01235961914062,
+        -178.07415771484375
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 15,
+    "src_lang": [],
+    "template": "Kwan jii moyudi ni nikod tuo mar Coronavirus ei kawuononi gin jii 637",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "[ Oguk ] says that they have noticed that people now only buy medicines in pharmacies while others visit our sisters in the countryside to seek treatment."
+    ],
+    "src_entities": [
+      "Oguk"
+    ],
+    "template": "Oguk wacho ni gisefwenyo ni jii sani thoro mana ng' iew yien e kuonde uso yedhe ka mamoko to limo nyamrerwa mae kor gwenge ka gimanyo thieth .",
+    "tgt_lang": [
+      [
+        "[ Oguk ] wacho ni gisefwenyo ni jii sani thoro mana ng' iew yien e kuonde uso yedhe ka mamoko to limo nyamrerwa mae kor gwenge ka gimanyo thieth.",
+        "Oguk [ ] wacho ni gisefwenyo ni jii sani thoro mana ng' iew yien e kuonde uso yedhe ka mamoko to limo nyamrerwa mae kor gwenge ka gimanyo thieth.",
+        "Oguk wacho ni gisefwenyo ni jii sani thoro mana ng' iew yien e kuonde uso yedhe ka mamoko to limo nyamrerwa mae kor gwenge ka gimanyo thieth [ ].",
+        "Oguk wacho ni [ ] gisefwenyo ni jii sani thoro mana ng' iew yien e kuonde uso yedhe ka mamoko to limo nyamrerwa mae kor gwenge ka gimanyo thieth.",
+        "Oguk wacho ni gisefwenyo ni jii sani thoro mana ng' iew yien e kuonde uso yedhe ka mamoko to limo nyamrerwa mae kor gwenge ka gimanyo thieth [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Oguk",
+        "",
+        "",
+        "",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -134.21034240722656,
+        -145.9894561767578,
+        -154.98216247558594,
+        -158.0126495361328,
+        -158.58538818359375
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [],
+    "template": "JII 960 OYUDO KORONA",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "The people of [ Kakrao Ward ] Sub County of Suna East in Migori County are now more bitter than the government of their county and the elected officials of their village there for neglecting them, saying that their villages have been lagging behind in matters of equality for centuries.",
+      "The people of Kakrao Ward Sub County of [ Suna East ] in Migori County are now more bitter than the government of their county and the elected officials of their village there for neglecting them, saying that their villages have been lagging behind in matters of equality for centuries.",
+      "The people of Kakrao Ward Sub County of Suna East in [ Migori County ] are now more bitter than the government of their county and the elected officials of their village there for neglecting them, saying that their villages have been lagging behind in matters of equality for centuries."
+    ],
+    "src_entities": [
+      "Kakrao Ward",
+      "Suna East",
+      "Migori County"
+    ],
+    "template": "Jo Kakrao Ward Sub County ma Suna East e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+    "tgt_lang": [
+      [
+        "Jo [ Kakrao Ward ] Sub County ma Suna East e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+        "[ Jo Kakrao Ward ] Sub County ma Suna East e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+        "Jo [ ] Kakrao Ward Sub County ma Suna East e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+        "Jo [ Kakrao ] Ward Sub County ma Suna East e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+        "Jo Kakrao [ Ward ] Sub County ma Suna East e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro"
+      ],
+      [
+        "Jo Kakrao Ward Sub County ma [ Suna East ] e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+        "Jo Kakrao Ward Sub County [ ma Suna East ] e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+        "Jo Kakrao Ward Sub County ma [ ] Suna East e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+        "Jo Kakrao Ward Sub County ma [ Suna ] East e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+        "Jo Kakrao Ward Sub County [ ] ma Suna East e County ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro"
+      ],
+      [
+        "Jo Kakrao Ward Sub County ma Suna East e [ County ma Migori ] sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+        "Jo Kakrao Ward Sub County ma Suna East [ e County ma Migori ] sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+        "Jo Kakrao Ward Sub County ma Suna East e County ma [ Migori ] sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+        "Jo Kakrao Ward Sub County ma Suna East e County [ ma Migori ] sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro",
+        "Jo Kakrao Ward Sub County ma Suna East e [ County ] ma Migori sani koro joseyo malit mokalo piny owacho mar County margino kod jotelo mane oyier gwenggi kuno kuom jwang' ogi kagiwacho gwengegigo osebedo ka odong chien e weche mag oongruok kuom higni modhuro"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kakrao Ward",
+        "Jo Kakrao Ward",
+        "",
+        "Kakrao",
+        "Ward"
+      ],
+      [
+        "Suna East",
+        "ma Suna East",
+        "",
+        "Suna",
+        ""
+      ],
+      [
+        "County ma Migori",
+        "e County ma Migori",
+        "Migori",
+        "ma Migori",
+        "County"
+      ]
+    ],
+    "score": [
+      [
+        -174.67913818359375,
+        -183.40943908691406,
+        -186.2400665283203,
+        -187.0631103515625,
+        -190.632568359375
+      ],
+      [
+        -174.86866760253906,
+        -183.9613494873047,
+        -186.08956909179688,
+        -187.4699249267578,
+        -188.8988494873047
+      ],
+      [
+        -180.27413940429688,
+        -182.65586853027344,
+        -185.6416015625,
+        -186.95274353027344,
+        -188.92965698242188
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "This is according to a medical consultant in the county of [ James Oguk. ]"
+    ],
+    "src_entities": [
+      "James Oguk."
+    ],
+    "template": "Maeri en kaluwore g apisa moro mar thieth e countino James Oguk .",
+    "tgt_lang": [
+      [
+        "Maeri en kaluwore g apisa moro mar thieth e countino [ James Oguk ].",
+        "Maeri en kaluwore g apisa moro mar thieth e countino [ James Oguk. ]",
+        "Maeri en kaluwore g apisa moro mar thieth e countino [ ] James Oguk.",
+        "Maeri en kaluwore g apisa moro mar thieth e count [ino James Oguk ].",
+        "Maeri en kaluwore g apisa moro mar thieth e countino [ James ] Oguk."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "James Oguk",
+        "James Oguk.",
+        "",
+        "ino James Oguk",
+        "James"
+      ]
+    ],
+    "score": [
+      [
+        -64.17015838623047,
+        -67.69497680664062,
+        -74.6886215209961,
+        -76.48627471923828,
+        -78.13388061523438
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 20,
+    "src_lang": [],
+    "template": "Kwan jii maromo 796 mane oyudi ni nigi Covid - 19 ei kawuononi",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "The chairman of the [ ODM ] board of directors Raila Amolo Odinga has today blamed the MCAS for abusing the state-appointed development ministries",
+      "The chairman of the ODM board of directors [ Raila Amolo Odinga ] has today blamed the MCAS for abusing the state-appointed development ministries",
+      "The chairman of the ODM board of directors Raila Amolo Odinga has today blamed the [ MCAS ] for abusing the state-appointed development ministries"
+    ],
+    "src_entities": [
+      "ODM",
+      "Raila Amolo Odinga",
+      "MCAS"
+    ],
+    "template": "Jatend duond bura mar ODM migosi Raila Amolo Odinga kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+    "tgt_lang": [
+      [
+        "Jatend duond bura mar [ ODM ] migosi Raila Amolo Odinga kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+        "Jatend [ duond bura mar ODM ] migosi Raila Amolo Odinga kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+        "Jatend duond bura [ mar ODM ] migosi Raila Amolo Odinga kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+        "Jatend duond bura mar [ ODM migosi ] Raila Amolo Odinga kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+        "Jatend [ duond bura mar ODM migosi ] Raila Amolo Odinga kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok"
+      ],
+      [
+        "Jatend duond bura mar ODM migosi [ Raila Amolo Odinga ] kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+        "Jatend duond bura mar ODM [ migosi Raila Amolo Odinga ] kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+        "Jatend duond bura mar ODM [ ] migosi Raila Amolo Odinga kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+        "Jatend duond bura mar ODM migosi Raila Amolo Odinga kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok [ ]",
+        "Jatend duond bura mar ODM migosi Raila Amolo Odinga kawuono oseyo malit mokalo MCAS kuom tiyo marach gi omenda [ jopiny moketi mag weche dongruok ]"
+      ],
+      [
+        "Jatend duond bura mar ODM migosi Raila Amolo Odinga kawuono oseyo malit mokalo [ MCAS ] kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+        "Jatend duond bura mar ODM migosi Raila Amolo Odinga kawuono oseyo malit mokalo [ MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok ]",
+        "Jatend duond bura mar ODM migosi Raila Amolo Odinga kawuono oseyo malit [ mokalo MCAS ] kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+        "Jatend duond bura mar ODM migosi Raila Amolo Odinga kawuono oseyo malit mokalo [ ] MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+        "Jatend duond bura mar ODM migosi Raila Amolo Odinga kawuono oseyo [ malit mokalo MCAS ] kuom tiyo marach gi omenda jopiny moketi mag weche dongruok"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "ODM",
+        "duond bura mar ODM",
+        "mar ODM",
+        "ODM migosi",
+        "duond bura mar ODM migosi"
+      ],
+      [
+        "Raila Amolo Odinga",
+        "migosi Raila Amolo Odinga",
+        "",
+        "",
+        "jopiny moketi mag weche dongruok"
+      ],
+      [
+        "MCAS",
+        "MCAS kuom tiyo marach gi omenda jopiny moketi mag weche dongruok",
+        "mokalo MCAS",
+        "",
+        "malit mokalo MCAS"
+      ]
+    ],
+    "score": [
+      [
+        -89.50798797607422,
+        -94.95304870605469,
+        -95.96643829345703,
+        -99.18435668945312,
+        -101.47992706298828
+      ],
+      [
+        -96.12977600097656,
+        -101.2619400024414,
+        -102.86785888671875,
+        -107.39566040039062,
+        -107.74199676513672
+      ],
+      [
+        -91.38045501708984,
+        -97.00385284423828,
+        -98.12420654296875,
+        -101.24195098876953,
+        -101.723388671875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "praised President [ Kenyatta ] for the measures taken by his government to fight corruption and urged him to do so without prejudice."
+    ],
+    "src_entities": [
+      "Kenyatta"
+    ],
+    "template": "ne opuoyo Ker Kenyatta kuom okenge ma piny owacho mare osekao mar kedo gi mibadhi ka okwaye mondo otime ma ok odewo ngato angata .",
+    "tgt_lang": [
+      [
+        "ne opuoyo Ker [ Kenyatta ] kuom okenge ma piny owacho mare osekao mar kedo gi mibadhi ka okwaye mondo otime ma ok odewo ngato angata.",
+        "ne opuoyo Ker [ ] Kenyatta kuom okenge ma piny owacho mare osekao mar kedo gi mibadhi ka okwaye mondo otime ma ok odewo ngato angata.",
+        "ne opuoyo Ker Kenyatta kuom okenge ma piny owacho mare osekao mar kedo gi mibadhi ka okwaye mondo otime ma ok odewo ngato angata [. ]",
+        "ne opuoyo Ker [ Kenyatta kuom okenge ma piny owacho mare osekao mar kedo gi mibadhi ka ok ]waye mondo otime ma ok odewo ngato angata.",
+        "ne opuoyo Ker Kenyatta kuom okenge ma piny owacho mare osekao mar kedo gi mibadhi ka okwaye mondo otime ma ok odewo ngato angata [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kenyatta",
+        "",
+        ".",
+        "Kenyatta kuom okenge ma piny owacho mare osekao mar kedo gi mibadhi ka ok",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -96.56118774414062,
+        -101.68761444091797,
+        -110.54544067382812,
+        -111.28897094726562,
+        -111.75821685791016
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "On the other hand, seven other doctors who work in the board of health insurance of [ NHIF ] have also been arrested."
+    ],
+    "src_entities": [
+      "NHIF"
+    ],
+    "template": "To kumachielo bende apisas mamoko 7 ma jotiyo e board mochungne insurance mar thieth ka NHIF bende nyo omaki",
+    "tgt_lang": [
+      [
+        "To kumachielo bende apisas mamoko 7 ma jotiyo e board mochungne insurance mar thieth ka [ NHIF ] bende nyo omaki",
+        "To kumachielo bende apisas mamoko 7 ma jotiyo e board mochungne insurance mar thieth [ ka NHIF ] bende nyo omaki",
+        "To kumachielo bende apisas mamoko 7 ma jotiyo e board mochungne insurance mar [ thieth ka NHIF ] bende nyo omaki",
+        "To kumachielo bende apisas mamoko 7 ma jotiyo e board mochungne insurance mar thieth ka [ ] NHIF bende nyo omaki",
+        "To kumachielo bende apisas mamoko 7 ma jotiyo e board mochungne insurance mar thieth [ ka ] NHIF bende nyo omaki"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "NHIF",
+        "ka NHIF",
+        "thieth ka NHIF",
+        "",
+        "ka"
+      ]
+    ],
+    "score": [
+      [
+        -97.9538803100586,
+        -104.7684555053711,
+        -108.97454833984375,
+        -109.21380615234375,
+        -109.70405578613281
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 24,
+    "src_lang": [],
+    "template": "oketinegi to nyochane gineno ni gikau jii manyien emane gikawoe jagono ni to ne pok",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  }
+]

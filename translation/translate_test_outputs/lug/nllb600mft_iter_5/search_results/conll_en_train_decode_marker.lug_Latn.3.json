@@ -1,0 +1,1386 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "He even rented his own plane to go to [ New York. ]"
+    ],
+    "src_entities": [
+      "New York."
+    ],
+    "template": "Ne mu kugenda e New York yapangisa nnyonyi yiye .",
+    "tgt_lang": [
+      [
+        "Ne mu kugenda e [ New York ] yapangisa nnyonyi yiye.",
+        "Ne mu kugenda e [ New York yapangisa nnyonyi yiye. ]",
+        "Ne mu kugenda [ e New York ] yapangisa nnyonyi yiye.",
+        "[ Ne mu kugenda e New York yapangisa nnyonyi yiye. ]",
+        "Ne mu kugenda e [ New York yapangisa nnyonyi yiye ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "New York",
+        "New York yapangisa nnyonyi yiye.",
+        "e New York",
+        "Ne mu kugenda e New York yapangisa nnyonyi yiye.",
+        "New York yapangisa nnyonyi yiye"
+      ]
+    ],
+    "score": [
+      [
+        -50.934574127197266,
+        -52.900184631347656,
+        -53.184574127197266,
+        -54.28429412841797,
+        -54.64616012573242
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "[ Muhangi ] is charged along with former police chief Gen Kayihura and others on charges of kidnapping Rwandan citizens who were seeking asylum in Uganda and seeking refuge in Rwanda as well as providing people with weapons without having to possess them as in these there is no lethal weapon.",
+      "Muhangi is charged along with former police chief Gen [ Kayihura ] and others on charges of kidnapping Rwandan citizens who were seeking asylum in Uganda and seeking refuge in Rwanda as well as providing people with weapons without having to possess them as in these there is no lethal weapon.",
+      "Muhangi is charged along with former police chief Gen Kayihura and others on charges of kidnapping Rwandan citizens who were seeking asylum in [ Uganda ] and seeking refuge in Rwanda as well as providing people with weapons without having to possess them as in these there is no lethal weapon.",
+      "Muhangi is charged along with former police chief Gen Kayihura and others on charges of kidnapping Rwandan citizens who were seeking asylum in Uganda and seeking refuge in [ Rwanda ] as well as providing people with weapons without having to possess them as in these there is no lethal weapon."
+    ],
+    "src_entities": [
+      "Muhangi",
+      "Kayihura",
+      "Uganda",
+      "Rwanda"
+    ],
+    "template": "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu .",
+    "tgt_lang": [
+      [
+        "[ Muhangi ] avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu.",
+        "Muhangi [ avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli ] kitatta emmundu.",
+        "Muhangi [ avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano ] kwekuli nokuli kitatta emmundu.",
+        "[ Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli ] kitatta emmundu.",
+        "Muhangi [ avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kit ]atta emmundu."
+      ],
+      [
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen [ Kayihura ] ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu.",
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen [ ] Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu.",
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen [ Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli ] kitatta emmundu.",
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen [ Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano ] kwekuli nokuli kitatta emmundu.",
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura [ ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli ] kitatta emmundu."
+      ],
+      [
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu [ Uganda ] ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu.",
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu [ mu Uganda ] ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu.",
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda [ ] ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu.",
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda [ ne babaza e Rwanda ] ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu.",
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda [ ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli ] kitatta emmundu."
+      ],
+      [
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e [ Rwanda ] ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu.",
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza [ e Rwanda ] ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu.",
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda [ ] ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu.",
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda [ ne babaza e Rwanda ] ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu.",
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e [ ] Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Muhangi",
+        "avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli",
+        "avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano",
+        "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli",
+        "avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kit"
+      ],
+      [
+        "Kayihura",
+        "",
+        "Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli",
+        "Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano",
+        "ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli"
+      ],
+      [
+        "Uganda",
+        "mu Uganda",
+        "",
+        "ne babaza e Rwanda",
+        "ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli"
+      ],
+      [
+        "Rwanda",
+        "e Rwanda",
+        "",
+        "ne babaza e Rwanda",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -154.4080810546875,
+        -175.22317504882812,
+        -176.05380249023438,
+        -177.9403076171875,
+        -178.43507385253906
+      ],
+      [
+        -155.8172607421875,
+        -165.99102783203125,
+        -173.8048858642578,
+        -174.60931396484375,
+        -175.25057983398438
+      ],
+      [
+        -159.3159942626953,
+        -161.79367065429688,
+        -168.786865234375,
+        -169.16061401367188,
+        -177.93946838378906
+      ],
+      [
+        -156.85585021972656,
+        -161.4856414794922,
+        -166.01345825195312,
+        -166.62847900390625,
+        -168.35560607910156
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 2,
+    "src_lang": [],
+    "template": "Bwoba mmotoka obadde togikoleezaamu buli ku makya kivaako ekizoosi okutalagga munda lwoddamu okugivuga kigyanguyira okufuna ebituli netandika okuvuuma obubi nokunywa ennyo amafuta , kale kyandibadde kirungi mmotoka okusooka okugitwala mu ggalagi ne bagyekebejja okwewala okufuna obuzibu ku luguudo .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "However, the [ Kikuubo ] are afraid that if the ministers enter the Kikuubo by throwing things in the street where they are they may be closed again which is why they have asked the KCCA to leave them because they do not pay taxes and do not rent shops while their place has become a market.",
+      "However, the Kikuubo are afraid that if the ministers enter the [ Kikuubo ] by throwing things in the street where they are they may be closed again which is why they have asked the KCCA to leave them because they do not pay taxes and do not rent shops while their place has become a market.",
+      "However, the Kikuubo are afraid that if the ministers enter the Kikuubo by throwing things in the street where they are they may be closed again which is why they have asked the [ KCCA ] to leave them because they do not pay taxes and do not rent shops while their place has become a market."
+    ],
+    "src_entities": [
+      "Kikuubo",
+      "Kikuubo",
+      "KCCA"
+    ],
+    "template": "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale .",
+    "tgt_lang": [
+      [
+        "Wabula aba [ Kikuubo ] batidde nti sing aba minisita bayingira m Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale.",
+        "Wabula [ aba Kikuubo ] batidde nti sing aba minisita bayingira m Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale.",
+        "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m [ Kikuubo ] ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale.",
+        "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m [ Kikuubo ngabayiwamu ebintu mu luguudo ] weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale.",
+        "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m [ Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale. ]"
+      ],
+      [
+        "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m [ Kikuubo ] ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale.",
+        "Wabula aba Kikuubo batidde nti sing aba minisita bayingira [ m Kikuubo ] ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale.",
+        "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m [ ] Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale.",
+        "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m [ Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ] ate nga ekifo kyaabwe bakifudde katale.",
+        "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m [ Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale. ]"
+      ],
+      [
+        "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba [ KCCA ] ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale.",
+        "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba [ KCCA ebagyewo ] kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale.",
+        "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m [ Kikuubo ] ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale.",
+        "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba [ ] KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale.",
+        "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m [ ] Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kikuubo",
+        "aba Kikuubo",
+        "Kikuubo",
+        "Kikuubo ngabayiwamu ebintu mu luguudo",
+        "Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale."
+      ],
+      [
+        "Kikuubo",
+        "m Kikuubo",
+        "",
+        "Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka",
+        "Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale."
+      ],
+      [
+        "KCCA",
+        "KCCA ebagyewo",
+        "Kikuubo",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -151.6046142578125,
+        -154.7742919921875,
+        -156.92893981933594,
+        -168.05276489257812,
+        -170.68099975585938
+      ],
+      [
+        -146.8508758544922,
+        -150.35472106933594,
+        -157.93800354003906,
+        -164.83566284179688,
+        -165.26187133789062
+      ],
+      [
+        -155.51097106933594,
+        -161.46694946289062,
+        -163.14080810546875,
+        -163.44100952148438,
+        -168.85980224609375
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "The man attended the [ Committee ] and Dr. Kasasa has been summoned again to explain what was said about him.",
+      "The man attended the Committee and Dr. [ Kasasa ] has been summoned again to explain what was said about him."
+    ],
+    "src_entities": [
+      "Committee",
+      "Kasasa"
+    ],
+    "template": "Wassajja yabaddewo mu Kakiiko era ne Dr . Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako .",
+    "tgt_lang": [
+      [
+        "Wassajja yabaddewo mu [ Kakiiko ] era ne Dr. Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako.",
+        "Wassajja yabaddewo [ mu Kakiiko ] era ne Dr. Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako.",
+        "Wassajja yabaddewo mu Kakiiko [ era ne Dr. ] Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako.",
+        "Wassajja yabaddewo mu Kakiiko [ era ne Dr. Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako ].",
+        "Wassajja yabaddewo mu Kakiiko [ era ne Dr. Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako. ]"
+      ],
+      [
+        "Wassajja yabaddewo mu Kakiiko era ne Dr. [ Kasasa ] bazzeemu okumuyita annyonnyole ku bimwogerwako.",
+        "Wassajja yabaddewo mu Kakiiko era ne Dr. [ ] Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako.",
+        "Wassajja yabaddewo mu Kakiiko era ne Dr [. Kasasa ] bazzeemu okumuyita annyonnyole ku bimwogerwako.",
+        "Wassajja yabaddewo mu Kakiiko era ne Dr. [ Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako. ]",
+        "Wassajja yabaddewo mu Kakiiko era ne Dr. [ Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kakiiko",
+        "mu Kakiiko",
+        "era ne Dr.",
+        "era ne Dr. Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako",
+        "era ne Dr. Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako."
+      ],
+      [
+        "Kasasa",
+        "",
+        ". Kasasa",
+        "Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako.",
+        "Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako"
+      ]
+    ],
+    "score": [
+      [
+        -73.13848876953125,
+        -73.66847229003906,
+        -85.73651885986328,
+        -88.22728729248047,
+        -88.48545837402344
+      ],
+      [
+        -65.95237731933594,
+        -76.47122955322266,
+        -78.973876953125,
+        -84.1923599243164,
+        -87.04329681396484
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [],
+    "template": "Kireetawo okunyweza omwenkanonkano era abakyala beesigwa .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 6,
+    "src_lang": [
+      "Property allegedly bought by [ Kimbowa ] had come to give us houses in Wakaliga and we made a deal to hire TV staff and we gave him advertisements and when he got money I paid for the next houses and many cars he gave us and we made a contract.",
+      "Property allegedly bought by Kimbowa had come to give us houses in [ Wakaliga ] and we made a deal to hire TV staff and we gave him advertisements and when he got money I paid for the next houses and many cars he gave us and we made a contract."
+    ],
+    "src_entities": [
+      "Kimbowa",
+      "Wakaliga"
+    ],
+    "template": "Property ezigambibwa nti Kimbowa yazigula zaali zize yatuwaako amayumba e Wakaliga ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi zatuwa ne tukola endagaano .",
+    "tgt_lang": [
+      [
+        "Property ezigambibwa nti [ Kimbowa ] yazigula zaali zize yatuwaako amayumba e Wakaliga ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi zatuwa ne tukola endagaano.",
+        "Property ezigambibwa nti [ Kimbowa yazigula ] zaali zize yatuwaako amayumba e Wakaliga ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi zatuwa ne tukola endagaano.",
+        "Property ezigambibwa nti [ ] Kimbowa yazigula zaali zize yatuwaako amayumba e Wakaliga ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi zatuwa ne tukola endagaano.",
+        "Property [ ezigambibwa nti Kimbowa ] yazigula zaali zize yatuwaako amayumba e Wakaliga ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi zatuwa ne tukola endagaano.",
+        "Property ezigambibwa nti Kimbowa [ ] yazigula zaali zize yatuwaako amayumba e Wakaliga ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi zatuwa ne tukola endagaano."
+      ],
+      [
+        "Property ezigambibwa nti Kimbowa yazigula zaali zize yatuwaako amayumba e [ Wakaliga ] ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi zatuwa ne tukola endagaano.",
+        "Property ezigambibwa nti Kimbowa yazigula zaali zize yatuwaako amayumba [ e Wakaliga ] ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi zatuwa ne tukola endagaano.",
+        "Property ezigambibwa nti Kimbowa yazigula zaali zize yatuwaako amayumba e [ Wakaliga ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi zatuwa ne tukola endagaano. ]",
+        "Property ezigambibwa nti Kimbowa yazigula zaali zize yatuwaako amayumba e [ Wakaliga ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi z ]atuwa ne tukola endagaano.",
+        "Property ezigambibwa nti Kimbowa yazigula zaali zize yatuwaako amayumba e [ Wakaliga ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi zatuwa ne tukola endagaano ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kimbowa",
+        "Kimbowa yazigula",
+        "",
+        "ezigambibwa nti Kimbowa",
+        ""
+      ],
+      [
+        "Wakaliga",
+        "e Wakaliga",
+        "Wakaliga ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi zatuwa ne tukola endagaano.",
+        "Wakaliga ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi z",
+        "Wakaliga ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi zatuwa ne tukola endagaano"
+      ]
+    ],
+    "score": [
+      [
+        -177.89944458007812,
+        -185.21347045898438,
+        -188.1009979248047,
+        -189.55709838867188,
+        -189.85546875
+      ],
+      [
+        -172.70913696289062,
+        -178.69049072265625,
+        -195.39495849609375,
+        -196.4046173095703,
+        -196.73532104492188
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "He said that other stages will have no problems except the one in [ England. ]"
+    ],
+    "src_entities": [
+      "England."
+    ],
+    "template": "Yagambye nti siteegi endala tezirina buzibu okuggyako eye Bugerere .",
+    "tgt_lang": [
+      [
+        "Yagambye nti siteegi endala tezirina buzibu okuggyako eye [ Bugerere ].",
+        "Yagambye nti siteegi endala tezirina buzibu okuggyako eye [ Bugerere. ]",
+        "Yagambye nti siteegi endala tezirina buzibu okuggyako eye [ ] Bugerere.",
+        "Yagambye nti siteegi endala tezirina buzibu okuggyako eye Bugerere [ ].",
+        "Yagambye nti siteegi endala tezirina buzibu okuggyako eye Bugerere [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Bugerere",
+        "Bugerere.",
+        "",
+        "",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -39.63136672973633,
+        -42.046470642089844,
+        -47.2895393371582,
+        -48.05828857421875,
+        -48.71923065185547
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 8,
+    "src_lang": [],
+    "template": "Abaagala obubaka bwa Palamenti bali 457 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "Sources from the police in [ Kawempe ] said that later the soldiers took out Yiga and put him in the car and drove him to the SID in Kireka where he stayed until Mmande was taken to Kibuli where another file was located.",
+      "Sources from the police in Kawempe said that later the soldiers took out [ Yiga ] and put him in the car and drove him to the SID in Kireka where he stayed until Mmande was taken to Kibuli where another file was located.",
+      "Sources from the police in Kawempe said that later the soldiers took out Yiga and put him in the car and drove him to the [ SID ] in Kireka where he stayed until Mmande was taken to Kibuli where another file was located.",
+      "Sources from the police in Kawempe said that later the soldiers took out Yiga and put him in the car and drove him to the SID in [ Kireka ] where he stayed until Mmande was taken to Kibuli where another file was located.",
+      "Sources from the police in Kawempe said that later the soldiers took out Yiga and put him in the car and drove him to the SID in Kireka where he stayed until [ Mmande ] was taken to Kibuli where another file was located.",
+      "Sources from the police in Kawempe said that later the soldiers took out Yiga and put him in the car and drove him to the SID in Kireka where he stayed until Mmande was taken to [ Kibuli ] where another file was located."
+    ],
+    "src_entities": [
+      "Kawempe",
+      "Yiga",
+      "SID",
+      "Kireka",
+      "Mmande",
+      "Kibuli"
+    ],
+    "template": "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala .",
+    "tgt_lang": [
+      [
+        "Ensonda okuva ku poliisi e [ Kawempe ] zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi [ e Kawempe ] zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e [ ] Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe [ zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala. ]",
+        "Ensonda okuva ku poliisi e Kawempe [ zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala ]."
+      ],
+      [
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza [ Yiga ] ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga [ ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala ].",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga [ ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala. ]",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga [ ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli ] awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza [ Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala ]."
+      ],
+      [
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku [ SID ] e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa [ ku SID ] e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga [ okumutuusa ku SID ] e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku [ ] SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa [ ] ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala."
+      ],
+      [
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e [ Kireka ] gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID [ e Kireka ] gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e [ ] Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka [ ] gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID [ ] e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala."
+      ],
+      [
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa [ Mmande ] gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa [ Mmande gyagenda ] okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa [ Mmande gyagenda okuggyibwa ] atwalibwe e Kibuli awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa [ Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala ].",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa [ Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala. ]"
+      ],
+      [
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e [ Kibuli ] awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe [ e Kibuli ] awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa [ atwalibwe e Kibuli ] awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda [ okuggyibwa atwalibwe e Kibuli ] awali fayiro endala.",
+        "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e [ ] Kibuli awali fayiro endala."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kawempe",
+        "e Kawempe",
+        "",
+        "zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala"
+      ],
+      [
+        "Yiga",
+        "ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala",
+        "ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala.",
+        "ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli",
+        "Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala"
+      ],
+      [
+        "SID",
+        "ku SID",
+        "okumutuusa ku SID",
+        "",
+        ""
+      ],
+      [
+        "Kireka",
+        "e Kireka",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mmande",
+        "Mmande gyagenda",
+        "Mmande gyagenda okuggyibwa",
+        "Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala",
+        "Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala."
+      ],
+      [
+        "Kibuli",
+        "e Kibuli",
+        "atwalibwe e Kibuli",
+        "okuggyibwa atwalibwe e Kibuli",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -95.27571868896484,
+        -99.23779296875,
+        -103.61890411376953,
+        -118.50997161865234,
+        -118.68980407714844
+      ],
+      [
+        -94.28995513916016,
+        -113.76188659667969,
+        -114.72832489013672,
+        -115.37700653076172,
+        -116.2219467163086
+      ],
+      [
+        -95.65020751953125,
+        -97.59611511230469,
+        -103.15697479248047,
+        -104.5172348022461,
+        -104.9115219116211
+      ],
+      [
+        -93.73346710205078,
+        -99.77565002441406,
+        -103.83252716064453,
+        -105.97244262695312,
+        -107.23738861083984
+      ],
+      [
+        -94.41584014892578,
+        -97.97013092041016,
+        -100.67301940917969,
+        -101.45413970947266,
+        -103.66654968261719
+      ],
+      [
+        -89.007080078125,
+        -90.98456573486328,
+        -93.02564239501953,
+        -97.49459838867188,
+        -99.75102996826172
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [],
+    "template": "Gavumenti ya Japan yeyasinze okuteekamu ensimbiEra lusubirwa okuggwa ngaDecember , 31 , 2021 ngawamu lwakutwala emyezi 37 nga luzimbibwa nga lwakuwangala emyaka 100 .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "The police chief of [ Mpigi, ] Erias Twesigye said that Ssebunya has been charged with theft on file SD 0518022019 and was taken to court to be charged.",
+      "The police chief of Mpigi, [ Erias Twesigye ] said that Ssebunya has been charged with theft on file SD 0518022019 and was taken to court to be charged.",
+      "The police chief of Mpigi, Erias Twesigye said that [ Ssebunya ] has been charged with theft on file SD 0518022019 and was taken to court to be charged."
+    ],
+    "src_entities": [
+      "Mpigi,",
+      "Erias Twesigye",
+      "Ssebunya"
+    ],
+    "template": "Akulira poliisi ye Mpigi , Erias Twesigye agambye nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe .",
+    "tgt_lang": [
+      [
+        "Akulira poliisi ye [ Mpigi, ] Erias Twesigye agambye nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe.",
+        "Akulira poliisi [ ye Mpigi, ] Erias Twesigye agambye nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe.",
+        "Akulira poliisi ye [ Mpigi ], Erias Twesigye agambye nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe.",
+        "Akulira poliisi ye Mpigi [, ] Erias Twesigye agambye nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe.",
+        "Akulira poliisi ye [ Mpigi, Erias Twesigye agambye nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe. ]"
+      ],
+      [
+        "Akulira poliisi ye Mpigi, [ Erias Twesigye ] agambye nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe.",
+        "Akulira poliisi ye Mpigi [, Erias Twesigye ] agambye nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe.",
+        "Akulira poliisi ye Mpigi, Erias Twesigye [ ] agambye nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe.",
+        "Akulira poliisi ye Mpigi, Erias Twesigye [ agambye ] nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe.",
+        "Akulira poliisi ye Mpigi, Erias Twesigye [ agambye nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe. ]"
+      ],
+      [
+        "Akulira poliisi ye Mpigi, Erias Twesigye agambye nti [ Ssebunya ] agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe.",
+        "Akulira poliisi ye Mpigi, Erias Twesigye agambye nti [ ] Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe.",
+        "Akulira poliisi ye Mpigi, Erias Twesigye agambye nti [ Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe. ]",
+        "Akulira poliisi ye Mpigi, Erias Twesigye agambye nti [ Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 ] era wakutwalibwa mu kkooti avunaanibwe.",
+        "Akulira poliisi ye Mpigi, Erias Twesigye agambye nti [ Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mpigi,",
+        "ye Mpigi,",
+        "Mpigi",
+        ",",
+        "Mpigi, Erias Twesigye agambye nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe."
+      ],
+      [
+        "Erias Twesigye",
+        ", Erias Twesigye",
+        "",
+        "agambye",
+        "agambye nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe."
+      ],
+      [
+        "Ssebunya",
+        "",
+        "Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe.",
+        "Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019",
+        "Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe"
+      ]
+    ],
+    "score": [
+      [
+        -46.71998977661133,
+        -53.587554931640625,
+        -54.21162796020508,
+        -54.61759948730469,
+        -68.62519836425781
+      ],
+      [
+        -47.16455078125,
+        -55.87150192260742,
+        -56.15852737426758,
+        -59.22080993652344,
+        -68.87837982177734
+      ],
+      [
+        -48.47932434082031,
+        -57.58086395263672,
+        -67.77894592285156,
+        -68.3432846069336,
+        -68.41144561767578
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [
+      "Grandpa [ Kyannagogo ] said that he should not hesitate to do anything for him if anyone has done it entrusted to God.",
+      "Grandpa Kyannagogo said that he should not hesitate to do anything for him if anyone has done it entrusted to [ God. ]"
+    ],
+    "src_entities": [
+      "Kyannagogo",
+      "God."
+    ],
+    "template": "Jjajja Kyannaggolo agambye nti talina gwatebeereza okumukolera ttima nga yenna akimukoze amukwasizza Katonda .",
+    "tgt_lang": [
+      [
+        "Jjajja [ Kyannaggolo ] agambye nti talina gwatebeereza okumukolera ttima nga yenna akimukoze amukwasizza Katonda.",
+        "Jjajja [ ] Kyannaggolo agambye nti talina gwatebeereza okumukolera ttima nga yenna akimukoze amukwasizza Katonda.",
+        "Jjajja [ Kyannaggolo agambye ] nti talina gwatebeereza okumukolera ttima nga yenna akimukoze amukwasizza Katonda.",
+        "Jjajja [ Ky ]annaggolo agambye nti talina gwatebeereza okumukolera ttima nga yenna akimukoze amukwasizza Katonda.",
+        "Jjajja [ Kyann ]aggolo agambye nti talina gwatebeereza okumukolera ttima nga yenna akimukoze amukwasizza Katonda."
+      ],
+      [
+        "Jjajja Kyannaggolo agambye nti talina gwatebeereza okumukolera ttima nga yenna akimukoze amukwasizza [ Katonda ].",
+        "Jjajja Kyannaggolo agambye nti talina gwatebeereza okumukolera ttima nga yenna akimukoze amukwasizza Katonda. [ ]",
+        "Jjajja Kyannaggolo agambye nti talina gwatebeereza okumukolera ttima nga yenna akimukoze amukwasizza [ Katonda. ]",
+        "Jjajja Kyannaggolo agambye nti talina gwatebeereza okumukolera ttima nga yenna akimukoze amukwasizza Katonda [. ]",
+        "Jjajja Kyannaggolo agambye nti talina gwatebeereza okumukolera ttima nga yenna akimukoze amukwasizza Katonda [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kyannaggolo",
+        "",
+        "Kyannaggolo agambye",
+        "Ky",
+        "Kyann"
+      ],
+      [
+        "Katonda",
+        "",
+        "Katonda.",
+        ".",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -134.15426635742188,
+        -139.34243774414062,
+        -140.22216796875,
+        -143.83839416503906,
+        -145.82276916503906
+      ],
+      [
+        -119.19515228271484,
+        -119.35015106201172,
+        -122.46096801757812,
+        -122.72724151611328,
+        -123.64073181152344
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "Doctors of [ St Joseph's Hospital ] treated him and he recovered well."
+    ],
+    "src_entities": [
+      "St Joseph's Hospital"
+    ],
+    "template": "Abasawo ba St Joseph Musaanya Kyamuliibwa bamujanjabye nadda bulungi engulu .",
+    "tgt_lang": [
+      [
+        "Abasawo ba [ St Joseph Musaanya Kyamuliibwa ] bamujanjabye nadda bulungi engulu.",
+        "Abasawo ba St Joseph [ Musaanya Kyamuliibwa ] bamujanjabye nadda bulungi engulu.",
+        "Abasawo ba St Joseph Musaanya [ Kyamuliibwa ] bamujanjabye nadda bulungi engulu.",
+        "Abasawo [ ba St Joseph Musaanya Kyamuliibwa ] bamujanjabye nadda bulungi engulu.",
+        "Abasawo ba [ St Joseph Musaanya Kyamuli ]ibwa bamujanjabye nadda bulungi engulu."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "St Joseph Musaanya Kyamuliibwa",
+        "Musaanya Kyamuliibwa",
+        "Kyamuliibwa",
+        "ba St Joseph Musaanya Kyamuliibwa",
+        "St Joseph Musaanya Kyamuli"
+      ]
+    ],
+    "score": [
+      [
+        -104.98466491699219,
+        -108.9384536743164,
+        -109.4186019897461,
+        -113.5092544555664,
+        -114.00419616699219
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "It is reported that [ Yumba ] after being shot on Sunday last week the refugees took him to his emergency room in Hoima but after his condition worsened the doctors in the emergency room were asked to transfer him to Mulago in Kampala for further treatment but at this time he says that he has no help or money.",
+      "It is reported that Yumba after being shot on Sunday last week the refugees took him to his emergency room in [ Hoima ] but after his condition worsened the doctors in the emergency room were asked to transfer him to Mulago in Kampala for further treatment but at this time he says that he has no help or money.",
+      "It is reported that Yumba after being shot on Sunday last week the refugees took him to his emergency room in Hoima but after his condition worsened the doctors in the emergency room were asked to transfer him to [ Mulago ] in Kampala for further treatment but at this time he says that he has no help or money.",
+      "It is reported that Yumba after being shot on Sunday last week the refugees took him to his emergency room in Hoima but after his condition worsened the doctors in the emergency room were asked to transfer him to Mulago in [ Kampala ] for further treatment but at this time he says that he has no help or money."
+    ],
+    "src_entities": [
+      "Yumba",
+      "Hoima",
+      "Mulago",
+      "Kampala"
+    ],
+    "template": "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente .",
+    "tgt_lang": [
+      [
+        "Kigambibwa nti [ Yumba ] oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Kigambibwa nti Yumba [ ] oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Kigambibwa nti Yumba [ oluvannyuma lwokub ]wa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Kigambibwa nti Yumba [ oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente. ]",
+        "Kigambibwa nti Yumba [ oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente ]."
+      ],
+      [
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye [ Hoima ] kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye [ ] Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye [ Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa ] naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye [ Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente. ]",
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye [ Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente ]."
+      ],
+      [
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e [ Mulago ] mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo [ e Mulago ] mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo [ e Mulago mu Kampala ] gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo [ e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente. ]",
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo [ e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente ]."
+      ],
+      [
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu [ Kampala ] gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago [ mu Kampala ] gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala [ gyakyajanjabibwa ] naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala [ ] gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu [ ] Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Yumba",
+        "",
+        "oluvannyuma lwokub",
+        "oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente"
+      ],
+      [
+        "Hoima",
+        "",
+        "Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa",
+        "Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente"
+      ],
+      [
+        "Mulago",
+        "e Mulago",
+        "e Mulago mu Kampala",
+        "e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente.",
+        "e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente"
+      ],
+      [
+        "Kampala",
+        "mu Kampala",
+        "gyakyajanjabibwa",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -192.65188598632812,
+        -200.2459716796875,
+        -202.30218505859375,
+        -210.0256805419922,
+        -211.52182006835938
+      ],
+      [
+        -185.2746124267578,
+        -197.9084930419922,
+        -210.51168823242188,
+        -210.78395080566406,
+        -211.52627563476562
+      ],
+      [
+        -188.1250762939453,
+        -192.32301330566406,
+        -200.89144897460938,
+        -211.9088897705078,
+        -212.66851806640625
+      ],
+      [
+        -190.92489624023438,
+        -192.72850036621094,
+        -196.91041564941406,
+        -198.87075805664062,
+        -200.03517150878906
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "He added that [ Museveni ] now remains to be confirmed by the NRM ruling committees of CEC and NEC.",
+      "He added that Museveni now remains to be confirmed by the [ NRM ] ruling committees of CEC and NEC.",
+      "He added that Museveni now remains to be confirmed by the NRM ruling committees of [ CEC ] and NEC.",
+      "He added that Museveni now remains to be confirmed by the NRM ruling committees of CEC and [ NEC. ]"
+    ],
+    "src_entities": [
+      "Museveni",
+      "NRM",
+      "CEC",
+      "NEC."
+    ],
+    "template": "Yayongeddeko nti , Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka CEC ne NEC .",
+    "tgt_lang": [
+      [
+        "Yayongeddeko nti, [ Museveni ] kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka CEC ne NEC.",
+        "Yayongeddeko nti [, Museveni ] kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka CEC ne NEC.",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka [ CEC ] ne NEC.",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka [ CEC ne NEC ].",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka [ CEC ne NEC. ]"
+      ],
+      [
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa [ NRM ] obufuzi okuli aka CEC ne NEC.",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko [ bwa NRM ] obufuzi okuli aka CEC ne NEC.",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka [ CEC ] ne NEC.",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa [ obukiiko bwa NRM ] obufuzi okuli aka CEC ne NEC.",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka [ CEC ne NEC ]."
+      ],
+      [
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka [ CEC ] ne NEC.",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli [ aka CEC ] ne NEC.",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi [ okuli aka CEC ] ne NEC.",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka [ CEC ne NEC ].",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka [ ] CEC ne NEC."
+      ],
+      [
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka CEC ne [ NEC ].",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka CEC ne [ NEC. ]",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka CEC ne [ ] NEC.",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli [ aka CEC ne NEC ].",
+        "Yayongeddeko nti, Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka CEC ne NEC [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Museveni",
+        ", Museveni",
+        "CEC",
+        "CEC ne NEC",
+        "CEC ne NEC."
+      ],
+      [
+        "NRM",
+        "bwa NRM",
+        "CEC",
+        "obukiiko bwa NRM",
+        "CEC ne NEC"
+      ],
+      [
+        "CEC",
+        "aka CEC",
+        "okuli aka CEC",
+        "CEC ne NEC",
+        ""
+      ],
+      [
+        "NEC",
+        "NEC.",
+        "",
+        "aka CEC ne NEC",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -43.374237060546875,
+        -51.33063507080078,
+        -55.296504974365234,
+        -56.40196228027344,
+        -60.924888610839844
+      ],
+      [
+        -45.49422073364258,
+        -48.91739273071289,
+        -55.43159103393555,
+        -55.52348709106445,
+        -57.907386779785156
+      ],
+      [
+        -43.735389709472656,
+        -48.92363357543945,
+        -53.44432830810547,
+        -55.301124572753906,
+        -55.676490783691406
+      ],
+      [
+        -43.1168098449707,
+        -45.83963394165039,
+        -52.25513458251953,
+        -54.69593811035156,
+        -55.19820785522461
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "[ Ssekandi ] has assured the old Masaka that their borders on the Nalubaale sea allow them to receive taxes that sustain them.",
+      "Ssekandi has assured the old [ Masaka ] that their borders on the Nalubaale sea allow them to receive taxes that sustain them.",
+      "Ssekandi has assured the old Masaka that their borders on the [ Nalubaale sea ] allow them to receive taxes that sustain them."
+    ],
+    "src_entities": [
+      "Ssekandi",
+      "Masaka",
+      "Nalubaale sea"
+    ],
+    "template": "Ssekandi agumizza aba Masaka enkadde nti emyalo gye balina ku nnyanja Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo .",
+    "tgt_lang": [
+      [
+        "[ Ssekandi ] agumizza aba Masaka enkadde nti emyalo gye balina ku nnyanja Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo.",
+        "[ ] Ssekandi agumizza aba Masaka enkadde nti emyalo gye balina ku nnyanja Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo.",
+        "Ssekandi agumizza aba Masaka enkadde nti emyalo gye balina ku nnyanja Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo [ ].",
+        "Ssekandi agumizza aba Masaka enkadde nti emyalo gye balina ku nnyanja Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo [. ]",
+        "[ Ssekandi agumizza aba Masaka enkadde nti emyalo gye balina ku nnyanja Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo. ]"
+      ],
+      [
+        "Ssekandi agumizza aba [ Masaka ] enkadde nti emyalo gye balina ku nnyanja Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo.",
+        "Ssekandi agumizza [ aba Masaka ] enkadde nti emyalo gye balina ku nnyanja Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo.",
+        "Ssekandi agumizza [ aba Masaka enkadde ] nti emyalo gye balina ku nnyanja Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo.",
+        "Ssekandi agumizza aba [ Masaka enkadde ] nti emyalo gye balina ku nnyanja Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo.",
+        "Ssekandi agumizza aba [ ] Masaka enkadde nti emyalo gye balina ku nnyanja Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo."
+      ],
+      [
+        "Ssekandi agumizza aba Masaka enkadde nti emyalo gye balina ku [ nnyanja Nalubaale ] gibasobozesa okufunamu emisolo egibayimirizaawo.",
+        "Ssekandi agumizza aba Masaka enkadde nti emyalo gye balina ku nnyanja [ Nalubaale ] gibasobozesa okufunamu emisolo egibayimirizaawo.",
+        "Ssekandi agumizza aba Masaka enkadde nti emyalo [ gye balina ku nnyanja Nalubaale ] gibasobozesa okufunamu emisolo egibayimirizaawo.",
+        "Ssekandi agumizza aba Masaka enkadde nti [ emyalo gye balina ku nnyanja Nalubaale ] gibasobozesa okufunamu emisolo egibayimirizaawo.",
+        "Ssekandi agumizza aba Masaka enkadde nti emyalo gye balina ku nnyanja [ ] Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Ssekandi",
+        "",
+        "",
+        ".",
+        "Ssekandi agumizza aba Masaka enkadde nti emyalo gye balina ku nnyanja Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo."
+      ],
+      [
+        "Masaka",
+        "aba Masaka",
+        "aba Masaka enkadde",
+        "Masaka enkadde",
+        ""
+      ],
+      [
+        "nnyanja Nalubaale",
+        "Nalubaale",
+        "gye balina ku nnyanja Nalubaale",
+        "emyalo gye balina ku nnyanja Nalubaale",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -63.82134246826172,
+        -72.97006225585938,
+        -80.1808090209961,
+        -80.61264038085938,
+        -83.0657730102539
+      ],
+      [
+        -66.80113220214844,
+        -68.72010040283203,
+        -70.92908477783203,
+        -71.51797485351562,
+        -74.2007064819336
+      ],
+      [
+        -66.28504943847656,
+        -66.675048828125,
+        -71.61146545410156,
+        -72.49764251708984,
+        -75.89695739746094
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "Others say that many of the wives he has left and that he has met and talked about hurt [ Mbabazi. ]"
+    ],
+    "src_entities": [
+      "Mbabazi."
+    ],
+    "template": "Abalala bagamba nti abakazi bangi be yalekawo ate agira nabasisinkana ne banyumya ekinyiiza Mbabazi .",
+    "tgt_lang": [
+      [
+        "Abalala bagamba nti abakazi bangi be yalekawo ate agira nabasisinkana ne banyumya ekinyiiza [ Mbabazi ].",
+        "Abalala bagamba nti abakazi bangi be yalekawo ate agira nabasisinkana ne banyumya ekinyiiza [ Mbabazi. ]",
+        "Abalala bagamba nti abakazi bangi be yalekawo ate agira nabasisinkana ne banyumya [ ekinyiiza Mbabazi ].",
+        "Abalala bagamba nti abakazi bangi be yalekawo ate agira nabasisinkana ne banyumya [ ekinyiiza Mbabazi. ]",
+        "Abalala bagamba nti abakazi bangi be yalekawo ate agira nabasisinkana ne banyumya ekinyiiza Mbabazi [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mbabazi",
+        "Mbabazi.",
+        "ekinyiiza Mbabazi",
+        "ekinyiiza Mbabazi.",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -61.11361312866211,
+        -64.30687713623047,
+        -66.82833099365234,
+        -68.76007080078125,
+        -71.98309326171875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "However, I said that it would be better to consult the [ DP ] first before giving the FDC such authority.",
+      "However, I said that it would be better to consult the DP first before giving the [ FDC ] such authority."
+    ],
+    "src_entities": [
+      "DP",
+      "FDC"
+    ],
+    "template": "Kyokka nagamba nti kyandibadde kirungi okusooka okwebuuza ku DP nga FDC tennabawa bukulu obwo .",
+    "tgt_lang": [
+      [
+        "Kyokka nagamba nti kyandibadde kirungi okusooka okwebuuza ku [ DP ] nga FDC tennabawa bukulu obwo.",
+        "Kyokka nagamba nti kyandibadde kirungi okusooka okwebuuza ku DP nga [ FDC ] tennabawa bukulu obwo.",
+        "Kyokka nagamba nti kyandibadde kirungi okusooka okwebuuza ku DP nga [ FDC tennabawa bukulu obwo ].",
+        "Kyokka nagamba nti kyandibadde kirungi okusooka okwebuuza ku DP [ nga ] FDC tennabawa bukulu obwo.",
+        "Kyokka nagamba nti kyandibadde kirungi okusooka okwebuuza ku [ DP nga ] FDC tennabawa bukulu obwo."
+      ],
+      [
+        "Kyokka nagamba nti kyandibadde kirungi okusooka okwebuuza ku DP nga [ FDC ] tennabawa bukulu obwo.",
+        "Kyokka nagamba nti kyandibadde kirungi okusooka okwebuuza ku DP nga [ ] FDC tennabawa bukulu obwo.",
+        "Kyokka nagamba nti kyandibadde kirungi okusooka okwebuuza ku DP nga [ FDC tennabawa ] bukulu obwo.",
+        "Kyokka nagamba nti kyandibadde kirungi okusooka okwebuuza ku DP nga [ FDC tennabawa bukulu obwo ].",
+        "Kyokka nagamba nti kyandibadde kirungi okusooka okwebuuza ku DP nga [ FDC tennabawa bukulu obwo. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "DP",
+        "FDC",
+        "FDC tennabawa bukulu obwo",
+        "nga",
+        "DP nga"
+      ],
+      [
+        "FDC",
+        "",
+        "FDC tennabawa",
+        "FDC tennabawa bukulu obwo",
+        "FDC tennabawa bukulu obwo."
+      ]
+    ],
+    "score": [
+      [
+        -43.747562408447266,
+        -45.926055908203125,
+        -52.95979690551758,
+        -53.633644104003906,
+        -53.77129364013672
+      ],
+      [
+        -34.30448532104492,
+        -47.07334518432617,
+        -50.13227462768555,
+        -51.26811599731445,
+        -51.69940948486328
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "Regarding the salary to be paid to these new ministers, [ Mayiga ] said that they will be paid in any way to fulfill their duties as the Treasurer had to decide on the salary of these officials.",
+      "Regarding the salary to be paid to these new ministers, Mayiga said that they will be paid in any way to fulfill their duties as the [ Treasurer ] had to decide on the salary of these officials."
+    ],
+    "src_entities": [
+      "Mayiga",
+      "Treasurer"
+    ],
+    "template": "Ku kyomusaala ogunaasasulwa baminisita bano abapya , Mayiga yagambye nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ngOmuwanika yalina okusala amagezi abakulu bano gyebanasasulwamu .",
+    "tgt_lang": [
+      [
+        "Ku kyomusaala ogunaasasulwa baminisita bano abapya, [ Mayiga ] yagambye nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ngOmuwanika yalina okusala amagezi abakulu bano gyebanasasulwamu.",
+        "Ku kyomusaala ogunaasasulwa baminisita bano abapya, Mayiga [ yagambye ] nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ngOmuwanika yalina okusala amagezi abakulu bano gyebanasasulwamu.",
+        "Ku kyomusaala ogunaasasulwa baminisita bano abapya [, Mayiga ] yagambye nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ngOmuwanika yalina okusala amagezi abakulu bano gyebanasasulwamu.",
+        "Ku kyomusaala ogunaasasulwa baminisita bano abapya, Mayiga [ yagambye nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ng ]Omuwanika yalina okusala amagezi abakulu bano gyebanasasulwamu.",
+        "Ku kyomusaala ogunaasasulwa baminisita bano abapya, Mayiga [ yagambye nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ngOmuwanika yalina okusala amagezi abakulu bano gyebanasasulwamu. ]"
+      ],
+      [
+        "Ku kyomusaala ogunaasasulwa baminisita bano abapya, Mayiga yagambye nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ng [Omuwanika ] yalina okusala amagezi abakulu bano gyebanasasulwamu.",
+        "Ku kyomusaala ogunaasasulwa baminisita bano abapya, Mayiga yagambye nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ng [Omuwanika yalina ] okusala amagezi abakulu bano gyebanasasulwamu.",
+        "Ku kyomusaala ogunaasasulwa baminisita bano abapya, Mayiga yagambye nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ng [ ]Omuwanika yalina okusala amagezi abakulu bano gyebanasasulwamu.",
+        "Ku kyomusaala ogunaasasulwa baminisita bano abapya, Mayiga yagambye nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ngOmuwanika [ ] yalina okusala amagezi abakulu bano gyebanasasulwamu.",
+        "Ku kyomusaala ogunaasasulwa baminisita bano abapya, Mayiga yagambye nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ng [Omuwanika yalina okusala amagezi abakulu bano gyebanasasulwamu. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mayiga",
+        "yagambye",
+        ", Mayiga",
+        "yagambye nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ng",
+        "yagambye nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ngOmuwanika yalina okusala amagezi abakulu bano gyebanasasulwamu."
+      ],
+      [
+        "Omuwanika",
+        "Omuwanika yalina",
+        "",
+        "",
+        "Omuwanika yalina okusala amagezi abakulu bano gyebanasasulwamu."
+      ]
+    ],
+    "score": [
+      [
+        -111.12583923339844,
+        -122.70919036865234,
+        -123.75984191894531,
+        -128.63775634765625,
+        -134.69699096679688
+      ],
+      [
+        -108.21939086914062,
+        -120.71652221679688,
+        -124.50003051757812,
+        -124.6553726196289,
+        -125.23481750488281
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "However, [ Wasswa ] refused to reveal what he knew about the attack."
+    ],
+    "src_entities": [
+      "Wasswa"
+    ],
+    "template": "Kyokka Wasswa yeegaanye okubaakone kyamanyi ku bulumbaganyi buno .",
+    "tgt_lang": [
+      [
+        "Kyokka [ Wasswa ] yeegaanye okubaakone kyamanyi ku bulumbaganyi buno.",
+        "Kyokka [ ] Wasswa yeegaanye okubaakone kyamanyi ku bulumbaganyi buno.",
+        "Kyokka [ Wasswa yeegaanye okubaakone kyamanyi ku bulumbaganyi buno ].",
+        "Kyokka [ Wasswa yeegaanye ] okubaakone kyamanyi ku bulumbaganyi buno.",
+        "Kyokka [ Wasswa yeegaanye okubaakone kyamanyi ku bulumbaganyi buno. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Wasswa",
+        "",
+        "Wasswa yeegaanye okubaakone kyamanyi ku bulumbaganyi buno",
+        "Wasswa yeegaanye",
+        "Wasswa yeegaanye okubaakone kyamanyi ku bulumbaganyi buno."
+      ]
+    ],
+    "score": [
+      [
+        -56.022769927978516,
+        -64.20292663574219,
+        -73.71574401855469,
+        -74.70405578613281,
+        -74.81761169433594
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [],
+    "template": "Asabye abantu okubategeeza ssinga balina ebifo bye bamanyi ebitunda amabaati agatali ku mutindo .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "[ Juma Ssebuliba ] also known as Mc Kadonga said that there are organizations that lead musicians not only to help young musicians but also to help famous people like Eddy Kezo who were once young as well as not one of the vendors of Uganda in the European countries, so I asked the government to help the musicians not to discriminate.",
+      "Juma Ssebuliba also known as [ Mc Kadonga ] said that there are organizations that lead musicians not only to help young musicians but also to help famous people like Eddy Kezo who were once young as well as not one of the vendors of Uganda in the European countries, so I asked the government to help the musicians not to discriminate.",
+      "Juma Ssebuliba also known as Mc Kadonga said that there are organizations that lead musicians not only to help young musicians but also to help famous people like [ Eddy Kezo ] who were once young as well as not one of the vendors of Uganda in the European countries, so I asked the government to help the musicians not to discriminate.",
+      "Juma Ssebuliba also known as Mc Kadonga said that there are organizations that lead musicians not only to help young musicians but also to help famous people like Eddy Kezo who were once young as well as not one of the vendors of [ Uganda ] in the European countries, so I asked the government to help the musicians not to discriminate."
+    ],
+    "src_entities": [
+      "Juma Ssebuliba",
+      "Mc Kadonga",
+      "Eddy Kezo",
+      "Uganda"
+    ],
+    "template": "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya , bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola .",
+    "tgt_lang": [
+      [
+        "[ Juma Ssebuliba ] amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "[ Juma Ssebuliba amanyiddwa nga Mc Kadonga ] yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "[ Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumenti ]bwekuba kuyamba bayimbi ereme kusosola.",
+        "[ Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga kati ]yomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "[ Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola. ]"
+      ],
+      [
+        "Juma Ssebuliba amanyiddwa nga [ Mc Kadonga ] yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "Juma Ssebuliba amanyiddwa nga [ ] Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga [ ] yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "Juma Ssebuliba amanyiddwa nga [ Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumenti ]bwekuba kuyamba bayimbi ereme kusosola.",
+        "Juma Ssebuliba amanyiddwa nga [ Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga kati ]yomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola."
+      ],
+      [
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga [ Eddy Kezo ] nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga [ Eddy Kezo nabo ] baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga [ ] Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga [ abatutumufu nga Eddy Kezo ] nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo [ ] nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola."
+      ],
+      [
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda [ Uganda ] mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda [ Uganda mu nsi ze Bulaaya ], bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda [ ] Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu [ nsi ze Bulaaya ], bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola.",
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda [ Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumenti ]bwekuba kuyamba bayimbi ereme kusosola."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Juma Ssebuliba",
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga",
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumenti",
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga kati",
+        "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola."
+      ],
+      [
+        "Mc Kadonga",
+        "",
+        "",
+        "Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumenti",
+        "Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga kati"
+      ],
+      [
+        "Eddy Kezo",
+        "Eddy Kezo nabo",
+        "",
+        "abatutumufu nga Eddy Kezo",
+        ""
+      ],
+      [
+        "Uganda",
+        "Uganda mu nsi ze Bulaaya",
+        "",
+        "nsi ze Bulaaya",
+        "Uganda mu nsi ze Bulaaya, bwatyo nasaba gavumenti"
+      ]
+    ],
+    "score": [
+      [
+        -191.06329345703125,
+        -202.920166015625,
+        -206.00634765625,
+        -208.26480102539062,
+        -213.10055541992188
+      ],
+      [
+        -190.38279724121094,
+        -201.90402221679688,
+        -202.1774444580078,
+        -207.96728515625,
+        -208.7957763671875
+      ],
+      [
+        -188.6322021484375,
+        -200.05575561523438,
+        -201.62625122070312,
+        -201.9263916015625,
+        -202.4760284423828
+      ],
+      [
+        -191.5492706298828,
+        -202.68441772460938,
+        -202.94369506835938,
+        -206.510498046875,
+        -207.3046875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [],
+    "template": "Yagambye nti bakyamuyigga , nasaba abantu okutuukirira poliisi nga bamulabyeko .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 24,
+    "src_lang": [],
+    "template": "Kakasa obuyonjo bwekiyumba nobukuumi okuva eri ababbi nensolo eziyinza okuzirumba ne zizitta .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  }
+]

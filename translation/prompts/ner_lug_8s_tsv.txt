@@ -1,0 +1,329 @@
+Tag the following sentence according to the BIO scheme for the NER task, using the tags PER (person), LOC (location), ORG (organization) and DATE (date). Follow the format specified in the examples below:
+
+Sentence: Hudu Hussein omubaka wa pulezidenti e Kawempe yategeezezza nti ensonga za siteegi eno yagenda okujja mu ofiisi nga weziri , yagasseko nti landiroodi yafunyemu obutakanya nasalawo okusazamu endagaano , yagasseko nti agenda kutuuzza enjuyi zonna okulaba batuuka kunzikiriganya .
+Tags:
+```
+Hudu	B-PER
+Hussein	I-PER
+omubaka	O
+wa	O
+pulezidenti	O
+e	O
+Kawempe	B-LOC
+yategeezezza	O
+nti	O
+ensonga	O
+za	O
+siteegi	O
+eno	O
+yagenda	O
+okujja	O
+mu	O
+ofiisi	O
+nga	O
+weziri	O
+,	O
+yagasseko	O
+nti	O
+landiroodi	O
+yafunyemu	O
+obutakanya	O
+nasalawo	O
+okusazamu	O
+endagaano	O
+,	O
+yagasseko	O
+nti	O
+agenda	O
+kutuuzza	O
+enjuyi	O
+zonna	O
+okulaba	O
+batuuka	O
+kunzikiriganya	O
+.	O
+```
+
+Sentence: Yagambye nti bwe kiba kisobola bayinza nokubeeyambisa aba UNCC ne basooka bayita mu nnyimba oba katemba wabwe nga tebanamussa mu lujjudde ne babawabula bwabaamu ebirumira .
+Tags:
+```
+Yagambye	O
+nti	O
+bwe	O
+kiba	O
+kisobola	O
+bayinza	O
+nokubeeyambisa	O
+aba	O
+UNCC	B-ORG
+ne	O
+basooka	O
+bayita	O
+mu	O
+nnyimba	O
+oba	O
+katemba	O
+wabwe	O
+nga	O
+tebanamussa	O
+mu	O
+lujjudde	O
+ne	O
+babawabula	O
+bwabaamu	O
+ebirumira	O
+.	O
+```
+
+Sentence: Majid Kiwanuka eyabadde ateseteese olukiiko luno ategezeza nga bwelwabadde olwokutegeeza banna NRM kungeri yokutambuzamu ebyobufusi nga tebamenye mateeka galungamizibwa Ministry yebyobulamu wabula nategeeza nga banaabwe abamu abatayagaliza kibiina kugenda mu maaso ate nga nabo bakulembeze bebabadde emabega wemivuyo jino nga baludde nga babalemesa
+Tags:
+```
+Majid	B-PER
+Kiwanuka	I-PER
+eyabadde	O
+ateseteese	O
+olukiiko	O
+luno	O
+ategezeza	O
+nga	O
+bwelwabadde	O
+olwokutegeeza	O
+banna	O
+NRM	B-ORG
+kungeri	O
+yokutambuzamu	O
+ebyobufusi	O
+nga	O
+tebamenye	O
+mateeka	O
+galungamizibwa	O
+Ministry	B-ORG
+yebyobulamu	I-ORG
+wabula	O
+nategeeza	O
+nga	O
+banaabwe	O
+abamu	O
+abatayagaliza	O
+kibiina	O
+kugenda	O
+mu	O
+maaso	O
+ate	O
+nga	O
+nabo	O
+bakulembeze	O
+bebabadde	O
+emabega	O
+wemivuyo	O
+jino	O
+nga	O
+baludde	O
+nga	O
+babalemesa	O
+```
+
+Sentence: Lewis Rubongoya Ssaabawandiisi wekisinde kya People Pwer yagambye nti bamaze okutongoza enkalala zabantu mwe baneewandiisiza ne NUP era egenda kusindikibwa ku miruka gye bajja okwewandiisiza .
+Tags:
+```
+Lewis	B-PER
+Rubongoya	I-PER
+Ssaabawandiisi	O
+wekisinde	O
+kya	O
+People	B-ORG
+Pwer	I-ORG
+yagambye	O
+nti	O
+bamaze	O
+okutongoza	O
+enkalala	O
+zabantu	O
+mwe	O
+baneewandiisiza	O
+ne	O
+NUP	B-ORG
+era	O
+egenda	O
+kusindikibwa	O
+ku	O
+miruka	O
+gye	O
+bajja	O
+okwewandiisiza	O
+.	O
+```
+
+Sentence: Wadde Chiko azze alabibwa ngebyana ebitali bumu nddala mu bivvulu ono yagambye nti abbo bawagizi be abamusemberera okwekubya naye ebifaananyi nokubeerako naye naye omukyala alina omu Akamumpa amaze naye emyaka etano era amulinamu omwana omu era ebbanga lye bamaze bombi libamala okukakasa nti bagalaana nokutwala laavu yabwe ku
+Tags:
+```
+Wadde	O
+Chiko	B-PER
+azze	O
+alabibwa	O
+ngebyana	O
+ebitali	O
+bumu	O
+nddala	O
+mu	O
+bivvulu	O
+ono	O
+yagambye	O
+nti	O
+abbo	O
+bawagizi	O
+be	O
+abamusemberera	O
+okwekubya	O
+naye	O
+ebifaananyi	O
+nokubeerako	O
+naye	O
+naye	O
+omukyala	O
+alina	O
+omu	O
+Akamumpa	B-PER
+amaze	O
+naye	O
+emyaka	O
+etano	O
+era	O
+amulinamu	O
+omwana	O
+omu	O
+era	O
+ebbanga	O
+lye	O
+bamaze	O
+bombi	O
+libamala	O
+okukakasa	O
+nti	O
+bagalaana	O
+nokutwala	O
+laavu	O
+yabwe	O
+ku	O
+```
+
+Sentence: Looya we Muwonge Emmanuel Muwonge aleese mu kkooti endagaano okulaga nti baategeeraganye ne Senjule ku ssente ze yamufera obukadde 39 namusasulako obukadde 4 nga balansi waakumumusasula mu maaso kyokka kino tekigaanye mulamuzi kumusindiika ku limandi .
+Tags:
+```
+Looya	O
+we	O
+Muwonge	B-PER
+Emmanuel	B-PER
+Muwonge	I-PER
+aleese	O
+mu	O
+kkooti	O
+endagaano	O
+okulaga	O
+nti	O
+baategeeraganye	O
+ne	O
+Senjule	B-LOC
+ku	O
+ssente	O
+ze	O
+yamufera	O
+obukadde	O
+39	O
+namusasulako	O
+obukadde	O
+4	O
+nga	O
+balansi	O
+waakumumusasula	O
+mu	O
+maaso	O
+kyokka	O
+kino	O
+tekigaanye	O
+mulamuzi	O
+kumusindiika	O
+ku	O
+limandi	O
+.	O
+```
+
+Sentence: Yategeezezza nti obuzibu mu kusasula looni abantu ze beewola mu bbanka kuyinza okuzingamya bizinensi zabaneekolera gyange era nakyo kya kukosa .
+Tags:
+```
+Yategeezezza	O
+nti	O
+obuzibu	O
+mu	O
+kusasula	O
+looni	O
+abantu	O
+ze	O
+beewola	O
+mu	O
+bbanka	O
+kuyinza	O
+okuzingamya	O
+bizinensi	O
+zabaneekolera	O
+gyange	O
+era	O
+nakyo	O
+kya	O
+kukosa	O
+.	O
+```
+
+Sentence: Mu bakazi , Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236 . 54 nga era mu season eno ya timing ye ekyasize .
+Tags:
+```
+Mu	O
+bakazi	O
+,	O
+Halima	B-PER
+Nakaayi	I-PER
+akutte	O
+kyakutaano	O
+mu	O
+mita	O
+1000	O
+mu	O
+ddakika	O
+2	O
+ne	O
+sikonda	O
+32	O
+nobutundu	O
+12	O
+nga	O
+naye	O
+amenye	O
+likooda	O
+ya	O
+Uganda	B-LOC
+ate	O
+munne	O
+Winnie	B-PER
+Nanyondo	I-PER
+nakwata	O
+kya	O
+munana	O
+ne	O
+236	O
+.	O
+54	O
+nga	O
+era	O
+mu	O
+season	O
+eno	O
+ya	O
+timing	O
+ye	O
+ekyasize	O
+.	O
+```
+
+Sentence: {{sentence}}
+Tags:
+```

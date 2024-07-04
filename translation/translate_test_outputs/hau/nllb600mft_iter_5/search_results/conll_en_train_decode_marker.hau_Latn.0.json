@@ -1,0 +1,1073 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [],
+    "template": "Yaduwar Cutar Ebola ta Ragu",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "The [ United States ] Signs the Most Effective Trade Agreement With Its Neighbors"
+    ],
+    "src_entities": [
+      "United States"
+    ],
+    "template": "Amurka Ta Cimma Yarjejeniyar Cinikayya Mafi Inganci Da Makwabtanta",
+    "tgt_lang": [
+      [
+        "[ Amurka ] Ta Cimma Yarjejeniyar Cinikayya Mafi Inganci Da Makwabtanta",
+        "Amurka [ Ta ] Cimma Yarjejeniyar Cinikayya Mafi Inganci Da Makwabtanta",
+        "Amurka Ta Cimma Yarjejeniyar Cinikayya [ Mafi Inganci ] Da Makwabtanta",
+        "Amurka Ta Cimma Yarjejeniyar Cinikayya Mafi [ Inganci ] Da Makwabtanta",
+        "Amurka Ta Cimma Yarjejeniyar Cinikayya Mafi Inganci [ ] Da Makwabtanta"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Amurka",
+        "Ta",
+        "Mafi Inganci",
+        "Inganci",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -21.69049644470215,
+        -30.690261840820312,
+        -30.761987686157227,
+        -32.02309799194336,
+        -33.92805099487305
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "It - in - it at the [ White House ] between Trump and the top Democrats",
+      "It - in - it at the White House between [ Trump ] and the top Democrats"
+    ],
+    "src_entities": [
+      "White House",
+      "Trump"
+    ],
+    "template": "An Yi Sa - In - Sa A Fadar White House Tsakanin Trump Da Manyan Democrat",
+    "tgt_lang": [
+      [
+        "An Yi Sa - In - Sa A [ Fadar White House ] Tsakanin Trump Da Manyan Democrat",
+        "An Yi Sa - In - Sa A Fadar [ White House ] Tsakanin Trump Da Manyan Democrat",
+        "An Yi Sa - In - Sa [ A Fadar White House ] Tsakanin Trump Da Manyan Democrat",
+        "[ An Yi Sa - In - Sa A Fadar White House ] Tsakanin Trump Da Manyan Democrat",
+        "[ An Yi Sa - In - Sa A Fadar White House Tsakanin Trump Da Manyan Democrat ]"
+      ],
+      [
+        "An Yi Sa - In - Sa A Fadar White House Tsakanin [ Trump ] Da Manyan Democrat",
+        "An Yi Sa - In - Sa A Fadar White House Tsakanin [ Trump Da Manyan Democrat ]",
+        "An Yi Sa - In - Sa A Fadar White House Tsakanin [ Trump Da ] Manyan Democrat",
+        "An Yi Sa - In - Sa A Fadar White House [ Tsakanin Trump Da Manyan Democrat ]",
+        "An Yi Sa - In - Sa A Fadar White House Tsakanin [ Trump Da Manyan ] Democrat"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Fadar White House",
+        "White House",
+        "A Fadar White House",
+        "An Yi Sa - In - Sa A Fadar White House",
+        "An Yi Sa - In - Sa A Fadar White House Tsakanin Trump Da Manyan Democrat"
+      ],
+      [
+        "Trump",
+        "Trump Da Manyan Democrat",
+        "Trump Da",
+        "Tsakanin Trump Da Manyan Democrat",
+        "Trump Da Manyan"
+      ]
+    ],
+    "score": [
+      [
+        -35.41062545776367,
+        -41.24541473388672,
+        -41.67748260498047,
+        -44.813236236572266,
+        -44.8934440612793
+      ],
+      [
+        -34.851356506347656,
+        -37.963016510009766,
+        -38.84489440917969,
+        -41.91269302368164,
+        -45.71209716796875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "After the [ U.S. ] Attorney and Trade Representative only said they withdrew their initial consent, they would not include the question of whether a person is a citizen or a non-citizen in the questionnaire."
+    ],
+    "src_entities": [
+      "U.S."
+    ],
+    "template": "Bayan da ma’aikatan shari’ar da na cinikayya na Amurka kawai suka ce sun janye abinda tun farko suka amince , ba zasu saka tambayar ko mutum dan kasa ba ne ko ba dan kasa ba a cikin takardun tambayoyin .",
+    "tgt_lang": [
+      [
+        "Bayan da maaikatan shariar da na cinikayya na [ Amurka ] kawai suka ce sun janye abinda tun farko suka amince, ba zasu saka tambayar ko mutum dan kasa ba ne ko ba dan kasa ba a cikin takardun tambayoyin.",
+        "Bayan da maaikatan shariar da na cinikayya [ na Amurka ] kawai suka ce sun janye abinda tun farko suka amince, ba zasu saka tambayar ko mutum dan kasa ba ne ko ba dan kasa ba a cikin takardun tambayoyin.",
+        "Bayan da [ maaikatan shariar da na cinikayya na Amurka ] kawai suka ce sun janye abinda tun farko suka amince, ba zasu saka tambayar ko mutum dan kasa ba ne ko ba dan kasa ba a cikin takardun tambayoyin.",
+        "Bayan da maaikatan shariar [ ] da na cinikayya na Amurka kawai suka ce sun janye abinda tun farko suka amince, ba zasu saka tambayar ko mutum dan kasa ba ne ko ba dan kasa ba a cikin takardun tambayoyin.",
+        "Bayan da maaikatan shariar da na cinikayya [ ] na Amurka kawai suka ce sun janye abinda tun farko suka amince, ba zasu saka tambayar ko mutum dan kasa ba ne ko ba dan kasa ba a cikin takardun tambayoyin."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Amurka",
+        "na Amurka",
+        "ma<unk>aikatan shari<unk>ar da na cinikayya na Amurka",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -106.12336730957031,
+        -106.70740509033203,
+        -112.21749877929688,
+        -113.5912857055664,
+        -114.96653747558594
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 4,
+    "src_lang": [],
+    "template": "Matakin kokari ne na dakatar da ‘yan Lebanon da Falasdinawa masu zanga - zanga wadanda su ka yi ta jifa kan ofishin Jakadancin .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 5,
+    "src_lang": [],
+    "template": "Sai dai hukumomi ba su ba da tabbacin wane irin “ abu \"\"\"\" aka yi amfani da shi wajen aukuwar wannan lamari ba .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 6,
+    "src_lang": [],
+    "template": ", masana’antu da kuma tashoshin samar da makamashi .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "Those considering seeking help in [ Florida ] may be surprised."
+    ],
+    "src_entities": [
+      "Florida"
+    ],
+    "template": "Masu tunanin samun taimako a Florida za su sha mamaki .",
+    "tgt_lang": [
+      [
+        "Masu tunanin samun taimako a [ Florida ] za su sha mamaki.",
+        "Masu tunanin samun taimako a [ ] Florida za su sha mamaki.",
+        "[ Masu tunanin samun taimako a Florida ] za su sha mamaki.",
+        "Masu tunanin samun taimako a Florida za su sha mamaki [ ].",
+        "[ ] Masu tunanin samun taimako a Florida za su sha mamaki."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Florida",
+        "",
+        "Masu tunanin samun taimako a Florida",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -28.70892906188965,
+        -37.41840362548828,
+        -37.4464111328125,
+        -40.49878692626953,
+        -41.506561279296875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 8,
+    "src_lang": [
+      "A statement released on Tuesday said [ Treasury ] Secretary Steven Mnuchin and Trade Minister Robert Lighizer will meet with Deputy Prime Minister Liu He in Beijing on April 30.",
+      "A statement released on Tuesday said Treasury Secretary [ Steven Mnuchin ] and Trade Minister Robert Lighizer will meet with Deputy Prime Minister Liu He in Beijing on April 30.",
+      "A statement released on Tuesday said Treasury Secretary Steven Mnuchin and Trade Minister [ Robert Lighizer ] will meet with Deputy Prime Minister Liu He in Beijing on April 30.",
+      "A statement released on Tuesday said Treasury Secretary Steven Mnuchin and Trade Minister Robert Lighizer will meet with Deputy Prime Minister [ Liu He ] in Beijing on April 30.",
+      "A statement released on Tuesday said Treasury Secretary Steven Mnuchin and Trade Minister Robert Lighizer will meet with Deputy Prime Minister Liu He in [ Beijing ] on April 30."
+    ],
+    "src_entities": [
+      "Treasury",
+      "Steven Mnuchin",
+      "Robert Lighizer",
+      "Liu He",
+      "Beijing"
+    ],
+    "template": "Sanarwar da aka fitar jiya Talata , ta ce sakataren ma’aikatar kudi Steven Mnuchin da jami’in cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu .",
+    "tgt_lang": [
+      [
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren [ maaikatar kudi ] Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi [ Steven Mnuchin ] da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi [ ] Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar [ kudi ] Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren [ maaikatar kudi Steven Mnuchin ] da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu."
+      ],
+      [
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi [ Steven Mnuchin ] da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi [ ] Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi [ Steven Mnuchin da ] jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu [ ].",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan [ nan na Afrilu ]."
+      ],
+      [
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya [ Robert Lighizer ] za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya [ ] Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu [ ].",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya [ Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu ].",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya [ Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu. ]"
+      ],
+      [
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya [ Liu He ] a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya [ Liu He a birnin Beijing ] ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin [ Firimiya Liu He ] a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya [ Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu ].",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu [ ]."
+      ],
+      [
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin [ Beijing ] ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a [ birnin Beijing ] ranar 30 ga watan nan na Afrilu.",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan [ na Afrilu ].",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu [ ].",
+        "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a [ birnin Beijing ranar 30 ga watan nan na Afrilu ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "ma<unk>aikatar kudi",
+        "Steven Mnuchin",
+        "",
+        "kudi",
+        "ma<unk>aikatar kudi Steven Mnuchin"
+      ],
+      [
+        "Steven Mnuchin",
+        "",
+        "Steven Mnuchin da",
+        "",
+        "nan na Afrilu"
+      ],
+      [
+        "Robert Lighizer",
+        "",
+        "",
+        "Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu",
+        "Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu."
+      ],
+      [
+        "Liu He",
+        "Liu He a birnin Beijing",
+        "Firimiya Liu He",
+        "Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu",
+        ""
+      ],
+      [
+        "Beijing",
+        "birnin Beijing",
+        "na Afrilu",
+        "",
+        "birnin Beijing ranar 30 ga watan nan na Afrilu"
+      ]
+    ],
+    "score": [
+      [
+        -88.82084655761719,
+        -90.09602355957031,
+        -92.4348373413086,
+        -92.91844177246094,
+        -94.2524185180664
+      ],
+      [
+        -81.0736312866211,
+        -92.76763153076172,
+        -95.18438720703125,
+        -96.23615264892578,
+        -98.6873550415039
+      ],
+      [
+        -81.33866882324219,
+        -92.21366119384766,
+        -97.12163543701172,
+        -97.52898406982422,
+        -99.22777557373047
+      ],
+      [
+        -80.63215637207031,
+        -89.07601928710938,
+        -92.26846313476562,
+        -96.03034973144531,
+        -96.66261291503906
+      ],
+      [
+        -85.95426177978516,
+        -86.44835662841797,
+        -91.99191284179688,
+        -93.23184967041016,
+        -96.26585388183594
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "[ Trump ] has denied most of Comey's accusations, including one that he fired Comey for refusing to stop his investigation into former national security adviser Michael Flynn.",
+      "Trump has denied most of [ Comey's ] accusations, including one that he fired Comey for refusing to stop his investigation into former national security adviser Michael Flynn.",
+      "Trump has denied most of Comey's accusations, including one that he fired [ Comey ] for refusing to stop his investigation into former national security adviser Michael Flynn.",
+      "Trump has denied most of Comey's accusations, including one that he fired Comey for refusing to stop his investigation into former national security adviser [ Michael Flynn. ]"
+    ],
+    "src_entities": [
+      "Trump",
+      "Comey's",
+      "Comey",
+      "Michael Flynn."
+    ],
+    "template": "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey , ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro , Michael Flynn .",
+    "tgt_lang": [
+      [
+        "[ Trump ] dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn.",
+        "Trump [ ] dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn.",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro [, Michael Flynn ].",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn [ ].",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan [ harkokin tsaro, Michael Flynn ]."
+      ],
+      [
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen [ na Comey ], ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn.",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na [ Comey ], ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn.",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen [ na Comey, ] ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn.",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na [ Comey, ] ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn.",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen [ ] na Comey, ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn."
+      ],
+      [
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori [ Comey ] ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn.",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori [ Comey ne ] don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn.",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya [ kori Comey ] ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn.",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori [ ] Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn.",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori Comey [ ne ] don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn."
+      ],
+      [
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, [ Michael Flynn ].",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro [, Michael Flynn ].",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, [ Michael Flynn. ]",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro [, Michael Flynn. ]",
+        "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Trump",
+        "",
+        ", Michael Flynn",
+        "",
+        "harkokin tsaro, Michael Flynn"
+      ],
+      [
+        "na Comey",
+        "Comey",
+        "na Comey,",
+        "Comey,",
+        ""
+      ],
+      [
+        "Comey",
+        "Comey ne",
+        "kori Comey",
+        "",
+        "ne"
+      ],
+      [
+        "Michael Flynn",
+        ", Michael Flynn",
+        "Michael Flynn.",
+        ", Michael Flynn.",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -96.96627044677734,
+        -109.61833190917969,
+        -114.25263977050781,
+        -115.28208923339844,
+        -115.8204116821289
+      ],
+      [
+        -100.43090057373047,
+        -100.48133087158203,
+        -102.6750717163086,
+        -103.728759765625,
+        -106.33428955078125
+      ],
+      [
+        -100.3437728881836,
+        -108.39286041259766,
+        -110.35484313964844,
+        -111.8853759765625,
+        -115.34831237792969
+      ],
+      [
+        -98.06147003173828,
+        -100.20291137695312,
+        -101.84271240234375,
+        -102.70687866210938,
+        -103.11456298828125
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "[ Russia ] has repeatedly denied this accusation."
+    ],
+    "src_entities": [
+      "Russia"
+    ],
+    "template": "Rasha ta sha karyata wannan zargi .",
+    "tgt_lang": [
+      [
+        "[ Rasha ] ta sha karyata wannan zargi.",
+        "[ Rasha ta ] sha karyata wannan zargi.",
+        "Rasha [ ta ] sha karyata wannan zargi.",
+        "[ ] Rasha ta sha karyata wannan zargi.",
+        "Rasha [ ] ta sha karyata wannan zargi."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Rasha",
+        "Rasha ta",
+        "ta",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -19.300500869750977,
+        -25.954450607299805,
+        -26.629030227661133,
+        -28.05913734436035,
+        -29.965776443481445
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "In [ Comey's ] statement, he wrote that the president was concerned about allegations that he colluded with Russia to help win the presidential election and the issue of a video of Trump and a number of independent Russian women.",
+      "In Comey's statement, he wrote that the president was concerned about allegations that he colluded with [ Russia ] to help win the presidential election and the issue of a video of Trump and a number of independent Russian women.",
+      "In Comey's statement, he wrote that the president was concerned about allegations that he colluded with Russia to help win the presidential election and the issue of a video of [ Trump ] and a number of independent Russian women."
+    ],
+    "src_entities": [
+      "Comey's",
+      "Russia",
+      "Trump"
+    ],
+    "template": "A cikin bayanan Comey ya rubuta cewa , shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha .",
+    "tgt_lang": [
+      [
+        "A cikin bayanan [ Comey ] ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha.",
+        "A cikin [ bayanan Comey ] ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha.",
+        "[ A cikin bayanan Comey ] ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha.",
+        "A cikin bayanan Comey [ ] ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha.",
+        "A cikin bayanan [ Comey ya ] rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha."
+      ],
+      [
+        "A cikin bayanan Comey ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da [ Rasha ] domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha.",
+        "A cikin bayanan Comey ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha [ ] domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha.",
+        "A cikin bayanan Comey ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da [ ] Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha.",
+        "A cikin bayanan Comey ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha [ domin taimakawa wajen cin zaben shugaban kasa ] da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha.",
+        "A cikin bayanan Comey ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin [ taimakawa wajen cin zaben shugaban kasa ] da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha."
+      ],
+      [
+        "A cikin bayanan Comey ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na [ Trump ] da wasu mata masu zaman kansu 'yan kasar Rasha.",
+        "A cikin bayanan Comey ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na [ Trump da ] wasu mata masu zaman kansu 'yan kasar Rasha.",
+        "A cikin bayanan Comey ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata [ masu zaman kansu ] 'yan kasar Rasha.",
+        "A cikin bayanan Comey ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata [ masu zaman kansu 'yan kasar Rasha ].",
+        "A cikin bayanan Comey ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na [ Trump da wasu mata masu zaman kansu 'yan kasar Rasha ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Comey",
+        "bayanan Comey",
+        "A cikin bayanan Comey",
+        "",
+        "Comey ya"
+      ],
+      [
+        "Rasha",
+        "",
+        "",
+        "domin taimakawa wajen cin zaben shugaban kasa",
+        "taimakawa wajen cin zaben shugaban kasa"
+      ],
+      [
+        "Trump",
+        "Trump da",
+        "masu zaman kansu",
+        "masu zaman kansu 'yan kasar Rasha",
+        "Trump da wasu mata masu zaman kansu 'yan kasar Rasha"
+      ]
+    ],
+    "score": [
+      [
+        -54.83676528930664,
+        -61.06730270385742,
+        -61.56346893310547,
+        -64.24675750732422,
+        -64.78611755371094
+      ],
+      [
+        -54.24955749511719,
+        -66.03642272949219,
+        -67.36845397949219,
+        -69.0638656616211,
+        -70.7514419555664
+      ],
+      [
+        -54.62014389038086,
+        -67.40458679199219,
+        -69.26860809326172,
+        -71.31183624267578,
+        -72.9122543334961
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [],
+    "template": "Masu hasashen yanayi sun ce mai yiwuwa , wannan yanayi da ya fara daga daren Talata zuwa wayewar garin Laraba , ya zama tarihi a kasar .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 13,
+    "src_lang": [],
+    "template": "Ministan ya kuma bayyana cewa , an kiyasta kashe Naira miliyan 47 wajen sayen gidajen sauro da aka jika da magani da ake kira LLINs , kuma tuni aka fara sayen gidajen sauron da nufin shawo kan cutar zazzabin cizon sauro .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 14,
+    "src_lang": [],
+    "template": "Warin Kaji Na Iya Korar Jinsin Sauro Mai Sanya Cutar Maleriya",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "For example, when plumbing and rental facilities were installed at a school in [ Nigeria, ] the number of children attending increased from 320 to 538."
+    ],
+    "src_entities": [
+      "Nigeria,"
+    ],
+    "template": "Alal ga misali , a lokacin da aka ja famfo aka kuma gina wuraren ba - haya a wata makaranta a Najeriya , yawan yaran dake zuwa makarantar ya karu daga 320 zuwa 538 .",
+    "tgt_lang": [
+      [
+        "Alal ga misali, a lokacin da aka ja famfo aka kuma gina wuraren ba - haya a wata makaranta a [ Najeriya ], yawan yaran dake zuwa makarantar ya karu daga 320 zuwa 538.",
+        "Alal ga misali, a lokacin da aka ja famfo aka kuma gina wuraren ba - haya a wata makaranta a [ Najeriya, ] yawan yaran dake zuwa makarantar ya karu daga 320 zuwa 538.",
+        "Alal ga misali, a lokacin da aka ja famfo aka kuma gina wuraren ba - haya a wata makaranta a Najeriya [, ] yawan yaran dake zuwa makarantar ya karu daga 320 zuwa 538.",
+        "Alal ga misali, a lokacin da aka ja famfo aka kuma gina wuraren ba - haya a wata makaranta a Najeriya [ ], yawan yaran dake zuwa makarantar ya karu daga 320 zuwa 538.",
+        "Alal ga misali, a lokacin da aka ja famfo aka kuma gina wuraren ba - haya a wata makaranta a [ ] Najeriya, yawan yaran dake zuwa makarantar ya karu daga 320 zuwa 538."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Najeriya",
+        "Najeriya,",
+        ",",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -93.49137878417969,
+        -94.48979949951172,
+        -98.50939178466797,
+        -100.70317840576172,
+        -101.44400024414062
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 16,
+    "src_lang": [],
+    "template": "matsakaita .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 17,
+    "src_lang": [],
+    "template": "An Fara Shirin Taron Koli Tsakanin Kasashen Amurka Da Rasha",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "A $82 million malaria campaign launched in [ Nigeria ]"
+    ],
+    "src_entities": [
+      "Nigeria"
+    ],
+    "template": "An kaddamar da wani shirin yaki da zazzabin cizon sauro da zai ci dala miliyan 82 a Najeriya",
+    "tgt_lang": [
+      [
+        "An kaddamar da wani shirin yaki da zazzabin cizon sauro da zai ci dala miliyan 82 a [ Najeriya ]",
+        "An kaddamar da wani shirin yaki da zazzabin cizon sauro da zai ci dala miliyan 82 a Najeriya [ ]",
+        "An kaddamar da wani shirin yaki da zazzabin cizon sauro da zai ci dala miliyan 82 a [ ] Najeriya",
+        "An kaddamar da wani shirin yaki da [ zazzabin cizon sauro da zai ci dala miliyan 82 a Najeriya ]",
+        "An kaddamar da wani shirin yaki da [ zazzabin cizon sauro da zai ci dala miliyan 82 ] a Najeriya"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Najeriya",
+        "",
+        "",
+        "zazzabin cizon sauro da zai ci dala miliyan 82 a Najeriya",
+        "zazzabin cizon sauro da zai ci dala miliyan 82"
+      ]
+    ],
+    "score": [
+      [
+        -24.05170440673828,
+        -32.571983337402344,
+        -33.40618133544922,
+        -35.02288818359375,
+        -36.27670669555664
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "Lebanese security officials used hot water and old ladies' beds outside the [ US ] Embassy in Beirut.",
+      "Lebanese security officials used hot water and old ladies' beds outside the US Embassy in [ Beirut. ]"
+    ],
+    "src_entities": [
+      "US",
+      "Beirut."
+    ],
+    "template": "Jami’an tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin Amurka da ke birnin Beirut .",
+    "tgt_lang": [
+      [
+        "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin [ Amurka ] da ke birnin Beirut.",
+        "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin [ Amurka da ke birnin Beirut ].",
+        "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin [ ] Amurka da ke birnin Beirut.",
+        "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen [ ofishin Jakadancin Amurka ] da ke birnin Beirut.",
+        "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin [ Amurka da ke birnin ] Beirut."
+      ],
+      [
+        "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin Amurka da ke birnin [ Beirut ].",
+        "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin Amurka da ke [ birnin Beirut ].",
+        "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin Amurka da ke [ birnin Beirut. ]",
+        "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin Amurka da ke birnin [ Beirut. ]",
+        "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin Amurka da ke birnin Beirut [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Amurka",
+        "Amurka da ke birnin Beirut",
+        "",
+        "ofishin Jakadancin Amurka",
+        "Amurka da ke birnin"
+      ],
+      [
+        "Beirut",
+        "birnin Beirut",
+        "birnin Beirut.",
+        "Beirut.",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -44.82441711425781,
+        -53.653656005859375,
+        -54.934913635253906,
+        -56.342308044433594,
+        -56.66248321533203
+      ],
+      [
+        -42.60877990722656,
+        -43.81983184814453,
+        -46.001487731933594,
+        -46.10517501831055,
+        -49.231727600097656
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "According to him, the impact of the malaria epidemic is huge, with [ Nigeria ] losing about N132 billion on prevention, research and treatment of the disease."
+    ],
+    "src_entities": [
+      "Nigeria"
+    ],
+    "template": "Bisa ga cewarshi , koma bayan da cutar malariya take kawowa yana da yawan gaske , kasancewa Najeriya tana asarar kimanin Naira biliyan dari da talatin da biyu wajen rigakafi da bincike da kuma jinyar cutar .",
+    "tgt_lang": [
+      [
+        "Bisa ga cewarshi, koma bayan da cutar malariya take kawowa yana da yawan gaske, kasancewa [ Najeriya ] tana asarar kimanin Naira biliyan dari da talatin da biyu wajen rigakafi da bincike da kuma jinyar cutar.",
+        "Bisa ga cewarshi, koma bayan da cutar malariya take kawowa yana da yawan gaske, kasancewa [ ] Najeriya tana asarar kimanin Naira biliyan dari da talatin da biyu wajen rigakafi da bincike da kuma jinyar cutar.",
+        "Bisa ga cewarshi, koma bayan da cutar malariya take kawowa yana da yawan gaske, kasancewa [ Najeriya tana ] asarar kimanin Naira biliyan dari da talatin da biyu wajen rigakafi da bincike da kuma jinyar cutar.",
+        "Bisa ga cewarshi, koma bayan da cutar malariya take kawowa yana da yawan gaske, kasancewa [ Najeriya tana asarar ] kimanin Naira biliyan dari da talatin da biyu wajen rigakafi da bincike da kuma jinyar cutar.",
+        "Bisa ga cewarshi, koma bayan da cutar malariya take kawowa yana da yawan gaske, kasancewa [ Najeriya tana asarar kimanin Naira biliyan dari da talatin da biyu ] wajen rigakafi da bincike da kuma jinyar cutar."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Najeriya",
+        "",
+        "Najeriya tana",
+        "Najeriya tana asarar",
+        "Najeriya tana asarar kimanin Naira biliyan dari da talatin da biyu"
+      ]
+    ],
+    "score": [
+      [
+        -100.24767303466797,
+        -109.81999969482422,
+        -110.30264282226562,
+        -115.5268783569336,
+        -116.67439270019531
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "However, the [ U.S. Supreme Court ] has already ruled that the government's arguments for including the citizenship question are not satisfactory, given the real reasons why it should be questioned in the decennial U.S. Census.",
+      "However, the U.S. Supreme Court has already ruled that the government's arguments for including the citizenship question are not satisfactory, given the real reasons why it should be questioned in the decennial [ U.S. ] Census."
+    ],
+    "src_entities": [
+      "U.S. Supreme Court",
+      "U.S."
+    ],
+    "template": "Sai dai kotun kolin Amurka tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba , na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jama’a a Amurka da ake yi duk bayan shekaru goma .",
+    "tgt_lang": [
+      [
+        "Sai dai kotun kolin [ Amurka ] tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba, na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jamaa a Amurka da ake yi duk bayan shekaru goma.",
+        "Sai dai [ kotun kolin Amurka ] tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba, na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jamaa a Amurka da ake yi duk bayan shekaru goma.",
+        "Sai dai kotun kolin Amurka tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba, na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar [ jamaa ] a Amurka da ake yi duk bayan shekaru goma.",
+        "Sai dai kotun kolin Amurka tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar [ ba ], na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jamaa a Amurka da ake yi duk bayan shekaru goma.",
+        "Sai dai kotun kolin Amurka tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba, na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar [ jamaa a Amurka ] da ake yi duk bayan shekaru goma."
+      ],
+      [
+        "Sai dai kotun kolin Amurka tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba, na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jamaa [ a Amurka ] da ake yi duk bayan shekaru goma.",
+        "Sai dai kotun kolin Amurka tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba, na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jamaa a [ Amurka ] da ake yi duk bayan shekaru goma.",
+        "Sai dai kotun kolin Amurka tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba, na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jamaa [ a ] Amurka da ake yi duk bayan shekaru goma.",
+        "Sai dai kotun kolin Amurka tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba, na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar [ jamaa a Amurka ] da ake yi duk bayan shekaru goma.",
+        "Sai dai kotun kolin Amurka tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba, na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jamaa a [ Amurka da ake yi ] duk bayan shekaru goma."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Amurka",
+        "kotun kolin Amurka",
+        "jama<unk>a",
+        "ba",
+        "jama<unk>a a Amurka"
+      ],
+      [
+        "a Amurka",
+        "Amurka",
+        "a",
+        "jama<unk>a a Amurka",
+        "Amurka da ake yi"
+      ]
+    ],
+    "score": [
+      [
+        -126.72247314453125,
+        -127.01219940185547,
+        -132.82308959960938,
+        -134.10818481445312,
+        -134.957763671875
+      ],
+      [
+        -122.71269226074219,
+        -123.20708465576172,
+        -126.69717407226562,
+        -128.96949768066406,
+        -130.14971923828125
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "In a speech yesterday at the conference, [ US ] Secretary of State Hillary Clinton said the United States has limited its ability to recognize a nation that is free of the disease.",
+      "In a speech yesterday at the conference, US Secretary of State [ Hillary Clinton ] said the United States has limited its ability to recognize a nation that is free of the disease.",
+      "In a speech yesterday at the conference, US Secretary of State Hillary Clinton said the [ United States ] has limited its ability to recognize a nation that is free of the disease."
+    ],
+    "src_entities": [
+      "US",
+      "Hillary Clinton",
+      "United States"
+    ],
+    "template": "A jawabin da tayi jiya awurin taron , Sakatariyar Ma'aikatar harkokin wajern Amurka Hillary Clinton tace Amurka ta daura damarar ganin cewa an sani al’ummar da bata da wannan cuta .",
+    "tgt_lang": [
+      [
+        "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern [ Amurka ] Hillary Clinton tace Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta.",
+        "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern Amurka [ Hillary Clinton ] tace Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta.",
+        "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern [ Amurka Hillary Clinton ] tace Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta.",
+        "A jawabin da tayi jiya awurin taron, Sakatariyar [ Ma'aikatar harkokin wajern Amurka ] Hillary Clinton tace Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta.",
+        "A jawabin da tayi jiya awurin taron, [ ] Sakatariyar Ma'aikatar harkokin wajern Amurka Hillary Clinton tace Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta."
+      ],
+      [
+        "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern Amurka [ Hillary Clinton ] tace Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta.",
+        "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern Amurka Hillary Clinton [ ] tace Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta.",
+        "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern Amurka Hillary Clinton tace [ Amurka ] ta daura damarar ganin cewa an sani alummar da bata da wannan cuta.",
+        "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern Amurka [ ] Hillary Clinton tace Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta.",
+        "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin waj [ern Amurka Hillary Clinton ] tace Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta."
+      ],
+      [
+        "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern Amurka Hillary Clinton tace [ Amurka ] ta daura damarar ganin cewa an sani alummar da bata da wannan cuta.",
+        "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern Amurka Hillary Clinton tace [ Amurka ta ] daura damarar ganin cewa an sani alummar da bata da wannan cuta.",
+        "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern Amurka Hillary Clinton tace [ ] Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta.",
+        "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern Amurka Hillary Clinton tace [ Amurka ta daura ] damarar ganin cewa an sani alummar da bata da wannan cuta.",
+        "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern Amurka Hillary Clinton tace Amurka [ ] ta daura damarar ganin cewa an sani alummar da bata da wannan cuta."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Amurka",
+        "Hillary Clinton",
+        "Amurka Hillary Clinton",
+        "Ma'aikatar harkokin wajern Amurka",
+        ""
+      ],
+      [
+        "Hillary Clinton",
+        "",
+        "Amurka",
+        "",
+        "ern Amurka Hillary Clinton"
+      ],
+      [
+        "Amurka",
+        "Amurka ta",
+        "",
+        "Amurka ta daura",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -133.1610565185547,
+        -137.34315490722656,
+        -139.12884521484375,
+        -140.05160522460938,
+        -140.4867401123047
+      ],
+      [
+        -129.25811767578125,
+        -140.29913330078125,
+        -142.10330200195312,
+        -143.29359436035156,
+        -144.0731964111328
+      ],
+      [
+        -129.85513305664062,
+        -136.7581329345703,
+        -141.9827880859375,
+        -142.09120178222656,
+        -142.43667602539062
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "Speaking at a press conference at the end of last week's programme, Mr [ Bright Ekweremadu, ] managing director of the Society for Family Health, explained that running the programme became necessary when a national health survey conducted in 2008 showed that 17% of pregnant women were delivering in hospital in Gombe state.",
+      "Speaking at a press conference at the end of last week's programme, Mr Bright Ekweremadu, managing director of the [ Society for Family Health, ] explained that running the programme became necessary when a national health survey conducted in 2008 showed that 17% of pregnant women were delivering in hospital in Gombe state.",
+      "Speaking at a press conference at the end of last week's programme, Mr Bright Ekweremadu, managing director of the Society for Family Health, explained that running the programme became necessary when a national health survey conducted in 2008 showed that 17% of pregnant women were delivering in hospital in [ Gombe ] state."
+    ],
+    "src_entities": [
+      "Bright Ekweremadu,",
+      "Society for Family Health,",
+      "Gombe"
+    ],
+    "template": "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya , Mr Bright Ekweremadu , manajin darektan cibiyar Society for family Health , ya bayyana cewa , gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe .",
+    "tgt_lang": [
+      [
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr [ Bright Ekweremadu, ] manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe.",
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, [ Mr Bright Ekweremadu, ] manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe.",
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr [ Bright Ekweremadu ], manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe.",
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr [ Bright Ekweremadu, manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a ] asibiti a jihar Gombe.",
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr [ Bright Ekweremadu, manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe. ]"
+      ],
+      [
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr Bright Ekweremadu, manajin darektan cibiyar [ Society for family Health, ] ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe.",
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr Bright Ekweremadu, manajin darektan cibiyar [ Society for family Health ], ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe.",
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr Bright Ekweremadu, manajin darektan cibiyar [ Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a ] asibiti a jihar Gombe.",
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr Bright Ekweremadu, manajin darektan cibiyar [ Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe ].",
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr Bright Ekweremadu, manajin darektan cibiyar [ Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe. ]"
+      ],
+      [
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr Bright Ekweremadu, manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar [ Gombe ].",
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr Bright Ekweremadu, manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a [ jihar Gombe ].",
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr Bright Ekweremadu, manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a [ jihar ] Gombe.",
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr Bright Ekweremadu, manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar [ Gombe. ]",
+        "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr Bright Ekweremadu, manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a [ jihar Gombe. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Bright Ekweremadu,",
+        "Mr Bright Ekweremadu,",
+        "Bright Ekweremadu",
+        "Bright Ekweremadu, manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a",
+        "Bright Ekweremadu, manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe."
+      ],
+      [
+        "Society for family Health,",
+        "Society for family Health",
+        "Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a",
+        "Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe",
+        "Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe."
+      ],
+      [
+        "Gombe",
+        "jihar Gombe",
+        "jihar",
+        "Gombe.",
+        "jihar Gombe."
+      ]
+    ],
+    "score": [
+      [
+        -110.19447326660156,
+        -116.79988861083984,
+        -120.22871398925781,
+        -128.8957977294922,
+        -130.078369140625
+      ],
+      [
+        -107.15483856201172,
+        -109.06767272949219,
+        -125.90935516357422,
+        -127.0385513305664,
+        -127.44900512695312
+      ],
+      [
+        -111.34133911132812,
+        -113.7955322265625,
+        -117.2404556274414,
+        -118.41667938232422,
+        -118.4869613647461
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "In January of this year, 2018, the two governments launched a number of major projects to improve the lives of [ Niger's ] people, especially in rural areas, through a program called MCCompact that allocated US$437 million, in addition to the US$18 million that Niger received to fight malaria.",
+      "In January of this year, 2018, the two governments launched a number of major projects to improve the lives of Niger's people, especially in rural areas, through a program called MCCompact that allocated US$437 million, in addition to the US$18 million that [ Niger ] received to fight malaria."
+    ],
+    "src_entities": [
+      "Niger's",
+      "Niger"
+    ],
+    "template": "A watan Janairu ta wannan shekarar , 2018 , gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jama’ar Nijer musamman a yankunan karkaka , ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka , banda miliyan 18 da Amurka ta talllafawa Nijer domin yaki da masassarar cizon sauro .",
+    "tgt_lang": [
+      [
+        "A watan Janairu ta wannan shekarar, 2018, gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jamaar [ Nijer ] musamman a yankunan karkaka, ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka, banda miliyan 18 da Amurka ta talllafawa Nijer domin yaki da masassarar cizon sauro.",
+        "A watan Janairu ta wannan shekarar, 2018, gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar [ jamaar Nijer ] musamman a yankunan karkaka, ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka, banda miliyan 18 da Amurka ta talllafawa Nijer domin yaki da masassarar cizon sauro.",
+        "A watan Janairu ta wannan shekarar, 2018, gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar [ jamaar ] Nijer musamman a yankunan karkaka, ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka, banda miliyan 18 da Amurka ta talllafawa Nijer domin yaki da masassarar cizon sauro.",
+        "A watan Janairu ta wannan shekarar, 2018, gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar [ ] jamaar Nijer musamman a yankunan karkaka, ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka, banda miliyan 18 da Amurka ta talllafawa Nijer domin yaki da masassarar cizon sauro.",
+        "A watan Janairu ta wannan shekarar, 2018, gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jama [ar Nijer ] musamman a yankunan karkaka, ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka, banda miliyan 18 da Amurka ta talllafawa Nijer domin yaki da masassarar cizon sauro."
+      ],
+      [
+        "A watan Janairu ta wannan shekarar, 2018, gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jamaar Nijer musamman a yankunan karkaka, ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka, banda miliyan 18 da Amurka ta talllafawa [ Nijer ] domin yaki da masassarar cizon sauro.",
+        "A watan Janairu ta wannan shekarar, 2018, gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jamaar Nijer musamman a yankunan karkaka, ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka, banda miliyan 18 da Amurka ta talllafa [wa Nijer ] domin yaki da masassarar cizon sauro.",
+        "A watan Janairu ta wannan shekarar, 2018, gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jamaar Nijer musamman a yankunan karkaka, ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka, banda miliyan 18 da Amurka ta tallla [fawa Nijer ] domin yaki da masassarar cizon sauro.",
+        "A watan Janairu ta wannan shekarar, 2018, gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jamaar Nijer musamman a yankunan karkaka, ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka, banda miliyan 18 da [ Amurka ta talllafawa Nijer ] domin yaki da masassarar cizon sauro.",
+        "A watan Janairu ta wannan shekarar, 2018, gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jamaar Nijer musamman a yankunan karkaka, ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka, banda miliyan 18 da Amurka ta talllafawa [ Nijer domin yaki da masassarar cizon sauro ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Nijer",
+        "jama<unk>ar Nijer",
+        "jama<unk>ar",
+        "",
+        "ar Nijer"
+      ],
+      [
+        "Nijer",
+        "wa Nijer",
+        "fawa Nijer",
+        "Amurka ta talllafawa Nijer",
+        "Nijer domin yaki da masassarar cizon sauro"
+      ]
+    ],
+    "score": [
+      [
+        -193.3842315673828,
+        -195.88253784179688,
+        -200.92677307128906,
+        -203.48748779296875,
+        -204.19578552246094
+      ],
+      [
+        -188.0977325439453,
+        -196.54241943359375,
+        -199.96238708496094,
+        -201.2826690673828,
+        -201.75119018554688
+      ]
+    ],
+    "flag": 1
+  }
+]

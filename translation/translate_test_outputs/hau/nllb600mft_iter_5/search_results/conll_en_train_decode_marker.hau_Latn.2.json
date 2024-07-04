@@ -1,0 +1,875 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "The documents, which the [ White House ] is likely to release to the public on Thursday, allegedly contain documents from the Justice Department, which reveal bias against President Trump.",
+      "The documents, which the White House is likely to release to the public on Thursday, allegedly contain documents from the [ Justice Department, ] which reveal bias against President Trump.",
+      "The documents, which the White House is likely to release to the public on Thursday, allegedly contain documents from the Justice Department, which reveal bias against President [ Trump. ]"
+    ],
+    "src_entities": [
+      "White House",
+      "Justice Department,",
+      "Trump."
+    ],
+    "template": "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jama’a , suna dauke da bayanan ma’aikatar shari’ar kasar , wadanda suka bayyana son kai da aka nunawa shugaba Trump .",
+    "tgt_lang": [
+      [
+        "An yi zargin cewa takardun wadanda [ Fadar ta White House ] za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan maaikatar shariar kasar, wadanda suka bayyana son kai da aka nunawa shugaba Trump.",
+        "An yi zargin cewa takardun wadanda Fadar ta [ White House ] za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan maaikatar shariar kasar, wadanda suka bayyana son kai da aka nunawa shugaba Trump.",
+        "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su [ a yau Alhamis ] a baina jamaa, suna dauke da bayanan maaikatar shariar kasar, wadanda suka bayyana son kai da aka nunawa shugaba Trump.",
+        "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su [ a yau Alhamis a baina jamaa, ] suna dauke da bayanan maaikatar shariar kasar, wadanda suka bayyana son kai da aka nunawa shugaba Trump.",
+        "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su [ a ] yau Alhamis a baina jamaa, suna dauke da bayanan maaikatar shariar kasar, wadanda suka bayyana son kai da aka nunawa shugaba Trump."
+      ],
+      [
+        "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan [ maaikatar shariar kasar, ] wadanda suka bayyana son kai da aka nunawa shugaba Trump.",
+        "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan maaikatar shariar kasar [, ] wadanda suka bayyana son kai da aka nunawa shugaba Trump.",
+        "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan [ maaikatar shariar kasar ], wadanda suka bayyana son kai da aka nunawa shugaba Trump.",
+        "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan maaikatar [ shariar kasar, ] wadanda suka bayyana son kai da aka nunawa shugaba Trump.",
+        "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan maaikatar shariar kasar [ ], wadanda suka bayyana son kai da aka nunawa shugaba Trump."
+      ],
+      [
+        "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan maaikatar shariar kasar, wadanda suka bayyana son kai da aka nunawa shugaba [ Trump ].",
+        "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan maaikatar shariar kasar, wadanda suka bayyana son kai da aka nunawa shugaba [ Trump. ]",
+        "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan maaikatar shariar kasar, wadanda suka bayyana son kai da aka nunawa shugaba Trump [ ].",
+        "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan maaikatar shariar kasar, wadanda suka bayyana son kai da aka nunawa shugaba Trump [. ]",
+        "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan maaikatar shariar kasar, wadanda suka bayyana son kai da aka nunawa [ shugaba Trump ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Fadar ta White House",
+        "White House",
+        "a yau Alhamis",
+        "a yau Alhamis a baina jama<unk>a,",
+        "a"
+      ],
+      [
+        "ma<unk>aikatar shari<unk>ar kasar,",
+        ",",
+        "ma<unk>aikatar shari<unk>ar kasar",
+        "shari<unk>ar kasar,",
+        ""
+      ],
+      [
+        "Trump",
+        "Trump.",
+        "",
+        ".",
+        "shugaba Trump"
+      ]
+    ],
+    "score": [
+      [
+        -119.880859375,
+        -120.0301742553711,
+        -132.45436096191406,
+        -133.44615173339844,
+        -134.19969177246094
+      ],
+      [
+        -123.18087005615234,
+        -125.85087585449219,
+        -126.88702392578125,
+        -129.25927734375,
+        -130.02499389648438
+      ],
+      [
+        -118.28775787353516,
+        -120.3902359008789,
+        -125.54885864257812,
+        -125.7953872680664,
+        -127.63926696777344
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 1,
+    "src_lang": [],
+    "template": "To amma daga cikin wadanda suka fara jinya nan da nan mata da miji daya ne kawai suka harbu da kwayar cutar .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "13 Russians, 3 Companies and Katsalandan Indicted in [ US ] Election"
+    ],
+    "src_entities": [
+      "US"
+    ],
+    "template": "An Tuhumi 'Yan Kasar Rasha 13 Da Kamfanoni 3 Da Katsalandan A Zaben Amurka",
+    "tgt_lang": [
+      [
+        "An Tuhumi 'Yan Kasar Rasha 13 Da Kamfanoni 3 Da Katsalandan A Zaben [ Amurka ]",
+        "An Tuhumi 'Yan Kasar Rasha 13 Da Kamfanoni 3 Da Katsalandan A Zaben Amurka [ ]",
+        "An Tuhumi 'Yan Kasar Rasha 13 Da Kamfanoni 3 Da Katsalandan A [ Zaben Amurka ]",
+        "An Tuhumi 'Yan Kasar Rasha 13 Da Kamfanoni 3 Da Katsalandan A Zaben [ ] Amurka",
+        "An Tuhumi 'Yan Kasar Rasha 13 Da Kamfanoni 3 Da Katsalandan A [ ] Zaben Amurka"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Amurka",
+        "",
+        "Zaben Amurka",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -21.655120849609375,
+        -30.608341217041016,
+        -32.44525146484375,
+        -33.190277099609375,
+        -34.71053695678711
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 3,
+    "src_lang": [],
+    "template": "A kan samu barkewar annobar cutar Maleriya idan yanayi ya sauya ya zamo mai kyau ga sauro a wuraren da mutane ba su da kariyar garkuwar jiki ga wannan cuta ta Maleriya .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "[ Org ] on the Internet, says that this water and pollution problem kills more people than all the people killed by guns in the world combined."
+    ],
+    "src_entities": [
+      "Org"
+    ],
+    "template": "Org \"\"\"\" a kan Internet , yace wannan matsala ta ruwa da rashin tsabtar muhalli tana kashe mutane fiye da dukkan mutanen da ake kashewa da bindigogi a yake - yake .",
+    "tgt_lang": [
+      [
+        "[ Org ] \"\"\"\" a kan Internet, yace wannan matsala ta ruwa da rashin tsabtar muhalli tana kashe mutane fiye da dukkan mutanen da ake kashewa da bindigogi a yake - yake.",
+        "[ Org \"\"\"\" ] a kan Internet, yace wannan matsala ta ruwa da rashin tsabtar muhalli tana kashe mutane fiye da dukkan mutanen da ake kashewa da bindigogi a yake - yake.",
+        "[ ] Org \"\"\"\" a kan Internet, yace wannan matsala ta ruwa da rashin tsabtar muhalli tana kashe mutane fiye da dukkan mutanen da ake kashewa da bindigogi a yake - yake.",
+        "[ Org \"\"\"\" a kan Internet, yace wannan matsala ta ruwa da rashin tsabtar muhalli tana kashe mutane fiye da dukkan mutanen da ake kashewa da bindigogi a yake - yake. ]",
+        "[ Org \"\"\"\" a kan Internet, yace wannan matsala ta ruwa da rashin tsabtar muhalli tana kashe mutane fiye da dukkan mutanen da ake kashewa da bindigogi a yake - yake ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Org",
+        "Org \"\"\"\"",
+        "",
+        "Org \"\"\"\" a kan Internet, yace wannan matsala ta ruwa da rashin tsabtar muhalli tana kashe mutane fiye da dukkan mutanen da ake kashewa da bindigogi a yake - yake.",
+        "Org \"\"\"\" a kan Internet, yace wannan matsala ta ruwa da rashin tsabtar muhalli tana kashe mutane fiye da dukkan mutanen da ake kashewa da bindigogi a yake - yake"
+      ]
+    ],
+    "score": [
+      [
+        -94.06234741210938,
+        -99.61654663085938,
+        -106.52628326416016,
+        -111.08785247802734,
+        -111.88631439208984
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "The [ American Civil Liberties Union ] (ACLU) has responded to Trump's posts, saying Trump's proposed policy violates the US Constitution's protection of the public.",
+      "The American Civil Liberties Union (ACLU) has responded to [ Trump's ] posts, saying Trump's proposed policy violates the US Constitution's protection of the public.",
+      "The American Civil Liberties Union (ACLU) has responded to Trump's posts, saying [ Trump's ] proposed policy violates the US Constitution's protection of the public."
+    ],
+    "src_entities": [
+      "American Civil Liberties Union",
+      "Trump's",
+      "Trump's"
+    ],
+    "template": "Kungiyar kare hakkokin jamm’a ta Amurka da ake kira American Civil Liberties Union da turanci , ta maida martani akan sakonnin na Trump , tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jama’a .",
+    "tgt_lang": [
+      [
+        "Kungiyar kare hakkokin jamma ta Amurka da ake kira [ American Civil Liberties Union ] da turanci, ta maida martani akan sakonnin na Trump, tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+        "[ Kungiyar kare hakkokin jamma ta Amurka ] da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin na Trump, tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+        "[ Kungiyar kare hakkokin jamma ] ta Amurka da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin na Trump, tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+        "[ Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union ] da turanci, ta maida martani akan sakonnin na Trump, tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+        "Kungiyar kare hakkokin jamma ta [ Amurka ] da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin na Trump, tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa."
+      ],
+      [
+        "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin na [ Trump ], tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+        "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin [ na Trump ], tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+        "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin na [ Trump, ] tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+        "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin [ ] na Trump, tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+        "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin [ na Trump, ] tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa."
+      ],
+      [
+        "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin na Trump, tana mai cewa tsarin da [ Trump ] ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+        "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin na Trump, tana mai cewa [ tsarin da Trump ] ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+        "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin na Trump, tana mai cewa [ tsarin ] da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+        "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin na Trump, tana mai cewa [ tsarin da Trump ke so ya bi ] ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+        "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin na Trump, tana mai cewa tsarin [ da Trump ] ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "American Civil Liberties Union",
+        "Kungiyar kare hakkokin jamm<unk>a ta Amurka",
+        "Kungiyar kare hakkokin jamm<unk>a",
+        "Kungiyar kare hakkokin jamm<unk>a ta Amurka da ake kira American Civil Liberties Union",
+        "Amurka"
+      ],
+      [
+        "Trump",
+        "na Trump",
+        "Trump,",
+        "",
+        "na Trump,"
+      ],
+      [
+        "Trump",
+        "tsarin da Trump",
+        "tsarin",
+        "tsarin da Trump ke so ya bi",
+        "da Trump"
+      ]
+    ],
+    "score": [
+      [
+        -137.76690673828125,
+        -139.36135864257812,
+        -140.57626342773438,
+        -142.0853729248047,
+        -142.94346618652344
+      ],
+      [
+        -132.44419860839844,
+        -135.24168395996094,
+        -138.33993530273438,
+        -139.46408081054688,
+        -140.4994354248047
+      ],
+      [
+        -132.92750549316406,
+        -134.78573608398438,
+        -138.8675079345703,
+        -138.90679931640625,
+        -139.45159912109375
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [],
+    "template": "Domin tabbatar da lafiyar dabbobin , an kuma samar da cibiyoyi a sassan kananan hukumomin jihar da makiyaya zasu kai dabbobin ayi masu rigakafin a cewar mataimakin gwamnan .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 7,
+    "src_lang": [],
+    "template": "• In kunne yaji gaggan jiki ya tsira .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 8,
+    "src_lang": [
+      "[ Nigerian Governors Forum ] asks for support of women's organizations in the fight against Polio"
+    ],
+    "src_entities": [
+      "Nigerian Governors Forum"
+    ],
+    "template": "Dandalin Gwamnonin Najeriya ya nemi goyon bayan kungiyoyin mata a yaki da cutar Polio",
+    "tgt_lang": [
+      [
+        "[ Dandalin Gwamnonin Najeriya ] ya nemi goyon bayan kungiyoyin mata a yaki da cutar Polio",
+        "[ Dandalin Gwamnonin Najeriya ya nemi goyon bayan kungiyoyin mata a yaki da cutar Polio ]",
+        "[ ] Dandalin Gwamnonin Najeriya ya nemi goyon bayan kungiyoyin mata a yaki da cutar Polio",
+        "[ Dandalin Gwamnonin Najeriya ya ] nemi goyon bayan kungiyoyin mata a yaki da cutar Polio",
+        "Dandalin [ Gwamnonin Najeriya ] ya nemi goyon bayan kungiyoyin mata a yaki da cutar Polio"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Dandalin Gwamnonin Najeriya",
+        "Dandalin Gwamnonin Najeriya ya nemi goyon bayan kungiyoyin mata a yaki da cutar Polio",
+        "",
+        "Dandalin Gwamnonin Najeriya ya",
+        "Gwamnonin Najeriya"
+      ]
+    ],
+    "score": [
+      [
+        -10.935284614562988,
+        -19.62331771850586,
+        -21.034406661987305,
+        -22.07137107849121,
+        -22.738262176513672
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 9,
+    "src_lang": [],
+    "template": "• Kayi amfani da gulob lokacin da kake kula da wadanda ke dauke da cutar Ebola .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "The [ World Health Organization ] has called on governments to protect the rights of their mentally disabled citizens who face discrimination and exclusion."
+    ],
+    "src_entities": [
+      "World Health Organization"
+    ],
+    "template": "Hukumar lafiya ta duniya tayi kira ga gwamnatoci su kare ‘yancin al’ummarsu dake da tabuwar hankali dake fuskantar wariya da kuma kuntatawa .",
+    "tgt_lang": [
+      [
+        "Hukumar [ lafiya ta duniya ] tayi kira ga gwamnatoci su kare yancin alummarsu dake da tabuwar hankali dake fuskantar wariya da kuma kuntatawa.",
+        "[ Hukumar lafiya ta duniya ] tayi kira ga gwamnatoci su kare yancin alummarsu dake da tabuwar hankali dake fuskantar wariya da kuma kuntatawa.",
+        "Hukumar [ lafiya ] ta duniya tayi kira ga gwamnatoci su kare yancin alummarsu dake da tabuwar hankali dake fuskantar wariya da kuma kuntatawa.",
+        "Hukumar lafiya ta [ duniya ] tayi kira ga gwamnatoci su kare yancin alummarsu dake da tabuwar hankali dake fuskantar wariya da kuma kuntatawa.",
+        "Hukumar [ lafiya ta ] duniya tayi kira ga gwamnatoci su kare yancin alummarsu dake da tabuwar hankali dake fuskantar wariya da kuma kuntatawa."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "lafiya ta duniya",
+        "Hukumar lafiya ta duniya",
+        "lafiya",
+        "duniya",
+        "lafiya ta"
+      ]
+    ],
+    "score": [
+      [
+        -90.38446807861328,
+        -90.40308380126953,
+        -94.52928924560547,
+        -95.66072082519531,
+        -97.68196105957031
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "Earlier in his address to the people of [ Rivers State, ] Governor Amaechi explained that the campaign titled in English Women Against Polio \"\"\"\" (WAP) - Women Fighting Polio - is the second of four groups to be implemented with the aim of raising awareness among Nigerians about the impact of the disease and aiming to eradicate it",
+      "Earlier in his address to the people of Rivers State, Governor [ Amaechi ] explained that the campaign titled in English Women Against Polio \"\"\"\" (WAP) - Women Fighting Polio - is the second of four groups to be implemented with the aim of raising awareness among Nigerians about the impact of the disease and aiming to eradicate it"
+    ],
+    "src_entities": [
+      "Rivers State,",
+      "Amaechi"
+    ],
+    "template": "Tun farko a cikin jawabin da yayi ga al’ummar jihar Rivers , gwamna Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci “ Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan al’ummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya .",
+    "tgt_lang": [
+      [
+        "Tun farko a cikin jawabin da yayi ga alummar jihar [ Rivers, ] gwamna Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci  Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya.",
+        "Tun farko a cikin jawabin da yayi ga alummar [ jihar Rivers, ] gwamna Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci  Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya.",
+        "Tun farko a cikin jawabin da yayi ga alummar jihar [ Rivers ], gwamna Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci  Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya.",
+        "Tun farko a cikin jawabin da yayi ga alummar jihar Rivers, gwamna Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci  Women Against Polio \"\"\"\" ( WAP ) - [ Mata masu yaki da shan inna ] - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya.",
+        "Tun farko a cikin jawabin da yayi ga alummar jihar Rivers, gwamna Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci  Women Against Polio \"\"\"\" ( WAP ) - [ Mata masu yaki da shan inna - ] shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya."
+      ],
+      [
+        "Tun farko a cikin jawabin da yayi ga alummar jihar Rivers, gwamna [ Amaechi ] ya bayyana cewa kamfen din da aka ba lakabi da turanci  Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya.",
+        "Tun farko a cikin jawabin da yayi ga alummar jihar Rivers, gwamna [ Amaechi ya ] bayyana cewa kamfen din da aka ba lakabi da turanci  Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya.",
+        "Tun farko a cikin jawabin da yayi ga alummar jihar Rivers, gwamna [ Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci  Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna ] - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya.",
+        "Tun farko a cikin jawabin da yayi ga alummar jihar Rivers, gwamna [ Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci  Women Against Polio \"\"\"\" ( WAP ) - ] Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya.",
+        "Tun farko a cikin jawabin da yayi ga alummar jihar Rivers, gwamna [ Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci  Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Rivers,",
+        "jihar Rivers,",
+        "Rivers",
+        "Mata masu yaki da shan inna",
+        "Mata masu yaki da shan inna -"
+      ],
+      [
+        "Amaechi",
+        "Amaechi ya",
+        "Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci <unk> Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna",
+        "Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci <unk> Women Against Polio \"\"\"\" ( WAP ) -",
+        "Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci <unk> Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan al<unk>ummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya."
+      ]
+    ],
+    "score": [
+      [
+        -138.98240661621094,
+        -141.34588623046875,
+        -144.68569946289062,
+        -150.04708862304688,
+        -151.14080810546875
+      ],
+      [
+        -137.78997802734375,
+        -148.89060974121094,
+        -155.68702697753906,
+        -157.5175018310547,
+        -158.9139404296875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 12,
+    "src_lang": [],
+    "template": "Dukkan kananan jinsuna wannan sauro mai yada cutar Maleriya dake da muhimmanci , ba su cizon mutane sai da daddare .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 13,
+    "src_lang": [
+      "Some federal and state courts challenging the [ Trump ] administration's move to include the question of citizenship or non-citizenship in the census are asking the court to clarify the decision for them."
+    ],
+    "src_entities": [
+      "Trump"
+    ],
+    "template": "Wasu kotunan tarayya da kuma jihohi da suke kalubalantar matakin da gwamnatin Trump ta dauka na ta saka tambayar ko mutum dan kasa ne ko ba dan kasa ba , a kidayar jama’a suna neman kotu ta fayyace musu matakin .",
+    "tgt_lang": [
+      [
+        "Wasu kotunan tarayya da kuma jihohi da suke kalubalantar matakin da gwamnatin [ Trump ] ta dauka na ta saka tambayar ko mutum dan kasa ne ko ba dan kasa ba, a kidayar jamaa suna neman kotu ta fayyace musu matakin.",
+        "Wasu kotunan tarayya da kuma jihohi da suke kalubalantar matakin da gwamnatin Trump ta dauka na ta saka tambayar [ ko mutum dan kasa ne ko ba dan kasa ba ], a kidayar jamaa suna neman kotu ta fayyace musu matakin.",
+        "Wasu kotunan tarayya da kuma jihohi da suke kalubalantar matakin da gwamnatin [ Trump ta dauka na ta saka tambayar ko mutum dan kasa ne ko ba dan kasa ba, a kidayar jamaa ] suna neman kotu ta fayyace musu matakin.",
+        "Wasu kotunan tarayya da kuma jihohi da suke kalubalantar matakin da gwamnatin [ Trump ta dauka na ta saka tambayar ko mutum dan kasa ne ko ba dan kasa ba, a kidayar jamaa suna neman kotu ta fayyace musu matakin. ]",
+        "Wasu kotunan tarayya da kuma jihohi da suke kalubalantar matakin da gwamnatin [ Trump ta dauka na ta saka tambayar ko mutum dan kasa ne ko ba dan kasa ba, a kidayar jamaa suna neman kotu ta fayyace musu matakin ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Trump",
+        "ko mutum dan kasa ne ko ba dan kasa ba",
+        "Trump ta dauka na ta saka tambayar ko mutum dan kasa ne ko ba dan kasa ba, a kidayar jama<unk>a",
+        "Trump ta dauka na ta saka tambayar ko mutum dan kasa ne ko ba dan kasa ba, a kidayar jama<unk>a suna neman kotu ta fayyace musu matakin.",
+        "Trump ta dauka na ta saka tambayar ko mutum dan kasa ne ko ba dan kasa ba, a kidayar jama<unk>a suna neman kotu ta fayyace musu matakin"
+      ]
+    ],
+    "score": [
+      [
+        -80.4002456665039,
+        -96.41220092773438,
+        -98.97552490234375,
+        -101.6309585571289,
+        -102.34362030029297
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 14,
+    "src_lang": [],
+    "template": "Idan an yi jinkiri ba'a kawo wanda ya kamu da cutar asibiti ba su ne suke tsira da kyar ko su mutu .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "Investigators are looking into whether President [ Trump ] sought to undermine the FBI investigation after firing former FBI director James Comey.",
+      "Investigators are looking into whether President Trump sought to undermine the [ FBI ] investigation after firing former FBI director James Comey.",
+      "Investigators are looking into whether President Trump sought to undermine the FBI investigation after firing former [ FBI ] director James Comey.",
+      "Investigators are looking into whether President Trump sought to undermine the FBI investigation after firing former FBI director [ James Comey. ]"
+    ],
+    "src_entities": [
+      "Trump",
+      "FBI",
+      "FBI",
+      "James Comey."
+    ],
+    "template": "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI , James Comey , daga aiki",
+    "tgt_lang": [
+      [
+        "Masu binciki na duba ko Shugaba [ Trump ] ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI, James Comey, daga aiki",
+        "Masu binciki na duba ko [ Shugaba Trump ] ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI, James Comey, daga aiki",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI, James Comey, daga aiki [ ]",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI, James Comey, [ daga aiki ]",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI, James Comey, [ ] daga aiki"
+      ],
+      [
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken [ FBI ] bayan da ya kori tsohon darektan hukumar ta FBI, James Comey, daga aiki",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken [ ] FBI bayan da ya kori tsohon darektan hukumar ta FBI, James Comey, daga aiki",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI, James Comey, daga aiki [ ]",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI, James Comey, [ daga aiki ]",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar [ ta FBI ], James Comey, daga aiki"
+      ],
+      [
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta [ FBI ], James Comey, daga aiki",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan [ hukumar ta FBI ], James Comey, daga aiki",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar [ ta FBI ], James Comey, daga aiki",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta [ FBI, ] James Comey, daga aiki",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta [ FBI, James Comey ], daga aiki"
+      ],
+      [
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI, [ James Comey ], daga aiki",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI [, James Comey ], daga aiki",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI [, James Comey, ] daga aiki",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI, [ James Comey, ] daga aiki",
+        "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI [, James Comey, daga aiki ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Trump",
+        "Shugaba Trump",
+        "",
+        "daga aiki",
+        ""
+      ],
+      [
+        "FBI",
+        "",
+        "",
+        "daga aiki",
+        "ta FBI"
+      ],
+      [
+        "FBI",
+        "hukumar ta FBI",
+        "ta FBI",
+        "FBI,",
+        "FBI, James Comey"
+      ],
+      [
+        "James Comey",
+        ", James Comey",
+        ", James Comey,",
+        "James Comey,",
+        ", James Comey, daga aiki"
+      ]
+    ],
+    "score": [
+      [
+        -57.33440399169922,
+        -67.46133422851562,
+        -70.28457641601562,
+        -71.28949737548828,
+        -71.54042053222656
+      ],
+      [
+        -57.09750747680664,
+        -67.95887756347656,
+        -70.70487213134766,
+        -70.78941345214844,
+        -71.94528198242188
+      ],
+      [
+        -59.171600341796875,
+        -61.97331237792969,
+        -63.547698974609375,
+        -65.40535736083984,
+        -65.768310546875
+      ],
+      [
+        -60.29697036743164,
+        -61.915382385253906,
+        -63.49334716796875,
+        -63.95106506347656,
+        -64.0563735961914
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 16,
+    "src_lang": [],
+    "template": "Darektan ya bayyana damuwa ganin samar da wannnan damar zata iya budewa wadansu matasa kafar shiga ayyukan assha , ya kuma shawarci al’umma su bada gudummuwa domin cimma burin kare rayuka da lafiyar ‘yammata .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 17,
+    "src_lang": [],
+    "template": "Da Alama Karin Haraji Akan Tama Da Karafa Ba Zai Shafi Wasu Kasashe Ba",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "Professor [ Abdulsalam Nasidi ] one of the leaders of the fight against Ebola explains what they have done to cure the people."
+    ],
+    "src_entities": [
+      "Abdulsalam Nasidi"
+    ],
+    "template": "Farfasa Abdulsalam Nasidi daya daga cikin shugabannin yaki da cutar ta ebola yayi bayani akan abun da suka yi wajen warkar da mutanen .",
+    "tgt_lang": [
+      [
+        "Farfasa [ Abdulsalam Nasidi ] daya daga cikin shugabannin yaki da cutar ta ebola yayi bayani akan abun da suka yi wajen warkar da mutanen.",
+        "Farfasa [ ] Abdulsalam Nasidi daya daga cikin shugabannin yaki da cutar ta ebola yayi bayani akan abun da suka yi wajen warkar da mutanen.",
+        "Farfasa [ Abdulsalam Nasidi daya daga cikin shugabannin yaki da cutar ta ebola ] yayi bayani akan abun da suka yi wajen warkar da mutanen.",
+        "Farfasa Abdulsalam Nasidi daya daga cikin shugabannin yaki da cutar ta ebola yayi bayani akan abun da suka yi wajen warkar da mutanen [ ].",
+        "Farfasa Abdulsalam Nasidi daya daga cikin shugabannin yaki da cutar ta ebola yayi bayani akan abun da suka yi wajen warkar da mutanen [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Abdulsalam Nasidi",
+        "",
+        "Abdulsalam Nasidi daya daga cikin shugabannin yaki da cutar ta ebola",
+        "",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -41.19694519042969,
+        -55.468116760253906,
+        -57.80706787109375,
+        -62.16679000854492,
+        -63.80968475341797
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "The initiative was also supported by about 695 drivers members of the [ National Union of Transport Workers ] (NURTW) who donated their vehicles to take women and babies in need of urgent care."
+    ],
+    "src_entities": [
+      "National Union of Transport Workers"
+    ],
+    "template": "Shirin ya kuma sami goyon bayan kimanin direbobi 695 membobin kungiyar ma’aikatar sufuri ta kasa ( NURTW ) wadanda suka bada gudummuwar motocinsu domin daukar mata da jariran da suke bukatar kulawa ta gaggawa .",
+    "tgt_lang": [
+      [
+        "Shirin ya kuma sami goyon bayan kimanin direbobi 695 membobin [ kungiyar maaikatar sufuri ta kasa ] ( NURTW ) wadanda suka bada gudummuwar motocinsu domin daukar mata da jariran da suke bukatar kulawa ta gaggawa.",
+        "Shirin ya kuma sami goyon bayan kimanin direbobi 695 [ membobin kungiyar maaikatar sufuri ta kasa ] ( NURTW ) wadanda suka bada gudummuwar motocinsu domin daukar mata da jariran da suke bukatar kulawa ta gaggawa.",
+        "Shirin ya kuma sami goyon bayan kimanin direbobi 695 membobin [ kungiyar maaikatar sufuri ta kasa ( NURTW ) ] wadanda suka bada gudummuwar motocinsu domin daukar mata da jariran da suke bukatar kulawa ta gaggawa.",
+        "Shirin ya kuma sami goyon bayan kimanin direbobi 695 membobin [ kungiyar maaikatar sufuri ] ta kasa ( NURTW ) wadanda suka bada gudummuwar motocinsu domin daukar mata da jariran da suke bukatar kulawa ta gaggawa.",
+        "Shirin ya kuma sami goyon bayan kimanin direbobi 695 membobin kungiyar maaikatar sufuri ta kasa [ ( NURTW ) ] wadanda suka bada gudummuwar motocinsu domin daukar mata da jariran da suke bukatar kulawa ta gaggawa."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "kungiyar ma<unk>aikatar sufuri ta kasa",
+        "membobin kungiyar ma<unk>aikatar sufuri ta kasa",
+        "kungiyar ma<unk>aikatar sufuri ta kasa ( NURTW )",
+        "kungiyar ma<unk>aikatar sufuri",
+        "( NURTW )"
+      ]
+    ],
+    "score": [
+      [
+        -79.45922088623047,
+        -81.58700561523438,
+        -84.52454376220703,
+        -84.68622589111328,
+        -84.87895202636719
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "The meeting followed his meeting with North Korean leader [ Kim Jong Un, ] which was unsuccessful, and a damning testimony by his former lawyer, Michael Cohen, before the US Congress.",
+      "The meeting followed his meeting with North Korean leader Kim Jong Un, which was unsuccessful, and a damning testimony by his former lawyer, [ Michael Cohen, ] before the US Congress.",
+      "The meeting followed his meeting with North Korean leader Kim Jong Un, which was unsuccessful, and a damning testimony by his former lawyer, Michael Cohen, before the [ US Congress. ]"
+    ],
+    "src_entities": [
+      "Kim Jong Un,",
+      "Michael Cohen,",
+      "US Congress."
+    ],
+    "template": "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un , wacce ba ta yi nasara ba , da kuma kazamar shaidar da tsohon lauyansa , Michael Cohen ya bayar a gaban majalisar dokokin Amurka .",
+    "tgt_lang": [
+      [
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa [ Kim Jong Un, ] wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, Michael Cohen ya bayar a gaban majalisar dokokin Amurka.",
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa [ Kim Jong Un ], wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, Michael Cohen ya bayar a gaban majalisar dokokin Amurka.",
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un [, ] wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, Michael Cohen ya bayar a gaban majalisar dokokin Amurka.",
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, Michael Cohen ya bayar a gaban majalisar dokokin Amurka [ ].",
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, Michael Cohen ya bayar a gaban majalisar dokokin Amurka [. ]"
+      ],
+      [
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, [ Michael Cohen ] ya bayar a gaban majalisar dokokin Amurka.",
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa [, Michael Cohen ] ya bayar a gaban majalisar dokokin Amurka.",
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, [ Michael Cohen ya bayar ] a gaban majalisar dokokin Amurka.",
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, Michael Cohen [ ] ya bayar a gaban majalisar dokokin Amurka.",
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa [, ] Michael Cohen ya bayar a gaban majalisar dokokin Amurka."
+      ],
+      [
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, Michael Cohen ya bayar a gaban [ majalisar dokokin Amurka. ]",
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, Michael Cohen ya bayar a gaban [ majalisar dokokin Amurka ].",
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, Michael Cohen ya bayar a gaban majalisar dokokin [ Amurka ].",
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, Michael Cohen ya bayar a gaban majalisar dokokin [ Amurka. ]",
+        "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, Michael Cohen ya bayar a gaban majalisar dokokin Amurka [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kim Jong Un,",
+        "Kim Jong Un",
+        ",",
+        "",
+        "."
+      ],
+      [
+        "Michael Cohen",
+        ", Michael Cohen",
+        "Michael Cohen ya bayar",
+        "",
+        ","
+      ],
+      [
+        "majalisar dokokin Amurka.",
+        "majalisar dokokin Amurka",
+        "Amurka",
+        "Amurka.",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -46.177528381347656,
+        -50.345794677734375,
+        -53.22909164428711,
+        -59.89002990722656,
+        -60.926780700683594
+      ],
+      [
+        -44.8691520690918,
+        -51.783939361572266,
+        -52.68096923828125,
+        -54.90087127685547,
+        -55.44632339477539
+      ],
+      [
+        -45.59029769897461,
+        -45.68638610839844,
+        -48.03765106201172,
+        -49.06382751464844,
+        -52.91088104248047
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [],
+    "template": "Sai dai mujallar tace zuwa yanzu bata sami wani shaida da zai gaskanta wannan zargi ba .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "He also praised the decision of the [ al-Barnawi ] faction of Boko Haram to ease their fight.",
+      "He also praised the decision of the al-Barnawi faction of [ Boko Haram ] to ease their fight."
+    ],
+    "src_entities": [
+      "al-Barnawi",
+      "Boko Haram"
+    ],
+    "template": "Ya kuma yaba da shawarar da bangaren al - Barnawi na Boko Haram ya yanke na sassautawa a gwagwarmayarsu .",
+    "tgt_lang": [
+      [
+        "Ya kuma yaba da shawarar da bangaren [ al - Barnawi ] na Boko Haram ya yanke na sassautawa a gwagwarmayarsu.",
+        "Ya kuma yaba da shawarar da bangaren [ al - Barnawi na Boko Haram ] ya yanke na sassautawa a gwagwarmayarsu.",
+        "Ya kuma yaba da shawarar da bangaren [ ] al - Barnawi na Boko Haram ya yanke na sassautawa a gwagwarmayarsu.",
+        "Ya kuma yaba da shawarar da bangaren al - Barnawi [ ] na Boko Haram ya yanke na sassautawa a gwagwarmayarsu.",
+        "Ya kuma yaba da shawarar da bangaren al - Barnawi [ na Boko Haram ] ya yanke na sassautawa a gwagwarmayarsu."
+      ],
+      [
+        "Ya kuma yaba da shawarar da bangaren al - Barnawi na [ Boko Haram ] ya yanke na sassautawa a gwagwarmayarsu.",
+        "Ya kuma yaba da shawarar da bangaren al - Barnawi na [ ] Boko Haram ya yanke na sassautawa a gwagwarmayarsu.",
+        "Ya kuma yaba da shawarar da bangaren al - Barnawi na [ Boko Haram ya ] yanke na sassautawa a gwagwarmayarsu.",
+        "Ya kuma yaba da shawarar da bangaren al - Barnawi na [ Boko Haram ya yanke na sassautawa a gwagwarmayarsu ].",
+        "Ya kuma yaba da shawarar da bangaren al - Barnawi na Boko Haram ya yanke na sassautawa a gwagwarmayarsu [ ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "al - Barnawi",
+        "al - Barnawi na Boko Haram",
+        "",
+        "",
+        "na Boko Haram"
+      ],
+      [
+        "Boko Haram",
+        "",
+        "Boko Haram ya",
+        "Boko Haram ya yanke na sassautawa a gwagwarmayarsu",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -32.407474517822266,
+        -41.93668746948242,
+        -42.018310546875,
+        -42.180580139160156,
+        -42.27765655517578
+      ],
+      [
+        -32.59748458862305,
+        -41.41065216064453,
+        -44.743003845214844,
+        -51.52289962768555,
+        -51.95375442504883
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [],
+    "template": "Wani sabon bincike na nuni da cewa , matan da suka daina al’ada wadanda suke shan taba sigari , ko suka taba sha a can baya , sun fi fuskantar kasadar kamuwa da cutar sankarar nono .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "[ US House of Representatives ] to continue hearing on Russian investigation"
+    ],
+    "src_entities": [
+      "US House of Representatives"
+    ],
+    "template": "'Yan Majalisar Wakilan Amurka Zasu Ci Gaba Da Jin Bahasi Akan Binciken Rasha",
+    "tgt_lang": [
+      [
+        "[ 'Yan Majalisar Wakilan Amurka Zasu Ci Gaba Da Jin Bahasi Akan Binciken Rasha ]",
+        "[ 'Yan Majalisar Wakilan Amurka ] Zasu Ci Gaba Da Jin Bahasi Akan Binciken Rasha",
+        "'Yan Majalisar Wakilan [ Amurka ] Zasu Ci Gaba Da Jin Bahasi Akan Binciken Rasha",
+        "[ ] 'Yan Majalisar Wakilan Amurka Zasu Ci Gaba Da Jin Bahasi Akan Binciken Rasha",
+        "[ 'Yan Majalisar Wakilan ] Amurka Zasu Ci Gaba Da Jin Bahasi Akan Binciken Rasha"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "'Yan Majalisar Wakilan Amurka Zasu Ci Gaba Da Jin Bahasi Akan Binciken Rasha",
+        "'Yan Majalisar Wakilan Amurka",
+        "Amurka",
+        "",
+        "'Yan Majalisar Wakilan"
+      ]
+    ],
+    "score": [
+      [
+        -42.43406295776367,
+        -43.405399322509766,
+        -45.938079833984375,
+        -46.98275375366211,
+        -47.24250411987305
+      ]
+    ],
+    "flag": 1
+  }
+]

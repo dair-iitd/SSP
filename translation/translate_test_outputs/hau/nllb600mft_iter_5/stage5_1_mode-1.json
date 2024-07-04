@@ -1,0 +1,1878 @@
+[
+  {
+    "template": "Yaduwar Cutar Ebola ta Ragu",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 1,
+    "src_lang": [
+      "The [ United States ] Signs the Most Effective Trade Agreement With Its Neighbors"
+    ],
+    "template": "Amurka Ta Cimma Yarjejeniyar Cinikayya Mafi Inganci Da Makwabtanta",
+    "tgt_lang": [
+      "[ Amurka ] Ta Cimma Yarjejeniyar Cinikayya Mafi Inganci Da Makwabtanta"
+    ],
+    "r_logp_score": [
+      1.403907060623169
+    ],
+    "score": [
+      -21.69049644470215
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Amurka ] Ta Cimma Yarjejeniyar Cinikayya Mafi Inganci Da Makwabtanta"
+    ]
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "It - in - it at the [ White House ] between Trump and the top Democrats",
+      "It - in - it at the White House between [ Trump ] and the top Democrats"
+    ],
+    "template": "An Yi Sa - In - Sa A Fadar White House Tsakanin Trump Da Manyan Democrat",
+    "tgt_lang": [
+      "An Yi Sa - In - Sa A Fadar [ White House ] Tsakanin Trump Da Manyan Democrat",
+      "An Yi Sa - In - Sa A Fadar White House Tsakanin [ Trump ] Da Manyan Democrat"
+    ],
+    "r_logp_score": [
+      2.297935724258423,
+      0.9284547567367554
+    ],
+    "score": [
+      -41.24541473388672,
+      -34.851356506347656
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "An Yi Sa - In - Sa A Fadar [ White House ] Tsakanin Trump Da Manyan Democrat",
+      "An Yi Sa - In - Sa A Fadar White House Tsakanin [ Trump ] Da Manyan Democrat"
+    ]
+  },
+  {
+    "idx": 3,
+    "src_lang": [
+      "After the [ U.S. ] Attorney and Trade Representative only said they withdrew their initial consent, they would not include the question of whether a person is a citizen or a non-citizen in the questionnaire."
+    ],
+    "template": "Bayan da ma’aikatan shari’ar da na cinikayya na Amurka kawai suka ce sun janye abinda tun farko suka amince , ba zasu saka tambayar ko mutum dan kasa ba ne ko ba dan kasa ba a cikin takardun tambayoyin .",
+    "tgt_lang": [
+      "Bayan da maaikatan shariar da na cinikayya na [ Amurka ] kawai suka ce sun janye abinda tun farko suka amince, ba zasu saka tambayar ko mutum dan kasa ba ne ko ba dan kasa ba a cikin takardun tambayoyin."
+    ],
+    "r_logp_score": [
+      4.305111408233643
+    ],
+    "score": [
+      -106.12336730957031
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Bayan da maaikatan shariar da na cinikayya na [ Amurka ] kawai suka ce sun janye abinda tun farko suka amince , ba zasu saka tambayar ko mutum dan kasa ba ne ko ba dan kasa ba a cikin takardun tambayoyin ."
+    ]
+  },
+  {
+    "template": "Matakin kokari ne na dakatar da ‘yan Lebanon da Falasdinawa masu zanga - zanga wadanda su ka yi ta jifa kan ofishin Jakadancin .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Sai dai hukumomi ba su ba da tabbacin wane irin “ abu \"\"\"\" aka yi amfani da shi wajen aukuwar wannan lamari ba .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": ", masana’antu da kuma tashoshin samar da makamashi .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "Those considering seeking help in [ Florida ] may be surprised."
+    ],
+    "template": "Masu tunanin samun taimako a Florida za su sha mamaki .",
+    "tgt_lang": [
+      "Masu tunanin samun taimako a [ Florida ] za su sha mamaki."
+    ],
+    "r_logp_score": [
+      0.2544284462928772
+    ],
+    "score": [
+      -28.70892906188965
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Masu tunanin samun taimako a [ Florida ] za su sha mamaki ."
+    ]
+  },
+  {
+    "idx": 8,
+    "src_lang": [
+      "A statement released on Tuesday said [ Treasury ] Secretary Steven Mnuchin and Trade Minister Robert Lighizer will meet with Deputy Prime Minister Liu He in Beijing on April 30.",
+      "A statement released on Tuesday said Treasury Secretary [ Steven Mnuchin ] and Trade Minister Robert Lighizer will meet with Deputy Prime Minister Liu He in Beijing on April 30.",
+      "A statement released on Tuesday said Treasury Secretary Steven Mnuchin and Trade Minister [ Robert Lighizer ] will meet with Deputy Prime Minister Liu He in Beijing on April 30.",
+      "A statement released on Tuesday said Treasury Secretary Steven Mnuchin and Trade Minister Robert Lighizer will meet with Deputy Prime Minister [ Liu He ] in Beijing on April 30.",
+      "A statement released on Tuesday said Treasury Secretary Steven Mnuchin and Trade Minister Robert Lighizer will meet with Deputy Prime Minister Liu He in [ Beijing ] on April 30."
+    ],
+    "template": "Sanarwar da aka fitar jiya Talata , ta ce sakataren ma’aikatar kudi Steven Mnuchin da jami’in cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu .",
+    "tgt_lang": [
+      "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar [ kudi ] Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+      "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi [ Steven Mnuchin ] da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+      "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya [ Robert Lighizer ] za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+      "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya [ Liu He ] a birnin Beijing ranar 30 ga watan nan na Afrilu.",
+      "Sanarwar da aka fitar jiya Talata, ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin [ Beijing ] ranar 30 ga watan nan na Afrilu."
+    ],
+    "r_logp_score": [
+      10.298503875732422,
+      4.205619812011719,
+      5.8938775062561035,
+      0.9315863251686096,
+      1.9784356355667114
+    ],
+    "score": [
+      -92.91844177246094,
+      -81.0736312866211,
+      -81.33866882324219,
+      -80.63215637207031,
+      -85.95426177978516
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Sanarwar da aka fitar jiya Talata , ta ce sakataren maaikatar [ kudi ] Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu .",
+      "Sanarwar da aka fitar jiya Talata , ta ce sakataren maaikatar kudi [ Steven Mnuchin ] da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu .",
+      "Sanarwar da aka fitar jiya Talata , ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya [ Robert Lighizer ] za su gana da mataimakin Firimiya Liu He a birnin Beijing ranar 30 ga watan nan na Afrilu .",
+      "Sanarwar da aka fitar jiya Talata , ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya [ Liu He ] a birnin Beijing ranar 30 ga watan nan na Afrilu .",
+      "Sanarwar da aka fitar jiya Talata , ta ce sakataren maaikatar kudi Steven Mnuchin da jamiin cinikayya Robert Lighizer za su gana da mataimakin Firimiya Liu He a birnin [ Beijing ] ranar 30 ga watan nan na Afrilu ."
+    ]
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "[ Trump ] has denied most of Comey's accusations, including one that he fired Comey for refusing to stop his investigation into former national security adviser Michael Flynn.",
+      "Trump has denied most of [ Comey's ] accusations, including one that he fired Comey for refusing to stop his investigation into former national security adviser Michael Flynn.",
+      "Trump has denied most of Comey's accusations, including one that he fired [ Comey ] for refusing to stop his investigation into former national security adviser Michael Flynn.",
+      "Trump has denied most of Comey's accusations, including one that he fired Comey for refusing to stop his investigation into former national security adviser [ Michael Flynn. ]"
+    ],
+    "template": "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey , ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro , Michael Flynn .",
+    "tgt_lang": [
+      "[ Trump ] dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn.",
+      "Trump dai ya musanta akasarin duk wadanan zarge - zargen na [ Comey ], ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn.",
+      "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori [ Comey ] ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, Michael Flynn.",
+      "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey, ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro, [ Michael Flynn ]."
+    ],
+    "r_logp_score": [
+      0.9284547567367554,
+      9.08708381652832,
+      1.5690927505493164,
+      11.422114372253418
+    ],
+    "score": [
+      -96.96627044677734,
+      -100.48133087158203,
+      -100.3437728881836,
+      -98.06147003173828
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Trump ] dai ya musanta akasarin duk wadanan zarge - zargen na Comey , ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro , Michael Flynn .",
+      "Trump dai ya musanta akasarin duk wadanan zarge - zargen na [ Comey ] , ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro , Michael Flynn .",
+      "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey , ciki harda wanda yayi na cewa ya kori [ Comey ] ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro , Michael Flynn .",
+      "Trump dai ya musanta akasarin duk wadanan zarge - zargen na Comey , ciki harda wanda yayi na cewa ya kori Comey ne don ya ki tsaida binciken da yake yi akan tsohon mashawarci kan harkokin tsaro , [ Michael Flynn ] ."
+    ]
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "[ Russia ] has repeatedly denied this accusation."
+    ],
+    "template": "Rasha ta sha karyata wannan zargi .",
+    "tgt_lang": [
+      "[ Rasha ] ta sha karyata wannan zargi."
+    ],
+    "r_logp_score": [
+      0.8001983165740967
+    ],
+    "score": [
+      -19.300500869750977
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Rasha ] ta sha karyata wannan zargi ."
+    ]
+  },
+  {
+    "idx": 11,
+    "src_lang": [
+      "In [ Comey's ] statement, he wrote that the president was concerned about allegations that he colluded with Russia to help win the presidential election and the issue of a video of Trump and a number of independent Russian women.",
+      "In Comey's statement, he wrote that the president was concerned about allegations that he colluded with [ Russia ] to help win the presidential election and the issue of a video of Trump and a number of independent Russian women.",
+      "In Comey's statement, he wrote that the president was concerned about allegations that he colluded with Russia to help win the presidential election and the issue of a video of [ Trump ] and a number of independent Russian women."
+    ],
+    "template": "A cikin bayanan Comey ya rubuta cewa , shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha .",
+    "tgt_lang": [
+      "A cikin bayanan [ Comey ] ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha.",
+      "A cikin bayanan Comey ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da [ Rasha ] domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha.",
+      "A cikin bayanan Comey ya rubuta cewa, shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na [ Trump ] da wasu mata masu zaman kansu 'yan kasar Rasha."
+    ],
+    "r_logp_score": [
+      9.08708381652832,
+      0.8001983165740967,
+      0.9284540414810181
+    ],
+    "score": [
+      -54.83676528930664,
+      -54.24955749511719,
+      -54.62014389038086
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "A cikin bayanan [ Comey ] ya rubuta cewa , shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha .",
+      "A cikin bayanan Comey ya rubuta cewa , shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da [ Rasha ] domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na Trump da wasu mata masu zaman kansu 'yan kasar Rasha .",
+      "A cikin bayanan Comey ya rubuta cewa , shugaban ya damu da ikirarin da ake yi na cewa ya hada kai da Rasha domin taimakawa wajen cin zaben shugaban kasa da kuma batun wani faifan bidiyo na [ Trump ] da wasu mata masu zaman kansu 'yan kasar Rasha ."
+    ]
+  },
+  {
+    "template": "Masu hasashen yanayi sun ce mai yiwuwa , wannan yanayi da ya fara daga daren Talata zuwa wayewar garin Laraba , ya zama tarihi a kasar .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Ministan ya kuma bayyana cewa , an kiyasta kashe Naira miliyan 47 wajen sayen gidajen sauro da aka jika da magani da ake kira LLINs , kuma tuni aka fara sayen gidajen sauron da nufin shawo kan cutar zazzabin cizon sauro .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Warin Kaji Na Iya Korar Jinsin Sauro Mai Sanya Cutar Maleriya",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "For example, when plumbing and rental facilities were installed at a school in [ Nigeria, ] the number of children attending increased from 320 to 538."
+    ],
+    "template": "Alal ga misali , a lokacin da aka ja famfo aka kuma gina wuraren ba - haya a wata makaranta a Najeriya , yawan yaran dake zuwa makarantar ya karu daga 320 zuwa 538 .",
+    "tgt_lang": [
+      "Alal ga misali, a lokacin da aka ja famfo aka kuma gina wuraren ba - haya a wata makaranta a [ Najeriya ], yawan yaran dake zuwa makarantar ya karu daga 320 zuwa 538."
+    ],
+    "r_logp_score": [
+      8.77408218383789
+    ],
+    "score": [
+      -93.49137878417969
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Alal ga misali , a lokacin da aka ja famfo aka kuma gina wuraren ba - haya a wata makaranta a [ Najeriya ] , yawan yaran dake zuwa makarantar ya karu daga 320 zuwa 538 ."
+    ]
+  },
+  {
+    "template": "matsakaita .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "An Fara Shirin Taron Koli Tsakanin Kasashen Amurka Da Rasha",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 18,
+    "src_lang": [
+      "A $82 million malaria campaign launched in [ Nigeria ]"
+    ],
+    "template": "An kaddamar da wani shirin yaki da zazzabin cizon sauro da zai ci dala miliyan 82 a Najeriya",
+    "tgt_lang": [
+      "An kaddamar da wani shirin yaki da zazzabin cizon sauro da zai ci dala miliyan 82 a [ Najeriya ]"
+    ],
+    "r_logp_score": [
+      1.5146846771240234
+    ],
+    "score": [
+      -24.05170440673828
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "An kaddamar da wani shirin yaki da zazzabin cizon sauro da zai ci dala miliyan 82 a [ Najeriya ]"
+    ]
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "Lebanese security officials used hot water and old ladies' beds outside the [ US ] Embassy in Beirut.",
+      "Lebanese security officials used hot water and old ladies' beds outside the US Embassy in [ Beirut. ]"
+    ],
+    "template": "Jami’an tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin Amurka da ke birnin Beirut .",
+    "tgt_lang": [
+      "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin [ Amurka ] da ke birnin Beirut.",
+      "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin Amurka da ke birnin [ Beirut ]."
+    ],
+    "r_logp_score": [
+      4.70236873626709,
+      8.432644844055176
+    ],
+    "score": [
+      -44.82441711425781,
+      -42.60877990722656
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin [ Amurka ] da ke birnin Beirut .",
+      "Jamian tsaron Lebanon sun yi amfani da ruwan zafi da barkonon tsohuwa a wajen ofishin Jakadancin Amurka da ke birnin [ Beirut ] ."
+    ]
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "According to him, the impact of the malaria epidemic is huge, with [ Nigeria ] losing about N132 billion on prevention, research and treatment of the disease."
+    ],
+    "template": "Bisa ga cewarshi , koma bayan da cutar malariya take kawowa yana da yawan gaske , kasancewa Najeriya tana asarar kimanin Naira biliyan dari da talatin da biyu wajen rigakafi da bincike da kuma jinyar cutar .",
+    "tgt_lang": [
+      "Bisa ga cewarshi, koma bayan da cutar malariya take kawowa yana da yawan gaske, kasancewa [ Najeriya ] tana asarar kimanin Naira biliyan dari da talatin da biyu wajen rigakafi da bincike da kuma jinyar cutar."
+    ],
+    "r_logp_score": [
+      1.5146857500076294
+    ],
+    "score": [
+      -100.24767303466797
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Bisa ga cewarshi , koma bayan da cutar malariya take kawowa yana da yawan gaske , kasancewa [ Najeriya ] tana asarar kimanin Naira biliyan dari da talatin da biyu wajen rigakafi da bincike da kuma jinyar cutar ."
+    ]
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "However, the [ U.S. Supreme Court ] has already ruled that the government's arguments for including the citizenship question are not satisfactory, given the real reasons why it should be questioned in the decennial U.S. Census.",
+      "However, the U.S. Supreme Court has already ruled that the government's arguments for including the citizenship question are not satisfactory, given the real reasons why it should be questioned in the decennial [ U.S. ] Census."
+    ],
+    "template": "Sai dai kotun kolin Amurka tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba , na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jama’a a Amurka da ake yi duk bayan shekaru goma .",
+    "tgt_lang": [
+      "Sai dai kotun kolin [ Amurka ] tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba, na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jamaa a Amurka da ake yi duk bayan shekaru goma.",
+      "Sai dai kotun kolin Amurka tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba, na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jamaa a [ Amurka ] da ake yi duk bayan shekaru goma."
+    ],
+    "r_logp_score": [
+      16.681964874267578,
+      4.305111408233643
+    ],
+    "score": [
+      -126.72247314453125,
+      -123.20708465576172
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Sai dai kotun kolin [ Amurka ] tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba , na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jamaa a Amurka da ake yi duk bayan shekaru goma .",
+      "Sai dai kotun kolin Amurka tuni ta yanke hukunci cewa hujjojin da gwamnati ta bayar domin saka tambayar dan kasa ba su gamsar ba , na hakikanin bayanan dalilin abinda ya kamata a tambaya lokacin kidayar jamaa a [ Amurka ] da ake yi duk bayan shekaru goma ."
+    ]
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "In a speech yesterday at the conference, [ US ] Secretary of State Hillary Clinton said the United States has limited its ability to recognize a nation that is free of the disease.",
+      "In a speech yesterday at the conference, US Secretary of State [ Hillary Clinton ] said the United States has limited its ability to recognize a nation that is free of the disease.",
+      "In a speech yesterday at the conference, US Secretary of State Hillary Clinton said the [ United States ] has limited its ability to recognize a nation that is free of the disease."
+    ],
+    "template": "A jawabin da tayi jiya awurin taron , Sakatariyar Ma'aikatar harkokin wajern Amurka Hillary Clinton tace Amurka ta daura damarar ganin cewa an sani al’ummar da bata da wannan cuta .",
+    "tgt_lang": [
+      "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern [ Amurka ] Hillary Clinton tace Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta.",
+      "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern Amurka [ Hillary Clinton ] tace Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta.",
+      "A jawabin da tayi jiya awurin taron, Sakatariyar Ma'aikatar harkokin wajern Amurka Hillary Clinton tace [ Amurka ] ta daura damarar ganin cewa an sani alummar da bata da wannan cuta."
+    ],
+    "r_logp_score": [
+      4.702367782592773,
+      6.107194423675537,
+      1.403907299041748
+    ],
+    "score": [
+      -133.1610565185547,
+      -129.25811767578125,
+      -129.85513305664062
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "A jawabin da tayi jiya awurin taron , Sakatariyar Ma'aikatar harkokin wajern [ Amurka ] Hillary Clinton tace Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta .",
+      "A jawabin da tayi jiya awurin taron , Sakatariyar Ma'aikatar harkokin wajern Amurka [ Hillary Clinton ] tace Amurka ta daura damarar ganin cewa an sani alummar da bata da wannan cuta .",
+      "A jawabin da tayi jiya awurin taron , Sakatariyar Ma'aikatar harkokin wajern Amurka Hillary Clinton tace [ Amurka ] ta daura damarar ganin cewa an sani alummar da bata da wannan cuta ."
+    ]
+  },
+  {
+    "idx": 23,
+    "src_lang": [
+      "Speaking at a press conference at the end of last week's programme, Mr [ Bright Ekweremadu, ] managing director of the Society for Family Health, explained that running the programme became necessary when a national health survey conducted in 2008 showed that 17% of pregnant women were delivering in hospital in Gombe state.",
+      "Speaking at a press conference at the end of last week's programme, Mr Bright Ekweremadu, managing director of the [ Society for Family Health, ] explained that running the programme became necessary when a national health survey conducted in 2008 showed that 17% of pregnant women were delivering in hospital in Gombe state.",
+      "Speaking at a press conference at the end of last week's programme, Mr Bright Ekweremadu, managing director of the Society for Family Health, explained that running the programme became necessary when a national health survey conducted in 2008 showed that 17% of pregnant women were delivering in hospital in [ Gombe ] state."
+    ],
+    "template": "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya , Mr Bright Ekweremadu , manajin darektan cibiyar Society for family Health , ya bayyana cewa , gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe .",
+    "tgt_lang": [
+      "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr [ Bright Ekweremadu, ] manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe.",
+      "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr Bright Ekweremadu, manajin darektan cibiyar [ Society for family Health, ] ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe.",
+      "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya, Mr Bright Ekweremadu, manajin darektan cibiyar Society for family Health, ya bayyana cewa, gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar [ Gombe ]."
+    ],
+    "r_logp_score": [
+      4.226250648498535,
+      0.7990227937698364,
+      19.17615509033203
+    ],
+    "score": [
+      -110.19447326660156,
+      -107.15483856201172,
+      -111.34133911132812
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya , Mr [ Bright Ekweremadu , ] manajin darektan cibiyar Society for family Health , ya bayyana cewa , gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe .",
+      "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya , Mr Bright Ekweremadu , manajin darektan cibiyar [ Society for family Health , ] ya bayyana cewa , gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar Gombe .",
+      "Da yake jawabi a wajen wani taron manema labarai a karshen shirin makon jiya , Mr Bright Ekweremadu , manajin darektan cibiyar Society for family Health , ya bayyana cewa , gudanar da shirin ya zama dole lokacin da binciken kiwon lafiya na kasa da aka gudanar a shekara ta 2008 ya nuna cewa kashi 17 % na mata masu juna biyu ne suke kai ga haihuwa a a asibiti a jihar [ Gombe ] ."
+    ]
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "In January of this year, 2018, the two governments launched a number of major projects to improve the lives of [ Niger's ] people, especially in rural areas, through a program called MCCompact that allocated US$437 million, in addition to the US$18 million that Niger received to fight malaria.",
+      "In January of this year, 2018, the two governments launched a number of major projects to improve the lives of Niger's people, especially in rural areas, through a program called MCCompact that allocated US$437 million, in addition to the US$18 million that [ Niger ] received to fight malaria."
+    ],
+    "template": "A watan Janairu ta wannan shekarar , 2018 , gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jama’ar Nijer musamman a yankunan karkaka , ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka , banda miliyan 18 da Amurka ta talllafawa Nijer domin yaki da masassarar cizon sauro .",
+    "tgt_lang": [
+      "A watan Janairu ta wannan shekarar, 2018, gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jamaar [ Nijer ] musamman a yankunan karkaka, ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka, banda miliyan 18 da Amurka ta talllafawa Nijer domin yaki da masassarar cizon sauro.",
+      "A watan Janairu ta wannan shekarar, 2018, gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jamaar Nijer musamman a yankunan karkaka, ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka, banda miliyan 18 da Amurka ta talllafawa [ Nijer ] domin yaki da masassarar cizon sauro."
+    ],
+    "r_logp_score": [
+      12.392409324645996,
+      2.6533937454223633
+    ],
+    "score": [
+      -193.3842315673828,
+      -188.0977325439453
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "A watan Janairu ta wannan shekarar , 2018 , gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jamaar [ Nijer ] musamman a yankunan karkaka , ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka , banda miliyan 18 da Amurka ta talllafawa Nijer domin yaki da masassarar cizon sauro .",
+      "A watan Janairu ta wannan shekarar , 2018 , gwamnatocin biyu suka kaddamar da wadansu manyan ayyukan inganta rayuwar jamaar Nijer musamman a yankunan karkaka , ta hanyar wani shirin da ake kira MCCompact da aka warewa milyan 437 na dallar Amurka , banda miliyan 18 da Amurka ta talllafawa [ Nijer ] domin yaki da masassarar cizon sauro ."
+    ]
+  },
+  {
+    "idx": 25,
+    "src_lang": [
+      "He explained that the MAPS programme in [ Nigeria ] is the malaria prevention programme implemented by hfi360, and the most comprehensive of its kind."
+    ],
+    "template": "Ya bayyana cewa , shirin MAPS a Najeriya shine shirin rigakafin zazzabin cizon sauro da cibiyar hfi360 take aiwatarwa , kuma wanda yafi kowanne zurfi .",
+    "tgt_lang": [
+      "Ya bayyana cewa, shirin MAPS a [ Najeriya ] shine shirin rigakafin zazzabin cizon sauro da cibiyar hfi360 take aiwatarwa, kuma wanda yafi kowanne zurfi."
+    ],
+    "r_logp_score": [
+      1.5146846771240234
+    ],
+    "score": [
+      -46.02157211303711
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ya bayyana cewa , shirin MAPS a [ Najeriya ] shine shirin rigakafin zazzabin cizon sauro da cibiyar hfi360 take aiwatarwa , kuma wanda yafi kowanne zurfi ."
+    ]
+  },
+  {
+    "template": "An rufe makarantu da ofisoshi , an soke dubabban tafiye - tafiyen jiragen sama kuma tuni masu ayyukan ceto ke ta fadi - tashin ceto wasu mutane da su ka makale .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Kasancewa , mata sune suka fi kusa da kananan yara , banda haka kuma , sun iya tada tsimin al’umma .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 28,
+    "src_lang": [
+      "It also denied work permits to all asylum seekers who entered the [ United States ] illegally."
+    ],
+    "template": "Sai kuma hana izinin yin aiki ga duk masu neman mafakar da suka shigo Amurka ta barauniyar hanya .",
+    "tgt_lang": [
+      "Sai kuma hana izinin yin aiki ga duk masu neman mafakar da suka shigo [ Amurka ] ta barauniyar hanya."
+    ],
+    "r_logp_score": [
+      1.403907060623169
+    ],
+    "score": [
+      -44.808895111083984
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Sai kuma hana izinin yin aiki ga duk masu neman mafakar da suka shigo [ Amurka ] ta barauniyar hanya ."
+    ]
+  },
+  {
+    "template": "An Gano Hanyar Hana Cutar Kanjamau Yaduwa",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 30,
+    "src_lang": [
+      "The vice president is scheduled to meet with [ Kim Yo Jong, ] the sister of President Kim Jon Un and Kim Yong Nam, the country's future president.",
+      "The vice president is scheduled to meet with Kim Yo Jong, the sister of President [ Kim Jon Un ] and Kim Yong Nam, the country's future president.",
+      "The vice president is scheduled to meet with Kim Yo Jong, the sister of President Kim Jon Un and [ Kim Yong Nam, ] the country's future president."
+    ],
+    "template": "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban Kim Jon Un da kuma Kim Yong Nam , wanda yake shugaban kasar na jeka na yi ka .",
+    "tgt_lang": [
+      "An shirya mataimakin shugaban kasar zai gana da [ Kim Yo Jong ] 'yar uwar shugaban Kim Jon Un da kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka.",
+      "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban [ Kim Jon Un ] da kuma Kim Yong Nam, wanda yake shugaban kasar na jeka na yi ka.",
+      "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban Kim Jon Un da kuma [ Kim Yong Nam, ] wanda yake shugaban kasar na jeka na yi ka."
+    ],
+    "r_logp_score": [
+      10.833538055419922,
+      2.9103384017944336,
+      2.343937873840332
+    ],
+    "score": [
+      -91.10516357421875,
+      -85.77039337158203,
+      -88.11045837402344
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "An shirya mataimakin shugaban kasar zai gana da [ Kim Yo Jong ] 'yar uwar shugaban Kim Jon Un da kuma Kim Yong Nam , wanda yake shugaban kasar na jeka na yi ka .",
+      "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban [ Kim Jon Un ] da kuma Kim Yong Nam , wanda yake shugaban kasar na jeka na yi ka .",
+      "An shirya mataimakin shugaban kasar zai gana da Kim Yo Jong 'yar uwar shugaban Kim Jon Un da kuma [ Kim Yong Nam , ] wanda yake shugaban kasar na jeka na yi ka ."
+    ]
+  },
+  {
+    "idx": 31,
+    "src_lang": [
+      "7 in the state of [ Gombe ]"
+    ],
+    "template": "7 a jihar Gombe",
+    "tgt_lang": [
+      "7 a jihar [ Gombe ]"
+    ],
+    "r_logp_score": [
+      19.17615509033203
+    ],
+    "score": [
+      -2.8510329723358154
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "7 a jihar [ Gombe ]"
+    ]
+  },
+  {
+    "idx": 32,
+    "src_lang": [
+      "[ Trump ] goes to Dayton, El Paso for comfort",
+      "Trump goes to [ Dayton, ] El Paso for comfort",
+      "Trump goes to Dayton, [ El Paso ] for comfort"
+    ],
+    "template": "Trump Ya Je Biranen Dayton , El Paso Domin Yin Ta'aziyya",
+    "tgt_lang": [
+      "[ Trump ] Ya Je Biranen Dayton, El Paso Domin Yin Ta'aziyya",
+      "Trump Ya Je Biranen [ Dayton, ] El Paso Domin Yin Ta'aziyya",
+      "Trump Ya Je Biranen Dayton, [ El Paso ] Domin Yin Ta'aziyya"
+    ],
+    "r_logp_score": [
+      0.9284540414810181,
+      4.2131242752075195,
+      5.290456295013428
+    ],
+    "score": [
+      -46.470550537109375,
+      -36.35356521606445,
+      -36.53868103027344
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Trump ] Ya Je Biranen Dayton , El Paso Domin Yin Ta'aziyya",
+      "Trump Ya Je Biranen [ Dayton , ] El Paso Domin Yin Ta'aziyya",
+      "Trump Ya Je Biranen Dayton , [ El Paso ] Domin Yin Ta'aziyya"
+    ]
+  },
+  {
+    "template": "Amurkawa Na Zaben Rabin Wa'adi",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "A wani gwajin kuma , kazar aka sanya kusa da gidan sauron .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 35,
+    "src_lang": [
+      "[ Katsalanda's ] 2016 election research leader will ask President Trump questions",
+      "Katsalanda's 2016 election research leader will ask President [ Trump ] questions"
+    ],
+    "template": "Jagoran Binciken Katsalanda A Zaben 2016 Zai Yiwa Shugaba Trump Tambayoyi",
+    "tgt_lang": [
+      "Jagoran Binciken [ Katsalanda ] A Zaben 2016 Zai Yiwa Shugaba Trump Tambayoyi",
+      "Jagoran Binciken Katsalanda A Zaben 2016 Zai Yiwa Shugaba [ Trump ] Tambayoyi"
+    ],
+    "r_logp_score": [
+      23.864742279052734,
+      0.9284540414810181
+    ],
+    "score": [
+      -38.5040168762207,
+      -27.035152435302734
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Jagoran Binciken [ Katsalanda ] A Zaben 2016 Zai Yiwa Shugaba Trump Tambayoyi",
+      "Jagoran Binciken Katsalanda A Zaben 2016 Zai Yiwa Shugaba [ Trump ] Tambayoyi"
+    ]
+  },
+  {
+    "idx": 36,
+    "src_lang": [
+      "Today is the day when the [ World Health Organization ] declared Nigeria free of the Ebola virus.",
+      "Today is the day when the World Health Organization declared [ Nigeria ] free of the Ebola virus."
+    ],
+    "template": "Yau ce ranar da hukumar kiwon lafiya ta duniya ta fadi cewa kasar Najeriya ta rabu da cutar Ebola .",
+    "tgt_lang": [
+      "Yau ce ranar da [ hukumar kiwon lafiya ta duniya ] ta fadi cewa kasar Najeriya ta rabu da cutar Ebola.",
+      "Yau ce ranar da hukumar kiwon lafiya ta duniya ta fadi cewa kasar [ Najeriya ] ta rabu da cutar Ebola."
+    ],
+    "r_logp_score": [
+      10.751554489135742,
+      1.5146846771240234
+    ],
+    "score": [
+      -35.61496353149414,
+      -32.86982727050781
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Yau ce ranar da [ hukumar kiwon lafiya ta duniya ] ta fadi cewa kasar Najeriya ta rabu da cutar Ebola .",
+      "Yau ce ranar da hukumar kiwon lafiya ta duniya ta fadi cewa kasar [ Najeriya ] ta rabu da cutar Ebola ."
+    ]
+  },
+  {
+    "template": "Yace sau tari muna tuntubar majalisun kasar domin mu fahimci damuwarsu kuma mu yi iya kokarinmu mu yi musu bayani a kan manufofin mu .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "* Sako daga cibiyar yaki da cutuka ta kasa da kasa .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "da goma sha shida .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 40,
+    "src_lang": [
+      "Gunman Shoots at Jews in the [ United States ]"
+    ],
+    "template": "Dan Bindiga Ya Bude Wuta Akan Yahudawa a Amurka",
+    "tgt_lang": [
+      "Dan Bindiga Ya Bude Wuta Akan Yahudawa a [ Amurka ]"
+    ],
+    "r_logp_score": [
+      1.403907060623169
+    ],
+    "score": [
+      -20.573028564453125
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Dan Bindiga Ya Bude Wuta Akan Yahudawa a [ Amurka ]"
+    ]
+  },
+  {
+    "template": "Abinda yasa ake samun matsaloli da yake kai da rasa rayukan iyayen da kuma jariransu .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 42,
+    "src_lang": [
+      "indicates that the [ US ] system does not follow good immigration policies and law and order."
+    ],
+    "template": "’ yana mai nuni da cewa tsarin Amurka ba ya bin kyawawan manufofin shige da fici da kuma doka da oda .",
+    "tgt_lang": [
+      " yana mai nuni da cewa tsarin [ Amurka ] ba ya bin kyawawan manufofin shige da fici da kuma doka da oda."
+    ],
+    "r_logp_score": [
+      4.702367782592773
+    ],
+    "score": [
+      -56.105560302734375
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "yana mai nuni da cewa tsarin [ Amurka ] ba ya bin kyawawan manufofin shige da fici da kuma doka da oda ."
+    ]
+  },
+  {
+    "template": "Dangane da wadanda suke kwance yanzu yace babu wanda zai ce zasu rayu ko ba zasu rayu ba .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 44,
+    "src_lang": [
+      "[ Netanyahu ] made this clear before leaving his country yesterday for a meeting with European Leaders."
+    ],
+    "template": "Natanyahu bayyana hakan ne gabanin ya bar kasarsa jiya don ganawa da Shugabannin yankin Turai .",
+    "tgt_lang": [
+      "[ Natanyahu ] bayyana hakan ne gabanin ya bar kasarsa jiya don ganawa da Shugabannin yankin Turai."
+    ],
+    "r_logp_score": [
+      11.094243049621582
+    ],
+    "score": [
+      -48.01354217529297
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Natanyahu ] bayyana hakan ne gabanin ya bar kasarsa jiya don ganawa da Shugabannin yankin Turai ."
+    ]
+  },
+  {
+    "template": "Bisa ga cewarshi , ‘yan matan da suka ballaga suna cikin hatsarin kamuwa da cutar kanjamau sabili da irin yanayin da suke girma ciki da al’ada da ke sa su yi jima’I mazan da suka girme su .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 46,
+    "src_lang": [
+      "On Wednesday, President [ Trump ] will make another visit to the southwestern border city of El Paso, Texas, where more than 20 people were also killed over the weekend.",
+      "On Wednesday, President Trump will make another visit to the southwestern border city of [ El Paso, ] Texas, where more than 20 people were also killed over the weekend.",
+      "On Wednesday, President Trump will make another visit to the southwestern border city of El Paso, [ Texas, ] where more than 20 people were also killed over the weekend."
+    ],
+    "template": "A yau Laraba shugaba Trump , zai kai wata ziyarar garin El Paso na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar , wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20 .",
+    "tgt_lang": [
+      "A yau Laraba shugaba [ Trump ], zai kai wata ziyarar garin El Paso na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20.",
+      "A yau Laraba shugaba Trump, zai kai wata ziyarar garin [ El Paso na jihar Texas ] da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20.",
+      "A yau Laraba shugaba Trump, zai kai wata ziyarar garin El Paso na jihar [ Texas ] da yake kan iyaka ta kudu maso yammacin kasar, wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20."
+    ],
+    "r_logp_score": [
+      0.9284540414810181,
+      11.047165870666504,
+      8.54322624206543
+    ],
+    "score": [
+      -84.28642272949219,
+      -84.83660125732422,
+      -86.80000305175781
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "A yau Laraba shugaba [ Trump ] , zai kai wata ziyarar garin El Paso na jihar Texas da yake kan iyaka ta kudu maso yammacin kasar , wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20 .",
+      "A yau Laraba shugaba Trump , zai kai wata ziyarar garin [ El Paso na jihar Texas ] da yake kan iyaka ta kudu maso yammacin kasar , wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20 .",
+      "A yau Laraba shugaba Trump , zai kai wata ziyarar garin El Paso na jihar [ Texas ] da yake kan iyaka ta kudu maso yammacin kasar , wanda shi ma a karshen makon da ya gabata aka kashe mutum sama da 20 ."
+    ]
+  },
+  {
+    "idx": 47,
+    "src_lang": [
+      "[ Saidai ] and another man named Alhaji Garba Tela said it was a political rally, where people from six states gathered to promote the name of President Jonathan.",
+      "Saidai and another man named Alhaji [ Garba Tela ] said it was a political rally, where people from six states gathered to promote the name of President Jonathan.",
+      "Saidai and another man named Alhaji Garba Tela said it was a political rally, where people from six states gathered to promote the name of President [ Jonathan. ]"
+    ],
+    "template": "Saidai kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa , inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan .",
+    "tgt_lang": [
+      "[ Saidai ] kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan.",
+      "Saidai kuma wani mai suna Alhaji [ Garba Tela ] y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan.",
+      "Saidai kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa, inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba [ Jonathan ]."
+    ],
+    "r_logp_score": [
+      22.671066284179688,
+      20.662250518798828,
+      8.797788619995117
+    ],
+    "score": [
+      -48.3524284362793,
+      -52.38572311401367,
+      -49.447998046875
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Saidai ] kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa , inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan .",
+      "Saidai kuma wani mai suna Alhaji [ Garba Tela ] y ace taro ne na siyasa , inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba Jonathan .",
+      "Saidai kuma wani mai suna Alhaji Garba Tela y ace taro ne na siyasa , inda mutane daga jihohi shida su ka taru suna ta tallata sunan Shugaba [ Jonathan ] ."
+    ]
+  },
+  {
+    "idx": 48,
+    "src_lang": [
+      "Listen to the full report of [ Abdulwahab Mohammed: ]"
+    ],
+    "template": "Saurari Cikakken rahoton Abdulwahab Mohammed :",
+    "tgt_lang": [
+      "Saurari Cikakken rahoton [ Abdulwahab Mohammed : ]"
+    ],
+    "r_logp_score": [
+      2.8206076622009277
+    ],
+    "score": [
+      -18.50596046447754
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Saurari Cikakken rahoton [ Abdulwahab Mohammed : ]"
+    ]
+  },
+  {
+    "idx": 49,
+    "src_lang": [
+      "[ US ] President Who Is the World's Most Ridiculous Immigration Policy"
+    ],
+    "template": "Shugaban Amurka Yace Duniya Na Yiwa Tsarin Dokar Shige Da Ficenta Dariya",
+    "tgt_lang": [
+      "Shugaban [ Amurka ] Yace Duniya Na Yiwa Tsarin Dokar Shige Da Ficenta Dariya"
+    ],
+    "r_logp_score": [
+      4.702366352081299
+    ],
+    "score": [
+      -78.30875396728516
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Shugaban [ Amurka ] Yace Duniya Na Yiwa Tsarin Dokar Shige Da Ficenta Dariya"
+    ]
+  },
+  {
+    "idx": 50,
+    "src_lang": [
+      "The documents, which the [ White House ] is likely to release to the public on Thursday, allegedly contain documents from the Justice Department, which reveal bias against President Trump.",
+      "The documents, which the White House is likely to release to the public on Thursday, allegedly contain documents from the [ Justice Department, ] which reveal bias against President Trump.",
+      "The documents, which the White House is likely to release to the public on Thursday, allegedly contain documents from the Justice Department, which reveal bias against President [ Trump. ]"
+    ],
+    "template": "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jama’a , suna dauke da bayanan ma’aikatar shari’ar kasar , wadanda suka bayyana son kai da aka nunawa shugaba Trump .",
+    "tgt_lang": [
+      "An yi zargin cewa takardun wadanda Fadar ta [ White House ] za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan maaikatar shariar kasar, wadanda suka bayyana son kai da aka nunawa shugaba Trump.",
+      "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan [ maaikatar shariar kasar, ] wadanda suka bayyana son kai da aka nunawa shugaba Trump.",
+      "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa, suna dauke da bayanan maaikatar shariar kasar, wadanda suka bayyana son kai da aka nunawa shugaba [ Trump ]."
+    ],
+    "r_logp_score": [
+      2.2979373931884766,
+      11.273330688476562,
+      6.0986199378967285
+    ],
+    "score": [
+      -120.0301742553711,
+      -123.18087005615234,
+      -118.28775787353516
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "An yi zargin cewa takardun wadanda Fadar ta [ White House ] za ta iya fitar da su a yau Alhamis a baina jamaa , suna dauke da bayanan maaikatar shariar kasar , wadanda suka bayyana son kai da aka nunawa shugaba Trump .",
+      "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa , suna dauke da bayanan [ maaikatar shariar kasar , ] wadanda suka bayyana son kai da aka nunawa shugaba Trump .",
+      "An yi zargin cewa takardun wadanda Fadar ta White House za ta iya fitar da su a yau Alhamis a baina jamaa , suna dauke da bayanan maaikatar shariar kasar , wadanda suka bayyana son kai da aka nunawa shugaba [ Trump ] ."
+    ]
+  },
+  {
+    "template": "To amma daga cikin wadanda suka fara jinya nan da nan mata da miji daya ne kawai suka harbu da kwayar cutar .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 52,
+    "src_lang": [
+      "13 Russians, 3 Companies and Katsalandan Indicted in [ US ] Election"
+    ],
+    "template": "An Tuhumi 'Yan Kasar Rasha 13 Da Kamfanoni 3 Da Katsalandan A Zaben Amurka",
+    "tgt_lang": [
+      "An Tuhumi 'Yan Kasar Rasha 13 Da Kamfanoni 3 Da Katsalandan A Zaben [ Amurka ]"
+    ],
+    "r_logp_score": [
+      4.702366352081299
+    ],
+    "score": [
+      -21.655120849609375
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "An Tuhumi 'Yan Kasar Rasha 13 Da Kamfanoni 3 Da Katsalandan A Zaben [ Amurka ]"
+    ]
+  },
+  {
+    "template": "A kan samu barkewar annobar cutar Maleriya idan yanayi ya sauya ya zamo mai kyau ga sauro a wuraren da mutane ba su da kariyar garkuwar jiki ga wannan cuta ta Maleriya .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 54,
+    "src_lang": [
+      "[ Org ] on the Internet, says that this water and pollution problem kills more people than all the people killed by guns in the world combined."
+    ],
+    "template": "Org \"\"\"\" a kan Internet , yace wannan matsala ta ruwa da rashin tsabtar muhalli tana kashe mutane fiye da dukkan mutanen da ake kashewa da bindigogi a yake - yake .",
+    "tgt_lang": [
+      "[ Org ] \"\"\"\" a kan Internet, yace wannan matsala ta ruwa da rashin tsabtar muhalli tana kashe mutane fiye da dukkan mutanen da ake kashewa da bindigogi a yake - yake."
+    ],
+    "r_logp_score": [
+      3.4440174102783203
+    ],
+    "score": [
+      -94.06234741210938
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Org ] \"\"\"\" a kan Internet , yace wannan matsala ta ruwa da rashin tsabtar muhalli tana kashe mutane fiye da dukkan mutanen da ake kashewa da bindigogi a yake - yake ."
+    ]
+  },
+  {
+    "idx": 55,
+    "src_lang": [
+      "The [ American Civil Liberties Union ] (ACLU) has responded to Trump's posts, saying Trump's proposed policy violates the US Constitution's protection of the public.",
+      "The American Civil Liberties Union (ACLU) has responded to [ Trump's ] posts, saying Trump's proposed policy violates the US Constitution's protection of the public.",
+      "The American Civil Liberties Union (ACLU) has responded to Trump's posts, saying [ Trump's ] proposed policy violates the US Constitution's protection of the public."
+    ],
+    "template": "Kungiyar kare hakkokin jamm’a ta Amurka da ake kira American Civil Liberties Union da turanci , ta maida martani akan sakonnin na Trump , tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jama’a .",
+    "tgt_lang": [
+      "Kungiyar kare hakkokin jamma ta Amurka da ake kira [ American Civil Liberties Union ] da turanci, ta maida martani akan sakonnin na Trump, tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+      "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin na [ Trump ], tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa.",
+      "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci, ta maida martani akan sakonnin na Trump, tana mai cewa tsarin da [ Trump ] ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa."
+    ],
+    "r_logp_score": [
+      5.247007369995117,
+      6.735810279846191,
+      6.735809803009033
+    ],
+    "score": [
+      -137.76690673828125,
+      -132.44419860839844,
+      -132.92750549316406
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Kungiyar kare hakkokin jamma ta Amurka da ake kira [ American Civil Liberties Union ] da turanci , ta maida martani akan sakonnin na Trump , tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa .",
+      "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci , ta maida martani akan sakonnin na [ Trump ] , tana mai cewa tsarin da Trump ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa .",
+      "Kungiyar kare hakkokin jamma ta Amurka da ake kira American Civil Liberties Union da turanci , ta maida martani akan sakonnin na Trump , tana mai cewa tsarin da [ Trump ] ke so ya bi ya sabawa tanadin da kundin tsarin mulkin Amurka yayi akan kare jamaa ."
+    ]
+  },
+  {
+    "template": "Domin tabbatar da lafiyar dabbobin , an kuma samar da cibiyoyi a sassan kananan hukumomin jihar da makiyaya zasu kai dabbobin ayi masu rigakafin a cewar mataimakin gwamnan .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "• In kunne yaji gaggan jiki ya tsira .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 58,
+    "src_lang": [
+      "[ Nigerian Governors Forum ] asks for support of women's organizations in the fight against Polio"
+    ],
+    "template": "Dandalin Gwamnonin Najeriya ya nemi goyon bayan kungiyoyin mata a yaki da cutar Polio",
+    "tgt_lang": [
+      "[ Dandalin Gwamnonin Najeriya ] ya nemi goyon bayan kungiyoyin mata a yaki da cutar Polio"
+    ],
+    "r_logp_score": [
+      3.9688000679016113
+    ],
+    "score": [
+      -10.935284614562988
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Dandalin Gwamnonin Najeriya ] ya nemi goyon bayan kungiyoyin mata a yaki da cutar Polio"
+    ]
+  },
+  {
+    "template": "• Kayi amfani da gulob lokacin da kake kula da wadanda ke dauke da cutar Ebola .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 60,
+    "src_lang": [
+      "The [ World Health Organization ] has called on governments to protect the rights of their mentally disabled citizens who face discrimination and exclusion."
+    ],
+    "template": "Hukumar lafiya ta duniya tayi kira ga gwamnatoci su kare ‘yancin al’ummarsu dake da tabuwar hankali dake fuskantar wariya da kuma kuntatawa .",
+    "tgt_lang": [
+      "Hukumar [ lafiya ta duniya ] tayi kira ga gwamnatoci su kare yancin alummarsu dake da tabuwar hankali dake fuskantar wariya da kuma kuntatawa."
+    ],
+    "r_logp_score": [
+      13.432886123657227
+    ],
+    "score": [
+      -90.38446807861328
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Hukumar [ lafiya ta duniya ] tayi kira ga gwamnatoci su kare yancin alummarsu dake da tabuwar hankali dake fuskantar wariya da kuma kuntatawa ."
+    ]
+  },
+  {
+    "idx": 61,
+    "src_lang": [
+      "Earlier in his address to the people of [ Rivers State, ] Governor Amaechi explained that the campaign titled in English Women Against Polio \"\"\"\" (WAP) - Women Fighting Polio - is the second of four groups to be implemented with the aim of raising awareness among Nigerians about the impact of the disease and aiming to eradicate it",
+      "Earlier in his address to the people of Rivers State, Governor [ Amaechi ] explained that the campaign titled in English Women Against Polio \"\"\"\" (WAP) - Women Fighting Polio - is the second of four groups to be implemented with the aim of raising awareness among Nigerians about the impact of the disease and aiming to eradicate it"
+    ],
+    "template": "Tun farko a cikin jawabin da yayi ga al’ummar jihar Rivers , gwamna Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci “ Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan al’ummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya .",
+    "tgt_lang": [
+      "Tun farko a cikin jawabin da yayi ga alummar jihar [ Rivers, ] gwamna Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci  Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya.",
+      "Tun farko a cikin jawabin da yayi ga alummar jihar Rivers, gwamna [ Amaechi ] ya bayyana cewa kamfen din da aka ba lakabi da turanci  Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya."
+    ],
+    "r_logp_score": [
+      18.174358367919922,
+      3.32244873046875
+    ],
+    "score": [
+      -138.98240661621094,
+      -137.78997802734375
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Tun farko a cikin jawabin da yayi ga alummar jihar [ Rivers , ] gwamna Amaechi ya bayyana cewa kamfen din da aka ba lakabi da turanci Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya .",
+      "Tun farko a cikin jawabin da yayi ga alummar jihar Rivers , gwamna [ Amaechi ] ya bayyana cewa kamfen din da aka ba lakabi da turanci Women Against Polio \"\"\"\" ( WAP ) - Mata masu yaki da shan inna - shine rukuni na biyu daga cikin hudu da za a aiwatar da nufin wayar da kan alummar Najeriya dangane da illar cutar da nufin kawar da ita a kasar baki daya ."
+    ]
+  },
+  {
+    "template": "Dukkan kananan jinsuna wannan sauro mai yada cutar Maleriya dake da muhimmanci , ba su cizon mutane sai da daddare .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 63,
+    "src_lang": [
+      "Some federal and state courts challenging the [ Trump ] administration's move to include the question of citizenship or non-citizenship in the census are asking the court to clarify the decision for them."
+    ],
+    "template": "Wasu kotunan tarayya da kuma jihohi da suke kalubalantar matakin da gwamnatin Trump ta dauka na ta saka tambayar ko mutum dan kasa ne ko ba dan kasa ba , a kidayar jama’a suna neman kotu ta fayyace musu matakin .",
+    "tgt_lang": [
+      "Wasu kotunan tarayya da kuma jihohi da suke kalubalantar matakin da gwamnatin [ Trump ] ta dauka na ta saka tambayar ko mutum dan kasa ne ko ba dan kasa ba, a kidayar jamaa suna neman kotu ta fayyace musu matakin."
+    ],
+    "r_logp_score": [
+      0.9284526109695435
+    ],
+    "score": [
+      -80.4002456665039
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Wasu kotunan tarayya da kuma jihohi da suke kalubalantar matakin da gwamnatin [ Trump ] ta dauka na ta saka tambayar ko mutum dan kasa ne ko ba dan kasa ba , a kidayar jamaa suna neman kotu ta fayyace musu matakin ."
+    ]
+  },
+  {
+    "template": "Idan an yi jinkiri ba'a kawo wanda ya kamu da cutar asibiti ba su ne suke tsira da kyar ko su mutu .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 65,
+    "src_lang": [
+      "Investigators are looking into whether President [ Trump ] sought to undermine the FBI investigation after firing former FBI director James Comey.",
+      "Investigators are looking into whether President Trump sought to undermine the [ FBI ] investigation after firing former FBI director James Comey.",
+      "Investigators are looking into whether President Trump sought to undermine the FBI investigation after firing former [ FBI ] director James Comey.",
+      "Investigators are looking into whether President Trump sought to undermine the FBI investigation after firing former FBI director [ James Comey. ]"
+    ],
+    "template": "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI , James Comey , daga aiki",
+    "tgt_lang": [
+      "Masu binciki na duba ko Shugaba [ Trump ] ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI, James Comey, daga aiki",
+      "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken [ FBI ] bayan da ya kori tsohon darektan hukumar ta FBI, James Comey, daga aiki",
+      "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta [ FBI ], James Comey, daga aiki",
+      "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI, [ James Comey ], daga aiki"
+    ],
+    "r_logp_score": [
+      0.9284532070159912,
+      2.153902530670166,
+      2.1539032459259033,
+      10.076667785644531
+    ],
+    "score": [
+      -57.33440399169922,
+      -57.09750747680664,
+      -59.171600341796875,
+      -60.29697036743164
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Masu binciki na duba ko Shugaba [ Trump ] ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI , James Comey , daga aiki",
+      "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken [ FBI ] bayan da ya kori tsohon darektan hukumar ta FBI , James Comey , daga aiki",
+      "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta [ FBI ] , James Comey , daga aiki",
+      "Masu binciki na duba ko Shugaba Trump ya nemi lalata binciken FBI bayan da ya kori tsohon darektan hukumar ta FBI , [ James Comey ] , daga aiki"
+    ]
+  },
+  {
+    "template": "Darektan ya bayyana damuwa ganin samar da wannnan damar zata iya budewa wadansu matasa kafar shiga ayyukan assha , ya kuma shawarci al’umma su bada gudummuwa domin cimma burin kare rayuka da lafiyar ‘yammata .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "template": "Da Alama Karin Haraji Akan Tama Da Karafa Ba Zai Shafi Wasu Kasashe Ba",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 68,
+    "src_lang": [
+      "Professor [ Abdulsalam Nasidi ] one of the leaders of the fight against Ebola explains what they have done to cure the people."
+    ],
+    "template": "Farfasa Abdulsalam Nasidi daya daga cikin shugabannin yaki da cutar ta ebola yayi bayani akan abun da suka yi wajen warkar da mutanen .",
+    "tgt_lang": [
+      "Farfasa [ Abdulsalam Nasidi ] daya daga cikin shugabannin yaki da cutar ta ebola yayi bayani akan abun da suka yi wajen warkar da mutanen."
+    ],
+    "r_logp_score": [
+      5.446433067321777
+    ],
+    "score": [
+      -41.19694519042969
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Farfasa [ Abdulsalam Nasidi ] daya daga cikin shugabannin yaki da cutar ta ebola yayi bayani akan abun da suka yi wajen warkar da mutanen ."
+    ]
+  },
+  {
+    "idx": 69,
+    "src_lang": [
+      "The initiative was also supported by about 695 drivers members of the [ National Union of Transport Workers ] (NURTW) who donated their vehicles to take women and babies in need of urgent care."
+    ],
+    "template": "Shirin ya kuma sami goyon bayan kimanin direbobi 695 membobin kungiyar ma’aikatar sufuri ta kasa ( NURTW ) wadanda suka bada gudummuwar motocinsu domin daukar mata da jariran da suke bukatar kulawa ta gaggawa .",
+    "tgt_lang": [
+      "Shirin ya kuma sami goyon bayan kimanin direbobi 695 membobin [ kungiyar maaikatar sufuri ta kasa ] ( NURTW ) wadanda suka bada gudummuwar motocinsu domin daukar mata da jariran da suke bukatar kulawa ta gaggawa."
+    ],
+    "r_logp_score": [
+      17.39043426513672
+    ],
+    "score": [
+      -79.45922088623047
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Shirin ya kuma sami goyon bayan kimanin direbobi 695 membobin [ kungiyar maaikatar sufuri ta kasa ] ( NURTW ) wadanda suka bada gudummuwar motocinsu domin daukar mata da jariran da suke bukatar kulawa ta gaggawa ."
+    ]
+  },
+  {
+    "idx": 70,
+    "src_lang": [
+      "The meeting followed his meeting with North Korean leader [ Kim Jong Un, ] which was unsuccessful, and a damning testimony by his former lawyer, Michael Cohen, before the US Congress.",
+      "The meeting followed his meeting with North Korean leader Kim Jong Un, which was unsuccessful, and a damning testimony by his former lawyer, [ Michael Cohen, ] before the US Congress.",
+      "The meeting followed his meeting with North Korean leader Kim Jong Un, which was unsuccessful, and a damning testimony by his former lawyer, Michael Cohen, before the [ US Congress. ]"
+    ],
+    "template": "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un , wacce ba ta yi nasara ba , da kuma kazamar shaidar da tsohon lauyansa , Michael Cohen ya bayar a gaban majalisar dokokin Amurka .",
+    "tgt_lang": [
+      "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa [ Kim Jong Un, ] wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, Michael Cohen ya bayar a gaban majalisar dokokin Amurka.",
+      "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, [ Michael Cohen ] ya bayar a gaban majalisar dokokin Amurka.",
+      "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un, wacce ba ta yi nasara ba, da kuma kazamar shaidar da tsohon lauyansa, Michael Cohen ya bayar a gaban [ majalisar dokokin Amurka. ]"
+    ],
+    "r_logp_score": [
+      3.14235782623291,
+      11.116301536560059,
+      5.286126613616943
+    ],
+    "score": [
+      -46.177528381347656,
+      -44.8691520690918,
+      -45.59029769897461
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa [ Kim Jong Un , ] wacce ba ta yi nasara ba , da kuma kazamar shaidar da tsohon lauyansa , Michael Cohen ya bayar a gaban majalisar dokokin Amurka .",
+      "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un , wacce ba ta yi nasara ba , da kuma kazamar shaidar da tsohon lauyansa , [ Michael Cohen ] ya bayar a gaban majalisar dokokin Amurka .",
+      "Taron ya biyo bayan ganawarsa da shugaban Korea ta Arewa Kim Jong Un , wacce ba ta yi nasara ba , da kuma kazamar shaidar da tsohon lauyansa , Michael Cohen ya bayar a gaban [ majalisar dokokin Amurka . ]"
+    ]
+  },
+  {
+    "template": "Sai dai mujallar tace zuwa yanzu bata sami wani shaida da zai gaskanta wannan zargi ba .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 72,
+    "src_lang": [
+      "He also praised the decision of the [ al-Barnawi ] faction of Boko Haram to ease their fight.",
+      "He also praised the decision of the al-Barnawi faction of [ Boko Haram ] to ease their fight."
+    ],
+    "template": "Ya kuma yaba da shawarar da bangaren al - Barnawi na Boko Haram ya yanke na sassautawa a gwagwarmayarsu .",
+    "tgt_lang": [
+      "Ya kuma yaba da shawarar da bangaren [ al - Barnawi ] na Boko Haram ya yanke na sassautawa a gwagwarmayarsu.",
+      "Ya kuma yaba da shawarar da bangaren al - Barnawi na [ Boko Haram ] ya yanke na sassautawa a gwagwarmayarsu."
+    ],
+    "r_logp_score": [
+      4.898758888244629,
+      1.639962911605835
+    ],
+    "score": [
+      -32.407474517822266,
+      -32.59748458862305
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Ya kuma yaba da shawarar da bangaren [ al - Barnawi ] na Boko Haram ya yanke na sassautawa a gwagwarmayarsu .",
+      "Ya kuma yaba da shawarar da bangaren al - Barnawi na [ Boko Haram ] ya yanke na sassautawa a gwagwarmayarsu ."
+    ]
+  },
+  {
+    "template": "Wani sabon bincike na nuni da cewa , matan da suka daina al’ada wadanda suke shan taba sigari , ko suka taba sha a can baya , sun fi fuskantar kasadar kamuwa da cutar sankarar nono .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 74,
+    "src_lang": [
+      "[ US House of Representatives ] to continue hearing on Russian investigation"
+    ],
+    "template": "'Yan Majalisar Wakilan Amurka Zasu Ci Gaba Da Jin Bahasi Akan Binciken Rasha",
+    "tgt_lang": [
+      "[ 'Yan Majalisar Wakilan Amurka ] Zasu Ci Gaba Da Jin Bahasi Akan Binciken Rasha"
+    ],
+    "r_logp_score": [
+      5.167112350463867
+    ],
+    "score": [
+      -43.405399322509766
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ 'Yan Majalisar Wakilan Amurka ] Zasu Ci Gaba Da Jin Bahasi Akan Binciken Rasha"
+    ]
+  },
+  {
+    "template": "'Yan Jami'iyar Democrat Sun Zargi 'Yan Republican Da Sauya Bayanan Sirri",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 76,
+    "src_lang": [
+      "President [ Trump ] announced that the ceremony, held in honor of the United States, would highlight the importance of the country's military might, and his speech would be broadcast from the steps of the Lincoln Memorial.",
+      "President Trump announced that the ceremony, held in honor of the [ United States, ] would highlight the importance of the country's military might, and his speech would be broadcast from the steps of the Lincoln Memorial.",
+      "President Trump announced that the ceremony, held in honor of the United States, would highlight the importance of the country's military might, and his speech would be broadcast from the steps of the [ Lincoln Memorial. ]"
+    ],
+    "template": "Shugaba Trump ya sanar da cewa , za a gudanar da sarawar , da ake yi wa Amurka , don nuna muhimmancin karfin ikon sojojin kasar , kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial .",
+    "tgt_lang": [
+      "Shugaba [ Trump ] ya sanar da cewa, za a gudanar da sarawar, da ake yi wa Amurka, don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial.",
+      "Shugaba Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi wa [ Amurka, ] don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial.",
+      "Shugaba Trump ya sanar da cewa, za a gudanar da sarawar, da ake yi wa Amurka, don nuna muhimmancin karfin ikon sojojin kasar, kuma za a nuna jawabinsa daga kan matakalar benen [ Lincoln Memorial ]."
+    ],
+    "r_logp_score": [
+      0.9284532070159912,
+      2.632519483566284,
+      14.21119213104248
+    ],
+    "score": [
+      -90.73822021484375,
+      -92.76235961914062,
+      -89.9602279663086
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Shugaba [ Trump ] ya sanar da cewa , za a gudanar da sarawar , da ake yi wa Amurka , don nuna muhimmancin karfin ikon sojojin kasar , kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial .",
+      "Shugaba Trump ya sanar da cewa , za a gudanar da sarawar , da ake yi wa [ Amurka , ] don nuna muhimmancin karfin ikon sojojin kasar , kuma za a nuna jawabinsa daga kan matakalar benen Lincoln Memorial .",
+      "Shugaba Trump ya sanar da cewa , za a gudanar da sarawar , da ake yi wa Amurka , don nuna muhimmancin karfin ikon sojojin kasar , kuma za a nuna jawabinsa daga kan matakalar benen [ Lincoln Memorial ] ."
+    ]
+  },
+  {
+    "idx": 77,
+    "src_lang": [
+      "Representative [ Adam Schiff ] revealed in a letter to committee chairman Devin Nunes on Wednesday that Democrats had discovered that the information contained in the documents had been tampered with, which he described as \"disturbing\".",
+      "Representative Adam Schiff revealed in a letter to committee chairman [ Devin Nunes ] on Wednesday that Democrats had discovered that the information contained in the documents had been tampered with, which he described as \"disturbing\"."
+    ],
+    "template": "Dan majalisar wakilai , Adam Schiff ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin Devin Nunes a jiya Laraba cewa , ‘yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun , lamarin da ya kwatanta a matsayin “ mai ta da hankali .",
+    "tgt_lang": [
+      "Dan majalisar wakilai, [ Adam Schiff ] ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin Devin Nunes a jiya Laraba cewa, yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun, lamarin da ya kwatanta a matsayin  mai ta da hankali.",
+      "Dan majalisar wakilai, Adam Schiff ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin [ Devin Nunes ] a jiya Laraba cewa, yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun, lamarin da ya kwatanta a matsayin  mai ta da hankali."
+    ],
+    "r_logp_score": [
+      1.1071563959121704,
+      6.067590236663818
+    ],
+    "score": [
+      -91.67817687988281,
+      -87.87583923339844
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Dan majalisar wakilai , [ Adam Schiff ] ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin Devin Nunes a jiya Laraba cewa , yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun , lamarin da ya kwatanta a matsayin mai ta da hankali .",
+      "Dan majalisar wakilai , Adam Schiff ne ya bayyana a wata wasika da ya aike wa shugaban kwamitin [ Devin Nunes ] a jiya Laraba cewa , yan Democrat sun gano cewa an sauya bayanan da ke cikin takardun , lamarin da ya kwatanta a matsayin mai ta da hankali ."
+    ]
+  },
+  {
+    "idx": 78,
+    "src_lang": [
+      "Ambassador [ Eric Whitaker ] said, the leaders of the two countries have full cooperation to enable them to successfully achieve this goal."
+    ],
+    "template": "Jakaden Eric Whitaker yace , gwamantocin kasashen biyu na da cikaken hadin kan da zai basu damar nasarar cimma wannan guri .",
+    "tgt_lang": [
+      "Jakaden [ Eric Whitaker ] yace, gwamantocin kasashen biyu na da cikaken hadin kan da zai basu damar nasarar cimma wannan guri."
+    ],
+    "r_logp_score": [
+      2.287402629852295
+    ],
+    "score": [
+      -76.47846221923828
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Jakaden [ Eric Whitaker ] yace , gwamantocin kasashen biyu na da cikaken hadin kan da zai basu damar nasarar cimma wannan guri ."
+    ]
+  },
+  {
+    "idx": 79,
+    "src_lang": [
+      "After announcing support for farmers, [ Trump ] reacted to the loss of U.S. trade with China, while answering questions from a group of concerned journalists.",
+      "After announcing support for farmers, Trump reacted to the loss of [ U.S. ] trade with China, while answering questions from a group of concerned journalists.",
+      "After announcing support for farmers, Trump reacted to the loss of U.S. trade with [ China, ] while answering questions from a group of concerned journalists."
+    ],
+    "template": "Bayan sanar da tallafi ga manoma , Trump ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da China , yayin da yake amsa tambayoyi da wani rukunin ‘yan jarida kakilan .",
+    "tgt_lang": [
+      "Bayan sanar da tallafi ga manoma, [ Trump ] ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da China, yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan.",
+      "Bayan sanar da tallafi ga manoma, Trump ya maida martani a kan asarar da [ Amurka ] ke yi a kasuwancinta da China, yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan.",
+      "Bayan sanar da tallafi ga manoma, Trump ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da [ China, ] yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan."
+    ],
+    "r_logp_score": [
+      0.9284532070159912,
+      4.305111885070801,
+      0.5111974477767944
+    ],
+    "score": [
+      -97.0822982788086,
+      -103.98394775390625,
+      -99.51683044433594
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Bayan sanar da tallafi ga manoma , [ Trump ] ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da China , yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan .",
+      "Bayan sanar da tallafi ga manoma , Trump ya maida martani a kan asarar da [ Amurka ] ke yi a kasuwancinta da China , yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan .",
+      "Bayan sanar da tallafi ga manoma , Trump ya maida martani a kan asarar da Amurka ke yi a kasuwancinta da [ China , ] yayin da yake amsa tambayoyi da wani rukunin yan jarida kakilan ."
+    ]
+  },
+  {
+    "idx": 80,
+    "src_lang": [
+      "In the indictment, filed by federal investigators, it was alleged that a Russian-based, Kremlin-affiliated Internet analytics company and 12 of its employees engaged in activities aimed at interfering with elections and the political system of the [ United States ] since the turn of the millennium."
+    ],
+    "template": "A cikin takardar tuhumar da masu taimakawa gwamnatin tarayya tantance laifi suka bayar , an yi zargin cewa , wani kamfanin nazarin hanyar sadarwar internet dake da cibiya a Rasha , wanda kuma yake da alaka da Kremlin , da ma'aikatansa goma sha biyu sun gudanar da wadansu ayyuka da nufin yin katsalandan a zabe , da kuma tsarin siyasar Amurka daga shekara ta dubu",
+    "tgt_lang": [
+      "A cikin takardar tuhumar da masu taimakawa gwamnatin tarayya tantance laifi suka bayar, an yi zargin cewa, wani kamfanin nazarin hanyar sadarwar internet dake da cibiya a Rasha, wanda kuma yake da alaka da Kremlin, da ma'aikatansa goma sha biyu sun gudanar da wadansu ayyuka da nufin yin katsalandan a zabe, da kuma tsarin siyasar [ Amurka ] daga shekara ta dubu"
+    ],
+    "r_logp_score": [
+      1.4039052724838257
+    ],
+    "score": [
+      -162.08349609375
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "A cikin takardar tuhumar da masu taimakawa gwamnatin tarayya tantance laifi suka bayar , an yi zargin cewa , wani kamfanin nazarin hanyar sadarwar internet dake da cibiya a Rasha , wanda kuma yake da alaka da Kremlin , da ma'aikatansa goma sha biyu sun gudanar da wadansu ayyuka da nufin yin katsalandan a zabe , da kuma tsarin siyasar [ Amurka ] daga shekara ta dubu"
+    ]
+  },
+  {
+    "idx": 81,
+    "src_lang": [
+      "As some expected, the meeting turned out to be a platform to distract President [ Trump ] from the minor events of the past week, as the Robert Mueller Commission's investigation into alleged collusion between the Trump campaign and Russia seemed poised to conclude.",
+      "As some expected, the meeting turned out to be a platform to distract President Trump from the minor events of the past week, as the [ Robert Mueller Commission's ] investigation into alleged collusion between the Trump campaign and Russia seemed poised to conclude.",
+      "As some expected, the meeting turned out to be a platform to distract President Trump from the minor events of the past week, as the Robert Mueller Commission's investigation into alleged collusion between the [ Trump ] campaign and Russia seemed poised to conclude.",
+      "As some expected, the meeting turned out to be a platform to distract President Trump from the minor events of the past week, as the Robert Mueller Commission's investigation into alleged collusion between the Trump campaign and [ Russia ] seemed poised to conclude."
+    ],
+    "template": "Kamar dai yadda wasu suka yi tsammani , taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude , yayin da ake ganin alamar cewa , binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai , tsakanin kwamitin yakin neman zaben Trump da Rasha , ya kusa kawowa karshe .",
+    "tgt_lang": [
+      "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba [ Trump ] daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha, ya kusa kawowa karshe.",
+      "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da [ kwamitin Robert Mueller ] ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da Rasha, ya kusa kawowa karshe.",
+      "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben [ Trump ] da Rasha, ya kusa kawowa karshe.",
+      "Kamar dai yadda wasu suka yi tsammani, taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude, yayin da ake ganin alamar cewa, binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai, tsakanin kwamitin yakin neman zaben Trump da [ Rasha ], ya kusa kawowa karshe."
+    ],
+    "r_logp_score": [
+      0.9284532070159912,
+      23.91813850402832,
+      0.9284532070159912,
+      0.8002013564109802
+    ],
+    "score": [
+      -141.04168701171875,
+      -142.4287567138672,
+      -142.8828582763672,
+      -140.2618865966797
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Kamar dai yadda wasu suka yi tsammani , taron ya zamanto wata kafa da ta dauke hankalin shugaba [ Trump ] daga kacaniyar abubuwan da suka faru a makon da ya shude , yayin da ake ganin alamar cewa , binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai , tsakanin kwamitin yakin neman zaben Trump da Rasha , ya kusa kawowa karshe .",
+      "Kamar dai yadda wasu suka yi tsammani , taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude , yayin da ake ganin alamar cewa , binciken da [ kwamitin Robert Mueller ] ke yi kan zargin hadin kai , tsakanin kwamitin yakin neman zaben Trump da Rasha , ya kusa kawowa karshe .",
+      "Kamar dai yadda wasu suka yi tsammani , taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude , yayin da ake ganin alamar cewa , binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai , tsakanin kwamitin yakin neman zaben [ Trump ] da Rasha , ya kusa kawowa karshe .",
+      "Kamar dai yadda wasu suka yi tsammani , taron ya zamanto wata kafa da ta dauke hankalin shugaba Trump daga kacaniyar abubuwan da suka faru a makon da ya shude , yayin da ake ganin alamar cewa , binciken da kwamitin Robert Mueller ke yi kan zargin hadin kai , tsakanin kwamitin yakin neman zaben Trump da [ Rasha ] , ya kusa kawowa karshe ."
+    ]
+  },
+  {
+    "idx": 82,
+    "src_lang": [
+      "In the next few days, the [ US Congress ] will begin hearings on Robert Mueller's report on his investigation into Russian interference in the 2016 US presidential election.",
+      "In the next few days, the US Congress will begin hearings on [ Robert Mueller's ] report on his investigation into Russian interference in the 2016 US presidential election.",
+      "In the next few days, the US Congress will begin hearings on Robert Mueller's report on his investigation into Russian interference in the 2016 [ US ] presidential election."
+    ],
+    "template": "Nan da wasu ‘yan kwanaki masu zuwa ne , majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016 .",
+    "tgt_lang": [
+      "Nan da wasu yan kwanaki masu zuwa ne, [ majalisar dokokin Amurka ] za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016.",
+      "Nan da wasu yan kwanaki masu zuwa ne, majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton [ Robert Mueller ] dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016.",
+      "Nan da wasu yan kwanaki masu zuwa ne, majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar [ Amurka ] a 2016."
+    ],
+    "r_logp_score": [
+      4.997628688812256,
+      14.88025188446045,
+      4.702366352081299
+    ],
+    "score": [
+      -113.05394744873047,
+      -110.86595153808594,
+      -112.50215148925781
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Nan da wasu yan kwanaki masu zuwa ne , [ majalisar dokokin Amurka ] za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016 .",
+      "Nan da wasu yan kwanaki masu zuwa ne , majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton [ Robert Mueller ] dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar Amurka a 2016 .",
+      "Nan da wasu yan kwanaki masu zuwa ne , majalisar dokokin Amurka za ta fara sauraren bahasi kan rahoton Robert Mueller dangane da binciken da ya yi kan katsalandin din Rasha a zaben shugaban kasar [ Amurka ] a 2016 ."
+    ]
+  },
+  {
+    "template": "• Kada ka taba wanda ya mutu da cutar Ebola .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 84,
+    "src_lang": [
+      "[ Deborah Ramirez's ] wife, 53, alleged that the incident occurred in the 1983-84 academic year, at Yale University during a party.",
+      "Deborah Ramirez's wife, 53, alleged that the incident occurred in the 1983-84 academic year, at [ Yale University ] during a party."
+    ],
+    "template": "Matar Deborah Ramirez , 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84 , a jami'ar Yale a lokacin wata liyafa .",
+    "tgt_lang": [
+      "[ Matar Deborah Ramirez ], 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84, a jami'ar Yale a lokacin wata liyafa.",
+      "Matar Deborah Ramirez, 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84, a [ jami'ar Yale ] a lokacin wata liyafa."
+    ],
+    "r_logp_score": [
+      11.578449249267578,
+      6.336158752441406
+    ],
+    "score": [
+      -46.93448257446289,
+      -44.05323028564453
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Matar Deborah Ramirez ] , 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84 , a jami'ar Yale a lokacin wata liyafa .",
+      "Matar Deborah Ramirez , 'yar shekaru 53 tayi zargin cewa lamarin ya auku ne a shekarar karatun 1983 - 84 , a [ jami'ar Yale ] a lokacin wata liyafa ."
+    ]
+  },
+  {
+    "idx": 85,
+    "src_lang": [
+      "On Tuesday, Americans flocked to the polls to cast their ballots in the election of new lawmakers, an election that is also expected to decide the fate of [ Donald Trump's ] presidency, which has divided voters."
+    ],
+    "template": "A yau Talata Amurkawa sun dunguma zuwa rumfunan zabe domin kada kuri’unsu a zaben sabbin ‘yan majalisar dokoki , zaben da ake ganin har ila yau zai yanke hukunci kan irin kamin ludayin shugabancin Donald Trump , lamarin da ya raba kawunan masu kada kuri’un .",
+    "tgt_lang": [
+      "A yau Talata Amurkawa sun dunguma zuwa rumfunan zabe domin kada kuriunsu a zaben sabbin yan majalisar dokoki, zaben da ake ganin har ila yau zai yanke hukunci kan irin kamin ludayin shugabancin [ Donald Trump ], lamarin da ya raba kawunan masu kada kuriun."
+    ],
+    "r_logp_score": [
+      12.141874313354492
+    ],
+    "score": [
+      -138.2647705078125
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "A yau Talata Amurkawa sun dunguma zuwa rumfunan zabe domin kada kuriunsu a zaben sabbin yan majalisar dokoki , zaben da ake ganin har ila yau zai yanke hukunci kan irin kamin ludayin shugabancin [ Donald Trump ] , lamarin da ya raba kawunan masu kada kuriun ."
+    ]
+  },
+  {
+    "idx": 86,
+    "src_lang": [
+      "The [ White House ] said Deputy Prime Minister Liu would lead a delegation of Chinese officials to Washington next week for further talks on May 8.",
+      "The White House said Deputy Prime Minister [ Liu ] would lead a delegation of Chinese officials to Washington next week for further talks on May 8.",
+      "The White House said Deputy Prime Minister Liu would lead a delegation of Chinese officials to [ Washington ] next week for further talks on May 8."
+    ],
+    "template": "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jami’an China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu .",
+    "tgt_lang": [
+      "Fadar [ White House ] ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu.",
+      "Fadar White House ta ce mataimakin Firimiya [ Liu ] shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu.",
+      "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa [ Washinton ] a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu."
+    ],
+    "r_logp_score": [
+      2.2979366779327393,
+      2.6319944858551025,
+      5.391626358032227
+    ],
+    "score": [
+      -66.30752563476562,
+      -58.94001388549805,
+      -58.787593841552734
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Fadar [ White House ] ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu .",
+      "Fadar White House ta ce mataimakin Firimiya [ Liu ] shine zai jagoranci tawagar jamian China zuwa Washinton a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu .",
+      "Fadar White House ta ce mataimakin Firimiya Liu shine zai jagoranci tawagar jamian China zuwa [ Washinton ] a makon gaba domin ci gaba da tattaunawar ranar 8 ga watan Mayu ."
+    ]
+  },
+  {
+    "idx": 87,
+    "src_lang": [
+      "In the state of [ North Dakota, ] the temperature was below 32 degrees Celsius, while it was below 52 degrees in other parts of Minnesota.",
+      "In the state of North Dakota, the temperature was below 32 degrees Celsius, while it was below 52 degrees in other parts of [ Minnesota. ]"
+    ],
+    "template": "A can yankin jihar Dakota ta Arewa , sanyin iskar , ya kai kasa da maki 32 na ma’aunin digrin Celcius , yayin da ya kai kasa da maki 52 a wasu yankunan jihar Minnesota .",
+    "tgt_lang": [
+      "A can yankin jihar [ Dakota ta Arewa, ] sanyin iskar, ya kai kasa da maki 32 na maaunin digrin Celcius, yayin da ya kai kasa da maki 52 a wasu yankunan jihar Minnesota.",
+      "A can yankin jihar Dakota ta Arewa, sanyin iskar, ya kai kasa da maki 32 na maaunin digrin Celcius, yayin da ya kai kasa da maki 52 a wasu yankunan jihar [ Minnesota ]."
+    ],
+    "r_logp_score": [
+      2.7258753776550293,
+      9.519956588745117
+    ],
+    "score": [
+      -124.59357452392578,
+      -125.35899353027344
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "A can yankin jihar [ Dakota ta Arewa , ] sanyin iskar , ya kai kasa da maki 32 na maaunin digrin Celcius , yayin da ya kai kasa da maki 52 a wasu yankunan jihar Minnesota .",
+      "A can yankin jihar Dakota ta Arewa , sanyin iskar , ya kai kasa da maki 32 na maaunin digrin Celcius , yayin da ya kai kasa da maki 52 a wasu yankunan jihar [ Minnesota ] ."
+    ]
+  },
+  {
+    "idx": 88,
+    "src_lang": [
+      "This exhibition was released by the [ Judicial Branch of the Congress ] and was later made available to the press."
+    ],
+    "template": "Bangaren shari'a na Majalisa ne dai suka fitar da wannan takardun nuni wanda daga baya manema labarai suka samu .",
+    "tgt_lang": [
+      "[ Bangaren shari'a na Majalisa ] ne dai suka fitar da wannan takardun nuni wanda daga baya manema labarai suka samu."
+    ],
+    "r_logp_score": [
+      8.64481258392334
+    ],
+    "score": [
+      -58.5096435546875
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Bangaren shari'a na Majalisa ] ne dai suka fitar da wannan takardun nuni wanda daga baya manema labarai suka samu ."
+    ]
+  },
+  {
+    "template": "abun ya fi .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 90,
+    "src_lang": [
+      "The [ Democratic National Committee ] has informed the Federal Bureau of Investigation (FBI) that it has successfully thwarted an attempted theft of voter records.",
+      "The Democratic National Committee has informed the [ Federal Bureau of Investigation ] (FBI) that it has successfully thwarted an attempted theft of voter records."
+    ],
+    "template": "Kwamitin gudanarwa na Jam’iyyar Democrat ya sanar da hukumar binciken manyan laifuka na kasar ( FBI ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuri’a .",
+    "tgt_lang": [
+      "[ Kwamitin gudanarwa na Jamiyyar Democrat ] ya sanar da hukumar binciken manyan laifuka na kasar ( FBI ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria.",
+      "Kwamitin gudanarwa na Jamiyyar Democrat ya sanar da hukumar binciken manyan laifuka na kasar ( [ FBI ] ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria."
+    ],
+    "r_logp_score": [
+      7.603216171264648,
+      5.326184272766113
+    ],
+    "score": [
+      -135.20286560058594,
+      -140.23907470703125
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Kwamitin gudanarwa na Jamiyyar Democrat ] ya sanar da hukumar binciken manyan laifuka na kasar ( FBI ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria .",
+      "Kwamitin gudanarwa na Jamiyyar Democrat ya sanar da hukumar binciken manyan laifuka na kasar ( [ FBI ] ) cewa yayi nasarar tarwatsa wani yunkurin satan bayanai dake runbun adana bayanan masu jefa kuria ."
+    ]
+  },
+  {
+    "idx": 91,
+    "src_lang": [
+      "\"\"\"\"On Sunday, a friend of [ Trump ] from the U.S. Senate urged him to open the cabinet at least temporarily and then try again with the Democrats.",
+      "\"\"\"\"On Sunday, a friend of Trump from the [ U.S. Senate ] urged him to open the cabinet at least temporarily and then try again with the Democrats."
+    ],
+    "template": "\"\"\"\" Jiya Lahadi , wani aminin Trump daga cikin 'yan majalisar dattawan Amurka ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat .",
+    "tgt_lang": [
+      "\"\"\"\" Jiya Lahadi, wani aminin [ Trump ] daga cikin 'yan majalisar dattawan Amurka ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat.",
+      "\"\"\"\" Jiya Lahadi, wani aminin Trump daga cikin [ 'yan majalisar dattawan Amurka ] ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat."
+    ],
+    "r_logp_score": [
+      0.9284522533416748,
+      7.120762825012207
+    ],
+    "score": [
+      -96.01836395263672,
+      -96.27879333496094
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "\"\"\"\" Jiya Lahadi , wani aminin [ Trump ] daga cikin 'yan majalisar dattawan Amurka ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat .",
+      "\"\"\"\" Jiya Lahadi , wani aminin Trump daga cikin [ 'yan majalisar dattawan Amurka ] ya yi kira gare shi da ya bude ma'aikatun a kalla na wuccin gadi sannan ya sake gwada tattaunawa da 'yan Dimokarat ."
+    ]
+  },
+  {
+    "template": "Yau dinnan Litini , aka shiga rana ta 24 da rufe wasu ma'aikatun gwamnatin tarayya .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 93,
+    "src_lang": [
+      "The air traffic controllers said that they had heard his name called [ Rich, ] telling him to get off the plane."
+    ],
+    "template": "Masu kula da zirga zirga jiragen sama sun ce sun ji ana kirarsa da suna Rich , ana ce masa ya sauka da jirgin .",
+    "tgt_lang": [
+      "Masu kula da zirga zirga jiragen sama sun ce sun ji ana kirarsa da suna [ Rich, ] ana ce masa ya sauka da jirgin."
+    ],
+    "r_logp_score": [
+      3.377963066101074
+    ],
+    "score": [
+      -54.9847412109375
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Masu kula da zirga zirga jiragen sama sun ce sun ji ana kirarsa da suna [ Rich , ] ana ce masa ya sauka da jirgin ."
+    ]
+  },
+  {
+    "template": "Tace , bincike a duk fadin duniya ya nuna cewa , masu tabuwar hankali da ake kwantarwa a asibitai suna fuskantar tashin hankali ta fanni dabam dabam da suka hada da cin zarafinsu da dauresu , da hanasu abinci da ruwan sha , da kyalesu cikin yanayin rashin tsabta , da dauresu a hanasu walwala , da kyaliya na tsawon shekaru , wadansu lokuta iya rayuwarsu .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 95,
+    "src_lang": [
+      "According to [ Michelle Funk, ] director of psychiatry at the World Health Organization, people with dementia are often overlooked.",
+      "According to Michelle Funk, director of psychiatry at the [ World Health Organization, ] people with dementia are often overlooked."
+    ],
+    "template": "Jami’ar kula da masu tabuwar kwakwalwa a hukumar lafiya ta duniya Michelle Funk tace , sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali .",
+    "tgt_lang": [
+      "Jamiar kula da masu tabuwar kwakwalwa a hukumar lafiya ta duniya [ Michelle Funk ] tace, sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali.",
+      "Jamiar kula da masu tabuwar kwakwalwa a [ hukumar lafiya ta duniya ] Michelle Funk tace, sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali."
+    ],
+    "r_logp_score": [
+      11.523265838623047,
+      18.463462829589844
+    ],
+    "score": [
+      -110.57498168945312,
+      -110.48086547851562
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Jamiar kula da masu tabuwar kwakwalwa a hukumar lafiya ta duniya [ Michelle Funk ] tace , sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali .",
+      "Jamiar kula da masu tabuwar kwakwalwa a [ hukumar lafiya ta duniya ] Michelle Funk tace , sau da dama akan yi watsi da mutanen da ke fama da tabuwar hankali ."
+    ]
+  },
+  {
+    "idx": 96,
+    "src_lang": [
+      "A spokesperson for the Hausa department, [ Ladan Ibrahim Ayawa, ] quoted officials as saying that the man who died from the Ebola virus was named Patrick Sawyer, a 40-year-old Liberian national, who became ill when he arrived in Nigeria on Sunday from Monrovia.",
+      "A spokesperson for the Hausa department, Ladan Ibrahim Ayawa, quoted officials as saying that the man who died from the Ebola virus was named [ Patrick Sawyer, ] a 40-year-old Liberian national, who became ill when he arrived in Nigeria on Sunday from Monrovia.",
+      "A spokesperson for the Hausa department, Ladan Ibrahim Ayawa, quoted officials as saying that the man who died from the Ebola virus was named Patrick Sawyer, a 40-year-old Liberian national, who became ill when he arrived in [ Nigeria ] on Sunday from Monrovia.",
+      "A spokesperson for the Hausa department, Ladan Ibrahim Ayawa, quoted officials as saying that the man who died from the Ebola virus was named Patrick Sawyer, a 40-year-old Liberian national, who became ill when he arrived in Nigeria on Sunday from [ Monrovia. ]"
+    ],
+    "template": "Wakilin sashen Hausa , Ladan Ibrahim Ayawa , ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer , dan kasar Liberiya , mai shekaru 40 da haihuwa , wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia .",
+    "tgt_lang": [
+      "Wakilin sashen Hausa, [ Ladan Ibrahim Ayawa, ] ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia.",
+      "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa [ Patrick Sawyer, ] dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia.",
+      "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa [ Najeriya ] ranar lahadi daga Monrovia.",
+      "Wakilin sashen Hausa, Ladan Ibrahim Ayawa, ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer, dan kasar Liberiya, mai shekaru 40 da haihuwa, wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga [ Monrovia ]."
+    ],
+    "r_logp_score": [
+      33.350311279296875,
+      3.6863412857055664,
+      1.5146877765655518,
+      8.444863319396973
+    ],
+    "score": [
+      -76.70448303222656,
+      -76.66255187988281,
+      -76.25643920898438,
+      -75.69233703613281
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "Wakilin sashen Hausa , [ Ladan Ibrahim Ayawa , ] ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer , dan kasar Liberiya , mai shekaru 40 da haihuwa , wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia .",
+      "Wakilin sashen Hausa , Ladan Ibrahim Ayawa , ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa [ Patrick Sawyer , ] dan kasar Liberiya , mai shekaru 40 da haihuwa , wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga Monrovia .",
+      "Wakilin sashen Hausa , Ladan Ibrahim Ayawa , ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer , dan kasar Liberiya , mai shekaru 40 da haihuwa , wanda ya fara rashin lafiya lokacin da ya isa [ Najeriya ] ranar lahadi daga Monrovia .",
+      "Wakilin sashen Hausa , Ladan Ibrahim Ayawa , ya ambaci jami'ai su na fadin cewa mutumin da ya mutu a sanadin cutar ta Ebola sunansa Patrick Sawyer , dan kasar Liberiya , mai shekaru 40 da haihuwa , wanda ya fara rashin lafiya lokacin da ya isa Najeriya ranar lahadi daga [ Monrovia ] ."
+    ]
+  },
+  {
+    "idx": 97,
+    "src_lang": [
+      "\"\"\"\"The Chinese official said, If [ this ] US move harms China's interests, China will join with other countries concerned in responding to protect their rights and",
+      "\"\"\"\"The Chinese official said, If this US move [ harms ] China's interests, China will join with other countries concerned in responding to protect their rights and",
+      "\"\"\"\"The Chinese official said, If this US move harms China's [ interests, ] China will join with other countries concerned in responding to protect their rights and"
+    ],
+    "template": "\"\"\"\" Jami’in na kasar China ya ce , “ Idan wannan matakin na Amurka ya yi illa ga muradun China , kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare ‘yancinsu da kuma muradunsu .",
+    "tgt_lang": [
+      "\"\"\"\" Jamiin na kasar China ya ce,  Idan [ wannan ] matakin na Amurka ya yi illa ga muradun China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+      "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan matakin na Amurka ya [ yi illa ] ga muradun China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu.",
+      "\"\"\"\" Jamiin na kasar China ya ce,  Idan wannan matakin na Amurka ya yi illa ga [ muradun ] China, kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu."
+    ],
+    "r_logp_score": [
+      1.3097155094146729,
+      7.980338096618652,
+      12.637884140014648
+    ],
+    "score": [
+      -95.61530303955078,
+      -99.37124633789062,
+      -96.46365356445312
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "\"\"\"\" Jamiin na kasar China ya ce , Idan [ wannan ] matakin na Amurka ya yi illa ga muradun China , kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu .",
+      "\"\"\"\" Jamiin na kasar China ya ce , Idan wannan matakin na Amurka ya [ yi illa ] ga muradun China , kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu .",
+      "\"\"\"\" Jamiin na kasar China ya ce , Idan wannan matakin na Amurka ya yi illa ga [ muradun ] China , kasar China za ta hada kai da sauran kasashen da abin ya shafa wajen mai da martani don kare yancinsu da kuma muradunsu ."
+    ]
+  },
+  {
+    "template": "An shirya kamalla wannan gwaji ne a shekara ta dubu biyu da goma sha biyar , to amma an gabatar da sakamakon binciken da wuri ne a saboda anga abun ba zata .",
+    "tgt_lang": null,
+    "score": [],
+    "reversed_scores": [],
+    "flag": 0,
+    "formatted_tgt": ""
+  },
+  {
+    "idx": 99,
+    "src_lang": [
+      "The [ U.S. Department of Justice ] said Wednesday night that the plan by the committee's chairman, Congressman Jarrold Nadler, to have the committee question Barr was inappropriate, and the department said Barr was still happy to meet directly with the committee on questions about Mueller.",
+      "The U.S. Department of Justice said Wednesday night that the plan by the committee's chairman, Congressman [ Jarrold Nadler, ] to have the committee question Barr was inappropriate, and the department said Barr was still happy to meet directly with the committee on questions about Mueller.",
+      "The U.S. Department of Justice said Wednesday night that the plan by the committee's chairman, Congressman Jarrold Nadler, to have the committee question [ Barr ] was inappropriate, and the department said Barr was still happy to meet directly with the committee on questions about Mueller.",
+      "The U.S. Department of Justice said Wednesday night that the plan by the committee's chairman, Congressman Jarrold Nadler, to have the committee question Barr was inappropriate, and the department said [ Barr ] was still happy to meet directly with the committee on questions about Mueller.",
+      "The U.S. Department of Justice said Wednesday night that the plan by the committee's chairman, Congressman Jarrold Nadler, to have the committee question Barr was inappropriate, and the department said Barr was still happy to meet directly with the committee on questions about [ Mueller. ]"
+    ],
+    "template": "Ma’aikatar shari’ar Amurka , ta fada a daren jiya Laraba cewa , shirin da shugaban kwamitin , dan majalisa Jarrold Nadler ya yi na sa ‘yan kwamitin su yi wa Barr tambayoyi bai dace ba , ma’aikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da ‘yan kwamitin akan tambayoyin da za su yi masa game da Mueller .",
+    "tgt_lang": [
+      "[ Maaikatar shariar Amurka ], ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+      "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa [ Jarrold Nadler ] ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+      "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa [ Barr ] tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+      "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu [ Barr ] na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller.",
+      "Maaikatar shariar Amurka, ta fada a daren jiya Laraba cewa, shirin da shugaban kwamitin, dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba, maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da [ Mueller ]."
+    ],
+    "r_logp_score": [
+      4.462140083312988,
+      13.079385757446289,
+      2.1219968795776367,
+      2.1219968795776367,
+      9.996760368347168
+    ],
+    "score": [
+      -143.11740112304688,
+      -136.22259521484375,
+      -143.61322021484375,
+      -136.49423217773438,
+      -138.99127197265625
+    ],
+    "flag": 1,
+    "formatted_tgt": [
+      "[ Maaikatar shariar Amurka ] , ta fada a daren jiya Laraba cewa , shirin da shugaban kwamitin , dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba , maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller .",
+      "Maaikatar shariar Amurka , ta fada a daren jiya Laraba cewa , shirin da shugaban kwamitin , dan majalisa [ Jarrold Nadler ] ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba , maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller .",
+      "Maaikatar shariar Amurka , ta fada a daren jiya Laraba cewa , shirin da shugaban kwamitin , dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa [ Barr ] tambayoyi bai dace ba , maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller .",
+      "Maaikatar shariar Amurka , ta fada a daren jiya Laraba cewa , shirin da shugaban kwamitin , dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba , maaikatar ta kuma ce har yanzu [ Barr ] na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da Mueller .",
+      "Maaikatar shariar Amurka , ta fada a daren jiya Laraba cewa , shirin da shugaban kwamitin , dan majalisa Jarrold Nadler ya yi na sa yan kwamitin su yi wa Barr tambayoyi bai dace ba , maaikatar ta kuma ce har yanzu Barr na farin cikin ya gana kai - tsaye da yan kwamitin akan tambayoyin da za su yi masa game da [ Mueller ] ."
+    ]
+  }
+]

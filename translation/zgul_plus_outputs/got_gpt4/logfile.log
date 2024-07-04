@@ -1,0 +1,3266 @@
+[16:13:30.8](GPT:INFO) Giving the following prompt:Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham
+Tags:
+```
+unte	PRON
+saei	X
+skamaiþ	X
+sik	PRON
+meina	X
+jah	INTJ
+waurde	NOUN
+meinaize	NOUN
+in	ADP
+gabaurþai	X
+þizai	NOUN
+horinondein	X
+jah	INTJ
+frawaurhton	X
+jah	INTJ
+sunus	PROPN
+mans	X
+skamaiþ	NOUN
+sik	PRON
+is	AUX
+þan	PRON
+qimiþ	NOUN
+in	ADP
+wulþau	NOUN
+attins	NOUN
+seinis	NOUN
+miþ	DET
+aggilum	X
+þaim	NOUN
+weiham	X
+```
+
+Sentence: biþe þan is neƕa was juþan at ibdaljin þis fairgunjis alewabagme dugunnun alakjo managei siponje faginondans hazjan guþ stibnai mikilai in allaizo þoze seƕun mahte qiþandans
+Tags:
+```
+biþe	INTJ
+þan	PRON
+is	PROPN
+neƕa	PUNCT
+was	AUX
+juþan	X
+at	ADP
+ibdaljin	NOUN
+þis	PRON
+fairgunjis	NOUN
+alewabagme	X
+dugunnun	NOUN
+alakjo	X
+managei	PROPN
+siponje	PROPN
+faginondans	NOUN
+hazjan	INTJ
+guþ	PROPN
+stibnai	VERB
+mikilai	ADV
+in	ADP
+allaizo	X
+þoze	PROPN
+seƕun	PUNCT
+mahte	X
+qiþandans	PROPN
+```
+
+Sentence: at andanahtja þan waurþanamma atberun du imma daimonarjans managans jah uswarp þans ahmans waurda jah allans þans ubil habandans gahailida ei usfullnodedi þata gamelido þairh Esaïan praufetu qiþandan
+Tags:
+```
+at	ADP
+andanahtja	X
+þan	PRON
+waurþanamma	NOUN
+atberun	NOUN
+du	PRON
+imma	NOUN
+daimonarjans	NOUN
+managans	NOUN
+jah	INTJ
+uswarp	X
+þans	PRON
+ahmans	NOUN
+waurda	NOUN
+jah	INTJ
+allans	DET
+þans	PRON
+ubil	NOUN
+habandans	NOUN
+gahailida	X
+ei	ADV
+usfullnodedi	NOUN
+þata	PRON
+gamelido	NOUN
+þairh	NOUN
+Esaïan	PROPN
+praufetu	NOUN
+qiþandan	NOUN
+```
+
+Sentence: iþ þata qiþandin imma sums andbahte atstandands gaf slah lofin Iesua qaþ uh
+Tags:
+```
+iþ	PRON
+þata	NOUN
+qiþandin	NOUN
+imma	ADP
+sums	DET
+andbahte	NOUN
+atstandands	NOUN
+gaf	VERB
+slah	ADV
+lofin	NOUN
+Iesua	PROPN
+qaþ	PROPN
+uh	INTJ
+```
+
+Sentence: jah juþan at andanahtja waurþanamma unte was paraskaiwe saei ist fruma sabbato qimands Iosef af Areimaþaias gaguds ragineis saei was jah silba beidands þiudangardjos gudis anananþjands galaiþ inn du Peilatau jah baþ þis leikis Iesuis
+Tags:
+```
+jah	INTJ
+juþan	X
+at	ADP
+andanahtja	X
+waurþanamma	X
+unte	ADP
+was	PRON
+paraskaiwe	X
+saei	X
+ist	AUX
+fruma	X
+sabbato	X
+qimands	X
+Iosef	PROPN
+af	ADP
+Areimaþaias	PROPN
+gaguds	PROPN
+ragineis	X
+saei	X
+was	X
+jah	INTJ
+silba	NOUN
+beidands	NOUN
+þiudangardjos	NOUN
+gudis	PROPN
+anananþjands	NOUN
+galaiþ	NOUN
+inn	DET
+du	PRON
+Peilatau	PROPN
+jah	INTJ
+baþ	NOUN
+þis	PRON
+leikis	NOUN
+Iesuis	PROPN
+```
+
+Sentence: jah biþragjands faur usstaig ana smakkabagm ei gaseƕi ina unte is and þata munaida þairhgaggan
+Tags:
+```
+jah	INTJ
+biþragjands	NOUN
+faur	VERB
+usstaig	NOUN
+ana	ADV
+smakkabagm	NOUN
+ei	PRON
+gaseƕi	PUNCT
+ina	DET
+unte	X
+is	X
+and	CCONJ
+þata	NOUN
+munaida	NOUN
+þairhgaggan	NOUN
+```
+
+Sentence: In jainaim þan dagam aftra at filu managai managein wisandein jah ni habandam ƕa matidedeina athaitands siponjans qaþ uh du im
+Tags:
+```
+In	ADP
+jainaim	INTJ
+þan	PRON
+dagam	NOUN
+aftra	ADV
+at	ADP
+filu	NUM
+managai	X
+managein	ADV
+wisandein	ADJ
+jah	INTJ
+ni	DET
+habandam	X
+ƕa	PUNCT
+matidedeina	ADJ
+athaitands	NOUN
+siponjans	PROPN
+qaþ	X
+uh	INTJ
+du	PRON
+im	DET
+```
+
+Sentence: þata qiþands Iesus usiddja miþ siponjam seinaim ufar rinnon þo Kaidron þarei was aurtigards in þanei galaiþ Iesus jah siponjos is
+Tags:
+```
+þata	PRON
+qiþands	NOUN
+Iesus	PROPN
+usiddja	X
+miþ	PRON
+siponjam	NOUN
+seinaim	NOUN
+ufar	ADP
+rinnon	NOUN
+þo	PRON
+Kaidron	PROPN
+þarei	ADV
+was	PRON
+aurtigards	X
+in	ADP
+þanei	PRON
+galaiþ	X
+Iesus	PROPN
+jah	INTJ
+siponjos	PROPN
+is	AUX
+```
+
+Sentence: ni ƕazuh saei qiþiþ mis frauja frauja inngaleiþiþ in þiudangardja himine ak sa taujands wiljan attins meinis þis in himinam
+Tags:
+```
+[16:13:35.586](httpx:INFO) HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:13:35.595](GPT:INFO) Received the following response:
+[16:13:35.595](GPT:INFO) ChatCompletion(id='chatcmpl-9ZyZ3Mq3WkJDla6vdfFGERzjScOMt', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```\nni\tADV\nƕazuh\tX\nsaei\tPRON\nqiþiþ\tVERB\nmis\tPRON\nfrauja\tNOUN\nfrauja\tNOUN\ninngaleiþiþ\tVERB\nin\tADP\nþiudangardja\tNOUN\nhimine\tNOUN\nak\tCCONJ\nsa\tDET\ntaujands\tNOUN\nwiljan\tNOUN\nattins\tNOUN\nmeinis\tADJ\nþis\tPRON\nin\tADP\nhiminam\tNOUN\n```', role='assistant', function_call=None, tool_calls=None))], created=1718361317, model='gpt-4-turbo-2024-04-09', object='chat.completion', system_fingerprint='fp_31a6c0accf', usage=CompletionUsage(completion_tokens=127, prompt_tokens=1840, total_tokens=1967))
+[16:13:35.600](main:INFO) Obtained completion: ```
+ni	ADV
+ƕazuh	X
+saei	PRON
+qiþiþ	VERB
+mis	PRON
+frauja	NOUN
+frauja	NOUN
+inngaleiþiþ	VERB
+in	ADP
+þiudangardja	NOUN
+himine	NOUN
+ak	CCONJ
+sa	DET
+taujands	NOUN
+wiljan	NOUN
+attins	NOUN
+meinis	ADJ
+þis	PRON
+in	ADP
+himinam	NOUN
+```
+[16:13:40.608](GPT:INFO) Giving the following prompt:Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: at andanahtja þan waurþanamma atberun du imma daimonarjans managans jah uswarp þans ahmans waurda jah allans þans ubil habandans gahailida ei usfullnodedi þata gamelido þairh Esaïan praufetu qiþandan
+Tags:
+```
+at	ADP
+andanahtja	X
+þan	PRON
+waurþanamma	NOUN
+atberun	NOUN
+du	PRON
+imma	NOUN
+daimonarjans	NOUN
+managans	NOUN
+jah	INTJ
+uswarp	X
+þans	PRON
+ahmans	NOUN
+waurda	NOUN
+jah	INTJ
+allans	DET
+þans	PRON
+ubil	NOUN
+habandans	NOUN
+gahailida	X
+ei	ADV
+usfullnodedi	NOUN
+þata	PRON
+gamelido	NOUN
+þairh	NOUN
+Esaïan	PROPN
+praufetu	NOUN
+qiþandan	NOUN
+```
+
+Sentence: unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham
+Tags:
+```
+unte	PRON
+saei	X
+skamaiþ	X
+sik	PRON
+meina	X
+jah	INTJ
+waurde	NOUN
+meinaize	NOUN
+in	ADP
+gabaurþai	X
+þizai	NOUN
+horinondein	X
+jah	INTJ
+frawaurhton	X
+jah	INTJ
+sunus	PROPN
+mans	X
+skamaiþ	NOUN
+sik	PRON
+is	AUX
+þan	PRON
+qimiþ	NOUN
+in	ADP
+wulþau	NOUN
+attins	NOUN
+seinis	NOUN
+miþ	DET
+aggilum	X
+þaim	NOUN
+weiham	X
+```
+
+Sentence: biþe þan is neƕa was juþan at ibdaljin þis fairgunjis alewabagme dugunnun alakjo managei siponje faginondans hazjan guþ stibnai mikilai in allaizo þoze seƕun mahte qiþandans
+Tags:
+```
+biþe	INTJ
+þan	PRON
+is	PROPN
+neƕa	PUNCT
+was	AUX
+juþan	X
+at	ADP
+ibdaljin	NOUN
+þis	PRON
+fairgunjis	NOUN
+alewabagme	X
+dugunnun	NOUN
+alakjo	X
+managei	PROPN
+siponje	PROPN
+faginondans	NOUN
+hazjan	INTJ
+guþ	PROPN
+stibnai	VERB
+mikilai	ADV
+in	ADP
+allaizo	X
+þoze	PROPN
+seƕun	PUNCT
+mahte	X
+qiþandans	PROPN
+```
+
+Sentence: jah biþragjands faur usstaig ana smakkabagm ei gaseƕi ina unte is and þata munaida þairhgaggan
+Tags:
+```
+jah	INTJ
+biþragjands	NOUN
+faur	VERB
+usstaig	NOUN
+ana	ADV
+smakkabagm	NOUN
+ei	PRON
+gaseƕi	PUNCT
+ina	DET
+unte	X
+is	X
+and	CCONJ
+þata	NOUN
+munaida	NOUN
+þairhgaggan	NOUN
+```
+
+Sentence: jah juþan at andanahtja waurþanamma unte was paraskaiwe saei ist fruma sabbato qimands Iosef af Areimaþaias gaguds ragineis saei was jah silba beidands þiudangardjos gudis anananþjands galaiþ inn du Peilatau jah baþ þis leikis Iesuis
+Tags:
+```
+jah	INTJ
+juþan	X
+at	ADP
+andanahtja	X
+waurþanamma	X
+unte	ADP
+was	PRON
+paraskaiwe	X
+saei	X
+ist	AUX
+fruma	X
+sabbato	X
+qimands	X
+Iosef	PROPN
+af	ADP
+Areimaþaias	PROPN
+gaguds	PROPN
+ragineis	X
+saei	X
+was	X
+jah	INTJ
+silba	NOUN
+beidands	NOUN
+þiudangardjos	NOUN
+gudis	PROPN
+anananþjands	NOUN
+galaiþ	NOUN
+inn	DET
+du	PRON
+Peilatau	PROPN
+jah	INTJ
+baþ	NOUN
+þis	PRON
+leikis	NOUN
+Iesuis	PROPN
+```
+
+Sentence: iþ þata qiþandin imma sums andbahte atstandands gaf slah lofin Iesua qaþ uh
+Tags:
+```
+iþ	PRON
+þata	NOUN
+qiþandin	NOUN
+imma	ADP
+sums	DET
+andbahte	NOUN
+atstandands	NOUN
+gaf	VERB
+slah	ADV
+lofin	NOUN
+Iesua	PROPN
+qaþ	PROPN
+uh	INTJ
+```
+
+Sentence: In jainaim þan dagam aftra at filu managai managein wisandein jah ni habandam ƕa matidedeina athaitands siponjans qaþ uh du im
+Tags:
+```
+In	ADP
+jainaim	INTJ
+þan	PRON
+dagam	NOUN
+aftra	ADV
+at	ADP
+filu	NUM
+managai	X
+managein	ADV
+wisandein	ADJ
+jah	INTJ
+ni	DET
+habandam	X
+ƕa	PUNCT
+matidedeina	ADJ
+athaitands	NOUN
+siponjans	PROPN
+qaþ	X
+uh	INTJ
+du	PRON
+im	DET
+```
+
+Sentence: þata qiþands Iesus usiddja miþ siponjam seinaim ufar rinnon þo Kaidron þarei was aurtigards in þanei galaiþ Iesus jah siponjos is
+Tags:
+```
+þata	PRON
+qiþands	NOUN
+Iesus	PROPN
+usiddja	X
+miþ	PRON
+siponjam	NOUN
+seinaim	NOUN
+ufar	ADP
+rinnon	NOUN
+þo	PRON
+Kaidron	PROPN
+þarei	ADV
+was	PRON
+aurtigards	X
+in	ADP
+þanei	PRON
+galaiþ	X
+Iesus	PROPN
+jah	INTJ
+siponjos	PROPN
+is	AUX
+```
+
+Sentence: akei swe raihtis in allamma managniþ galaubeinai jah waurda jah kunþja jah in allai usdaudein jah ana þizai us izwis in uns frijaþwai ei jah in þizai anstai managnaiþ
+Tags:
+```
+[16:13:49.436](httpx:INFO) HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:13:49.439](GPT:INFO) Received the following response:
+[16:13:49.439](GPT:INFO) ChatCompletion(id='chatcmpl-9ZyZD6LCMNdAUpx9bTHCZQ8mYm8We', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```\nakei\tINTJ\nswe\tPRON\nraihtis\tNOUN\nin\tADP\nallamma\tDET\nmanagniþ\tNOUN\ngalaubeinai\tNOUN\njah\tINTJ\nwaurda\tNOUN\njah\tINTJ\nkunþja\tNOUN\njah\tINTJ\nin\tADP\nallai\tDET\nusdaudein\tNOUN\njah\tINTJ\nana\tADP\nþizai\tPRON\nus\tPRON\nizwis\tPRON\nin\tADP\nuns\tPRON\nfrijaþwai\tNOUN\nei\tSCONJ\njah\tINTJ\nin\tADP\nþizai\tPRON\nanstai\tNOUN\nmanagnaiþ\tNOUN\n```', role='assistant', function_call=None, tool_calls=None))], created=1718361327, model='gpt-4-turbo-2024-04-09', object='chat.completion', system_fingerprint='fp_31a6c0accf', usage=CompletionUsage(completion_tokens=172, prompt_tokens=1858, total_tokens=2030))
+[16:13:49.439](main:INFO) Obtained completion: ```
+akei	INTJ
+swe	PRON
+raihtis	NOUN
+in	ADP
+allamma	DET
+managniþ	NOUN
+galaubeinai	NOUN
+jah	INTJ
+waurda	NOUN
+jah	INTJ
+kunþja	NOUN
+jah	INTJ
+in	ADP
+allai	DET
+usdaudein	NOUN
+jah	INTJ
+ana	ADP
+þizai	PRON
+us	PRON
+izwis	PRON
+in	ADP
+uns	PRON
+frijaþwai	NOUN
+ei	SCONJ
+jah	INTJ
+in	ADP
+þizai	PRON
+anstai	NOUN
+managnaiþ	NOUN
+```
+[16:13:54.450](GPT:INFO) Giving the following prompt:Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: at andanahtja þan waurþanamma atberun du imma daimonarjans managans jah uswarp þans ahmans waurda jah allans þans ubil habandans gahailida ei usfullnodedi þata gamelido þairh Esaïan praufetu qiþandan
+Tags:
+```
+at	ADP
+andanahtja	X
+þan	PRON
+waurþanamma	NOUN
+atberun	NOUN
+du	PRON
+imma	NOUN
+daimonarjans	NOUN
+managans	NOUN
+jah	INTJ
+uswarp	X
+þans	PRON
+ahmans	NOUN
+waurda	NOUN
+jah	INTJ
+allans	DET
+þans	PRON
+ubil	NOUN
+habandans	NOUN
+gahailida	X
+ei	ADV
+usfullnodedi	NOUN
+þata	PRON
+gamelido	NOUN
+þairh	NOUN
+Esaïan	PROPN
+praufetu	NOUN
+qiþandan	NOUN
+```
+
+Sentence: biþe þan is neƕa was juþan at ibdaljin þis fairgunjis alewabagme dugunnun alakjo managei siponje faginondans hazjan guþ stibnai mikilai in allaizo þoze seƕun mahte qiþandans
+Tags:
+```
+biþe	INTJ
+þan	PRON
+is	PROPN
+neƕa	PUNCT
+was	AUX
+juþan	X
+at	ADP
+ibdaljin	NOUN
+þis	PRON
+fairgunjis	NOUN
+alewabagme	X
+dugunnun	NOUN
+alakjo	X
+managei	PROPN
+siponje	PROPN
+faginondans	NOUN
+hazjan	INTJ
+guþ	PROPN
+stibnai	VERB
+mikilai	ADV
+in	ADP
+allaizo	X
+þoze	PROPN
+seƕun	PUNCT
+mahte	X
+qiþandans	PROPN
+```
+
+Sentence: In jainaim þan dagam aftra at filu managai managein wisandein jah ni habandam ƕa matidedeina athaitands siponjans qaþ uh du im
+Tags:
+```
+In	ADP
+jainaim	INTJ
+þan	PRON
+dagam	NOUN
+aftra	ADV
+at	ADP
+filu	NUM
+managai	X
+managein	ADV
+wisandein	ADJ
+jah	INTJ
+ni	DET
+habandam	X
+ƕa	PUNCT
+matidedeina	ADJ
+athaitands	NOUN
+siponjans	PROPN
+qaþ	X
+uh	INTJ
+du	PRON
+im	DET
+```
+
+Sentence: jah biþragjands faur usstaig ana smakkabagm ei gaseƕi ina unte is and þata munaida þairhgaggan
+Tags:
+```
+jah	INTJ
+biþragjands	NOUN
+faur	VERB
+usstaig	NOUN
+ana	ADV
+smakkabagm	NOUN
+ei	PRON
+gaseƕi	PUNCT
+ina	DET
+unte	X
+is	X
+and	CCONJ
+þata	NOUN
+munaida	NOUN
+þairhgaggan	NOUN
+```
+
+Sentence: unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham
+Tags:
+```
+unte	PRON
+saei	X
+skamaiþ	X
+sik	PRON
+meina	X
+jah	INTJ
+waurde	NOUN
+meinaize	NOUN
+in	ADP
+gabaurþai	X
+þizai	NOUN
+horinondein	X
+jah	INTJ
+frawaurhton	X
+jah	INTJ
+sunus	PROPN
+mans	X
+skamaiþ	NOUN
+sik	PRON
+is	AUX
+þan	PRON
+qimiþ	NOUN
+in	ADP
+wulþau	NOUN
+attins	NOUN
+seinis	NOUN
+miþ	DET
+aggilum	X
+þaim	NOUN
+weiham	X
+```
+
+Sentence: iþ þata qiþandin imma sums andbahte atstandands gaf slah lofin Iesua qaþ uh
+Tags:
+```
+iþ	PRON
+þata	NOUN
+qiþandin	NOUN
+imma	ADP
+sums	DET
+andbahte	NOUN
+atstandands	NOUN
+gaf	VERB
+slah	ADV
+lofin	NOUN
+Iesua	PROPN
+qaþ	PROPN
+uh	INTJ
+```
+
+Sentence: jah juþan at andanahtja waurþanamma unte was paraskaiwe saei ist fruma sabbato qimands Iosef af Areimaþaias gaguds ragineis saei was jah silba beidands þiudangardjos gudis anananþjands galaiþ inn du Peilatau jah baþ þis leikis Iesuis
+Tags:
+```
+jah	INTJ
+juþan	X
+at	ADP
+andanahtja	X
+waurþanamma	X
+unte	ADP
+was	PRON
+paraskaiwe	X
+saei	X
+ist	AUX
+fruma	X
+sabbato	X
+qimands	X
+Iosef	PROPN
+af	ADP
+Areimaþaias	PROPN
+gaguds	PROPN
+ragineis	X
+saei	X
+was	X
+jah	INTJ
+silba	NOUN
+beidands	NOUN
+þiudangardjos	NOUN
+gudis	PROPN
+anananþjands	NOUN
+galaiþ	NOUN
+inn	DET
+du	PRON
+Peilatau	PROPN
+jah	INTJ
+baþ	NOUN
+þis	PRON
+leikis	NOUN
+Iesuis	PROPN
+```
+
+Sentence: þata qiþands Iesus usiddja miþ siponjam seinaim ufar rinnon þo Kaidron þarei was aurtigards in þanei galaiþ Iesus jah siponjos is
+Tags:
+```
+þata	PRON
+qiþands	NOUN
+Iesus	PROPN
+usiddja	X
+miþ	PRON
+siponjam	NOUN
+seinaim	NOUN
+ufar	ADP
+rinnon	NOUN
+þo	PRON
+Kaidron	PROPN
+þarei	ADV
+was	PRON
+aurtigards	X
+in	ADP
+þanei	PRON
+galaiþ	X
+Iesus	PROPN
+jah	INTJ
+siponjos	PROPN
+is	AUX
+```
+
+Sentence: andhof imma so managei
+Tags:
+```
+[16:13:56.625](httpx:INFO) HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:13:56.628](GPT:INFO) Received the following response:
+[16:13:56.628](GPT:INFO) ChatCompletion(id='chatcmpl-9ZyZRqB6vIph6bF5bjmwhBVIC3dj8', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```\nandhof\tX\nimma\tADP\nso\tDET\nmanagei\tNOUN\n```', role='assistant', function_call=None, tool_calls=None))], created=1718361341, model='gpt-4-turbo-2024-04-09', object='chat.completion', system_fingerprint='fp_31a6c0accf', usage=CompletionUsage(completion_tokens=22, prompt_tokens=1793, total_tokens=1815))
+[16:13:56.628](main:INFO) Obtained completion: ```
+andhof	X
+imma	ADP
+so	DET
+managei	NOUN
+```
+[16:14:01.636](GPT:INFO) Giving the following prompt:Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham
+Tags:
+```
+unte	PRON
+saei	X
+skamaiþ	X
+sik	PRON
+meina	X
+jah	INTJ
+waurde	NOUN
+meinaize	NOUN
+in	ADP
+gabaurþai	X
+þizai	NOUN
+horinondein	X
+jah	INTJ
+frawaurhton	X
+jah	INTJ
+sunus	PROPN
+mans	X
+skamaiþ	NOUN
+sik	PRON
+is	AUX
+þan	PRON
+qimiþ	NOUN
+in	ADP
+wulþau	NOUN
+attins	NOUN
+seinis	NOUN
+miþ	DET
+aggilum	X
+þaim	NOUN
+weiham	X
+```
+
+Sentence: biþe þan is neƕa was juþan at ibdaljin þis fairgunjis alewabagme dugunnun alakjo managei siponje faginondans hazjan guþ stibnai mikilai in allaizo þoze seƕun mahte qiþandans
+Tags:
+```
+biþe	INTJ
+þan	PRON
+is	PROPN
+neƕa	PUNCT
+was	AUX
+juþan	X
+at	ADP
+ibdaljin	NOUN
+þis	PRON
+fairgunjis	NOUN
+alewabagme	X
+dugunnun	NOUN
+alakjo	X
+managei	PROPN
+siponje	PROPN
+faginondans	NOUN
+hazjan	INTJ
+guþ	PROPN
+stibnai	VERB
+mikilai	ADV
+in	ADP
+allaizo	X
+þoze	PROPN
+seƕun	PUNCT
+mahte	X
+qiþandans	PROPN
+```
+
+Sentence: jah biþragjands faur usstaig ana smakkabagm ei gaseƕi ina unte is and þata munaida þairhgaggan
+Tags:
+```
+jah	INTJ
+biþragjands	NOUN
+faur	VERB
+usstaig	NOUN
+ana	ADV
+smakkabagm	NOUN
+ei	PRON
+gaseƕi	PUNCT
+ina	DET
+unte	X
+is	X
+and	CCONJ
+þata	NOUN
+munaida	NOUN
+þairhgaggan	NOUN
+```
+
+Sentence: iþ þata qiþandin imma sums andbahte atstandands gaf slah lofin Iesua qaþ uh
+Tags:
+```
+iþ	PRON
+þata	NOUN
+qiþandin	NOUN
+imma	ADP
+sums	DET
+andbahte	NOUN
+atstandands	NOUN
+gaf	VERB
+slah	ADV
+lofin	NOUN
+Iesua	PROPN
+qaþ	PROPN
+uh	INTJ
+```
+
+Sentence: at andanahtja þan waurþanamma atberun du imma daimonarjans managans jah uswarp þans ahmans waurda jah allans þans ubil habandans gahailida ei usfullnodedi þata gamelido þairh Esaïan praufetu qiþandan
+Tags:
+```
+at	ADP
+andanahtja	X
+þan	PRON
+waurþanamma	NOUN
+atberun	NOUN
+du	PRON
+imma	NOUN
+daimonarjans	NOUN
+managans	NOUN
+jah	INTJ
+uswarp	X
+þans	PRON
+ahmans	NOUN
+waurda	NOUN
+jah	INTJ
+allans	DET
+þans	PRON
+ubil	NOUN
+habandans	NOUN
+gahailida	X
+ei	ADV
+usfullnodedi	NOUN
+þata	PRON
+gamelido	NOUN
+þairh	NOUN
+Esaïan	PROPN
+praufetu	NOUN
+qiþandan	NOUN
+```
+
+Sentence: jah juþan at andanahtja waurþanamma unte was paraskaiwe saei ist fruma sabbato qimands Iosef af Areimaþaias gaguds ragineis saei was jah silba beidands þiudangardjos gudis anananþjands galaiþ inn du Peilatau jah baþ þis leikis Iesuis
+Tags:
+```
+jah	INTJ
+juþan	X
+at	ADP
+andanahtja	X
+waurþanamma	X
+unte	ADP
+was	PRON
+paraskaiwe	X
+saei	X
+ist	AUX
+fruma	X
+sabbato	X
+qimands	X
+Iosef	PROPN
+af	ADP
+Areimaþaias	PROPN
+gaguds	PROPN
+ragineis	X
+saei	X
+was	X
+jah	INTJ
+silba	NOUN
+beidands	NOUN
+þiudangardjos	NOUN
+gudis	PROPN
+anananþjands	NOUN
+galaiþ	NOUN
+inn	DET
+du	PRON
+Peilatau	PROPN
+jah	INTJ
+baþ	NOUN
+þis	PRON
+leikis	NOUN
+Iesuis	PROPN
+```
+
+Sentence: In jainaim þan dagam aftra at filu managai managein wisandein jah ni habandam ƕa matidedeina athaitands siponjans qaþ uh du im
+Tags:
+```
+In	ADP
+jainaim	INTJ
+þan	PRON
+dagam	NOUN
+aftra	ADV
+at	ADP
+filu	NUM
+managai	X
+managein	ADV
+wisandein	ADJ
+jah	INTJ
+ni	DET
+habandam	X
+ƕa	PUNCT
+matidedeina	ADJ
+athaitands	NOUN
+siponjans	PROPN
+qaþ	X
+uh	INTJ
+du	PRON
+im	DET
+```
+
+Sentence: þata qiþands Iesus usiddja miþ siponjam seinaim ufar rinnon þo Kaidron þarei was aurtigards in þanei galaiþ Iesus jah siponjos is
+Tags:
+```
+þata	PRON
+qiþands	NOUN
+Iesus	PROPN
+usiddja	X
+miþ	PRON
+siponjam	NOUN
+seinaim	NOUN
+ufar	ADP
+rinnon	NOUN
+þo	PRON
+Kaidron	PROPN
+þarei	ADV
+was	PRON
+aurtigards	X
+in	ADP
+þanei	PRON
+galaiþ	X
+Iesus	PROPN
+jah	INTJ
+siponjos	PROPN
+is	AUX
+```
+
+Sentence: ƕa allis ubilis gatawida
+Tags:
+```
+[16:14:03.776](httpx:INFO) HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:14:03.779](GPT:INFO) Received the following response:
+[16:14:03.779](GPT:INFO) ChatCompletion(id='chatcmpl-9ZyZYBDOQ7xGE2EyQbhDyNU6gikz2', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```\nƕa\tPUNCT\nallis\tDET\nubilis\tNOUN\ngatawida\tVERB\n```', role='assistant', function_call=None, tool_calls=None))], created=1718361348, model='gpt-4-turbo-2024-04-09', object='chat.completion', system_fingerprint='fp_31a6c0accf', usage=CompletionUsage(completion_tokens=27, prompt_tokens=1799, total_tokens=1826))
+[16:14:03.779](main:INFO) Obtained completion: ```
+ƕa	PUNCT
+allis	DET
+ubilis	NOUN
+gatawida	VERB
+```
+[16:14:08.787](GPT:INFO) Giving the following prompt:Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: at andanahtja þan waurþanamma atberun du imma daimonarjans managans jah uswarp þans ahmans waurda jah allans þans ubil habandans gahailida ei usfullnodedi þata gamelido þairh Esaïan praufetu qiþandan
+Tags:
+```
+at	ADP
+andanahtja	X
+þan	PRON
+waurþanamma	NOUN
+atberun	NOUN
+du	PRON
+imma	NOUN
+daimonarjans	NOUN
+managans	NOUN
+jah	INTJ
+uswarp	X
+þans	PRON
+ahmans	NOUN
+waurda	NOUN
+jah	INTJ
+allans	DET
+þans	PRON
+ubil	NOUN
+habandans	NOUN
+gahailida	X
+ei	ADV
+usfullnodedi	NOUN
+þata	PRON
+gamelido	NOUN
+þairh	NOUN
+Esaïan	PROPN
+praufetu	NOUN
+qiþandan	NOUN
+```
+
+Sentence: iþ þata qiþandin imma sums andbahte atstandands gaf slah lofin Iesua qaþ uh
+Tags:
+```
+iþ	PRON
+þata	NOUN
+qiþandin	NOUN
+imma	ADP
+sums	DET
+andbahte	NOUN
+atstandands	NOUN
+gaf	VERB
+slah	ADV
+lofin	NOUN
+Iesua	PROPN
+qaþ	PROPN
+uh	INTJ
+```
+
+Sentence: jah juþan at andanahtja waurþanamma unte was paraskaiwe saei ist fruma sabbato qimands Iosef af Areimaþaias gaguds ragineis saei was jah silba beidands þiudangardjos gudis anananþjands galaiþ inn du Peilatau jah baþ þis leikis Iesuis
+Tags:
+```
+jah	INTJ
+juþan	X
+at	ADP
+andanahtja	X
+waurþanamma	X
+unte	ADP
+was	PRON
+paraskaiwe	X
+saei	X
+ist	AUX
+fruma	X
+sabbato	X
+qimands	X
+Iosef	PROPN
+af	ADP
+Areimaþaias	PROPN
+gaguds	PROPN
+ragineis	X
+saei	X
+was	X
+jah	INTJ
+silba	NOUN
+beidands	NOUN
+þiudangardjos	NOUN
+gudis	PROPN
+anananþjands	NOUN
+galaiþ	NOUN
+inn	DET
+du	PRON
+Peilatau	PROPN
+jah	INTJ
+baþ	NOUN
+þis	PRON
+leikis	NOUN
+Iesuis	PROPN
+```
+
+Sentence: biþe þan is neƕa was juþan at ibdaljin þis fairgunjis alewabagme dugunnun alakjo managei siponje faginondans hazjan guþ stibnai mikilai in allaizo þoze seƕun mahte qiþandans
+Tags:
+```
+biþe	INTJ
+þan	PRON
+is	PROPN
+neƕa	PUNCT
+was	AUX
+juþan	X
+at	ADP
+ibdaljin	NOUN
+þis	PRON
+fairgunjis	NOUN
+alewabagme	X
+dugunnun	NOUN
+alakjo	X
+managei	PROPN
+siponje	PROPN
+faginondans	NOUN
+hazjan	INTJ
+guþ	PROPN
+stibnai	VERB
+mikilai	ADV
+in	ADP
+allaizo	X
+þoze	PROPN
+seƕun	PUNCT
+mahte	X
+qiþandans	PROPN
+```
+
+Sentence: unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham
+Tags:
+```
+unte	PRON
+saei	X
+skamaiþ	X
+sik	PRON
+meina	X
+jah	INTJ
+waurde	NOUN
+meinaize	NOUN
+in	ADP
+gabaurþai	X
+þizai	NOUN
+horinondein	X
+jah	INTJ
+frawaurhton	X
+jah	INTJ
+sunus	PROPN
+mans	X
+skamaiþ	NOUN
+sik	PRON
+is	AUX
+þan	PRON
+qimiþ	NOUN
+in	ADP
+wulþau	NOUN
+attins	NOUN
+seinis	NOUN
+miþ	DET
+aggilum	X
+þaim	NOUN
+weiham	X
+```
+
+Sentence: jah biþragjands faur usstaig ana smakkabagm ei gaseƕi ina unte is and þata munaida þairhgaggan
+Tags:
+```
+jah	INTJ
+biþragjands	NOUN
+faur	VERB
+usstaig	NOUN
+ana	ADV
+smakkabagm	NOUN
+ei	PRON
+gaseƕi	PUNCT
+ina	DET
+unte	X
+is	X
+and	CCONJ
+þata	NOUN
+munaida	NOUN
+þairhgaggan	NOUN
+```
+
+Sentence: þata qiþands Iesus usiddja miþ siponjam seinaim ufar rinnon þo Kaidron þarei was aurtigards in þanei galaiþ Iesus jah siponjos is
+Tags:
+```
+þata	PRON
+qiþands	NOUN
+Iesus	PROPN
+usiddja	X
+miþ	PRON
+siponjam	NOUN
+seinaim	NOUN
+ufar	ADP
+rinnon	NOUN
+þo	PRON
+Kaidron	PROPN
+þarei	ADV
+was	PRON
+aurtigards	X
+in	ADP
+þanei	PRON
+galaiþ	X
+Iesus	PROPN
+jah	INTJ
+siponjos	PROPN
+is	AUX
+```
+
+Sentence: In jainaim þan dagam aftra at filu managai managein wisandein jah ni habandam ƕa matidedeina athaitands siponjans qaþ uh du im
+Tags:
+```
+In	ADP
+jainaim	INTJ
+þan	PRON
+dagam	NOUN
+aftra	ADV
+at	ADP
+filu	NUM
+managai	X
+managein	ADV
+wisandein	ADJ
+jah	INTJ
+ni	DET
+habandam	X
+ƕa	PUNCT
+matidedeina	ADJ
+athaitands	NOUN
+siponjans	PROPN
+qaþ	X
+uh	INTJ
+du	PRON
+im	DET
+```
+
+Sentence: þu is þiudans Iudaie
+Tags:
+```
+[16:14:13.477](httpx:INFO) HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:14:13.479](GPT:INFO) Received the following response:
+[16:14:13.479](GPT:INFO) ChatCompletion(id='chatcmpl-9ZyZfscsgSp3o5nW7WCpbRcvKyLih', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```\nþu\tPRON\nis\tAUX\nþiudans\tNOUN\nIudaie\tPROPN\n```', role='assistant', function_call=None, tool_calls=None))], created=1718361355, model='gpt-4-turbo-2024-04-09', object='chat.completion', system_fingerprint='fp_31a6c0accf', usage=CompletionUsage(completion_tokens=29, prompt_tokens=1796, total_tokens=1825))
+[16:14:13.479](main:INFO) Obtained completion: ```
+þu	PRON
+is	AUX
+þiudans	NOUN
+Iudaie	PROPN
+```
+[16:14:18.486](GPT:INFO) Giving the following prompt:Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: iþ þata qiþandin imma sums andbahte atstandands gaf slah lofin Iesua qaþ uh
+Tags:
+```
+iþ	PRON
+þata	NOUN
+qiþandin	NOUN
+imma	ADP
+sums	DET
+andbahte	NOUN
+atstandands	NOUN
+gaf	VERB
+slah	ADV
+lofin	NOUN
+Iesua	PROPN
+qaþ	PROPN
+uh	INTJ
+```
+
+Sentence: jah juþan at andanahtja waurþanamma unte was paraskaiwe saei ist fruma sabbato qimands Iosef af Areimaþaias gaguds ragineis saei was jah silba beidands þiudangardjos gudis anananþjands galaiþ inn du Peilatau jah baþ þis leikis Iesuis
+Tags:
+```
+jah	INTJ
+juþan	X
+at	ADP
+andanahtja	X
+waurþanamma	X
+unte	ADP
+was	PRON
+paraskaiwe	X
+saei	X
+ist	AUX
+fruma	X
+sabbato	X
+qimands	X
+Iosef	PROPN
+af	ADP
+Areimaþaias	PROPN
+gaguds	PROPN
+ragineis	X
+saei	X
+was	X
+jah	INTJ
+silba	NOUN
+beidands	NOUN
+þiudangardjos	NOUN
+gudis	PROPN
+anananþjands	NOUN
+galaiþ	NOUN
+inn	DET
+du	PRON
+Peilatau	PROPN
+jah	INTJ
+baþ	NOUN
+þis	PRON
+leikis	NOUN
+Iesuis	PROPN
+```
+
+Sentence: þata qiþands Iesus usiddja miþ siponjam seinaim ufar rinnon þo Kaidron þarei was aurtigards in þanei galaiþ Iesus jah siponjos is
+Tags:
+```
+þata	PRON
+qiþands	NOUN
+Iesus	PROPN
+usiddja	X
+miþ	PRON
+siponjam	NOUN
+seinaim	NOUN
+ufar	ADP
+rinnon	NOUN
+þo	PRON
+Kaidron	PROPN
+þarei	ADV
+was	PRON
+aurtigards	X
+in	ADP
+þanei	PRON
+galaiþ	X
+Iesus	PROPN
+jah	INTJ
+siponjos	PROPN
+is	AUX
+```
+
+Sentence: at andanahtja þan waurþanamma atberun du imma daimonarjans managans jah uswarp þans ahmans waurda jah allans þans ubil habandans gahailida ei usfullnodedi þata gamelido þairh Esaïan praufetu qiþandan
+Tags:
+```
+at	ADP
+andanahtja	X
+þan	PRON
+waurþanamma	NOUN
+atberun	NOUN
+du	PRON
+imma	NOUN
+daimonarjans	NOUN
+managans	NOUN
+jah	INTJ
+uswarp	X
+þans	PRON
+ahmans	NOUN
+waurda	NOUN
+jah	INTJ
+allans	DET
+þans	PRON
+ubil	NOUN
+habandans	NOUN
+gahailida	X
+ei	ADV
+usfullnodedi	NOUN
+þata	PRON
+gamelido	NOUN
+þairh	NOUN
+Esaïan	PROPN
+praufetu	NOUN
+qiþandan	NOUN
+```
+
+Sentence: unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham
+Tags:
+```
+unte	PRON
+saei	X
+skamaiþ	X
+sik	PRON
+meina	X
+jah	INTJ
+waurde	NOUN
+meinaize	NOUN
+in	ADP
+gabaurþai	X
+þizai	NOUN
+horinondein	X
+jah	INTJ
+frawaurhton	X
+jah	INTJ
+sunus	PROPN
+mans	X
+skamaiþ	NOUN
+sik	PRON
+is	AUX
+þan	PRON
+qimiþ	NOUN
+in	ADP
+wulþau	NOUN
+attins	NOUN
+seinis	NOUN
+miþ	DET
+aggilum	X
+þaim	NOUN
+weiham	X
+```
+
+Sentence: biþe þan is neƕa was juþan at ibdaljin þis fairgunjis alewabagme dugunnun alakjo managei siponje faginondans hazjan guþ stibnai mikilai in allaizo þoze seƕun mahte qiþandans
+Tags:
+```
+biþe	INTJ
+þan	PRON
+is	PROPN
+neƕa	PUNCT
+was	AUX
+juþan	X
+at	ADP
+ibdaljin	NOUN
+þis	PRON
+fairgunjis	NOUN
+alewabagme	X
+dugunnun	NOUN
+alakjo	X
+managei	PROPN
+siponje	PROPN
+faginondans	NOUN
+hazjan	INTJ
+guþ	PROPN
+stibnai	VERB
+mikilai	ADV
+in	ADP
+allaizo	X
+þoze	PROPN
+seƕun	PUNCT
+mahte	X
+qiþandans	PROPN
+```
+
+Sentence: jah biþragjands faur usstaig ana smakkabagm ei gaseƕi ina unte is and þata munaida þairhgaggan
+Tags:
+```
+jah	INTJ
+biþragjands	NOUN
+faur	VERB
+usstaig	NOUN
+ana	ADV
+smakkabagm	NOUN
+ei	PRON
+gaseƕi	PUNCT
+ina	DET
+unte	X
+is	X
+and	CCONJ
+þata	NOUN
+munaida	NOUN
+þairhgaggan	NOUN
+```
+
+Sentence: In jainaim þan dagam aftra at filu managai managein wisandein jah ni habandam ƕa matidedeina athaitands siponjans qaþ uh du im
+Tags:
+```
+In	ADP
+jainaim	INTJ
+þan	PRON
+dagam	NOUN
+aftra	ADV
+at	ADP
+filu	NUM
+managai	X
+managein	ADV
+wisandein	ADJ
+jah	INTJ
+ni	DET
+habandam	X
+ƕa	PUNCT
+matidedeina	ADJ
+athaitands	NOUN
+siponjans	PROPN
+qaþ	X
+uh	INTJ
+du	PRON
+im	DET
+```
+
+Sentence: andhof Iesus jah qaþ
+Tags:
+```
+[16:14:20.676](httpx:INFO) HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:14:20.679](GPT:INFO) Received the following response:
+[16:14:20.679](GPT:INFO) ChatCompletion(id='chatcmpl-9ZyZpSXEthoCRGEJZwXjsZ4HUzN4R', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```\nandhof\tVERB\nIesus\tPROPN\njah\tINTJ\nqaþ\tVERB\n```', role='assistant', function_call=None, tool_calls=None))], created=1718361365, model='gpt-4-turbo-2024-04-09', object='chat.completion', system_fingerprint='fp_31a6c0accf', usage=CompletionUsage(completion_tokens=26, prompt_tokens=1795, total_tokens=1821))
+[16:14:20.679](main:INFO) Obtained completion: ```
+andhof	VERB
+Iesus	PROPN
+jah	INTJ
+qaþ	VERB
+```
+[16:14:25.686](GPT:INFO) Giving the following prompt:Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham
+Tags:
+```
+unte	PRON
+saei	X
+skamaiþ	X
+sik	PRON
+meina	X
+jah	INTJ
+waurde	NOUN
+meinaize	NOUN
+in	ADP
+gabaurþai	X
+þizai	NOUN
+horinondein	X
+jah	INTJ
+frawaurhton	X
+jah	INTJ
+sunus	PROPN
+mans	X
+skamaiþ	NOUN
+sik	PRON
+is	AUX
+þan	PRON
+qimiþ	NOUN
+in	ADP
+wulþau	NOUN
+attins	NOUN
+seinis	NOUN
+miþ	DET
+aggilum	X
+þaim	NOUN
+weiham	X
+```
+
+Sentence: jah biþragjands faur usstaig ana smakkabagm ei gaseƕi ina unte is and þata munaida þairhgaggan
+Tags:
+```
+jah	INTJ
+biþragjands	NOUN
+faur	VERB
+usstaig	NOUN
+ana	ADV
+smakkabagm	NOUN
+ei	PRON
+gaseƕi	PUNCT
+ina	DET
+unte	X
+is	X
+and	CCONJ
+þata	NOUN
+munaida	NOUN
+þairhgaggan	NOUN
+```
+
+Sentence: at andanahtja þan waurþanamma atberun du imma daimonarjans managans jah uswarp þans ahmans waurda jah allans þans ubil habandans gahailida ei usfullnodedi þata gamelido þairh Esaïan praufetu qiþandan
+Tags:
+```
+at	ADP
+andanahtja	X
+þan	PRON
+waurþanamma	NOUN
+atberun	NOUN
+du	PRON
+imma	NOUN
+daimonarjans	NOUN
+managans	NOUN
+jah	INTJ
+uswarp	X
+þans	PRON
+ahmans	NOUN
+waurda	NOUN
+jah	INTJ
+allans	DET
+þans	PRON
+ubil	NOUN
+habandans	NOUN
+gahailida	X
+ei	ADV
+usfullnodedi	NOUN
+þata	PRON
+gamelido	NOUN
+þairh	NOUN
+Esaïan	PROPN
+praufetu	NOUN
+qiþandan	NOUN
+```
+
+Sentence: biþe þan is neƕa was juþan at ibdaljin þis fairgunjis alewabagme dugunnun alakjo managei siponje faginondans hazjan guþ stibnai mikilai in allaizo þoze seƕun mahte qiþandans
+Tags:
+```
+biþe	INTJ
+þan	PRON
+is	PROPN
+neƕa	PUNCT
+was	AUX
+juþan	X
+at	ADP
+ibdaljin	NOUN
+þis	PRON
+fairgunjis	NOUN
+alewabagme	X
+dugunnun	NOUN
+alakjo	X
+managei	PROPN
+siponje	PROPN
+faginondans	NOUN
+hazjan	INTJ
+guþ	PROPN
+stibnai	VERB
+mikilai	ADV
+in	ADP
+allaizo	X
+þoze	PROPN
+seƕun	PUNCT
+mahte	X
+qiþandans	PROPN
+```
+
+Sentence: iþ þata qiþandin imma sums andbahte atstandands gaf slah lofin Iesua qaþ uh
+Tags:
+```
+iþ	PRON
+þata	NOUN
+qiþandin	NOUN
+imma	ADP
+sums	DET
+andbahte	NOUN
+atstandands	NOUN
+gaf	VERB
+slah	ADV
+lofin	NOUN
+Iesua	PROPN
+qaþ	PROPN
+uh	INTJ
+```
+
+Sentence: jah juþan at andanahtja waurþanamma unte was paraskaiwe saei ist fruma sabbato qimands Iosef af Areimaþaias gaguds ragineis saei was jah silba beidands þiudangardjos gudis anananþjands galaiþ inn du Peilatau jah baþ þis leikis Iesuis
+Tags:
+```
+jah	INTJ
+juþan	X
+at	ADP
+andanahtja	X
+waurþanamma	X
+unte	ADP
+was	PRON
+paraskaiwe	X
+saei	X
+ist	AUX
+fruma	X
+sabbato	X
+qimands	X
+Iosef	PROPN
+af	ADP
+Areimaþaias	PROPN
+gaguds	PROPN
+ragineis	X
+saei	X
+was	X
+jah	INTJ
+silba	NOUN
+beidands	NOUN
+þiudangardjos	NOUN
+gudis	PROPN
+anananþjands	NOUN
+galaiþ	NOUN
+inn	DET
+du	PRON
+Peilatau	PROPN
+jah	INTJ
+baþ	NOUN
+þis	PRON
+leikis	NOUN
+Iesuis	PROPN
+```
+
+Sentence: In jainaim þan dagam aftra at filu managai managein wisandein jah ni habandam ƕa matidedeina athaitands siponjans qaþ uh du im
+Tags:
+```
+In	ADP
+jainaim	INTJ
+þan	PRON
+dagam	NOUN
+aftra	ADV
+at	ADP
+filu	NUM
+managai	X
+managein	ADV
+wisandein	ADJ
+jah	INTJ
+ni	DET
+habandam	X
+ƕa	PUNCT
+matidedeina	ADJ
+athaitands	NOUN
+siponjans	PROPN
+qaþ	X
+uh	INTJ
+du	PRON
+im	DET
+```
+
+Sentence: þata qiþands Iesus usiddja miþ siponjam seinaim ufar rinnon þo Kaidron þarei was aurtigards in þanei galaiþ Iesus jah siponjos is
+Tags:
+```
+þata	PRON
+qiþands	NOUN
+Iesus	PROPN
+usiddja	X
+miþ	PRON
+siponjam	NOUN
+seinaim	NOUN
+ufar	ADP
+rinnon	NOUN
+þo	PRON
+Kaidron	PROPN
+þarei	ADV
+was	PRON
+aurtigards	X
+in	ADP
+þanei	PRON
+galaiþ	X
+Iesus	PROPN
+jah	INTJ
+siponjos	PROPN
+is	AUX
+```
+
+Sentence: duƕe miþ þaim motarjam jah frawaurhtaim matjid jah drigkid
+Tags:
+```
+[16:14:28.847](httpx:INFO) HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:14:28.850](GPT:INFO) Received the following response:
+[16:14:28.850](GPT:INFO) ChatCompletion(id='chatcmpl-9ZyZwHZKms1nMyuW8k9El7JjEomg2', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```\nduƕe\tX\nmiþ\tADP\nþaim\tPRON\nmotarjam\tNOUN\njah\tINTJ\nfrawaurhtaim\tNOUN\nmatjid\tNOUN\njah\tINTJ\ndrigkid\tVERB\n```', role='assistant', function_call=None, tool_calls=None))], created=1718361372, model='gpt-4-turbo-2024-04-09', object='chat.completion', system_fingerprint='fp_31a6c0accf', usage=CompletionUsage(completion_tokens=57, prompt_tokens=1812, total_tokens=1869))
+[16:14:28.850](main:INFO) Obtained completion: ```
+duƕe	X
+miþ	ADP
+þaim	PRON
+motarjam	NOUN
+jah	INTJ
+frawaurhtaim	NOUN
+matjid	NOUN
+jah	INTJ
+drigkid	VERB
+```
+[16:14:33.858](GPT:INFO) Giving the following prompt:Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: jah biþragjands faur usstaig ana smakkabagm ei gaseƕi ina unte is and þata munaida þairhgaggan
+Tags:
+```
+jah	INTJ
+biþragjands	NOUN
+faur	VERB
+usstaig	NOUN
+ana	ADV
+smakkabagm	NOUN
+ei	PRON
+gaseƕi	PUNCT
+ina	DET
+unte	X
+is	X
+and	CCONJ
+þata	NOUN
+munaida	NOUN
+þairhgaggan	NOUN
+```
+
+Sentence: biþe þan is neƕa was juþan at ibdaljin þis fairgunjis alewabagme dugunnun alakjo managei siponje faginondans hazjan guþ stibnai mikilai in allaizo þoze seƕun mahte qiþandans
+Tags:
+```
+biþe	INTJ
+þan	PRON
+is	PROPN
+neƕa	PUNCT
+was	AUX
+juþan	X
+at	ADP
+ibdaljin	NOUN
+þis	PRON
+fairgunjis	NOUN
+alewabagme	X
+dugunnun	NOUN
+alakjo	X
+managei	PROPN
+siponje	PROPN
+faginondans	NOUN
+hazjan	INTJ
+guþ	PROPN
+stibnai	VERB
+mikilai	ADV
+in	ADP
+allaizo	X
+þoze	PROPN
+seƕun	PUNCT
+mahte	X
+qiþandans	PROPN
+```
+
+Sentence: unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham
+Tags:
+```
+unte	PRON
+saei	X
+skamaiþ	X
+sik	PRON
+meina	X
+jah	INTJ
+waurde	NOUN
+meinaize	NOUN
+in	ADP
+gabaurþai	X
+þizai	NOUN
+horinondein	X
+jah	INTJ
+frawaurhton	X
+jah	INTJ
+sunus	PROPN
+mans	X
+skamaiþ	NOUN
+sik	PRON
+is	AUX
+þan	PRON
+qimiþ	NOUN
+in	ADP
+wulþau	NOUN
+attins	NOUN
+seinis	NOUN
+miþ	DET
+aggilum	X
+þaim	NOUN
+weiham	X
+```
+
+Sentence: at andanahtja þan waurþanamma atberun du imma daimonarjans managans jah uswarp þans ahmans waurda jah allans þans ubil habandans gahailida ei usfullnodedi þata gamelido þairh Esaïan praufetu qiþandan
+Tags:
+```
+at	ADP
+andanahtja	X
+þan	PRON
+waurþanamma	NOUN
+atberun	NOUN
+du	PRON
+imma	NOUN
+daimonarjans	NOUN
+managans	NOUN
+jah	INTJ
+uswarp	X
+þans	PRON
+ahmans	NOUN
+waurda	NOUN
+jah	INTJ
+allans	DET
+þans	PRON
+ubil	NOUN
+habandans	NOUN
+gahailida	X
+ei	ADV
+usfullnodedi	NOUN
+þata	PRON
+gamelido	NOUN
+þairh	NOUN
+Esaïan	PROPN
+praufetu	NOUN
+qiþandan	NOUN
+```
+
+Sentence: iþ þata qiþandin imma sums andbahte atstandands gaf slah lofin Iesua qaþ uh
+Tags:
+```
+iþ	PRON
+þata	NOUN
+qiþandin	NOUN
+imma	ADP
+sums	DET
+andbahte	NOUN
+atstandands	NOUN
+gaf	VERB
+slah	ADV
+lofin	NOUN
+Iesua	PROPN
+qaþ	PROPN
+uh	INTJ
+```
+
+Sentence: In jainaim þan dagam aftra at filu managai managein wisandein jah ni habandam ƕa matidedeina athaitands siponjans qaþ uh du im
+Tags:
+```
+In	ADP
+jainaim	INTJ
+þan	PRON
+dagam	NOUN
+aftra	ADV
+at	ADP
+filu	NUM
+managai	X
+managein	ADV
+wisandein	ADJ
+jah	INTJ
+ni	DET
+habandam	X
+ƕa	PUNCT
+matidedeina	ADJ
+athaitands	NOUN
+siponjans	PROPN
+qaþ	X
+uh	INTJ
+du	PRON
+im	DET
+```
+
+Sentence: þata qiþands Iesus usiddja miþ siponjam seinaim ufar rinnon þo Kaidron þarei was aurtigards in þanei galaiþ Iesus jah siponjos is
+Tags:
+```
+þata	PRON
+qiþands	NOUN
+Iesus	PROPN
+usiddja	X
+miþ	PRON
+siponjam	NOUN
+seinaim	NOUN
+ufar	ADP
+rinnon	NOUN
+þo	PRON
+Kaidron	PROPN
+þarei	ADV
+was	PRON
+aurtigards	X
+in	ADP
+þanei	PRON
+galaiþ	X
+Iesus	PROPN
+jah	INTJ
+siponjos	PROPN
+is	AUX
+```
+
+Sentence: jah juþan at andanahtja waurþanamma unte was paraskaiwe saei ist fruma sabbato qimands Iosef af Areimaþaias gaguds ragineis saei was jah silba beidands þiudangardjos gudis anananþjands galaiþ inn du Peilatau jah baþ þis leikis Iesuis
+Tags:
+```
+jah	INTJ
+juþan	X
+at	ADP
+andanahtja	X
+waurþanamma	X
+unte	ADP
+was	PRON
+paraskaiwe	X
+saei	X
+ist	AUX
+fruma	X
+sabbato	X
+qimands	X
+Iosef	PROPN
+af	ADP
+Areimaþaias	PROPN
+gaguds	PROPN
+ragineis	X
+saei	X
+was	X
+jah	INTJ
+silba	NOUN
+beidands	NOUN
+þiudangardjos	NOUN
+gudis	PROPN
+anananþjands	NOUN
+galaiþ	NOUN
+inn	DET
+du	PRON
+Peilatau	PROPN
+jah	INTJ
+baþ	NOUN
+þis	PRON
+leikis	NOUN
+Iesuis	PROPN
+```
+
+Sentence: bigitans warþ þaim mik ni gasokjandam
+Tags:
+```
+[16:14:36.303](httpx:INFO) HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:14:36.305](GPT:INFO) Received the following response:
+[16:14:36.306](GPT:INFO) ChatCompletion(id='chatcmpl-9Zya4dXCuioZar7PziqJQ5PH3U0No', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```\nbigitans\tVERB\nwarþ\tAUX\nþaim\tPRON\nmik\tADV\nni\tADV\ngasokjandam\tADJ\n```', role='assistant', function_call=None, tool_calls=None))], created=1718361380, model='gpt-4-turbo-2024-04-09', object='chat.completion', system_fingerprint='fp_31a6c0accf', usage=CompletionUsage(completion_tokens=41, prompt_tokens=1801, total_tokens=1842))
+[16:14:36.306](main:INFO) Obtained completion: ```
+bigitans	VERB
+warþ	AUX
+þaim	PRON
+mik	ADV
+ni	ADV
+gasokjandam	ADJ
+```
+[16:14:41.313](GPT:INFO) Giving the following prompt:Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham
+Tags:
+```
+unte	PRON
+saei	X
+skamaiþ	X
+sik	PRON
+meina	X
+jah	INTJ
+waurde	NOUN
+meinaize	NOUN
+in	ADP
+gabaurþai	X
+þizai	NOUN
+horinondein	X
+jah	INTJ
+frawaurhton	X
+jah	INTJ
+sunus	PROPN
+mans	X
+skamaiþ	NOUN
+sik	PRON
+is	AUX
+þan	PRON
+qimiþ	NOUN
+in	ADP
+wulþau	NOUN
+attins	NOUN
+seinis	NOUN
+miþ	DET
+aggilum	X
+þaim	NOUN
+weiham	X
+```
+
+Sentence: jah juþan at andanahtja waurþanamma unte was paraskaiwe saei ist fruma sabbato qimands Iosef af Areimaþaias gaguds ragineis saei was jah silba beidands þiudangardjos gudis anananþjands galaiþ inn du Peilatau jah baþ þis leikis Iesuis
+Tags:
+```
+jah	INTJ
+juþan	X
+at	ADP
+andanahtja	X
+waurþanamma	X
+unte	ADP
+was	PRON
+paraskaiwe	X
+saei	X
+ist	AUX
+fruma	X
+sabbato	X
+qimands	X
+Iosef	PROPN
+af	ADP
+Areimaþaias	PROPN
+gaguds	PROPN
+ragineis	X
+saei	X
+was	X
+jah	INTJ
+silba	NOUN
+beidands	NOUN
+þiudangardjos	NOUN
+gudis	PROPN
+anananþjands	NOUN
+galaiþ	NOUN
+inn	DET
+du	PRON
+Peilatau	PROPN
+jah	INTJ
+baþ	NOUN
+þis	PRON
+leikis	NOUN
+Iesuis	PROPN
+```
+
+Sentence: at andanahtja þan waurþanamma atberun du imma daimonarjans managans jah uswarp þans ahmans waurda jah allans þans ubil habandans gahailida ei usfullnodedi þata gamelido þairh Esaïan praufetu qiþandan
+Tags:
+```
+at	ADP
+andanahtja	X
+þan	PRON
+waurþanamma	NOUN
+atberun	NOUN
+du	PRON
+imma	NOUN
+daimonarjans	NOUN
+managans	NOUN
+jah	INTJ
+uswarp	X
+þans	PRON
+ahmans	NOUN
+waurda	NOUN
+jah	INTJ
+allans	DET
+þans	PRON
+ubil	NOUN
+habandans	NOUN
+gahailida	X
+ei	ADV
+usfullnodedi	NOUN
+þata	PRON
+gamelido	NOUN
+þairh	NOUN
+Esaïan	PROPN
+praufetu	NOUN
+qiþandan	NOUN
+```
+
+Sentence: iþ þata qiþandin imma sums andbahte atstandands gaf slah lofin Iesua qaþ uh
+Tags:
+```
+iþ	PRON
+þata	NOUN
+qiþandin	NOUN
+imma	ADP
+sums	DET
+andbahte	NOUN
+atstandands	NOUN
+gaf	VERB
+slah	ADV
+lofin	NOUN
+Iesua	PROPN
+qaþ	PROPN
+uh	INTJ
+```
+
+Sentence: þata qiþands Iesus usiddja miþ siponjam seinaim ufar rinnon þo Kaidron þarei was aurtigards in þanei galaiþ Iesus jah siponjos is
+Tags:
+```
+þata	PRON
+qiþands	NOUN
+Iesus	PROPN
+usiddja	X
+miþ	PRON
+siponjam	NOUN
+seinaim	NOUN
+ufar	ADP
+rinnon	NOUN
+þo	PRON
+Kaidron	PROPN
+þarei	ADV
+was	PRON
+aurtigards	X
+in	ADP
+þanei	PRON
+galaiþ	X
+Iesus	PROPN
+jah	INTJ
+siponjos	PROPN
+is	AUX
+```
+
+Sentence: biþe þan is neƕa was juþan at ibdaljin þis fairgunjis alewabagme dugunnun alakjo managei siponje faginondans hazjan guþ stibnai mikilai in allaizo þoze seƕun mahte qiþandans
+Tags:
+```
+biþe	INTJ
+þan	PRON
+is	PROPN
+neƕa	PUNCT
+was	AUX
+juþan	X
+at	ADP
+ibdaljin	NOUN
+þis	PRON
+fairgunjis	NOUN
+alewabagme	X
+dugunnun	NOUN
+alakjo	X
+managei	PROPN
+siponje	PROPN
+faginondans	NOUN
+hazjan	INTJ
+guþ	PROPN
+stibnai	VERB
+mikilai	ADV
+in	ADP
+allaizo	X
+þoze	PROPN
+seƕun	PUNCT
+mahte	X
+qiþandans	PROPN
+```
+
+Sentence: jah biþragjands faur usstaig ana smakkabagm ei gaseƕi ina unte is and þata munaida þairhgaggan
+Tags:
+```
+jah	INTJ
+biþragjands	NOUN
+faur	VERB
+usstaig	NOUN
+ana	ADV
+smakkabagm	NOUN
+ei	PRON
+gaseƕi	PUNCT
+ina	DET
+unte	X
+is	X
+and	CCONJ
+þata	NOUN
+munaida	NOUN
+þairhgaggan	NOUN
+```
+
+Sentence: In jainaim þan dagam aftra at filu managai managein wisandein jah ni habandam ƕa matidedeina athaitands siponjans qaþ uh du im
+Tags:
+```
+In	ADP
+jainaim	INTJ
+þan	PRON
+dagam	NOUN
+aftra	ADV
+at	ADP
+filu	NUM
+managai	X
+managein	ADV
+wisandein	ADJ
+jah	INTJ
+ni	DET
+habandam	X
+ƕa	PUNCT
+matidedeina	ADJ
+athaitands	NOUN
+siponjans	PROPN
+qaþ	X
+uh	INTJ
+du	PRON
+im	DET
+```
+
+Sentence: ak gagg jah ataugei þuk silban gudjin jah atbair imma fram þizai gahraineinai þeinai þatei anabaud Moses du weitwodiþai im
+Tags:
+```
+[16:14:50.897](httpx:INFO) HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:14:50.900](GPT:INFO) Received the following response:
+[16:14:50.900](GPT:INFO) ChatCompletion(id='chatcmpl-9ZyaCyajX1xfXq99UbmCiswB7PdrV', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```\nak\tCCONJ\ngagg\tVERB\njah\tINTJ\nataugei\tVERB\nþuk\tPRON\nsilban\tADJ\ngudjin\tNOUN\njah\tINTJ\natbair\tVERB\nimma\tPRON\nfram\tADP\nþizai\tPRON\ngahraineinai\tNOUN\nþeinai\tPRON\nþatei\tSCONJ\nanabaud\tNOUN\nMoses\tPROPN\ndu\tADP\nweitwodiþai\tNOUN\nim\tPRON\n```', role='assistant', function_call=None, tool_calls=None))], created=1718361388, model='gpt-4-turbo-2024-04-09', object='chat.completion', system_fingerprint='fp_31a6c0accf', usage=CompletionUsage(completion_tokens=129, prompt_tokens=1835, total_tokens=1964))
+[16:14:50.900](main:INFO) Obtained completion: ```
+ak	CCONJ
+gagg	VERB
+jah	INTJ
+ataugei	VERB
+þuk	PRON
+silban	ADJ
+gudjin	NOUN
+jah	INTJ
+atbair	VERB
+imma	PRON
+fram	ADP
+þizai	PRON
+gahraineinai	NOUN
+þeinai	PRON
+þatei	SCONJ
+anabaud	NOUN
+Moses	PROPN
+du	ADP
+weitwodiþai	NOUN
+im	PRON
+```
+[16:14:55.909](GPT:INFO) Giving the following prompt:Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: at andanahtja þan waurþanamma atberun du imma daimonarjans managans jah uswarp þans ahmans waurda jah allans þans ubil habandans gahailida ei usfullnodedi þata gamelido þairh Esaïan praufetu qiþandan
+Tags:
+```
+at	ADP
+andanahtja	X
+þan	PRON
+waurþanamma	NOUN
+atberun	NOUN
+du	PRON
+imma	NOUN
+daimonarjans	NOUN
+managans	NOUN
+jah	INTJ
+uswarp	X
+þans	PRON
+ahmans	NOUN
+waurda	NOUN
+jah	INTJ
+allans	DET
+þans	PRON
+ubil	NOUN
+habandans	NOUN
+gahailida	X
+ei	ADV
+usfullnodedi	NOUN
+þata	PRON
+gamelido	NOUN
+þairh	NOUN
+Esaïan	PROPN
+praufetu	NOUN
+qiþandan	NOUN
+```
+
+Sentence: biþe þan is neƕa was juþan at ibdaljin þis fairgunjis alewabagme dugunnun alakjo managei siponje faginondans hazjan guþ stibnai mikilai in allaizo þoze seƕun mahte qiþandans
+Tags:
+```
+biþe	INTJ
+þan	PRON
+is	PROPN
+neƕa	PUNCT
+was	AUX
+juþan	X
+at	ADP
+ibdaljin	NOUN
+þis	PRON
+fairgunjis	NOUN
+alewabagme	X
+dugunnun	NOUN
+alakjo	X
+managei	PROPN
+siponje	PROPN
+faginondans	NOUN
+hazjan	INTJ
+guþ	PROPN
+stibnai	VERB
+mikilai	ADV
+in	ADP
+allaizo	X
+þoze	PROPN
+seƕun	PUNCT
+mahte	X
+qiþandans	PROPN
+```
+
+Sentence: jah warþ biþe atwandida sik aftra andnimands þiudangardja jah haihait wopjan du sis þans skalkans þaimei atgaf þata silubr ei gakunnaidedi ƕa ƕarjizuh gawaurhtedi
+Tags:
+```
+jah	INTJ
+warþ	INTJ
+biþe	X
+atwandida	X
+sik	PRON
+aftra	ADP
+andnimands	NOUN
+þiudangardja	NOUN
+jah	INTJ
+haihait	INTJ
+wopjan	INTJ
+du	PRON
+sis	NOUN
+þans	PRON
+skalkans	NOUN
+þaimei	NOUN
+atgaf	X
+þata	PRON
+silubr	NOUN
+ei	ADV
+gakunnaidedi	NOUN
+ƕa	PUNCT
+ƕarjizuh	PUNCT
+gawaurhtedi	VERB
+```
+
+Sentence: unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham
+Tags:
+```
+unte	PRON
+saei	X
+skamaiþ	X
+sik	PRON
+meina	X
+jah	INTJ
+waurde	NOUN
+meinaize	NOUN
+in	ADP
+gabaurþai	X
+þizai	NOUN
+horinondein	X
+jah	INTJ
+frawaurhton	X
+jah	INTJ
+sunus	PROPN
+mans	X
+skamaiþ	NOUN
+sik	PRON
+is	AUX
+þan	PRON
+qimiþ	NOUN
+in	ADP
+wulþau	NOUN
+attins	NOUN
+seinis	NOUN
+miþ	DET
+aggilum	X
+þaim	NOUN
+weiham	X
+```
+
+Sentence: jah biþragjands faur usstaig ana smakkabagm ei gaseƕi ina unte is and þata munaida þairhgaggan
+Tags:
+```
+jah	INTJ
+biþragjands	NOUN
+faur	VERB
+usstaig	NOUN
+ana	ADV
+smakkabagm	NOUN
+ei	PRON
+gaseƕi	PUNCT
+ina	DET
+unte	X
+is	X
+and	CCONJ
+þata	NOUN
+munaida	NOUN
+þairhgaggan	NOUN
+```
+
+Sentence: iþ þata qiþandin imma sums andbahte atstandands gaf slah lofin Iesua qaþ uh
+Tags:
+```
+iþ	PRON
+þata	NOUN
+qiþandin	NOUN
+imma	ADP
+sums	DET
+andbahte	NOUN
+atstandands	NOUN
+gaf	VERB
+slah	ADV
+lofin	NOUN
+Iesua	PROPN
+qaþ	PROPN
+uh	INTJ
+```
+
+Sentence: jah juþan at andanahtja waurþanamma unte was paraskaiwe saei ist fruma sabbato qimands Iosef af Areimaþaias gaguds ragineis saei was jah silba beidands þiudangardjos gudis anananþjands galaiþ inn du Peilatau jah baþ þis leikis Iesuis
+Tags:
+```
+jah	INTJ
+juþan	X
+at	ADP
+andanahtja	X
+waurþanamma	X
+unte	ADP
+was	PRON
+paraskaiwe	X
+saei	X
+ist	AUX
+fruma	X
+sabbato	X
+qimands	X
+Iosef	PROPN
+af	ADP
+Areimaþaias	PROPN
+gaguds	PROPN
+ragineis	X
+saei	X
+was	X
+jah	INTJ
+silba	NOUN
+beidands	NOUN
+þiudangardjos	NOUN
+gudis	PROPN
+anananþjands	NOUN
+galaiþ	NOUN
+inn	DET
+du	PRON
+Peilatau	PROPN
+jah	INTJ
+baþ	NOUN
+þis	PRON
+leikis	NOUN
+Iesuis	PROPN
+```
+
+Sentence: þata qiþands Iesus usiddja miþ siponjam seinaim ufar rinnon þo Kaidron þarei was aurtigards in þanei galaiþ Iesus jah siponjos is
+Tags:
+```
+þata	PRON
+qiþands	NOUN
+Iesus	PROPN
+usiddja	X
+miþ	PRON
+siponjam	NOUN
+seinaim	NOUN
+ufar	ADP
+rinnon	NOUN
+þo	PRON
+Kaidron	PROPN
+þarei	ADV
+was	PRON
+aurtigards	X
+in	ADP
+þanei	PRON
+galaiþ	X
+Iesus	PROPN
+jah	INTJ
+siponjos	PROPN
+is	AUX
+```
+
+Sentence: In jainaim þan dagam aftra at filu managai managein wisandein jah ni habandam ƕa matidedeina athaitands siponjans qaþ uh du im
+Tags:
+```
+[16:15:02.151](httpx:INFO) HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:15:02.153](GPT:INFO) Received the following response:
+[16:15:02.154](GPT:INFO) ChatCompletion(id='chatcmpl-9ZyaQNWnRNSgiKdUob9DExlbG4T25', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```\nIn\tADP\njainaim\tPRON\nþan\tPRON\ndagam\tNOUN\naftra\tADV\nat\tADP\nfilu\tADJ\nmanagai\tNOUN\nmanagein\tNOUN\nwisandein\tVERB\njah\tINTJ\nni\tADV\nhabandam\tVERB\nƕa\tPRON\nmatidedeina\tNOUN\nathaitands\tNOUN\nsiponjans\tNOUN\nqaþ\tVERB\nuh\tINTJ\ndu\tADP\nim\tPRON\n```', role='assistant', function_call=None, tool_calls=None))], created=1718361402, model='gpt-4-turbo-2024-04-09', object='chat.completion', system_fingerprint='fp_31a6c0accf', usage=CompletionUsage(completion_tokens=124, prompt_tokens=1894, total_tokens=2018))
+[16:15:02.154](main:INFO) Obtained completion: ```
+In	ADP
+jainaim	PRON
+þan	PRON
+dagam	NOUN
+aftra	ADV
+at	ADP
+filu	ADJ
+managai	NOUN
+managein	NOUN
+wisandein	VERB
+jah	INTJ
+ni	ADV
+habandam	VERB
+ƕa	PRON
+matidedeina	NOUN
+athaitands	NOUN
+siponjans	NOUN
+qaþ	VERB
+uh	INTJ
+du	ADP
+im	PRON
+```
+[16:15:07.175](GPT:INFO) Giving the following prompt:Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: jah juþan at andanahtja waurþanamma unte was paraskaiwe saei ist fruma sabbato qimands Iosef af Areimaþaias gaguds ragineis saei was jah silba beidands þiudangardjos gudis anananþjands galaiþ inn du Peilatau jah baþ þis leikis Iesuis
+Tags:
+```
+jah	INTJ
+juþan	X
+at	ADP
+andanahtja	X
+waurþanamma	X
+unte	ADP
+was	PRON
+paraskaiwe	X
+saei	X
+ist	AUX
+fruma	X
+sabbato	X
+qimands	X
+Iosef	PROPN
+af	ADP
+Areimaþaias	PROPN
+gaguds	PROPN
+ragineis	X
+saei	X
+was	X
+jah	INTJ
+silba	NOUN
+beidands	NOUN
+þiudangardjos	NOUN
+gudis	PROPN
+anananþjands	NOUN
+galaiþ	NOUN
+inn	DET
+du	PRON
+Peilatau	PROPN
+jah	INTJ
+baþ	NOUN
+þis	PRON
+leikis	NOUN
+Iesuis	PROPN
+```
+
+Sentence: at andanahtja þan waurþanamma atberun du imma daimonarjans managans jah uswarp þans ahmans waurda jah allans þans ubil habandans gahailida ei usfullnodedi þata gamelido þairh Esaïan praufetu qiþandan
+Tags:
+```
+at	ADP
+andanahtja	X
+þan	PRON
+waurþanamma	NOUN
+atberun	NOUN
+du	PRON
+imma	NOUN
+daimonarjans	NOUN
+managans	NOUN
+jah	INTJ
+uswarp	X
+þans	PRON
+ahmans	NOUN
+waurda	NOUN
+jah	INTJ
+allans	DET
+þans	PRON
+ubil	NOUN
+habandans	NOUN
+gahailida	X
+ei	ADV
+usfullnodedi	NOUN
+þata	PRON
+gamelido	NOUN
+þairh	NOUN
+Esaïan	PROPN
+praufetu	NOUN
+qiþandan	NOUN
+```
+
+Sentence: unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham
+Tags:
+```
+unte	PRON
+saei	X
+skamaiþ	X
+sik	PRON
+meina	X
+jah	INTJ
+waurde	NOUN
+meinaize	NOUN
+in	ADP
+gabaurþai	X
+þizai	NOUN
+horinondein	X
+jah	INTJ
+frawaurhton	X
+jah	INTJ
+sunus	PROPN
+mans	X
+skamaiþ	NOUN
+sik	PRON
+is	AUX
+þan	PRON
+qimiþ	NOUN
+in	ADP
+wulþau	NOUN
+attins	NOUN
+seinis	NOUN
+miþ	DET
+aggilum	X
+þaim	NOUN
+weiham	X
+```
+
+Sentence: iþ þata qiþandin imma sums andbahte atstandands gaf slah lofin Iesua qaþ uh
+Tags:
+```
+iþ	PRON
+þata	NOUN
+qiþandin	NOUN
+imma	ADP
+sums	DET
+andbahte	NOUN
+atstandands	NOUN
+gaf	VERB
+slah	ADV
+lofin	NOUN
+Iesua	PROPN
+qaþ	PROPN
+uh	INTJ
+```
+
+Sentence: biþe þan is neƕa was juþan at ibdaljin þis fairgunjis alewabagme dugunnun alakjo managei siponje faginondans hazjan guþ stibnai mikilai in allaizo þoze seƕun mahte qiþandans
+Tags:
+```
+biþe	INTJ
+þan	PRON
+is	PROPN
+neƕa	PUNCT
+was	AUX
+juþan	X
+at	ADP
+ibdaljin	NOUN
+þis	PRON
+fairgunjis	NOUN
+alewabagme	X
+dugunnun	NOUN
+alakjo	X
+managei	PROPN
+siponje	PROPN
+faginondans	NOUN
+hazjan	INTJ
+guþ	PROPN
+stibnai	VERB
+mikilai	ADV
+in	ADP
+allaizo	X
+þoze	PROPN
+seƕun	PUNCT
+mahte	X
+qiþandans	PROPN
+```
+
+Sentence: þata qiþands Iesus usiddja miþ siponjam seinaim ufar rinnon þo Kaidron þarei was aurtigards in þanei galaiþ Iesus jah siponjos is
+Tags:
+```
+þata	PRON
+qiþands	NOUN
+Iesus	PROPN
+usiddja	X
+miþ	PRON
+siponjam	NOUN
+seinaim	NOUN
+ufar	ADP
+rinnon	NOUN
+þo	PRON
+Kaidron	PROPN
+þarei	ADV
+was	PRON
+aurtigards	X
+in	ADP
+þanei	PRON
+galaiþ	X
+Iesus	PROPN
+jah	INTJ
+siponjos	PROPN
+is	AUX
+```
+
+Sentence: jah biþragjands faur usstaig ana smakkabagm ei gaseƕi ina unte is and þata munaida þairhgaggan
+Tags:
+```
+jah	INTJ
+biþragjands	NOUN
+faur	VERB
+usstaig	NOUN
+ana	ADV
+smakkabagm	NOUN
+ei	PRON
+gaseƕi	PUNCT
+ina	DET
+unte	X
+is	X
+and	CCONJ
+þata	NOUN
+munaida	NOUN
+þairhgaggan	NOUN
+```
+
+Sentence: In jainaim þan dagam aftra at filu managai managein wisandein jah ni habandam ƕa matidedeina athaitands siponjans qaþ uh du im
+Tags:
+```
+In	ADP
+jainaim	INTJ
+þan	PRON
+dagam	NOUN
+aftra	ADV
+at	ADP
+filu	NUM
+managai	X
+managein	ADV
+wisandein	ADJ
+jah	INTJ
+ni	DET
+habandam	X
+ƕa	PUNCT
+matidedeina	ADJ
+athaitands	NOUN
+siponjans	PROPN
+qaþ	X
+uh	INTJ
+du	PRON
+im	DET
+```
+
+Sentence: manna sums galaiþ af Iairusalem in Iaireikon jah in waidedjans frarann þaiei jah biraubodedun ina jah banjos analagjandans
+Tags:
+```
+[16:15:12.748](httpx:INFO) HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:15:12.750](GPT:INFO) Received the following response:
+[16:15:12.750](GPT:INFO) ChatCompletion(id='chatcmpl-9Zyacceps1FA4gHz8ItzMhQfM9BDs', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```\nmanna\tNOUN\nsums\tDET\ngalaiþ\tNOUN\naf\tADP\nIairusalem\tPROPN\nin\tADP\nIaireikon\tPROPN\njah\tINTJ\nin\tADP\nwaidedjans\tNOUN\nfrarann\tVERB\nþaiei\tPRON\njah\tINTJ\nbiraubodedun\tVERB\nina\tPRON\njah\tINTJ\nbanjos\tNOUN\nanalagjandans\tNOUN\n```', role='assistant', function_call=None, tool_calls=None))], created=1718361414, model='gpt-4-turbo-2024-04-09', object='chat.completion', system_fingerprint='fp_31a6c0accf', usage=CompletionUsage(completion_tokens=111, prompt_tokens=1833, total_tokens=1944))
+[16:15:12.751](main:INFO) Obtained completion: ```
+manna	NOUN
+sums	DET
+galaiþ	NOUN
+af	ADP
+Iairusalem	PROPN
+in	ADP
+Iaireikon	PROPN
+jah	INTJ
+in	ADP
+waidedjans	NOUN
+frarann	VERB
+þaiei	PRON
+jah	INTJ
+biraubodedun	VERB
+ina	PRON
+jah	INTJ
+banjos	NOUN
+analagjandans	NOUN
+```
+[16:15:17.759](GPT:INFO) Giving the following prompt:Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham
+Tags:
+```
+unte	PRON
+saei	X
+skamaiþ	X
+sik	PRON
+meina	X
+jah	INTJ
+waurde	NOUN
+meinaize	NOUN
+in	ADP
+gabaurþai	X
+þizai	NOUN
+horinondein	X
+jah	INTJ
+frawaurhton	X
+jah	INTJ
+sunus	PROPN
+mans	X
+skamaiþ	NOUN
+sik	PRON
+is	AUX
+þan	PRON
+qimiþ	NOUN
+in	ADP
+wulþau	NOUN
+attins	NOUN
+seinis	NOUN
+miþ	DET
+aggilum	X
+þaim	NOUN
+weiham	X
+```
+
+Sentence: at andanahtja þan waurþanamma atberun du imma daimonarjans managans jah uswarp þans ahmans waurda jah allans þans ubil habandans gahailida ei usfullnodedi þata gamelido þairh Esaïan praufetu qiþandan
+Tags:
+```
+at	ADP
+andanahtja	X
+þan	PRON
+waurþanamma	NOUN
+atberun	NOUN
+du	PRON
+imma	NOUN
+daimonarjans	NOUN
+managans	NOUN
+jah	INTJ
+uswarp	X
+þans	PRON
+ahmans	NOUN
+waurda	NOUN
+jah	INTJ
+allans	DET
+þans	PRON
+ubil	NOUN
+habandans	NOUN
+gahailida	X
+ei	ADV
+usfullnodedi	NOUN
+þata	PRON
+gamelido	NOUN
+þairh	NOUN
+Esaïan	PROPN
+praufetu	NOUN
+qiþandan	NOUN
+```
+
+Sentence: biþe þan is neƕa was juþan at ibdaljin þis fairgunjis alewabagme dugunnun alakjo managei siponje faginondans hazjan guþ stibnai mikilai in allaizo þoze seƕun mahte qiþandans
+Tags:
+```
+biþe	INTJ
+þan	PRON
+is	PROPN
+neƕa	PUNCT
+was	AUX
+juþan	X
+at	ADP
+ibdaljin	NOUN
+þis	PRON
+fairgunjis	NOUN
+alewabagme	X
+dugunnun	NOUN
+alakjo	X
+managei	PROPN
+siponje	PROPN
+faginondans	NOUN
+hazjan	INTJ
+guþ	PROPN
+stibnai	VERB
+mikilai	ADV
+in	ADP
+allaizo	X
+þoze	PROPN
+seƕun	PUNCT
+mahte	X
+qiþandans	PROPN
+```
+
+Sentence: jah biþragjands faur usstaig ana smakkabagm ei gaseƕi ina unte is and þata munaida þairhgaggan
+Tags:
+```
+jah	INTJ
+biþragjands	NOUN
+faur	VERB
+usstaig	NOUN
+ana	ADV
+smakkabagm	NOUN
+ei	PRON
+gaseƕi	PUNCT
+ina	DET
+unte	X
+is	X
+and	CCONJ
+þata	NOUN
+munaida	NOUN
+þairhgaggan	NOUN
+```
+
+Sentence: þata qiþands Iesus usiddja miþ siponjam seinaim ufar rinnon þo Kaidron þarei was aurtigards in þanei galaiþ Iesus jah siponjos is
+Tags:
+```
+þata	PRON
+qiþands	NOUN
+Iesus	PROPN
+usiddja	X
+miþ	PRON
+siponjam	NOUN
+seinaim	NOUN
+ufar	ADP
+rinnon	NOUN
+þo	PRON
+Kaidron	PROPN
+þarei	ADV
+was	PRON
+aurtigards	X
+in	ADP
+þanei	PRON
+galaiþ	X
+Iesus	PROPN
+jah	INTJ
+siponjos	PROPN
+is	AUX
+```
+
+Sentence: jah juþan at andanahtja waurþanamma unte was paraskaiwe saei ist fruma sabbato qimands Iosef af Areimaþaias gaguds ragineis saei was jah silba beidands þiudangardjos gudis anananþjands galaiþ inn du Peilatau jah baþ þis leikis Iesuis
+Tags:
+```
+jah	INTJ
+juþan	X
+at	ADP
+andanahtja	X
+waurþanamma	X
+unte	ADP
+was	PRON
+paraskaiwe	X
+saei	X
+ist	AUX
+fruma	X
+sabbato	X
+qimands	X
+Iosef	PROPN
+af	ADP
+Areimaþaias	PROPN
+gaguds	PROPN
+ragineis	X
+saei	X
+was	X
+jah	INTJ
+silba	NOUN
+beidands	NOUN
+þiudangardjos	NOUN
+gudis	PROPN
+anananþjands	NOUN
+galaiþ	NOUN
+inn	DET
+du	PRON
+Peilatau	PROPN
+jah	INTJ
+baþ	NOUN
+þis	PRON
+leikis	NOUN
+Iesuis	PROPN
+```
+
+Sentence: iþ þata qiþandin imma sums andbahte atstandands gaf slah lofin Iesua qaþ uh
+Tags:
+```
+iþ	PRON
+þata	NOUN
+qiþandin	NOUN
+imma	ADP
+sums	DET
+andbahte	NOUN
+atstandands	NOUN
+gaf	VERB
+slah	ADV
+lofin	NOUN
+Iesua	PROPN
+qaþ	PROPN
+uh	INTJ
+```
+
+Sentence: In jainaim þan dagam aftra at filu managai managein wisandein jah ni habandam ƕa matidedeina athaitands siponjans qaþ uh du im
+Tags:
+```
+In	ADP
+jainaim	INTJ
+þan	PRON
+dagam	NOUN
+aftra	ADV
+at	ADP
+filu	NUM
+managai	X
+managein	ADV
+wisandein	ADJ
+jah	INTJ
+ni	DET
+habandam	X
+ƕa	PUNCT
+matidedeina	ADJ
+athaitands	NOUN
+siponjans	PROPN
+qaþ	X
+uh	INTJ
+du	PRON
+im	DET
+```
+
+Sentence: ni teikais nih atsnarpjais nih kausjais
+Tags:
+```
+[16:15:20.887](httpx:INFO) HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:15:20.890](GPT:INFO) Received the following response:
+[16:15:20.890](GPT:INFO) ChatCompletion(id='chatcmpl-9ZyamJgJFNMGESJDsQjx83T54hdYi', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```\nni\tPART\nteikais\tVERB\nnih\tCCONJ\natsnarpjais\tVERB\nnih\tCCONJ\nkausjais\tVERB\n```', role='assistant', function_call=None, tool_calls=None))], created=1718361424, model='gpt-4-turbo-2024-04-09', object='chat.completion', system_fingerprint='fp_31a6c0accf', usage=CompletionUsage(completion_tokens=41, prompt_tokens=1803, total_tokens=1844))
+[16:15:20.890](main:INFO) Obtained completion: ```
+ni	PART
+teikais	VERB
+nih	CCONJ
+atsnarpjais	VERB
+nih	CCONJ
+kausjais	VERB
+```
+[16:15:25.897](GPT:INFO) Giving the following prompt:Tag the following sentence according to the Part of Speech (POS) of each word. The valid tags are ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X. Follow the format specified in the examples below:
+
+Sentence: at andanahtja þan waurþanamma atberun du imma daimonarjans managans jah uswarp þans ahmans waurda jah allans þans ubil habandans gahailida ei usfullnodedi þata gamelido þairh Esaïan praufetu qiþandan
+Tags:
+```
+at	ADP
+andanahtja	X
+þan	PRON
+waurþanamma	NOUN
+atberun	NOUN
+du	PRON
+imma	NOUN
+daimonarjans	NOUN
+managans	NOUN
+jah	INTJ
+uswarp	X
+þans	PRON
+ahmans	NOUN
+waurda	NOUN
+jah	INTJ
+allans	DET
+þans	PRON
+ubil	NOUN
+habandans	NOUN
+gahailida	X
+ei	ADV
+usfullnodedi	NOUN
+þata	PRON
+gamelido	NOUN
+þairh	NOUN
+Esaïan	PROPN
+praufetu	NOUN
+qiþandan	NOUN
+```
+
+Sentence: unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham
+Tags:
+```
+unte	PRON
+saei	X
+skamaiþ	X
+sik	PRON
+meina	X
+jah	INTJ
+waurde	NOUN
+meinaize	NOUN
+in	ADP
+gabaurþai	X
+þizai	NOUN
+horinondein	X
+jah	INTJ
+frawaurhton	X
+jah	INTJ
+sunus	PROPN
+mans	X
+skamaiþ	NOUN
+sik	PRON
+is	AUX
+þan	PRON
+qimiþ	NOUN
+in	ADP
+wulþau	NOUN
+attins	NOUN
+seinis	NOUN
+miþ	DET
+aggilum	X
+þaim	NOUN
+weiham	X
+```
+
+Sentence: biþe þan is neƕa was juþan at ibdaljin þis fairgunjis alewabagme dugunnun alakjo managei siponje faginondans hazjan guþ stibnai mikilai in allaizo þoze seƕun mahte qiþandans
+Tags:
+```
+biþe	INTJ
+þan	PRON
+is	PROPN
+neƕa	PUNCT
+was	AUX
+juþan	X
+at	ADP
+ibdaljin	NOUN
+þis	PRON
+fairgunjis	NOUN
+alewabagme	X
+dugunnun	NOUN
+alakjo	X
+managei	PROPN
+siponje	PROPN
+faginondans	NOUN
+hazjan	INTJ
+guþ	PROPN
+stibnai	VERB
+mikilai	ADV
+in	ADP
+allaizo	X
+þoze	PROPN
+seƕun	PUNCT
+mahte	X
+qiþandans	PROPN
+```
+
+Sentence: iþ þata qiþandin imma sums andbahte atstandands gaf slah lofin Iesua qaþ uh
+Tags:
+```
+iþ	PRON
+þata	NOUN
+qiþandin	NOUN
+imma	ADP
+sums	DET
+andbahte	NOUN
+atstandands	NOUN
+gaf	VERB
+slah	ADV
+lofin	NOUN
+Iesua	PROPN
+qaþ	PROPN
+uh	INTJ
+```
+
+Sentence: jah juþan at andanahtja waurþanamma unte was paraskaiwe saei ist fruma sabbato qimands Iosef af Areimaþaias gaguds ragineis saei was jah silba beidands þiudangardjos gudis anananþjands galaiþ inn du Peilatau jah baþ þis leikis Iesuis
+Tags:
+```
+jah	INTJ
+juþan	X
+at	ADP
+andanahtja	X
+waurþanamma	X
+unte	ADP
+was	PRON
+paraskaiwe	X
+saei	X
+ist	AUX
+fruma	X
+sabbato	X
+qimands	X
+Iosef	PROPN
+af	ADP
+Areimaþaias	PROPN
+gaguds	PROPN
+ragineis	X
+saei	X
+was	X
+jah	INTJ
+silba	NOUN
+beidands	NOUN
+þiudangardjos	NOUN
+gudis	PROPN
+anananþjands	NOUN
+galaiþ	NOUN
+inn	DET
+du	PRON
+Peilatau	PROPN
+jah	INTJ
+baþ	NOUN
+þis	PRON
+leikis	NOUN
+Iesuis	PROPN
+```
+
+Sentence: jah biþragjands faur usstaig ana smakkabagm ei gaseƕi ina unte is and þata munaida þairhgaggan
+Tags:
+```
+jah	INTJ
+biþragjands	NOUN
+faur	VERB
+usstaig	NOUN
+ana	ADV
+smakkabagm	NOUN
+ei	PRON
+gaseƕi	PUNCT
+ina	DET
+unte	X
+is	X
+and	CCONJ
+þata	NOUN
+munaida	NOUN
+þairhgaggan	NOUN
+```
+
+Sentence: In jainaim þan dagam aftra at filu managai managein wisandein jah ni habandam ƕa matidedeina athaitands siponjans qaþ uh du im
+Tags:
+```
+In	ADP
+jainaim	INTJ
+þan	PRON
+dagam	NOUN
+aftra	ADV
+at	ADP
+filu	NUM
+managai	X
+managein	ADV
+wisandein	ADJ
+jah	INTJ
+ni	DET
+habandam	X
+ƕa	PUNCT
+matidedeina	ADJ
+athaitands	NOUN
+siponjans	PROPN
+qaþ	X
+uh	INTJ
+du	PRON
+im	DET
+```
+
+Sentence: þata qiþands Iesus usiddja miþ siponjam seinaim ufar rinnon þo Kaidron þarei was aurtigards in þanei galaiþ Iesus jah siponjos is
+Tags:
+```
+þata	PRON
+qiþands	NOUN
+Iesus	PROPN
+usiddja	X
+miþ	PRON
+siponjam	NOUN
+seinaim	NOUN
+ufar	ADP
+rinnon	NOUN
+þo	PRON
+Kaidron	PROPN
+þarei	ADV
+was	PRON
+aurtigards	X
+in	ADP
+þanei	PRON
+galaiþ	X
+Iesus	PROPN
+jah	INTJ
+siponjos	PROPN
+is	AUX
+```
+
+Sentence: in þammei alla gatimrjo gagatiloda wahseiþ du alh weihai in fraujin
+Tags:
+```
+[16:15:30.224](httpx:INFO) HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:15:30.227](GPT:INFO) Received the following response:
+[16:15:30.227](GPT:INFO) ChatCompletion(id='chatcmpl-9ZyauxC04pl1ypCUJThuWpweD30HF', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```\nin\tADP\nþammei\tPRON\nalla\tDET\ngatimrjo\tNOUN\ngagatiloda\tVERB\nwahseiþ\tNOUN\ndu\tADP\nalh\tNOUN\nweihai\tNOUN\nin\tADP\nfraujin\tNOUN\n```', role='assistant', function_call=None, tool_calls=None))], created=1718361432, model='gpt-4-turbo-2024-04-09', object='chat.completion', system_fingerprint='fp_31a6c0accf', usage=CompletionUsage(completion_tokens=73, prompt_tokens=1815, total_tokens=1888))
+[16:15:30.227](main:INFO) Obtained completion: ```
+in	ADP
+þammei	PRON
+alla	DET
+gatimrjo	NOUN
+gagatiloda	VERB
+wahseiþ	NOUN
+du	ADP
+alh	NOUN
+weihai	NOUN
+in	ADP
+fraujin	NOUN
+```

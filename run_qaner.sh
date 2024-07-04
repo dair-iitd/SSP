@@ -1,7 +1,7 @@
 # for lang in luo; do
 #     python iterate.py \
-#         -d ../llama/data/processed/test_${lang}.tsv \
-#         -sd ../llama/data/processed/train_en_conll-amh-swa-wol.tsv \
+#         -d data/processed/test_${lang}.tsv \
+#         -sd data/processed/train_en_conll-amh-swa-wol.tsv \
 #         -td new_results/gpt4/african/8s/${lang}/responses.json \
 #         -ssim data/random_100_allsrc.npy \
 #         -tsim data/${lang}_100/test_${lang}_sim.npy \
@@ -12,8 +12,8 @@
  
 for lang in hau ibo kin lug luo; do
     python iterate.py \
-        -d ../llama/data/processed/test_${lang}.tsv \
-        -sd ../llama/data/processed/train_en_conll-amh-swa-wol.tsv \
+        -d data/processed/test_${lang}.tsv \
+        -sd data/processed/train_en_conll-amh-swa-wol.tsv \
         -td new_results/gpt4/african/zs_qaner/${lang}/responses.json \
         -ssim data/random_100_allsrc.npy \
         -tsim data/${lang}_100/test_${lang}_sim.npy \

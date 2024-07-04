@@ -1,0 +1,3308 @@
+[
+  {
+    "src_lang": "He left behind two children and a wife, Patience Kyomugisha but the death of her husband, found her to have gone on holiday to Saudi Arabia.",
+    "src_entities": [
+      "Patience Kyomugisha",
+      "Saudi Arabia."
+    ],
+    "template": "Yalesse abaana babiri nomukyala , Patience Kyomugisha wabula ono okufa kwa bba , kwamusanze yagenda ku kyeyo e Saudi Arabia .",
+    "text_to_decode": [
+      {
+        "text": "He left behind two children and a wife, [ Patience Kyomugisha ] but the death of her husband, found her to have gone on holiday to Saudi Arabia.",
+        "candidates": [
+          10,
+          11,
+          23,
+          24,
+          25,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "text": "He left behind two children and a wife, Patience Kyomugisha but the death of her husband, found her to have gone on holiday to [ Saudi Arabia. ]",
+        "candidates": [
+          35,
+          23,
+          25,
+          27,
+          29,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Museveni in his final letter said that the next time he sends a message, he will reach out to the LDU members who have changed their ways.",
+    "src_entities": [
+      "Museveni",
+      "LDU"
+    ],
+    "template": "Museveni mu bbaluwa ye yamalirizza agamba nti lwanaddako okuweereza obubaka , agenda kusitukira mu ba LDU abasiiwuuse empisa .",
+    "text_to_decode": [
+      {
+        "text": "[ Museveni ] in his final letter said that the next time he sends a message, he will reach out to the LDU members who have changed their ways.",
+        "candidates": [
+          2,
+          3,
+          7,
+          9,
+          10
+        ]
+      },
+      {
+        "text": "Museveni in his final letter said that the next time he sends a message, he will reach out to the [ LDU ] members who have changed their ways.",
+        "candidates": [
+          23,
+          24,
+          27,
+          28,
+          30,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "This is in addition to the most difficult case in which Sweden is accusing him of 53 million Swedish kronor in Ugandan dollars is more than 23 billion and now the total amount of money Mbuga is accusing him of more than 32 billion.",
+    "src_entities": [
+      "Sweden",
+      "Mbuga"
+    ],
+    "template": "Kuno kwossa nomusango ogusinga obuzibu ogwe Sweden mwe bamuvunaanira okufera obukadde 53 obwensimbi ze Sweden Kronor mu za Uganda zisukka obuwumbi 23 era nga kati ssente zonna awamu Mbuga ze bamuvunaana okufera zisukka obuwumbi 32 .",
+    "text_to_decode": [
+      {
+        "text": "This is in addition to the most difficult case in which [ Sweden ] is accusing him of 53 million Swedish kronor in Ugandan dollars is more than 23 billion and now the total amount of money Mbuga is accusing him of more than 32 billion.",
+        "candidates": [
+          34,
+          35,
+          42,
+          11,
+          43,
+          14,
+          15,
+          16,
+          17,
+          47,
+          22,
+          29,
+          30,
+          31
+        ]
+      },
+      {
+        "text": "This is in addition to the most difficult case in which Sweden is accusing him of 53 million Swedish kronor in Ugandan dollars is more than 23 billion and now the total amount of money [ Mbuga ] is accusing him of more than 32 billion.",
+        "candidates": [
+          43,
+          45,
+          46,
+          47,
+          16,
+          17,
+          48,
+          50,
+          52,
+          21,
+          23
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "On the other hand, the residents have boasted that the perpetrators of the operation said that they were not informed about the closure and many lost their money that they would have saved if they had not been robbed.",
+    "src_entities": [],
+    "template": "Wabula abatuuze bakukkulumidde abaakoze ekikwekweto nga bagamba nti tebaasoose kutegeezebwako nti bakuggalwa era bangi ne bafiirwa emmaali yaabwe gye bandibadde bataasa nga batemezeddwaako .",
+    "text_to_decode": [
+      {
+        "text": "On the other hand, the residents have boasted that the perpetrators of the operation said that they were not informed about the closure and many lost their money that they would have saved if they had not been robbed.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Sheikh Abdul Hakim Kayongo of Kibuli informed that Kalyango asked him to help bury his son in his limbo Nkoowe I say that the tribe had driven him to Mbuye because of his immigration.",
+    "src_entities": [
+      "Abdul Hakim Kayongo",
+      "Kibuli",
+      "Kalyango",
+      "Nkoowe",
+      "Mbuye"
+    ],
+    "template": "Sheikh Abdul Hakim Kayongo owe Kibuli yategeezezza nti Kalyango yamusaba okuyamba aziika omwana we mu limbo ye Nkoowe ngagamba nti abekika kye baamugoba e Mbuye olwokusiramuka .",
+    "text_to_decode": [
+      {
+        "text": "Sheikh [ Abdul Hakim Kayongo ] of Kibuli informed that Kalyango asked him to help bury his son in his limbo Nkoowe I say that the tribe had driven him to Mbuye because of his immigration.",
+        "candidates": [
+          4,
+          8
+        ]
+      },
+      {
+        "text": "Sheikh Abdul Hakim Kayongo of [ Kibuli ] informed that Kalyango asked him to help bury his son in his limbo Nkoowe I say that the tribe had driven him to Mbuye because of his immigration.",
+        "candidates": [
+          11,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Sheikh Abdul Hakim Kayongo of Kibuli informed that [ Kalyango ] asked him to help bury his son in his limbo Nkoowe I say that the tribe had driven him to Mbuye because of his immigration.",
+        "candidates": [
+          18,
+          15
+        ]
+      },
+      {
+        "text": "Sheikh Abdul Hakim Kayongo of Kibuli informed that Kalyango asked him to help bury his son in his limbo [ Nkoowe ] I say that the tribe had driven him to Mbuye because of his immigration.",
+        "candidates": [
+          35,
+          36,
+          47,
+          48,
+          50,
+          26,
+          28,
+          29,
+          32
+        ]
+      },
+      {
+        "text": "Sheikh Abdul Hakim Kayongo of Kibuli informed that Kalyango asked him to help bury his son in his limbo Nkoowe I say that the tribe had driven him to [ Mbuye ] because of his immigration.",
+        "candidates": [
+          36,
+          38,
+          43,
+          44,
+          46,
+          47,
+          48,
+          50
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Galiwango was charged with kidnapping a child under file number SD 0715022019 after which the child was returned to his parents.",
+    "src_entities": [
+      "Galiwango"
+    ],
+    "template": "Galiwango yaguddwako omusango gwokuwamba omwana oguli ku fayiro namba SD 0715022019 oluvanyuma omwana nadizzibwa bazadde be .",
+    "text_to_decode": [
+      {
+        "text": "[ Galiwango ] was charged with kidnapping a child under file number SD 0715022019 after which the child was returned to his parents.",
+        "candidates": [
+          2,
+          4,
+          5,
+          9,
+          12,
+          14,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "not responded to.",
+    "src_entities": [],
+    "template": "bitakolwako akeediimo kaddamu .",
+    "text_to_decode": [
+      {
+        "text": "not responded to.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Ronald Akandwanaho refused to discuss the matter with his superiors.",
+    "src_entities": [
+      "Ronald Akandwanaho"
+    ],
+    "template": "Ronald Akandwanaho yagaanyi okwogera ku nsonga eno najulizabakama be .",
+    "text_to_decode": [
+      {
+        "text": "[ Ronald Akandwanaho ] refused to discuss the matter with his superiors.",
+        "candidates": [
+          2,
+          3,
+          7,
+          8,
+          12,
+          14,
+          15,
+          18
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Written by Herbert Musoke from Harriet Nakabaale of Camp Green in Kawaala.",
+    "src_entities": [
+      "Herbert Musoke",
+      "Harriet Nakabaale",
+      "Camp Green",
+      "Kawaala."
+    ],
+    "template": "Biwandiikiddwa Herbert Musoke okuva ku Harriet Nakabaale owa Camp green e Kawaala .",
+    "text_to_decode": [
+      {
+        "text": "Written by [ Herbert Musoke ] from Harriet Nakabaale of Camp Green in Kawaala.",
+        "candidates": [
+          2,
+          5,
+          8,
+          9,
+          21
+        ]
+      },
+      {
+        "text": "Written by Herbert Musoke from [ Harriet Nakabaale ] of Camp Green in Kawaala.",
+        "candidates": [
+          9,
+          10,
+          15,
+          16,
+          21
+        ]
+      },
+      {
+        "text": "Written by Herbert Musoke from Harriet Nakabaale of [ Camp Green ] in Kawaala.",
+        "candidates": [
+          21,
+          15,
+          16
+        ]
+      },
+      {
+        "text": "Written by Herbert Musoke from Harriet Nakabaale of Camp Green in [ Kawaala. ]",
+        "candidates": [
+          18,
+          19,
+          21
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He urged people to know more about corruption and fight it and said that this corruption has hampered the implementation of the NRM manifesto.",
+    "src_entities": [
+      "NRM"
+    ],
+    "template": "Yasabye abantu okumanya ennyo ebikwata ku nguzi nokugirwanyisa nagamba ntikino obuli bwenguzi bukosezza ebyokussa mu nkola manifesito ya NRM .",
+    "text_to_decode": [
+      {
+        "text": "He urged people to know more about corruption and fight it and said that this corruption has hampered the implementation of the [ NRM ] manifesto.",
+        "candidates": [
+          34,
+          36,
+          37,
+          39,
+          23,
+          25,
+          29,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "This was held in the square by the representative of the committee at the offices of the Kampala ministry and here he explained that the government is preparing to cancel the contract of Nabugabo because the contract was due to expire in June 2019.",
+    "src_entities": [
+      "Kampala",
+      "Nabugabo"
+    ],
+    "template": "Bino byabade mu kibangirizi omutuuzibwa enkiiko ku offiisi za minisitule ya Kampala era muno mwe yategeerezza nga gavumenti bwetegenda kumala gasazaamu kontulakiti ya Nabugabo kubanga ekyalina endagaano egenda okuggwaako mu June 2019 .",
+    "text_to_decode": [
+      {
+        "text": "This was held in the square by the representative of the committee at the offices of the [ Kampala ] ministry and here he explained that the government is preparing to cancel the contract of Nabugabo because the contract was due to expire in June 2019.",
+        "candidates": [
+          21,
+          24,
+          25,
+          27,
+          28,
+          29
+        ]
+      },
+      {
+        "text": "This was held in the square by the representative of the committee at the offices of the Kampala ministry and here he explained that the government is preparing to cancel the contract of [ Nabugabo ] because the contract was due to expire in June 2019.",
+        "candidates": [
+          43,
+          44,
+          47,
+          48,
+          52,
+          53
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "However, a spokesperson for the Police in Kampala and the surrounding area said that the Police will not accept this because they as an agency are responsible for providing protection to all candidates so I warned the FDC, to immediately stop the activities of the youth group they have done.",
+    "src_entities": [
+      "Kampala",
+      "FDC,"
+    ],
+    "template": "Wabula omwogezi wa Poliisi mu Kampala nemiriraano yagambye nti kino Poliisi tegenda kukikkiriza kubanga bo ngekitongole be bavunaanyizibwa ku kyokuwa abeesimbyewo bonna obukuumi bwatyo nalabula aba FDC , okuyimiriza amangu ddala emirimu gyakabinja kabavubuka ke bakoze .",
+    "text_to_decode": [
+      {
+        "text": "However, a spokesperson for the Police in [ Kampala ] and the surrounding area said that the Police will not accept this because they as an agency are responsible for providing protection to all candidates so I warned the FDC, to immediately stop the activities of the youth group they have done.",
+        "candidates": [
+          10,
+          18,
+          12
+        ]
+      },
+      {
+        "text": "However, a spokesperson for the Police in Kampala and the surrounding area said that the Police will not accept this because they as an agency are responsible for providing protection to all candidates so I warned the [ FDC, ] to immediately stop the activities of the youth group they have done.",
+        "candidates": [
+          67,
+          48,
+          49,
+          51,
+          53,
+          65
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "18 A court order should specify the identity of the person who bequeathed land to another.",
+    "src_entities": [],
+    "template": "18 Ekiragiro kya kkooti kiteekeddwa okulaga ebikwata ku muntu asengula omulala ku ttaka .",
+    "text_to_decode": [
+      {
+        "text": "18 A court order should specify the identity of the person who bequeathed land to another.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Some of the businessmen working at the Zai Plaza building are afraid to enter it after the KACITA group opened their stores to them by the wealthy Yanga.",
+    "src_entities": [
+      "Zai Plaza",
+      "KACITA",
+      "Yanga."
+    ],
+    "template": "Abbaannttuu kkyyee bbaaggaammbbaa Abamu ku basuubuzi abakolera ku kizimbe kya Zai Plaza nga batidde okukiyingira oluvannyuma lwekibiina kya KACITA okubaggulira amadduuka gaabwe omugagga Yanga ge yabadde aggadde .",
+    "text_to_decode": [
+      {
+        "text": "Some of the businessmen working at the [ Zai Plaza ] building are afraid to enter it after the KACITA group opened their stores to them by the wealthy Yanga.",
+        "candidates": [
+          22,
+          25,
+          26,
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      {
+        "text": "Some of the businessmen working at the Zai Plaza building are afraid to enter it after the [ KACITA ] group opened their stores to them by the wealthy Yanga.",
+        "candidates": [
+          36,
+          37,
+          38
+        ]
+      },
+      {
+        "text": "Some of the businessmen working at the Zai Plaza building are afraid to enter it after the KACITA group opened their stores to them by the wealthy [ Yanga. ]",
+        "candidates": [
+          9,
+          11,
+          12,
+          13,
+          14,
+          45,
+          49,
+          50,
+          52,
+          54,
+          55,
+          56,
+          57,
+          58,
+          60
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "They hired a Russian woman Nurkhan Niiazova, owner of Nat Metals DMCC, for $4.5 million and $4.5 million in troubled shares.",
+    "src_entities": [
+      "Nurkhan Niiazova,",
+      "Nat Metals DMCC,"
+    ],
+    "template": "Baakola ddiiru ku mukyala Omurussia Nurkhan Niiazova nnannyini kkampuni ya Nat Metals DMCC ne bafuna ddoola obukadde buna nekitundu ddoola 4 , 500 , 000 engabana nereeta obuzibu .",
+    "text_to_decode": [
+      {
+        "text": "They hired a Russian woman [ Nurkhan Niiazova, ] owner of Nat Metals DMCC, for $4.5 million and $4.5 million in troubled shares.",
+        "candidates": [
+          4,
+          6,
+          7,
+          9,
+          11,
+          16
+        ]
+      },
+      {
+        "text": "They hired a Russian woman Nurkhan Niiazova, owner of [ Nat Metals DMCC, ] for $4.5 million and $4.5 million in troubled shares.",
+        "candidates": [
+          18,
+          20,
+          21
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The building now competes very well with popular tourist attractions, especially the Arabian Desert covered with mountainous sand and where the state-owned tourism company Arabian Adventure has decided to set up a shuttle bus to take passengers to other places.",
+    "src_entities": [
+      "Arabian Desert",
+      "Arabian Adventure"
+    ],
+    "template": "lEkizimbe kino kati kivuganya bulungi nnyo n'ebifo ebibadde bimanyiddwa ennyo mu kukung'aanya abalambuzi naddala eddungu erimanyiddwa nga Arabian Desert erijjudde omusenyu ogwakola obusozi era ng'eno ne kkampuni ya gavumenti ekola ku by'obulambuzi eya Arabian Adventure gye yasalawo okuteeka emmotoka ezirambuza abantu we zisimbula ne zibatwala mu bifo ebirala . .",
+    "text_to_decode": [
+      {
+        "text": "The building now competes very well with popular tourist attractions, especially the [ Arabian Desert ] covered with mountainous sand and where the state-owned tourism company Arabian Adventure has decided to set up a shuttle bus to take passengers to other places.",
+        "candidates": [
+          34,
+          36,
+          37,
+          103,
+          40,
+          104,
+          44,
+          45
+        ]
+      },
+      {
+        "text": "The building now competes very well with popular tourist attractions, especially the Arabian Desert covered with mountainous sand and where the state-owned tourism company [ Arabian Adventure ] has decided to set up a shuttle bus to take passengers to other places.",
+        "candidates": [
+          66,
+          102,
+          103,
+          72,
+          73,
+          104,
+          59,
+          60,
+          62,
+          63,
+          64
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The exhibition at the Harvest Money Expo 2019 in Namboole.",
+    "src_entities": [
+      "Namboole."
+    ],
+    "template": "Ekiri mu mwoleso gwa Harvest Money Expo 2019 e Namboole .",
+    "text_to_decode": [
+      {
+        "text": "The exhibition at the Harvest Money Expo 2019 in [ Namboole. ]",
+        "candidates": [
+          18,
+          14,
+          15
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He asked the LC to distribute them well so that they can be consumed by every citizen in the area.",
+    "src_entities": [
+      "LC"
+    ],
+    "template": "Yasabye aba LC okuzigaba obulungi zisobole okumala buli mutuuze mu kitundu .",
+    "text_to_decode": [
+      {
+        "text": "He asked the [ LC ] to distribute them well so that they can be consumed by every citizen in the area.",
+        "candidates": [
+          3,
+          5,
+          6,
+          9
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Kabanda and her husband Charles Kabanda told the parents that the responsibility of caring for two children is to raise them in a moral way to be useful in the world.",
+    "src_entities": [
+      "Kabanda",
+      "Charles Kabanda"
+    ],
+    "template": "Kabanda ne bba Charles Kabanda baategeezezza abazadde nti obuvunaanyizibwa bwokulabirira abaana bwa babiri nga babakuliza mu mpisa bafuuke aboomugaso mu nsi .",
+    "text_to_decode": [
+      {
+        "text": "[ Kabanda ] and her husband Charles Kabanda told the parents that the responsibility of caring for two children is to raise them in a moral way to be useful in the world.",
+        "candidates": [
+          2,
+          4,
+          36,
+          41,
+          20,
+          24,
+          25
+        ]
+      },
+      {
+        "text": "Kabanda and her husband [ Charles Kabanda ] told the parents that the responsibility of caring for two children is to raise them in a moral way to be useful in the world.",
+        "candidates": [
+          4,
+          7,
+          10,
+          11,
+          12,
+          16,
+          20,
+          24,
+          25,
+          26,
+          28,
+          29,
+          30,
+          31
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He also informed them that if the plan to dismiss them does not lead to a rich man and the committee has served, it has no bearing on what will be found for those who have been hired a position where they will run their businesses.",
+    "src_entities": [],
+    "template": "Ono era abategeezezza ngenteekateeka yokubasenda bwetagenda kutaliza mugagga era olukiiko we lugweeredde , talina kyanyeze ku kyakufunira abo abanaaba basendeddwa ekifo ekyolukale we banaaddukanyiza emirimu gyabwe .",
+    "text_to_decode": [
+      {
+        "text": "He also informed them that if the plan to dismiss them does not lead to a rich man and the committee has served, it has no bearing on what will be found for those who have been hired a position where they will run their businesses.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "And Ssempijja said that different regions like Nateete and Lubaga all know that the DP cannot be defeated because people know the benefits of a system of truth and justice.",
+    "src_entities": [
+      "Ssempijja",
+      "Nateete",
+      "Lubaga",
+      "DP"
+    ],
+    "template": "Ate Ssempijja yagambye nti ebitundu ebyenjawulo nga Nateete ne Lubaga wonna bakimanyi nti DP tesobola kuwangulwa kubanga abantu bamanyi ebirungi ebiri mu nkola yamazima nobwenkanya .",
+    "text_to_decode": [
+      {
+        "text": "And [ Ssempijja ] said that different regions like Nateete and Lubaga all know that the DP cannot be defeated because people know the benefits of a system of truth and justice.",
+        "candidates": [
+          2,
+          3,
+          7
+        ]
+      },
+      {
+        "text": "And Ssempijja said that different regions like [ Nateete ] and Lubaga all know that the DP cannot be defeated because people know the benefits of a system of truth and justice.",
+        "candidates": [
+          12,
+          21,
+          15,
+          16
+        ]
+      },
+      {
+        "text": "And Ssempijja said that different regions like Nateete and [ Lubaga ] all know that the DP cannot be defeated because people know the benefits of a system of truth and justice.",
+        "candidates": [
+          19,
+          21,
+          23
+        ]
+      },
+      {
+        "text": "And Ssempijja said that different regions like Nateete and Lubaga all know that the [ DP ] cannot be defeated because people know the benefits of a system of truth and justice.",
+        "candidates": [
+          26,
+          27,
+          23
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The case will be heard again on 2372020.",
+    "src_entities": [],
+    "template": "Omusango gwa kuddamu okuwulirwa nga 2372020 .",
+    "text_to_decode": [
+      {
+        "text": "The case will be heard again on 2372020.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "CP Eria Luwalira and SPC Harman Kinobe are Kammengo police officers who arrived at the home of Paul Mukasa 30, a resident of Ndoddo in the Kammengo district of Mpigi on the charge of cutting a neighbor's head.",
+    "src_entities": [
+      "Eria Luwalira",
+      "SPC",
+      "Harman Kinobe",
+      "Kammengo",
+      "Paul Mukasa",
+      "Ndoddo",
+      "Kammengo",
+      "Mpigi"
+    ],
+    "template": "CP Eria Luwalira ne SPC Harman Kinobe abasirikale ba poliisi ye Kammengo abaakedde mu maka ga Paul Mukasa 30 omutuuze we Ndoddo mu ggombolola ye Kammengo mu Mpigi ku musango gwokutema muliranwa we baavudde mu mbeera ne bamukuba amasasi agaamuttiddewo bwe yagezezzaako okutema omusirikale enkumbi ku mutwe .",
+    "text_to_decode": [
+      {
+        "text": "CP [ Eria Luwalira ] and SPC Harman Kinobe are Kammengo police officers who arrived at the home of Paul Mukasa 30, a resident of Ndoddo in the Kammengo district of Mpigi on the charge of cutting a neighbor's head.",
+        "candidates": [
+          3
+        ]
+      },
+      {
+        "text": "CP Eria Luwalira and [ SPC ] Harman Kinobe are Kammengo police officers who arrived at the home of Paul Mukasa 30, a resident of Ndoddo in the Kammengo district of Mpigi on the charge of cutting a neighbor's head.",
+        "candidates": [
+          8
+        ]
+      },
+      {
+        "text": "CP Eria Luwalira and SPC [ Harman Kinobe ] are Kammengo police officers who arrived at the home of Paul Mukasa 30, a resident of Ndoddo in the Kammengo district of Mpigi on the charge of cutting a neighbor's head.",
+        "candidates": [
+          10,
+          14,
+          15,
+          82,
+          84,
+          88
+        ]
+      },
+      {
+        "text": "CP Eria Luwalira and SPC Harman Kinobe are [ Kammengo ] police officers who arrived at the home of Paul Mukasa 30, a resident of Ndoddo in the Kammengo district of Mpigi on the charge of cutting a neighbor's head.",
+        "candidates": [
+          14,
+          15,
+          81,
+          82,
+          19,
+          20,
+          84,
+          23,
+          24,
+          87,
+          89
+        ]
+      },
+      {
+        "text": "CP Eria Luwalira and SPC Harman Kinobe are Kammengo police officers who arrived at the home of [ Paul Mukasa ] 30, a resident of Ndoddo in the Kammengo district of Mpigi on the charge of cutting a neighbor's head.",
+        "candidates": [
+          36,
+          24,
+          25,
+          26,
+          29,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "CP Eria Luwalira and SPC Harman Kinobe are Kammengo police officers who arrived at the home of Paul Mukasa 30, a resident of [ Ndoddo ] in the Kammengo district of Mpigi on the charge of cutting a neighbor's head.",
+        "candidates": [
+          40,
+          37,
+          32,
+          41
+        ]
+      },
+      {
+        "text": "CP Eria Luwalira and SPC Harman Kinobe are Kammengo police officers who arrived at the home of Paul Mukasa 30, a resident of Ndoddo in the [ Kammengo ] district of Mpigi on the charge of cutting a neighbor's head.",
+        "candidates": [
+          43,
+          44,
+          47,
+          41
+        ]
+      },
+      {
+        "text": "CP Eria Luwalira and SPC Harman Kinobe are Kammengo police officers who arrived at the home of Paul Mukasa 30, a resident of Ndoddo in the Kammengo district of [ Mpigi ] on the charge of cutting a neighbor's head.",
+        "candidates": [
+          43,
+          47,
+          48,
+          50,
+          51,
+          53
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Sheikh Guggwa is a man who has been in the air and no one has been able to go.",
+    "src_entities": [
+      "Guggwa"
+    ],
+    "template": "Sheikh Guggwa ye muntu abadde mu bbanga era talina watasobola kugenda .",
+    "text_to_decode": [
+      {
+        "text": "Sheikh [ Guggwa ] is a man who has been in the air and no one has been able to go.",
+        "candidates": [
+          4,
+          7,
+          8
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "And Latif's camp hopes to get support from Bobi Wine and People Power, killing some mayors in Kampala Municipalities.",
+    "src_entities": [
+      "Latif's",
+      "Bobi Wine",
+      "People Power,",
+      "Kampala"
+    ],
+    "template": "Ate enkambi ya Latif erina essuubi okufuna obuwagizi okuva ewa Bobi Wine naba People Power , kwossa bameeya abamu mu Munisipaali za Kampala .",
+    "text_to_decode": [
+      {
+        "text": "And [ Latif's ] camp hopes to get support from Bobi Wine and People Power, killing some mayors in Kampala Municipalities.",
+        "candidates": [
+          2,
+          3,
+          5,
+          6,
+          8
+        ]
+      },
+      {
+        "text": "And Latif's camp hopes to get support from [ Bobi Wine ] and People Power, killing some mayors in Kampala Municipalities.",
+        "candidates": [
+          18,
+          20,
+          23,
+          17
+        ]
+      },
+      {
+        "text": "And Latif's camp hopes to get support from Bobi Wine and [ People Power, ] killing some mayors in Kampala Municipalities.",
+        "candidates": [
+          20,
+          21,
+          23,
+          24,
+          25,
+          29
+        ]
+      },
+      {
+        "text": "And Latif's camp hopes to get support from Bobi Wine and People Power, killing some mayors in [ Kampala ] Municipalities.",
+        "candidates": [
+          34,
+          35,
+          37,
+          29,
+          31
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "One soldier was arrested and the other escaped while they were still searching for him.",
+    "src_entities": [],
+    "template": "Omuserikale omu yakwatiddwa omulala yadduse bakyamunoonya .",
+    "text_to_decode": [
+      {
+        "text": "One soldier was arrested and the other escaped while they were still searching for him.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Pastor Dr. Cyprian Kizito Lwanga sang the Mass in Kigungu on Sunday at the celebration of this historic day in Klezia.",
+    "src_entities": [
+      "Cyprian Kizito Lwanga",
+      "Kigungu",
+      "Klezia."
+    ],
+    "template": "Ssaabasumba Dr . Cyprian Kizito Lwanga ye yayimbye mmisa e Kigungu ku Ssande ku mukolo gwokukuza olunaku olwo olwebyafaayo mu Klezia .",
+    "text_to_decode": [
+      {
+        "text": "Pastor Dr. [ Cyprian Kizito Lwanga ] sang the Mass in Kigungu on Sunday at the celebration of this historic day in Klezia.",
+        "candidates": [
+          2,
+          7,
+          8,
+          41,
+          44,
+          15,
+          16,
+          17,
+          21
+        ]
+      },
+      {
+        "text": "Pastor Dr. Cyprian Kizito Lwanga sang the Mass in [ Kigungu ] on Sunday at the celebration of this historic day in Klezia.",
+        "candidates": [
+          15,
+          17,
+          19,
+          21,
+          22,
+          24
+        ]
+      },
+      {
+        "text": "Pastor Dr. Cyprian Kizito Lwanga sang the Mass in Kigungu on Sunday at the celebration of this historic day in [ Klezia. ]",
+        "candidates": [
+          2,
+          7,
+          8,
+          41,
+          42,
+          44
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Mukata said that the purpose of first educating passengers about their responsibilities in the taxi and the drivers is to catch them with full knowledge of the crime they have committed to be charged without any excuse.",
+    "src_entities": [
+      "Mukata"
+    ],
+    "template": "Mukasa agambye nti ekigendererwa kyokusooka okusomesa abasaabaze obuvunaanyizibwa bwabwe mu takisi ne baddereeva kwe kubakwata nga bamanyi bulungi omusango gwe bazzizza bavunaanibwe nga tebalina kye beekwasa .",
+    "text_to_decode": [
+      {
+        "text": "[ Mukata ] said that the purpose of first educating passengers about their responsibilities in the taxi and the drivers is to catch them with full knowledge of the crime they have committed to be charged without any excuse.",
+        "candidates": [
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "In the women, Halima Nakaayi took fifth in the 1000 meters in 2 minutes and 32 seconds and 12 points while also breaking the Uganda record while her partner Winnie Nanyondo took eighth with 236.54 as well in this season of timing her last.",
+    "src_entities": [
+      "Halima Nakaayi",
+      "Uganda",
+      "Winnie Nanyondo"
+    ],
+    "template": "Mu bakazi , Halima Nakaayi akutte kyakutaano mu mita 1000 mu ddakika 2 ne sikonda 32 nobutundu 12 nga naye amenye likooda ya Uganda ate munne Winnie Nanyondo nakwata kya munana ne 236 . 54 nga era mu season eno ya timing ye ekyasize .",
+    "text_to_decode": [
+      {
+        "text": "In the women, [ Halima Nakaayi ] took fifth in the 1000 meters in 2 minutes and 32 seconds and 12 points while also breaking the Uganda record while her partner Winnie Nanyondo took eighth with 236.54 as well in this season of timing her last.",
+        "candidates": [
+          5,
+          6,
+          50,
+          55,
+          59
+        ]
+      },
+      {
+        "text": "In the women, Halima Nakaayi took fifth in the 1000 meters in 2 minutes and 32 seconds and 12 points while also breaking the [ Uganda ] record while her partner Winnie Nanyondo took eighth with 236.54 as well in this season of timing her last.",
+        "candidates": [
+          35,
+          36,
+          38,
+          39
+        ]
+      },
+      {
+        "text": "In the women, Halima Nakaayi took fifth in the 1000 meters in 2 minutes and 32 seconds and 12 points while also breaking the Uganda record while her partner [ Winnie Nanyondo ] took eighth with 236.54 as well in this season of timing her last.",
+        "candidates": [
+          37,
+          40,
+          41,
+          42,
+          47
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "All this is alleged to have been done with guns and as part of a group of people who opposed the Masaka in the regions of Lyantonde, Ssembabule and Rakai by cutting people and stealing goods.",
+    "src_entities": [
+      "Masaka",
+      "Lyantonde,",
+      "Ssembabule",
+      "Rakai"
+    ],
+    "template": "Bino byonna kigambibwa nti baabikola nga bakozesa emmundu era nga beebamu ku kibinja kyabantu abaatigomya Bannamasaka mu bitundu bye Lyantonde , Ssembabule ne Rakai nga batema abantu nokubba ebintu .",
+    "text_to_decode": [
+      {
+        "text": "All this is alleged to have been done with guns and as part of a group of people who opposed the [ Masaka ] in the regions of Lyantonde, Ssembabule and Rakai by cutting people and stealing goods.",
+        "candidates": [
+          34,
+          29,
+          30,
+          38
+        ]
+      },
+      {
+        "text": "All this is alleged to have been done with guns and as part of a group of people who opposed the Masaka in the regions of [ Lyantonde, ] Ssembabule and Rakai by cutting people and stealing goods.",
+        "candidates": [
+          34,
+          35,
+          38,
+          39,
+          30
+        ]
+      },
+      {
+        "text": "All this is alleged to have been done with guns and as part of a group of people who opposed the Masaka in the regions of Lyantonde, [ Ssembabule ] and Rakai by cutting people and stealing goods.",
+        "candidates": [
+          34,
+          38,
+          39,
+          7,
+          10,
+          43
+        ]
+      },
+      {
+        "text": "All this is alleged to have been done with guns and as part of a group of people who opposed the Masaka in the regions of Lyantonde, Ssembabule and [ Rakai ] by cutting people and stealing goods.",
+        "candidates": [
+          34,
+          38,
+          7,
+          10,
+          44,
+          46
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He retired saying that his health was no longer good and Klezia elected the current Pope Francis.",
+    "src_entities": [
+      "Klezia",
+      "Pope Francis."
+    ],
+    "template": "Yawummula ngagamba nti obulamubwe bwali tebukyasobola olwo Klezia neronda Paapa Francis aliko kati .",
+    "text_to_decode": [
+      {
+        "text": "He retired saying that his health was no longer good and [ Klezia ] elected the current Pope Francis.",
+        "candidates": [
+          18,
+          20,
+          22
+        ]
+      },
+      {
+        "text": "He retired saying that his health was no longer good and Klezia elected the current [ Pope Francis. ]",
+        "candidates": [
+          20,
+          22,
+          24,
+          25,
+          26,
+          28
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It is said that the children of Kiwalabye attacked him with 400, 000 notes he sold in the sand from his yard.",
+    "src_entities": [
+      "Kiwalabye"
+    ],
+    "template": "Kigambibwa nti abaana ba Kiwalabye be baamulumbye nga bamukanda 400 , 000ze yatunze mu musenyu okuva mu kibanja kye .",
+    "text_to_decode": [
+      {
+        "text": "It is said that the children of [ Kiwalabye ] attacked him with 400, 000 notes he sold in the sand from his yard.",
+        "candidates": [
+          11,
+          6,
+          7
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Bp Tamale has blamed the media including Bukedde for keeping the Nurseries and Christians in touch with other people since the lockdown on COVID 19 began.",
+    "src_entities": [
+      "Tamale",
+      "Bukedde",
+      "Nurseries"
+    ],
+    "template": "Bp Tamale yeebizza emikutu gyamawulire okuli ne Bukedde olwokusigala nga bayunze Obulabirizi nabakristaayo gattako abantu abalala bukya muggalo gwa COVID 19 gutandika .",
+    "text_to_decode": [
+      {
+        "text": "Bp [ Tamale ] has blamed the media including Bukedde for keeping the Nurseries and Christians in touch with other people since the lockdown on COVID 19 began.",
+        "candidates": [
+          4,
+          6,
+          7,
+          9
+        ]
+      },
+      {
+        "text": "Bp Tamale has blamed the media including [ Bukedde ] for keeping the Nurseries and Christians in touch with other people since the lockdown on COVID 19 began.",
+        "candidates": [
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      {
+        "text": "Bp Tamale has blamed the media including Bukedde for keeping the [ Nurseries ] and Christians in touch with other people since the lockdown on COVID 19 began.",
+        "candidates": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          27,
+          28,
+          29,
+          30,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "At that time as all the Abalibya businesses in Uganda including National Housing, Uganda Telecom Ltd, Tropical Bank and others, Kagimu signed.",
+    "src_entities": [
+      "Abalibya",
+      "Uganda",
+      "National Housing,",
+      "Uganda Telecom Ltd,",
+      "Tropical Bank",
+      "Kagimu"
+    ],
+    "template": "Mu biseera ebyo nga bizinensi zAbalibya zonna eziri mu Uganda omwali National Housing , Uganda Telecom Ltd , Tropical Bank nendala , Kagimu yazirinamu omukono .",
+    "text_to_decode": [
+      {
+        "text": "At that time as all the [ Abalibya ] businesses in Uganda including National Housing, Uganda Telecom Ltd, Tropical Bank and others, Kagimu signed.",
+        "candidates": [
+          37,
+          6,
+          9,
+          10,
+          11,
+          13,
+          14,
+          32
+        ]
+      },
+      {
+        "text": "At that time as all the Abalibya businesses in [ Uganda ] including National Housing, Uganda Telecom Ltd, Tropical Bank and others, Kagimu signed.",
+        "candidates": [
+          14,
+          16,
+          17,
+          18,
+          19,
+          23,
+          27
+        ]
+      },
+      {
+        "text": "At that time as all the Abalibya businesses in Uganda including [ National Housing, ] Uganda Telecom Ltd, Tropical Bank and others, Kagimu signed.",
+        "candidates": [
+          37,
+          38,
+          42,
+          19,
+          20,
+          23,
+          24
+        ]
+      },
+      {
+        "text": "At that time as all the Abalibya businesses in Uganda including National Housing, [ Uganda Telecom Ltd, ] Tropical Bank and others, Kagimu signed.",
+        "candidates": [
+          34,
+          37,
+          38,
+          40,
+          42,
+          23,
+          24,
+          27,
+          28,
+          32
+        ]
+      },
+      {
+        "text": "At that time as all the Abalibya businesses in Uganda including National Housing, Uganda Telecom Ltd, [ Tropical Bank ] and others, Kagimu signed.",
+        "candidates": [
+          23,
+          27,
+          28,
+          31,
+          32
+        ]
+      },
+      {
+        "text": "At that time as all the Abalibya businesses in Uganda including National Housing, Uganda Telecom Ltd, Tropical Bank and others, [ Kagimu ] signed.",
+        "candidates": [
+          34,
+          35,
+          37,
+          38,
+          40,
+          42,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The chairman of this municipality, John Mwesigwa Rucucu, based on this meeting attacked the village senators for taking away the land rights in Semabule that they are the ones who sign the documents selling the land without knowing its borders.",
+    "src_entities": [
+      "John Mwesigwa Rucucu,",
+      "Semabule"
+    ],
+    "template": "Ssentebe weggombolola eno , John Mwesigwa Rucucu yasinzidde mu lukiiko luno nalumba bassentebe bebyalo olwokuvaako emivuyo gyettaka e Ssemabule nti kuba be bateeka emikono ku biwandiiko ebitunda ettaka nga tebamanyi na nsalo zaalyo .",
+    "text_to_decode": [
+      {
+        "text": "The chairman of this municipality, [ John Mwesigwa Rucucu, ] based on this meeting attacked the village senators for taking away the land rights in Semabule that they are the ones who sign the documents selling the land without knowing its borders.",
+        "candidates": [
+          10,
+          18,
+          16,
+          9
+        ]
+      },
+      {
+        "text": "The chairman of this municipality, John Mwesigwa Rucucu, based on this meeting attacked the village senators for taking away the land rights in [ Semabule ] that they are the ones who sign the documents selling the land without knowing its borders.",
+        "candidates": [
+          38,
+          41,
+          42,
+          43,
+          45,
+          46
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The Swedish media reported last year that their government had asked Uganda to hand over Mbuga for trial but it was found that there was no extradition agreement between the two countries.",
+    "src_entities": [
+      "Uganda",
+      "Mbuga"
+    ],
+    "template": "Amawulire mu Sweden gaategeeza omwaka oguwedde nti Gavumenti yaabwe yali esabye Uganda ebawe Mbuga bamuwozese kyokka ne kizuulwa nga tewali ndagaano ya kuzzaayo basibe wakati wamawanga ago gombi .",
+    "text_to_decode": [
+      {
+        "text": "The Swedish media reported last year that their government had asked [ Uganda ] to hand over Mbuga for trial but it was found that there was no extradition agreement between the two countries.",
+        "candidates": [
+          18,
+          20,
+          21,
+          23,
+          25
+        ]
+      },
+      {
+        "text": "The Swedish media reported last year that their government had asked Uganda to hand over [ Mbuga ] for trial but it was found that there was no extradition agreement between the two countries.",
+        "candidates": [
+          21,
+          23,
+          25,
+          26,
+          29,
+          32,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Six in his defense said that it was true that he was caught with a knife but that he did not intend to cut someone as drugs confirmed that it was true that this time he did not use them.",
+    "src_entities": [
+      "Six"
+    ],
+    "template": "Mukaaga mu kwewozaako yagambye nti kituufu baamukutte nekiso naye yabadde takigenderedde kutema muntu ngebyokukozesa ebiragalalagala yakakasizza nti kituufu nga ku luno yabadde tabikozesezza .",
+    "text_to_decode": [
+      {
+        "text": "[ Six ] in his defense said that it was true that he was caught with a knife but that he did not intend to cut someone as drugs confirmed that it was true that this time he did not use them.",
+        "candidates": [
+          2,
+          3,
+          4,
+          34,
+          35,
+          30
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Mafabi at the beginning of the work said that he is not new in this work because the committee suggested that I start where my colleague Osege finished.",
+    "src_entities": [
+      "Mafabi",
+      "Osege"
+    ],
+    "template": "Mafabi nga yaakatandika emirimu yagambye nti si mupya mu mulimu guno kubanga akakiiko yakakulirako ngagenda kutandikira munne Osege we yakomye .",
+    "text_to_decode": [
+      {
+        "text": "[ Mafabi ] at the beginning of the work said that he is not new in this work because the committee suggested that I start where my colleague Osege finished.",
+        "candidates": [
+          2,
+          5,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "text": "Mafabi at the beginning of the work said that he is not new in this work because the committee suggested that I start where my colleague [ Osege ] finished.",
+        "candidates": [
+          35,
+          5,
+          6,
+          37,
+          9,
+          10,
+          28,
+          31,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "However, the police refused to comment on the other three prisoners, who seized the blanket on which they threw a rope at the CPS, and then descended and blew themselves up.",
+    "src_entities": [
+      "CPS,"
+    ],
+    "template": "Kyokka poliisi yagaanyi okwogera ku basibe abalala abasatu , abeeyambisizza kkateni gye baaluse ngomuguwa ku CPS , ne bakkirako ne babomba .",
+    "text_to_decode": [
+      {
+        "text": "However, the police refused to comment on the other three prisoners, who seized the blanket on which they threw a rope at the [ CPS, ] and then descended and blew themselves up.",
+        "candidates": [
+          36,
+          37,
+          38,
+          24,
+          25,
+          28,
+          30,
+          31,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "South Korea announced 12,535 cases of Corona and confirmed 281 deaths from the disease.",
+    "src_entities": [
+      "South Korea"
+    ],
+    "template": "South Korea yalangirira abantu 12 , 535 abaakwatibwa Corona nekakasa nti 281 bebaakafa ekirwadde .",
+    "text_to_decode": [
+      {
+        "text": "[ South Korea ] announced 12,535 cases of Corona and confirmed 281 deaths from the disease.",
+        "candidates": [
+          2,
+          4,
+          8,
+          9,
+          10,
+          12,
+          13,
+          16,
+          17,
+          19,
+          20
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "They have been charged on file number SD REF 1017022019 at Kaleerwe police station.",
+    "src_entities": [
+      "Kaleerwe"
+    ],
+    "template": "Bano bagguddwaako omusango ku fayiro nnamba SD REF 1017022019 ku poliisi yoku Kaleerwe .",
+    "text_to_decode": [
+      {
+        "text": "They have been charged on file number SD REF 1017022019 at [ Kaleerwe ] police station.",
+        "candidates": [
+          2,
+          3,
+          4,
+          23,
+          24,
+          27
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "They were also surprised that Kenzo who showed the badness of Bobi and Bebe Cool's incompatibility asked the Prime Minister Charles Peter Mayiga to coordinate and it was done at the concert of Kenzo when I was 10 years old I sang at the Serena hotel in January of 2019 and now he wanted to restore his wars that he showed as bad in the musicians.",
+    "src_entities": [
+      "Kenzo",
+      "Bobi",
+      "Bebe Cool's",
+      "Charles Peter Mayiga",
+      "Kenzo",
+      "Serena"
+    ],
+    "template": "Beewuunyizza era Kenzo eyalaga obubi obwali mu Bobi ne Bebe Cool obutakwatagana nasaba Katikkiro Charles Peter Mayiga abakwataganye ne kikolebwa mu kivvulu kya Kenzo ngaweza emyaka 10 ngayimba ekyali ku Serena hotel mu January wa 2019 ate kati kye yabadde ayagala kuzzaawo entalo ye ze yalaga nga mbi mu bayimbi .",
+    "text_to_decode": [
+      {
+        "text": "They were also surprised that [ Kenzo ] who showed the badness of Bobi and Bebe Cool's incompatibility asked the Prime Minister Charles Peter Mayiga to coordinate and it was done at the concert of Kenzo when I was 10 years old I sang at the Serena hotel in January of 2019 and now he wanted to restore his wars that he showed as bad in the musicians.",
+        "candidates": [
+          6,
+          7,
+          9,
+          11,
+          13,
+          14,
+          15,
+          19,
+          20,
+          23,
+          31,
+          35,
+          36,
+          50,
+          52,
+          53,
+          54,
+          55,
+          60,
+          66,
+          71,
+          72,
+          73,
+          75
+        ]
+      },
+      {
+        "text": "They were also surprised that Kenzo who showed the badness of [ Bobi ] and Bebe Cool's incompatibility asked the Prime Minister Charles Peter Mayiga to coordinate and it was done at the concert of Kenzo when I was 10 years old I sang at the Serena hotel in January of 2019 and now he wanted to restore his wars that he showed as bad in the musicians.",
+        "candidates": [
+          7,
+          12,
+          13,
+          15,
+          16,
+          19,
+          20
+        ]
+      },
+      {
+        "text": "They were also surprised that Kenzo who showed the badness of Bobi and [ Bebe Cool's ] incompatibility asked the Prime Minister Charles Peter Mayiga to coordinate and it was done at the concert of Kenzo when I was 10 years old I sang at the Serena hotel in January of 2019 and now he wanted to restore his wars that he showed as bad in the musicians.",
+        "candidates": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          50,
+          19,
+          54,
+          23,
+          55,
+          60
+        ]
+      },
+      {
+        "text": "They were also surprised that Kenzo who showed the badness of Bobi and Bebe Cool's incompatibility asked the Prime Minister [ Charles Peter Mayiga ] to coordinate and it was done at the concert of Kenzo when I was 10 years old I sang at the Serena hotel in January of 2019 and now he wanted to restore his wars that he showed as bad in the musicians.",
+        "candidates": [
+          50,
+          27,
+          55
+        ]
+      },
+      {
+        "text": "They were also surprised that Kenzo who showed the badness of Bobi and Bebe Cool's incompatibility asked the Prime Minister Charles Peter Mayiga to coordinate and it was done at the concert of [ Kenzo ] when I was 10 years old I sang at the Serena hotel in January of 2019 and now he wanted to restore his wars that he showed as bad in the musicians.",
+        "candidates": [
+          44,
+          46,
+          47,
+          50,
+          53,
+          54,
+          55,
+          60
+        ]
+      },
+      {
+        "text": "They were also surprised that Kenzo who showed the badness of Bobi and Bebe Cool's incompatibility asked the Prime Minister Charles Peter Mayiga to coordinate and it was done at the concert of Kenzo when I was 10 years old I sang at the [ Serena ] hotel in January of 2019 and now he wanted to restore his wars that he showed as bad in the musicians.",
+        "candidates": [
+          50,
+          53,
+          54,
+          55,
+          60
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Onyanmgo asked everyone to help in the hunt for the killer and to help give the police information that could lead to the man who took the child.",
+    "src_entities": [
+      "Onyanmgo"
+    ],
+    "template": "Onyanmgo yasabye buli muntu okuyambako ku muyiggo gwomutemu ono era bayambe okuwa poliisi amawulire agayinza okugituusa ku wa omusajja ono gye yatwala omwana .",
+    "text_to_decode": [
+      {
+        "text": "[ Onyanmgo ] asked everyone to help in the hunt for the killer and to help give the police information that could lead to the man who took the child.",
+        "candidates": [
+          2,
+          6,
+          13,
+          14,
+          18,
+          21,
+          23
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Of these 18,550 students, 12,577 boys and 5,973 girls have been provided free of charge by the State while the remaining 81,122 boys 45,782 and 35,340 girls have been studying in private schools.",
+    "src_entities": [],
+    "template": "Ku bayizi abo 18 , 550 abalenzi 12 , 577 nabawala 5 , 973 ababadde baweererwa Gavumenti ku bwereere ate abasigadde 81 , 122 abalenzi 45 , 782 nabawala 35 , 340 babadde basomera mu masomero agobwannannyini .",
+    "text_to_decode": [
+      {
+        "text": "Of these 18,550 students, 12,577 boys and 5,973 girls have been provided free of charge by the State while the remaining 81,122 boys 45,782 and 35,340 girls have been studying in private schools.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Police in Bulaga on the Nine, led by Najjuuko reported that he was acquitted of attempted murder on file number SD2410022019 Chairman of Bulaga, to deal with Ssumbwe Najjuuko and her husband where they live, Charles Ssentongo showed Najjuuko where he had bought the killers and warned the women to stop the anger.",
+    "src_entities": [
+      "Bulaga",
+      "Najjuuko",
+      "Bulaga,",
+      "Ssumbwe Najjuuko",
+      "Charles Ssentongo",
+      "Najjuuko"
+    ],
+    "template": "Poliisi ye Bulaga ku Mwenda , Najjuuko gyakuumirwa yategeezezza nti bamugguddeko omusango gwokugezaako okutta omuntu ku fayiro nnamba SD2410022019 Ssentebe wa Bulaga B , okulinana Ssumbwe Najjuuko ne bba gye basula , Charles Ssentongo yalaze nejjambiya Najjuuko gye yabadde agulidde abatemu era nalabula abakyala okukomya obusungu .",
+    "text_to_decode": [
+      {
+        "text": "Police in [ Bulaga ] on the Nine, led by Najjuuko reported that he was acquitted of attempted murder on file number SD2410022019 Chairman of Bulaga, to deal with Ssumbwe Najjuuko and her husband where they live, Charles Ssentongo showed Najjuuko where he had bought the killers and warned the women to stop the anger.",
+        "candidates": [
+          3,
+          4,
+          6,
+          7,
+          9,
+          10,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "text": "Police in Bulaga on the Nine, led by [ Najjuuko ] reported that he was acquitted of attempted murder on file number SD2410022019 Chairman of Bulaga, to deal with Ssumbwe Najjuuko and her husband where they live, Charles Ssentongo showed Najjuuko where he had bought the killers and warned the women to stop the anger.",
+        "candidates": [
+          7,
+          9,
+          10,
+          13,
+          14,
+          16,
+          65
+        ]
+      },
+      {
+        "text": "Police in Bulaga on the Nine, led by Najjuuko reported that he was acquitted of attempted murder on file number SD2410022019 Chairman of [ Bulaga, ] to deal with Ssumbwe Najjuuko and her husband where they live, Charles Ssentongo showed Najjuuko where he had bought the killers and warned the women to stop the anger.",
+        "candidates": [
+          70,
+          72,
+          42,
+          74,
+          76,
+          45,
+          46,
+          49,
+          50
+        ]
+      },
+      {
+        "text": "Police in Bulaga on the Nine, led by Najjuuko reported that he was acquitted of attempted murder on file number SD2410022019 Chairman of Bulaga, to deal with [ Ssumbwe Najjuuko ] and her husband where they live, Charles Ssentongo showed Najjuuko where he had bought the killers and warned the women to stop the anger.",
+        "candidates": [
+          51,
+          53,
+          49
+        ]
+      },
+      {
+        "text": "Police in Bulaga on the Nine, led by Najjuuko reported that he was acquitted of attempted murder on file number SD2410022019 Chairman of Bulaga, to deal with Ssumbwe Najjuuko and her husband where they live, [ Charles Ssentongo ] showed Najjuuko where he had bought the killers and warned the women to stop the anger.",
+        "candidates": [
+          66,
+          70,
+          72,
+          73,
+          76,
+          62,
+          63,
+          65
+        ]
+      },
+      {
+        "text": "Police in Bulaga on the Nine, led by Najjuuko reported that he was acquitted of attempted murder on file number SD2410022019 Chairman of Bulaga, to deal with Ssumbwe Najjuuko and her husband where they live, Charles Ssentongo showed [ Najjuuko ] where he had bought the killers and warned the women to stop the anger.",
+        "candidates": [
+          70,
+          72,
+          73,
+          74,
+          76,
+          79,
+          80
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The women reported that the youths even touched them and forced them to make a speech to ask the police to increase security in their areas.",
+    "src_entities": [],
+    "template": "Abakazi baategeezeza nti abavubuka bano batuuka nokubeekakaatikako ne babakaka akaboozi kwe kusaba poliisi eyongere ku bukuumi mu bitundu byabwe .",
+    "text_to_decode": [
+      {
+        "text": "The women reported that the youths even touched them and forced them to make a speech to ask the police to increase security in their areas.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Kampala Police spokesman and Mirrano Luke Owiyesigire said that when they got the news of this murder they immediately arrested Nakamwanda and the way she ransacked the house clearly showed that she had intended to kill her husband and to charge him with murder and was guarded at the police station on Jinja road.",
+    "src_entities": [
+      "Kampala Police",
+      "Mirrano",
+      "Luke Owiyesigire",
+      "Nakamwanda",
+      "Jinja"
+    ],
+    "template": "Omwogezi wa Poliisi owa Kampala ne miriraano Luke Owoyesigyire agambye bwebafunye amawulire gettemu lino bayanguye mangu nebakwata Nakamwanda era engeri gyeyasimudde enyumba kirabikira ddala nti yabade alina ekigendererewa kyokutta bbaawe era bamugudeko omusango gwobutemu ngakumibwa ku poliisi ye Jinja road .",
+    "text_to_decode": [
+      {
+        "text": "[ Kampala Police ] spokesman and Mirrano Luke Owiyesigire said that when they got the news of this murder they immediately arrested Nakamwanda and the way she ransacked the house clearly showed that she had intended to kill her husband and to charge him with murder and was guarded at the police station on Jinja road.",
+        "candidates": [
+          2,
+          6,
+          7,
+          8,
+          9,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "text": "Kampala Police spokesman and [ Mirrano ] Luke Owiyesigire said that when they got the news of this murder they immediately arrested Nakamwanda and the way she ransacked the house clearly showed that she had intended to kill her husband and to charge him with murder and was guarded at the police station on Jinja road.",
+        "candidates": [
+          8,
+          11,
+          12,
+          13,
+          15,
+          17
+        ]
+      },
+      {
+        "text": "Kampala Police spokesman and Mirrano [ Luke Owiyesigire ] said that when they got the news of this murder they immediately arrested Nakamwanda and the way she ransacked the house clearly showed that she had intended to kill her husband and to charge him with murder and was guarded at the police station on Jinja road.",
+        "candidates": [
+          8,
+          11,
+          12,
+          13,
+          15,
+          17,
+          19,
+          20,
+          22,
+          24
+        ]
+      },
+      {
+        "text": "Kampala Police spokesman and Mirrano Luke Owiyesigire said that when they got the news of this murder they immediately arrested [ Nakamwanda ] and the way she ransacked the house clearly showed that she had intended to kill her husband and to charge him with murder and was guarded at the police station on Jinja road.",
+        "candidates": [
+          34,
+          35,
+          37,
+          8,
+          40,
+          11,
+          13,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "Kampala Police spokesman and Mirrano Luke Owiyesigire said that when they got the news of this murder they immediately arrested Nakamwanda and the way she ransacked the house clearly showed that she had intended to kill her husband and to charge him with murder and was guarded at the police station on [ Jinja ] road.",
+        "candidates": [
+          83,
+          84,
+          80,
+          81
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "These include past and present leaders of the Hand, clerics, civil servants, wealthy representatives of the development of the district and other social classes.",
+    "src_entities": [
+      "Hand,"
+    ],
+    "template": "Mu bano mulimu abakulembeze abazze bakulembera Mukono nabaliwo kati , bannaddiini , abakozi ba gavumenti , abagagga abayimiriddeko enkulaakulana ya disitulikiti nebiti byabantu ebirala .",
+    "text_to_decode": [
+      {
+        "text": "These include past and present leaders of the [ Hand, ] clerics, civil servants, wealthy representatives of the development of the district and other social classes.",
+        "candidates": [
+          7,
+          8,
+          9,
+          11,
+          13,
+          14,
+          17,
+          18,
+          21,
+          22
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Richard Karemire was succeeded by Brig. Gen. Flavia Byekwaso.",
+    "src_entities": [
+      "Richard Karemire",
+      "Flavia Byekwaso."
+    ],
+    "template": "Richard Karemire namusikiza Brig . Gen . Flavia Byekwaso .",
+    "text_to_decode": [
+      {
+        "text": "[ Richard Karemire ] was succeeded by Brig. Gen. Flavia Byekwaso.",
+        "candidates": [
+          2,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "Richard Karemire was succeeded by Brig. Gen. [ Flavia Byekwaso. ]",
+        "candidates": [
+          12,
+          17,
+          9
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Dr. Herbert Wabigogobi told Bukedde that he is a trained doctor and the death of the woman is not his fault because many have saved and many have died at his hands but they did not behave as Mukasa did.",
+    "src_entities": [
+      "Herbert Wabigogobi",
+      "Bukedde",
+      "Mukasa"
+    ],
+    "template": "Dr . Herbert Wabigogobi ategeezezza Bukedde nti yedokita omutendeke era okufa kwomukazi ssi nsobi ye kubanga bangi baawonyezza sso nabafiiridde mu mikono gye bangi naye tebeeyisa nga Mukasa bwakoze .",
+    "text_to_decode": [
+      {
+        "text": "Dr. [ Herbert Wabigogobi ] told Bukedde that he is a trained doctor and the death of the woman is not his fault because many have saved and many have died at his hands but they did not behave as Mukasa did.",
+        "candidates": [
+          3,
+          4,
+          9
+        ]
+      },
+      {
+        "text": "Dr. Herbert Wabigogobi told [ Bukedde ] that he is a trained doctor and the death of the woman is not his fault because many have saved and many have died at his hands but they did not behave as Mukasa did.",
+        "candidates": [
+          3,
+          4,
+          9,
+          13,
+          15,
+          16
+        ]
+      },
+      {
+        "text": "Dr. Herbert Wabigogobi told Bukedde that he is a trained doctor and the death of the woman is not his fault because many have saved and many have died at his hands but they did not behave as [ Mukasa ] did.",
+        "candidates": [
+          3,
+          9,
+          49,
+          51,
+          53
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The concert, which was organized by the Fire Base Crew based in One love Beach, lasted for one hour and 45 minutes before they sang on the water and returned to land.",
+    "src_entities": [
+      "Fire Base Crew",
+      "One love Beach,"
+    ],
+    "template": "Konsati eno eyategeddwa obulungi nga ttiimu ya Fire Base Crew esinziira ku One love Beach yamaze essaawa emu neddakiika 45 nga baasoose kuyimbira ku mazzi ne badda ku lukalu .",
+    "text_to_decode": [
+      {
+        "text": "The concert, which was organized by the [ Fire Base Crew ] based in One love Beach, lasted for one hour and 45 minutes before they sang on the water and returned to land.",
+        "candidates": [
+          9,
+          10,
+          11,
+          13,
+          14
+        ]
+      },
+      {
+        "text": "The concert, which was organized by the Fire Base Crew based in [ One love Beach, ] lasted for one hour and 45 minutes before they sang on the water and returned to land.",
+        "candidates": [
+          19,
+          20,
+          23,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Ssekikubo and his fellow NRM MPs who were in the ninth parliament who were accused of being NRM members until Wilfred Niwagaba and Barnabas Tinkasimire were expelled from this group for things related to speaking NRM mafukule.",
+    "src_entities": [
+      "Ssekikubo",
+      "NRM",
+      "NRM",
+      "Wilfred Niwagaba",
+      "Barnabas Tinkasimire",
+      "NRM"
+    ],
+    "template": "Ssekikubo ne babaka banne aba NRM abaali mu palamenti eyomwenda abaakazibwako erya aba NRM bakiwagi okugeza Wilfred Niwagaba ne Barnabas Tinkasimire baagobwako mu kibiina kino olwebintu ebyekuusa ku kwogeraranga NRM amafukuule .",
+    "text_to_decode": [
+      {
+        "text": "[ Ssekikubo ] and his fellow NRM MPs who were in the ninth parliament who were accused of being NRM members until Wilfred Niwagaba and Barnabas Tinkasimire were expelled from this group for things related to speaking NRM mafukule.",
+        "candidates": [
+          2,
+          6,
+          7,
+          63,
+          64,
+          65
+        ]
+      },
+      {
+        "text": "Ssekikubo and his fellow [ NRM ] MPs who were in the ninth parliament who were accused of being NRM members until Wilfred Niwagaba and Barnabas Tinkasimire were expelled from this group for things related to speaking NRM mafukule.",
+        "candidates": [
+          10,
+          11,
+          13,
+          64,
+          65
+        ]
+      },
+      {
+        "text": "Ssekikubo and his fellow NRM MPs who were in the ninth parliament who were accused of being [ NRM ] members until Wilfred Niwagaba and Barnabas Tinkasimire were expelled from this group for things related to speaking NRM mafukule.",
+        "candidates": [
+          34,
+          65,
+          63,
+          64,
+          26,
+          27,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      {
+        "text": "Ssekikubo and his fellow NRM MPs who were in the ninth parliament who were accused of being NRM members until [ Wilfred Niwagaba ] and Barnabas Tinkasimire were expelled from this group for things related to speaking NRM mafukule.",
+        "candidates": [
+          34,
+          66,
+          39,
+          44,
+          64,
+          30,
+          63,
+          32,
+          65
+        ]
+      },
+      {
+        "text": "Ssekikubo and his fellow NRM MPs who were in the ninth parliament who were accused of being NRM members until Wilfred Niwagaba and [ Barnabas Tinkasimire ] were expelled from this group for things related to speaking NRM mafukule.",
+        "candidates": [
+          66,
+          40,
+          44,
+          63,
+          64,
+          65
+        ]
+      },
+      {
+        "text": "Ssekikubo and his fellow NRM MPs who were in the ninth parliament who were accused of being NRM members until Wilfred Niwagaba and Barnabas Tinkasimire were expelled from this group for things related to speaking [ NRM ] mafukule.",
+        "candidates": [
+          66,
+          59,
+          60,
+          61,
+          63,
+          64,
+          65
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "RDC Tuka appealed to them to join him in spreading the gospel among the people to further prevent the spread of COVID 19 so as not to delay Karungu has reached this time without infecting even one person as a result of contagion.",
+    "src_entities": [
+      "RDC",
+      "Tuka",
+      "Karungu"
+    ],
+    "template": "RDC Tukaikiriza yabasabye nti bamwegattako mu kunyikiza enjiri mu bantu boongere okwekuuma ekirwadde kya COVID 19 kireme kuzinda Kalungu etuusizza obudde buno nga tekinnakwatamu wadde omuntu omu nga kivudde nkolagana eyawamu .",
+    "text_to_decode": [
+      {
+        "text": "[ RDC ] Tuka appealed to them to join him in spreading the gospel among the people to further prevent the spread of COVID 19 so as not to delay Karungu has reached this time without infecting even one person as a result of contagion.",
+        "candidates": [
+          2,
+          4,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "RDC [ Tuka ] appealed to them to join him in spreading the gospel among the people to further prevent the spread of COVID 19 so as not to delay Karungu has reached this time without infecting even one person as a result of contagion.",
+        "candidates": [
+          4,
+          6,
+          9
+        ]
+      },
+      {
+        "text": "RDC Tuka appealed to them to join him in spreading the gospel among the people to further prevent the spread of COVID 19 so as not to delay [ Karungu ] has reached this time without infecting even one person as a result of contagion.",
+        "candidates": [
+          35,
+          37,
+          39,
+          40,
+          41,
+          42,
+          46,
+          47,
+          51,
+          63,
+          33
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Then they gave him 100 crowns and took away his chicken and let him go saying that even if they imprisoned him he would return because theft is like a clean sweep.",
+    "src_entities": [],
+    "template": "Oluvanyuma baamuwewenyudde kibooko 100 ne bamuggyako enkoko ne bamuleka nagenda nga bagamba nti ne bwe banaamusiba era ajja kuddamu kubanga obubbi alinga eyayonka obuyonke .",
+    "text_to_decode": [
+      {
+        "text": "Then they gave him 100 crowns and took away his chicken and let him go saying that even if they imprisoned him he would return because theft is like a clean sweep.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The soldiers arrested Nicholas Tsekaza, the owner of a gambling establishment where his children were few.",
+    "src_entities": [
+      "Nicholas Tsekaza,"
+    ],
+    "template": "Abaserikale baakutte Nicholas Ssekajja nnannyini kifo kya zzaala abaana we bakeera .",
+    "text_to_decode": [
+      {
+        "text": "The soldiers arrested [ Nicholas Tsekaza, ] the owner of a gambling establishment where his children were few.",
+        "candidates": [
+          3,
+          5,
+          6,
+          8,
+          9,
+          12,
+          14,
+          15,
+          16,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "ALI Ssekabembe, the lawyer of Majjaka said that they will go to court this week.",
+    "src_entities": [
+      "ALI Ssekabembe,",
+      "Majjaka"
+    ],
+    "template": "TUGENDA MU KKOOTI Ali Ssekabembe , looya wa Majjanja yagambye nti , mu wiiki eno bajja kugenda mu kkooti .",
+    "text_to_decode": [
+      {
+        "text": "[ ALI Ssekabembe, ] the lawyer of Majjaka said that they will go to court this week.",
+        "candidates": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8,
+          10,
+          11,
+          16,
+          17
+        ]
+      },
+      {
+        "text": "ALI Ssekabembe, the lawyer of [ Majjaka ] said that they will go to court this week.",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          11,
+          16,
+          20,
+          22,
+          23,
+          26,
+          27
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "But later he took it to the committee without compromising his responsibilities.",
+    "src_entities": [],
+    "template": "Wabula oluvannyuma yamala nagitwala mu kakiiko kyokka nga terambika buvunaanyizibwa bwe .",
+    "text_to_decode": [
+      {
+        "text": "But later he took it to the committee without compromising his responsibilities.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "She said that on Wednesday alone, she wrote more than 20 girls who met her at her office while about 40 others registered on the contest website www.misscurvyuganda.com the total number of women who registered is 200.",
+    "src_entities": [],
+    "template": "Yategeezezza nti ku Lwokusatu lwokka , yawandiise abawala abasukka mu 20 abaamutuukiridde ku ofiisi ye kyokka ngabalala nga 40 beewandiisizza ku mukutu gwempaka zino ku yintanenti ogwa www . misscurvyuganda . com omugatte gwabakyala abaakewandiisa guli mu 200 .",
+    "text_to_decode": [
+      {
+        "text": "She said that on Wednesday alone, she wrote more than 20 girls who met her at her office while about 40 others registered on the contest website www.misscurvyuganda.com the total number of women who registered is 200.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "It means that you are going to get 41, 190, 000 or 41, 370, 000. YOU HAVE TO BE CONFIDENTIALYou have to find the right variety. l You may need to inspect the soil, until there is a stable variety.",
+    "src_entities": [],
+    "template": "Kitegeeza nti ogenda kufuna 41 , 190 , 000 oba 41 , 370 , 000 . BYOLINA OKWETEGEREZAlOlina okufuna olulyo olutuufu . l Oyinza okwetaaga oikukebera ettaka , okugeza waliwo olulyo olutadda Kyaggwel Olina okubala sizoni nosimbira awatuufu . l Zirian lwe zigwe ebbeeyi bokisi ennamba negula emitwalo omusanvul Olina kugukola nga mulimu",
+    "text_to_decode": [
+      {
+        "text": "It means that you are going to get 41, 190, 000 or 41, 370, 000. YOU HAVE TO BE CONFIDENTIALYou have to find the right variety. l You may need to inspect the soil, until there is a stable variety.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The chairman of the village, Charles Malinzi, said that it is unfair to let the 65-year-old start at 80 because they too are old and cannot support themselves.",
+    "src_entities": [
+      "Charles Malinzi,"
+    ],
+    "template": "Ssentebe wekyalo kino , Charles Malinzi yategeezezza nti si kya bwenkanya okulekayo abemyaka 65 ne batandikira ku 80 kubanga na bano babeera bakaddiye nga tebakyasobola kweyimirizaawo . Kyokka abakadde abawerako baakonkomadde olwokummibwa ssente zino olwobutaba na densite nabatannaweza myaka 80 .",
+    "text_to_decode": [
+      {
+        "text": "The chairman of the village, [ Charles Malinzi, ] said that it is unfair to let the 65-year-old start at 80 because they too are old and cannot support themselves.",
+        "candidates": [
+          7,
+          8,
+          9,
+          13,
+          24,
+          25
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Some of the students who passed were Justine Nakiyingi who got 14 in GELsub Maths, Shamirah Nabbanja who got 14 in BCMICT, Sandra Nabaleke who got 10 in DEGsub Maths and Richard Kiyingi who got 13 in BCMICT.",
+    "src_entities": [
+      "Justine Nakiyingi",
+      "Shamirah Nabbanja",
+      "Sandra Nabaleke",
+      "Richard Kiyingi"
+    ],
+    "template": "Abamu ku bayizi abaayise ye Justine Nakiyingi eyafunye 14 mu GELsub Maths , Shamirah Nabbanja eyafunye 14 mu BCMICT , Sandra Nabaleke eyafunye 10 mu DEGsub Maths ne Richard Kiyingi eyafunye 13 mu BCMICT .",
+    "text_to_decode": [
+      {
+        "text": "Some of the students who passed were [ Justine Nakiyingi ] who got 14 in GELsub Maths, Shamirah Nabbanja who got 14 in BCMICT, Sandra Nabaleke who got 10 in DEGsub Maths and Richard Kiyingi who got 13 in BCMICT.",
+        "candidates": [
+          7,
+          8,
+          9,
+          10,
+          17,
+          18
+        ]
+      },
+      {
+        "text": "Some of the students who passed were Justine Nakiyingi who got 14 in GELsub Maths, [ Shamirah Nabbanja ] who got 14 in BCMICT, Sandra Nabaleke who got 10 in DEGsub Maths and Richard Kiyingi who got 13 in BCMICT.",
+        "candidates": [
+          8,
+          9,
+          25,
+          26,
+          31
+        ]
+      },
+      {
+        "text": "Some of the students who passed were Justine Nakiyingi who got 14 in GELsub Maths, Shamirah Nabbanja who got 14 in BCMICT, [ Sandra Nabaleke ] who got 10 in DEGsub Maths and Richard Kiyingi who got 13 in BCMICT.",
+        "candidates": [
+          37,
+          38,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Some of the students who passed were Justine Nakiyingi who got 14 in GELsub Maths, Shamirah Nabbanja who got 14 in BCMICT, Sandra Nabaleke who got 10 in DEGsub Maths and [ Richard Kiyingi ] who got 13 in BCMICT.",
+        "candidates": [
+          7,
+          8,
+          9,
+          51,
+          52,
+          56
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "I said there was no need to bomb innocent Ugandans.",
+    "src_entities": [],
+    "template": "Nagamba nti tewali kyetaagisa kukuba Bannayuganda batalina musango bbomu .",
+    "text_to_decode": [
+      {
+        "text": "I said there was no need to bomb innocent Ugandans.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "His friend who set himself on fire has bought a car with the number UAE.",
+    "src_entities": [
+      "UAE."
+    ],
+    "template": "Omugenzi we yeekumiriddeko omuliro abadde yaakagula emmotoka wish nnamba UAE .",
+    "text_to_decode": [
+      {
+        "text": "His friend who set himself on fire has bought a car with the number [ UAE. ]",
+        "candidates": [
+          21,
+          22,
+          24,
+          25
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "But I asked the members of the church to stop fighting them in the political wars.",
+    "src_entities": [],
+    "template": "wabula nasaba banna kibiina okukomya okubalwanisa entalo zebyobufuzi .",
+    "text_to_decode": [
+      {
+        "text": "But I asked the members of the church to stop fighting them in the political wars.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "This operation does not include police officers who have killed more than one person without wearing a mask.",
+    "src_entities": [],
+    "template": "Ekikwekweto kino tekitalizza ba bbooda ababadde batisse abasukka mu muntu omu ate nga tebambadde masiki .",
+    "text_to_decode": [
+      {
+        "text": "This operation does not include police officers who have killed more than one person without wearing a mask.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Despite my many temptations, I waited for him to tell me that he was tired and for me to leave.",
+    "src_entities": [],
+    "template": "Wadde ngebikemo bingi naye nninze amale kunjatulira nti yankoowa olwo nange mmuviire .",
+    "text_to_decode": [
+      {
+        "text": "Despite my many temptations, I waited for him to tell me that he was tired and for me to leave.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "As Pastor Lukau continues to deteriorate, three funeral service companies, Kingdom Blue, Kings Queens Funeral Services and Black Phoenix, have filed a lawsuit against him accusing him of playing on their reputation.",
+    "src_entities": [
+      "Lukau",
+      "Kingdom Blue,",
+      "Kings Queens Funeral Services",
+      "Black Phoenix,"
+    ],
+    "template": "Paasita Lukau byongedde okumwonoonekera , kkampuni ssatu ezikola omulimu gwokuziika okuli Kingdom Blue , Kings Queens Funeral Services ne Black Phoenix , ziddukidde mu kkooti okumuwawaabira nga bamuvunaana okuzannyira ku mulumu gwabwe .",
+    "text_to_decode": [
+      {
+        "text": "As Pastor [ Lukau ] continues to deteriorate, three funeral service companies, Kingdom Blue, Kings Queens Funeral Services and Black Phoenix, have filed a lawsuit against him accusing him of playing on their reputation.",
+        "candidates": [
+          2,
+          5,
+          7,
+          8,
+          11,
+          12,
+          13,
+          50,
+          53,
+          54,
+          56,
+          57
+        ]
+      },
+      {
+        "text": "As Pastor Lukau continues to deteriorate, three funeral service companies, [ Kingdom Blue, ] Kings Queens Funeral Services and Black Phoenix, have filed a lawsuit against him accusing him of playing on their reputation.",
+        "candidates": [
+          22,
+          25,
+          26,
+          28,
+          29
+        ]
+      },
+      {
+        "text": "As Pastor Lukau continues to deteriorate, three funeral service companies, Kingdom Blue, [ Kings Queens Funeral Services ] and Black Phoenix, have filed a lawsuit against him accusing him of playing on their reputation.",
+        "candidates": [
+          34,
+          28,
+          29
+        ]
+      },
+      {
+        "text": "As Pastor Lukau continues to deteriorate, three funeral service companies, Kingdom Blue, Kings Queens Funeral Services and [ Black Phoenix, ] have filed a lawsuit against him accusing him of playing on their reputation.",
+        "candidates": [
+          2,
+          35,
+          37,
+          38
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Emmanuel Lutaia also attended with Pokino Vincent Mayiga.",
+    "src_entities": [
+      "Emmanuel Lutaia",
+      "Pokino",
+      "Vincent Mayiga."
+    ],
+    "template": "Emmanuel Lutaaya era nga gwetabiddwaako ne Pokino Vincent Mayiga .",
+    "text_to_decode": [
+      {
+        "text": "[ Emmanuel Lutaia ] also attended with Pokino Vincent Mayiga.",
+        "candidates": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Emmanuel Lutaia also attended with [ Pokino ] Vincent Mayiga.",
+        "candidates": [
+          19,
+          12,
+          14,
+          16
+        ]
+      },
+      {
+        "text": "Emmanuel Lutaia also attended with Pokino [ Vincent Mayiga. ]",
+        "candidates": [
+          4,
+          5,
+          6,
+          8,
+          9,
+          11,
+          13,
+          16,
+          19
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Books will be written in several languages to help students understand better.",
+    "src_entities": [],
+    "template": "Bagenda kuwandiika obutabo mu nnimi ezenjawulo kiyamba abayizi okutegeera obulungi .",
+    "text_to_decode": [
+      {
+        "text": "Books will be written in several languages to help students understand better.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "However, Sheik Mugerwa also said that while mosques are still on lockdown due to the Covid19 pandemic, Muslims must put aside their divisions and come out with a united voice to join with the leaders of other religions to persuade the Government to open mosques.",
+    "src_entities": [
+      "Sheik",
+      "Mugerwa"
+    ],
+    "template": "Wabula Sheik Mugerwa era yategezezza nti nga amasinzizo gakyali ku muggalo olwekirwadde kya Covid19 , Abasiraamu bateekwa okussa kubbali enjawukana wabula baveeyo neddoboozi erimu okwegatta ku bakulu ba madiini amalala okwogereza Gavumenti eggule amasinzizo .",
+    "text_to_decode": [
+      {
+        "text": "However, [ Sheik ] Mugerwa also said that while mosques are still on lockdown due to the Covid19 pandemic, Muslims must put aside their divisions and come out with a united voice to join with the leaders of other religions to persuade the Government to open mosques.",
+        "candidates": [
+          2,
+          3,
+          5
+        ]
+      },
+      {
+        "text": "However, Sheik [ Mugerwa ] also said that while mosques are still on lockdown due to the Covid19 pandemic, Muslims must put aside their divisions and come out with a united voice to join with the leaders of other religions to persuade the Government to open mosques.",
+        "candidates": [
+          2,
+          3,
+          5,
+          7,
+          9
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The party has also postponed the registration of members who want to stand for the party card but I warned them not to go and remove the paper from the People Power Party because JEEMA is working with them and they will sit to vote for the opponent to whom they give the card everywhere.",
+    "src_entities": [
+      "People Power Party",
+      "JEEMA"
+    ],
+    "template": "Ekibiina era kiguddewo okuwandiisa bammemba abaagala okwesimbirawo ku kaadi yekibiina wabula nabalabula obutagenda ate kuggyayo mpapula mu Kisinde kya People Power kubanga JEEMA ekolera wamu nabo era bajja kutuula okusunsula balabe gwe bawa kaadi ku buli kifo .",
+    "text_to_decode": [
+      {
+        "text": "The party has also postponed the registration of members who want to stand for the party card but I warned them not to go and remove the paper from the [ People Power Party ] because JEEMA is working with them and they will sit to vote for the opponent to whom they give the card everywhere.",
+        "candidates": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          43
+        ]
+      },
+      {
+        "text": "The party has also postponed the registration of members who want to stand for the party card but I warned them not to go and remove the paper from the People Power Party because [ JEEMA ] is working with them and they will sit to vote for the opponent to whom they give the card everywhere.",
+        "candidates": [
+          44,
+          47,
+          39,
+          48
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He urged the students to stop studying to get paper and instead study skills that will enable them to start their own jobs so that they can support themselves instead of struggling to find them.",
+    "src_entities": [],
+    "template": "Yasabye abayizi okukomya ehhombo yokusoma okufuna empapula wabula basome kufuna obukugu obunaabasobozesa okwetandikirawo emirimu basobole okweyimirizzaawo mu kifo kyokwewuuba nga baginoonya .",
+    "text_to_decode": [
+      {
+        "text": "He urged the students to stop studying to get paper and instead study skills that will enable them to start their own jobs so that they can support themselves instead of struggling to find them.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Ronald Katende, Nabasumba's husband and father of two orphans who were found dead in the house, said that since his wife died and was buried, he decided not to rest and joined the police and they began a hunt until he was released in Nansana where he had fled.",
+    "src_entities": [
+      "Ronald Katende,",
+      "Nabasumba's",
+      "Nansana"
+    ],
+    "template": "Ronald Katende bba wa Nabasumba era kitaawe wa bamulekwa ababiri abaasangibwa nomulambo mu nnyumba yategeezezza nti , okuva mukyala we lwe yafa ne bamuziika yasalawo obutawummula ne yeegatta ku poliisi ne batandikirawo omuyiggo okutuusa lwe baamukukunudde e Nansana gyabadde yaddukira .",
+    "text_to_decode": [
+      {
+        "text": "[ Ronald Katende, ] Nabasumba's husband and father of two orphans who were found dead in the house, said that since his wife died and was buried, he decided not to rest and joined the police and they began a hunt until he was released in Nansana where he had fled.",
+        "candidates": [
+          2,
+          5,
+          21,
+          22,
+          23,
+          26,
+          30
+        ]
+      },
+      {
+        "text": "Ronald Katende, [ Nabasumba's ] husband and father of two orphans who were found dead in the house, said that since his wife died and was buried, he decided not to rest and joined the police and they began a hunt until he was released in Nansana where he had fled.",
+        "candidates": [
+          5,
+          7,
+          8
+        ]
+      },
+      {
+        "text": "Ronald Katende, Nabasumba's husband and father of two orphans who were found dead in the house, said that since his wife died and was buried, he decided not to rest and joined the police and they began a hunt until he was released in [ Nansana ] where he had fled.",
+        "candidates": [
+          66,
+          69,
+          5,
+          72,
+          74,
+          75,
+          64,
+          65
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "As a leader I feel compelled to take a little bit of nina and share it with the people around me and I urge my fellow leaders and other Muslims to do something because whatever you give Allah will reward you.",
+    "src_entities": [
+      "nina",
+      "Allah"
+    ],
+    "template": "Ngomukulembeze kinkakatako okutoola ku katono ke nina ne tukagabana nabantu be tuwangaala nabo era nkubiriza bakulembeze bannange abalala nadala abasiramu bakole kyekimu kuba buli bwogaba Allah akusasulamu empeera Ntege bwagambye .",
+    "text_to_decode": [
+      {
+        "text": "As a leader I feel compelled to take a little bit of [ nina ] and share it with the people around me and I urge my fellow leaders and other Muslims to do something because whatever you give Allah will reward you.",
+        "candidates": [
+          10,
+          13,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "text": "As a leader I feel compelled to take a little bit of nina and share it with the people around me and I urge my fellow leaders and other Muslims to do something because whatever you give [ Allah ] will reward you.",
+        "candidates": [
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          55
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Later, the relatives of Namugumya asked the police to forgive their man and agreed to treat the girl until she recovered but the police told them that this does not absolve the case.",
+    "src_entities": [
+      "Namugumya"
+    ],
+    "template": "Oluvannyuma abenganda za Namugumya baasabye poliisi esonyiwe omuntu waabwe ne bakkirizza okujjanjaba omuwala okutuusa lwa nawona kyokka poliisi yabategeezezza nti kino tekiggyawo omusango .",
+    "text_to_decode": [
+      {
+        "text": "Later, the relatives of [ Namugumya ] asked the police to forgive their man and agreed to treat the girl until she recovered but the police told them that this does not absolve the case.",
+        "candidates": [
+          5,
+          6,
+          9
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He even rented his own plane to go to New York.",
+    "src_entities": [
+      "New York."
+    ],
+    "template": "Ne mu kugenda e New York yapangisa nnyonyi yiye .",
+    "text_to_decode": [
+      {
+        "text": "He even rented his own plane to go to [ New York. ]",
+        "candidates": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          10,
+          13
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Muhangi is charged along with former police chief Gen Kayihura and others on charges of kidnapping Rwandan citizens who were seeking asylum in Uganda and seeking refuge in Rwanda as well as providing people with weapons without having to possess them as in these there is no lethal weapon.",
+    "src_entities": [
+      "Muhangi",
+      "Kayihura",
+      "Uganda",
+      "Rwanda"
+    ],
+    "template": "Muhangi avunaanibwa wamu neyali omuduumizi wa poliisi Gen Kayihura ne bofiisa abalala ku misango gyokuwamba bannansi be Rwanda abaali banoonya obubudamu mu Uganda ne babaza e Rwanda ssaako okuwa abantu ebyokulwanyisa nga tebalina kubeera nabyo nga mu bano kwekuli nokuli kitatta emmundu .",
+    "text_to_decode": [
+      {
+        "text": "[ Muhangi ] is charged along with former police chief Gen Kayihura and others on charges of kidnapping Rwandan citizens who were seeking asylum in Uganda and seeking refuge in Rwanda as well as providing people with weapons without having to possess them as in these there is no lethal weapon.",
+        "candidates": [
+          2,
+          4
+        ]
+      },
+      {
+        "text": "Muhangi is charged along with former police chief Gen [ Kayihura ] and others on charges of kidnapping Rwandan citizens who were seeking asylum in Uganda and seeking refuge in Rwanda as well as providing people with weapons without having to possess them as in these there is no lethal weapon.",
+        "candidates": [
+          20,
+          22,
+          17
+        ]
+      },
+      {
+        "text": "Muhangi is charged along with former police chief Gen Kayihura and others on charges of kidnapping Rwandan citizens who were seeking asylum in [ Uganda ] and seeking refuge in Rwanda as well as providing people with weapons without having to possess them as in these there is no lethal weapon.",
+        "candidates": [
+          41,
+          42,
+          43,
+          46,
+          48
+        ]
+      },
+      {
+        "text": "Muhangi is charged along with former police chief Gen Kayihura and others on charges of kidnapping Rwandan citizens who were seeking asylum in Uganda and seeking refuge in [ Rwanda ] as well as providing people with weapons without having to possess them as in these there is no lethal weapon.",
+        "candidates": [
+          43,
+          44,
+          46,
+          47,
+          48
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "If a car that has not been used every morning has a bad smell from the inside, it is easy to get holes and smell bad and drink too much oil, then it would be better to take the car to the garage first and check it to avoid problems on the road.",
+    "src_entities": [],
+    "template": "Bwoba mmotoka obadde togikoleezaamu buli ku makya kivaako ekizoosi okutalagga munda lwoddamu okugivuga kigyanguyira okufuna ebituli netandika okuvuuma obubi nokunywa ennyo amafuta , kale kyandibadde kirungi mmotoka okusooka okugitwala mu ggalagi ne bagyekebejja okwewala okufuna obuzibu ku luguudo .",
+    "text_to_decode": [
+      {
+        "text": "If a car that has not been used every morning has a bad smell from the inside, it is easy to get holes and smell bad and drink too much oil, then it would be better to take the car to the garage first and check it to avoid problems on the road.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "However, the Kikuubo are afraid that if the ministers enter the Kikuubo by throwing things in the street where they are they may be closed again which is why they have asked the KCCA to leave them because they do not pay taxes and do not rent shops while their place has become a market.",
+    "src_entities": [
+      "Kikuubo",
+      "Kikuubo",
+      "KCCA"
+    ],
+    "template": "Wabula aba Kikuubo batidde nti sing aba minisita bayingira m Kikuubo ngabayiwamu ebintu mu luguudo weebali bayinza okuddamu okubaggalawo kyebavudde basaba KCCA ebagyewo kubanga tebasasula misolo ate tebapangisa madduuka ate nga ekifo kyaabwe bakifudde katale .",
+    "text_to_decode": [
+      {
+        "text": "However, the [ Kikuubo ] are afraid that if the ministers enter the Kikuubo by throwing things in the street where they are they may be closed again which is why they have asked the KCCA to leave them because they do not pay taxes and do not rent shops while their place has become a market.",
+        "candidates": [
+          2,
+          3,
+          4,
+          7,
+          12,
+          15,
+          16,
+          17
+        ]
+      },
+      {
+        "text": "However, the Kikuubo are afraid that if the ministers enter the [ Kikuubo ] by throwing things in the street where they are they may be closed again which is why they have asked the KCCA to leave them because they do not pay taxes and do not rent shops while their place has become a market.",
+        "candidates": [
+          12,
+          16,
+          17,
+          20,
+          21
+        ]
+      },
+      {
+        "text": "However, the Kikuubo are afraid that if the ministers enter the Kikuubo by throwing things in the street where they are they may be closed again which is why they have asked the [ KCCA ] to leave them because they do not pay taxes and do not rent shops while their place has become a market.",
+        "candidates": [
+          37,
+          40,
+          12,
+          44,
+          14,
+          16,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The man attended the Committee and Dr. Kasasa has been summoned again to explain what was said about him.",
+    "src_entities": [
+      "Committee",
+      "Kasasa"
+    ],
+    "template": "Wassajja yabaddewo mu Kakiiko era ne Dr . Kasasa bazzeemu okumuyita annyonnyole ku bimwogerwako .",
+    "text_to_decode": [
+      {
+        "text": "The man attended the [ Committee ] and Dr. Kasasa has been summoned again to explain what was said about him.",
+        "candidates": [
+          4,
+          7,
+          8,
+          9,
+          12,
+          15,
+          16
+        ]
+      },
+      {
+        "text": "The man attended the Committee and Dr. [ Kasasa ] has been summoned again to explain what was said about him.",
+        "candidates": [
+          13,
+          15,
+          16
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It promotes equality and women are loyal.",
+    "src_entities": [],
+    "template": "Kireetawo okunyweza omwenkanonkano era abakyala beesigwa .",
+    "text_to_decode": [
+      {
+        "text": "It promotes equality and women are loyal.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Property allegedly bought by Kimbowa had come to give us houses in Wakaliga and we made a deal to hire TV staff and we gave him advertisements and when he got money I paid for the next houses and many cars he gave us and we made a contract.",
+    "src_entities": [
+      "Kimbowa",
+      "Wakaliga"
+    ],
+    "template": "Property ezigambibwa nti Kimbowa yazigula zaali zize yatuwaako amayumba e Wakaliga ne tukola akakalu tusuzeemu abakozi ba TV ffe ne tumuwaamu obulango era bwe yafuna sente nasasula amayumba egammuddira era nemmotoka nyingi zatuwa ne tukola endagaano .",
+    "text_to_decode": [
+      {
+        "text": "Property allegedly bought by [ Kimbowa ] had come to give us houses in Wakaliga and we made a deal to hire TV staff and we gave him advertisements and when he got money I paid for the next houses and many cars he gave us and we made a contract.",
+        "candidates": [
+          2,
+          10,
+          4,
+          7
+        ]
+      },
+      {
+        "text": "Property allegedly bought by Kimbowa had come to give us houses in [ Wakaliga ] and we made a deal to hire TV staff and we gave him advertisements and when he got money I paid for the next houses and many cars he gave us and we made a contract.",
+        "candidates": [
+          22,
+          23,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He said that other stages will have no problems except the one in England.",
+    "src_entities": [
+      "England."
+    ],
+    "template": "Yagambye nti siteegi endala tezirina buzibu okuggyako eye Bugerere .",
+    "text_to_decode": [
+      {
+        "text": "He said that other stages will have no problems except the one in [ England. ]",
+        "candidates": [
+          19,
+          17
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "The likes of the Parliament message are 457.",
+    "src_entities": [],
+    "template": "Abaagala obubaka bwa Palamenti bali 457 .",
+    "text_to_decode": [
+      {
+        "text": "The likes of the Parliament message are 457.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Sources from the police in Kawempe said that later the soldiers took out Yiga and put him in the car and drove him to the SID in Kireka where he stayed until Mmande was taken to Kibuli where another file was located.",
+    "src_entities": [
+      "Kawempe",
+      "Yiga",
+      "SID",
+      "Kireka",
+      "Mmande",
+      "Kibuli"
+    ],
+    "template": "Ensonda okuva ku poliisi e Kawempe zaategeezezza nti oluvannyuma abaserikale baafulumizza Yiga ne bamussa mu mmotoka ne bamuvuga okumutuusa ku SID e Kireka gye yasuze okutuusa Mmande gyagenda okuggyibwa atwalibwe e Kibuli awali fayiro endala .",
+    "text_to_decode": [
+      {
+        "text": "Sources from the police in [ Kawempe ] said that later the soldiers took out Yiga and put him in the car and drove him to the SID in Kireka where he stayed until Mmande was taken to Kibuli where another file was located.",
+        "candidates": [
+          12,
+          5,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Sources from the police in Kawempe said that later the soldiers took out [ Yiga ] and put him in the car and drove him to the SID in Kireka where he stayed until Mmande was taken to Kibuli where another file was located.",
+        "candidates": [
+          34,
+          35,
+          39,
+          21,
+          23,
+          24,
+          26,
+          33
+        ]
+      },
+      {
+        "text": "Sources from the police in Kawempe said that later the soldiers took out Yiga and put him in the car and drove him to the [ SID ] in Kireka where he stayed until Mmande was taken to Kibuli where another file was located.",
+        "candidates": [
+          35,
+          36,
+          38,
+          39,
+          41,
+          44
+        ]
+      },
+      {
+        "text": "Sources from the police in Kawempe said that later the soldiers took out Yiga and put him in the car and drove him to the SID in [ Kireka ] where he stayed until Mmande was taken to Kibuli where another file was located.",
+        "candidates": [
+          41,
+          42,
+          44,
+          45,
+          46
+        ]
+      },
+      {
+        "text": "Sources from the police in Kawempe said that later the soldiers took out Yiga and put him in the car and drove him to the SID in Kireka where he stayed until [ Mmande ] was taken to Kibuli where another file was located.",
+        "candidates": [
+          49,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      },
+      {
+        "text": "Sources from the police in Kawempe said that later the soldiers took out Yiga and put him in the car and drove him to the SID in Kireka where he stayed until Mmande was taken to [ Kibuli ] where another file was located.",
+        "candidates": [
+          67,
+          53,
+          54,
+          55,
+          57,
+          60,
+          61,
+          63
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It is the largest investment by the Japanese government and is expected to be completed by December, 31, 2021 with a construction duration of 37 months and a lifespan of 100 years.",
+    "src_entities": [],
+    "template": "Gavumenti ya Japan yeyasinze okuteekamu ensimbiEra lusubirwa okuggwa ngaDecember , 31 , 2021 ngawamu lwakutwala emyezi 37 nga luzimbibwa nga lwakuwangala emyaka 100 .",
+    "text_to_decode": [
+      {
+        "text": "It is the largest investment by the Japanese government and is expected to be completed by December, 31, 2021 with a construction duration of 37 months and a lifespan of 100 years.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "The police chief of Mpigi, Erias Twesigye said that Ssebunya has been charged with theft on file SD 0518022019 and was taken to court to be charged.",
+    "src_entities": [
+      "Mpigi,",
+      "Erias Twesigye",
+      "Ssebunya"
+    ],
+    "template": "Akulira poliisi ye Mpigi , Erias Twesigye agambye nti Ssebunya agguddwaako omusango gwobubbi ku fayiro SD 0518022019 era wakutwalibwa mu kkooti avunaanibwe .",
+    "text_to_decode": [
+      {
+        "text": "The police chief of [ Mpigi, ] Erias Twesigye said that Ssebunya has been charged with theft on file SD 0518022019 and was taken to court to be charged.",
+        "candidates": [
+          2,
+          5,
+          6,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "The police chief of Mpigi, [ Erias Twesigye ] said that Ssebunya has been charged with theft on file SD 0518022019 and was taken to court to be charged.",
+        "candidates": [
+          5,
+          14,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "The police chief of Mpigi, Erias Twesigye said that [ Ssebunya ] has been charged with theft on file SD 0518022019 and was taken to court to be charged.",
+        "candidates": [
+          14,
+          17,
+          20,
+          23,
+          24
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Grandpa Kyannagogo said that he should not hesitate to do anything for him if anyone has done it entrusted to God.",
+    "src_entities": [
+      "Kyannagogo",
+      "God."
+    ],
+    "template": "Jjajja Kyannaggolo agambye nti talina gwatebeereza okumukolera ttima nga yenna akimukoze amukwasizza Katonda .",
+    "text_to_decode": [
+      {
+        "text": "Grandpa [ Kyannagogo ] said that he should not hesitate to do anything for him if anyone has done it entrusted to God.",
+        "candidates": [
+          4,
+          7,
+          8,
+          11,
+          13,
+          14,
+          15,
+          17,
+          20,
+          21,
+          23,
+          25,
+          26,
+          27,
+          31
+        ]
+      },
+      {
+        "text": "Grandpa Kyannagogo said that he should not hesitate to do anything for him if anyone has done it entrusted to [ God. ]",
+        "candidates": [
+          8,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          30,
+          31,
+          32
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Doctors of St Joseph's Hospital treated him and he recovered well.",
+    "src_entities": [
+      "St Joseph's Hospital"
+    ],
+    "template": "Abasawo ba St Joseph Musaanya Kyamuliibwa bamujanjabye nadda bulungi engulu .",
+    "text_to_decode": [
+      {
+        "text": "Doctors of [ St Joseph's Hospital ] treated him and he recovered well.",
+        "candidates": [
+          5,
+          6,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          20
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "It is reported that Yumba after being shot on Sunday last week the refugees took him to his emergency room in Hoima but after his condition worsened the doctors in the emergency room were asked to transfer him to Mulago in Kampala for further treatment but at this time he says that he has no help or money.",
+    "src_entities": [
+      "Yumba",
+      "Hoima",
+      "Mulago",
+      "Kampala"
+    ],
+    "template": "Kigambibwa nti Yumba oluvannyuma lwokubwa masasi ku Sande wiiki ewedde abaddukirize bamusoosa mu ddwaaliro lye Hoima kyokka oluvannyuma lwembeera ye okutabuka basawo mu ddwaaliro elyo bawaolirizibwa okumwongerayo e Mulago mu Kampala gyakyajanjabibwa naye nga mu kiseera kino agamba nti talina buyambi wadde akasente .",
+    "text_to_decode": [
+      {
+        "text": "It is reported that [ Yumba ] after being shot on Sunday last week the refugees took him to his emergency room in Hoima but after his condition worsened the doctors in the emergency room were asked to transfer him to Mulago in Kampala for further treatment but at this time he says that he has no help or money.",
+        "candidates": [
+          4,
+          5,
+          7,
+          9,
+          10,
+          11,
+          44,
+          45
+        ]
+      },
+      {
+        "text": "It is reported that Yumba after being shot on Sunday last week the refugees took him to his emergency room in [ Hoima ] but after his condition worsened the doctors in the emergency room were asked to transfer him to Mulago in Kampala for further treatment but at this time he says that he has no help or money.",
+        "candidates": [
+          34,
+          37,
+          32
+        ]
+      },
+      {
+        "text": "It is reported that Yumba after being shot on Sunday last week the refugees took him to his emergency room in Hoima but after his condition worsened the doctors in the emergency room were asked to transfer him to [ Mulago ] in Kampala for further treatment but at this time he says that he has no help or money.",
+        "candidates": [
+          34,
+          37,
+          56,
+          59,
+          60,
+          62,
+          32
+        ]
+      },
+      {
+        "text": "It is reported that Yumba after being shot on Sunday last week the refugees took him to his emergency room in Hoima but after his condition worsened the doctors in the emergency room were asked to transfer him to Mulago in [ Kampala ] for further treatment but at this time he says that he has no help or money.",
+        "candidates": [
+          66,
+          67,
+          37,
+          62,
+          63,
+          32,
+          65
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He added that Museveni now remains to be confirmed by the NRM ruling committees of CEC and NEC.",
+    "src_entities": [
+      "Museveni",
+      "NRM",
+      "CEC",
+      "NEC."
+    ],
+    "template": "Yayongeddeko nti , Museveni kati asigalidde kukakasibwa obukiiko bwa NRM obufuzi okuli aka CEC ne NEC .",
+    "text_to_decode": [
+      {
+        "text": "He added that [ Museveni ] now remains to be confirmed by the NRM ruling committees of CEC and NEC.",
+        "candidates": [
+          4,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          24,
+          25,
+          26
+        ]
+      },
+      {
+        "text": "He added that Museveni now remains to be confirmed by the [ NRM ] ruling committees of CEC and NEC.",
+        "candidates": [
+          12,
+          13,
+          16,
+          17,
+          19,
+          20,
+          24,
+          25,
+          26
+        ]
+      },
+      {
+        "text": "He added that Museveni now remains to be confirmed by the NRM ruling committees of [ CEC ] and NEC.",
+        "candidates": [
+          19,
+          24,
+          25,
+          26,
+          27,
+          30
+        ]
+      },
+      {
+        "text": "He added that Museveni now remains to be confirmed by the NRM ruling committees of CEC and [ NEC. ]",
+        "candidates": [
+          23,
+          24,
+          25,
+          28,
+          30
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Ssekandi has assured the old Masaka that their borders on the Nalubaale sea allow them to receive taxes that sustain them.",
+    "src_entities": [
+      "Ssekandi",
+      "Masaka",
+      "Nalubaale sea"
+    ],
+    "template": "Ssekandi agumizza aba Masaka enkadde nti emyalo gye balina ku nnyanja Nalubaale gibasobozesa okufunamu emisolo egibayimirizaawo .",
+    "text_to_decode": [
+      {
+        "text": "[ Ssekandi ] has assured the old Masaka that their borders on the Nalubaale sea allow them to receive taxes that sustain them.",
+        "candidates": [
+          2,
+          6,
+          38,
+          11,
+          14,
+          16
+        ]
+      },
+      {
+        "text": "Ssekandi has assured the old [ Masaka ] that their borders on the Nalubaale sea allow them to receive taxes that sustain them.",
+        "candidates": [
+          11,
+          5,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Ssekandi has assured the old Masaka that their borders on the [ Nalubaale sea ] allow them to receive taxes that sustain them.",
+        "candidates": [
+          19,
+          21,
+          14,
+          16
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Others say that many of the wives he has left and that he has met and talked about hurt Mbabazi.",
+    "src_entities": [
+      "Mbabazi."
+    ],
+    "template": "Abalala bagamba nti abakazi bangi be yalekawo ate agira nabasisinkana ne banyumya ekinyiiza Mbabazi .",
+    "text_to_decode": [
+      {
+        "text": "Others say that many of the wives he has left and that he has met and talked about hurt [ Mbabazi. ]",
+        "candidates": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          21,
+          22,
+          23,
+          24,
+          26
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "However, I said that it would be better to consult the DP first before giving the FDC such authority.",
+    "src_entities": [
+      "DP",
+      "FDC"
+    ],
+    "template": "Kyokka nagamba nti kyandibadde kirungi okusooka okwebuuza ku DP nga FDC tennabawa bukulu obwo .",
+    "text_to_decode": [
+      {
+        "text": "However, I said that it would be better to consult the [ DP ] first before giving the FDC such authority.",
+        "candidates": [
+          3,
+          14,
+          15,
+          16,
+          20,
+          21
+        ]
+      },
+      {
+        "text": "However, I said that it would be better to consult the DP first before giving the [ FDC ] such authority.",
+        "candidates": [
+          3,
+          16,
+          20,
+          22,
+          23
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "Regarding the salary to be paid to these new ministers, Mayiga said that they will be paid in any way to fulfill their duties as the Treasurer had to decide on the salary of these officials.",
+    "src_entities": [
+      "Mayiga",
+      "Treasurer"
+    ],
+    "template": "Ku kyomusaala ogunaasasulwa baminisita bano abapya , Mayiga yagambye nti bagenda kuwagirwa mu ngeri yonna okutuukiriza obuvunaanyizibwa bwaabwe ngOmuwanika yalina okusala amagezi abakulu bano gyebanasasulwamu .",
+    "text_to_decode": [
+      {
+        "text": "Regarding the salary to be paid to these new ministers, [ Mayiga ] said that they will be paid in any way to fulfill their duties as the Treasurer had to decide on the salary of these officials.",
+        "candidates": [
+          3,
+          8,
+          17,
+          18,
+          20
+        ]
+      },
+      {
+        "text": "Regarding the salary to be paid to these new ministers, Mayiga said that they will be paid in any way to fulfill their duties as the [ Treasurer ] had to decide on the salary of these officials.",
+        "candidates": [
+          43,
+          36,
+          37,
+          39
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "However, Wasswa refused to reveal what he knew about the attack.",
+    "src_entities": [
+      "Wasswa"
+    ],
+    "template": "Kyokka Wasswa yeegaanye okubaakone kyamanyi ku bulumbaganyi buno .",
+    "text_to_decode": [
+      {
+        "text": "However, [ Wasswa ] refused to reveal what he knew about the attack.",
+        "candidates": [
+          3,
+          7,
+          8
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He has asked people to tell them if they have any places they know that sell substandard bricks.",
+    "src_entities": [],
+    "template": "Asabye abantu okubategeeza ssinga balina ebifo bye bamanyi ebitunda amabaati agatali ku mutindo .",
+    "text_to_decode": [
+      {
+        "text": "He has asked people to tell them if they have any places they know that sell substandard bricks.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Juma Ssebuliba also known as Mc Kadonga said that there are organizations that lead musicians not only to help young musicians but also to help famous people like Eddy Kezo who were once young as well as not one of the vendors of Uganda in the European countries, so I asked the government to help the musicians not to discriminate.",
+    "src_entities": [
+      "Juma Ssebuliba",
+      "Mc Kadonga",
+      "Eddy Kezo",
+      "Uganda"
+    ],
+    "template": "Juma Ssebuliba amanyiddwa nga Mc Kadonga yagambye ntinebibiina ebikulembera abayimbi tebafuddeyo kuyamba bayimbi bato kyokka ngabasinga abatutumufu nga Eddy Kezo nabo baaliko abato nga katiyomu ku batunda Uganda mu nsi ze Bulaaya , bwatyo nasaba gavumentibwekuba kuyamba bayimbi ereme kusosola .",
+    "text_to_decode": [
+      {
+        "text": "[ Juma Ssebuliba ] also known as Mc Kadonga said that there are organizations that lead musicians not only to help young musicians but also to help famous people like Eddy Kezo who were once young as well as not one of the vendors of Uganda in the European countries, so I asked the government to help the musicians not to discriminate.",
+        "candidates": [
+          2,
+          7,
+          13,
+          15,
+          16,
+          17
+        ]
+      },
+      {
+        "text": "Juma Ssebuliba also known as [ Mc Kadonga ] said that there are organizations that lead musicians not only to help young musicians but also to help famous people like Eddy Kezo who were once young as well as not one of the vendors of Uganda in the European countries, so I asked the government to help the musicians not to discriminate.",
+        "candidates": [
+          7,
+          10,
+          13,
+          15,
+          16
+        ]
+      },
+      {
+        "text": "Juma Ssebuliba also known as Mc Kadonga said that there are organizations that lead musicians not only to help young musicians but also to help famous people like [ Eddy Kezo ] who were once young as well as not one of the vendors of Uganda in the European countries, so I asked the government to help the musicians not to discriminate.",
+        "candidates": [
+          36,
+          37,
+          41,
+          45,
+          46
+        ]
+      },
+      {
+        "text": "Juma Ssebuliba also known as Mc Kadonga said that there are organizations that lead musicians not only to help young musicians but also to help famous people like Eddy Kezo who were once young as well as not one of the vendors of [ Uganda ] in the European countries, so I asked the government to help the musicians not to discriminate.",
+        "candidates": [
+          58,
+          59,
+          52,
+          56
+        ]
+      }
+    ],
+    "flag": 1
+  },
+  {
+    "src_lang": "He said that they were hunting him, and I told people to call the police if they saw him.",
+    "src_entities": [],
+    "template": "Yagambye nti bakyamuyigga , nasaba abantu okutuukirira poliisi nga bamulabyeko .",
+    "text_to_decode": [
+      {
+        "text": "He said that they were hunting him, and I told people to call the police if they saw him.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  },
+  {
+    "src_lang": "Keep your home clean and safe from thieves and predators.",
+    "src_entities": [],
+    "template": "Kakasa obuyonjo bwekiyumba nobukuumi okuva eri ababbi nensolo eziyinza okuzirumba ne zizitta .",
+    "text_to_decode": [
+      {
+        "text": "Keep your home clean and safe from thieves and predators.",
+        "candidates": []
+      }
+    ],
+    "flag": 0
+  }
+]

@@ -1,0 +1,1409 @@
+[
+  {
+    "idx": 0,
+    "src_lang": [
+      "After this, his body has been sent to the morgue where [ Homabay ] is waiting for him to recover."
+    ],
+    "src_entities": [
+      "Homabay"
+    ],
+    "template": "ka giesani ringre osechwal e kar kano ringruok ma Homabay kairito timone bero .",
+    "tgt_lang": [
+      [
+        "ka giesani ringre osechwal e kar kano ringruok ma [ Homabay ] kairito timone bero.",
+        "[ ] ka giesani ringre osechwal e kar kano ringruok ma Homabay kairito timone bero.",
+        "ka giesani ringre osechwal e kar kano ringruok ma [ Homabay kairito timone bero. ]",
+        "ka giesani ringre osechwal e kar kano ringruok ma [ Homabay kairito timone bero ].",
+        "ka giesani ringre osechwal e kar kano ringruok ma [ ] Homabay kairito timone bero."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Homabay",
+        "",
+        "Homabay kairito timone bero.",
+        "Homabay kairito timone bero",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -104.79206085205078,
+        -112.0677719116211,
+        -112.53643798828125,
+        -113.5672836303711,
+        -114.13729858398438
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 1,
+    "src_lang": [],
+    "template": "BISOBE MAKPERE PUONJO WACH PIMO KAHERA",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 2,
+    "src_lang": [
+      "Five guns were found in [ Lavingtone's ] possession and three were found in Migori's possession, which the anti-corruption group EACC is investigating over the alleged corruption of 2 billion shillings in the country.",
+      "Five guns were found in Lavingtone's possession and three were found in [ Migori's ] possession, which the anti-corruption group EACC is investigating over the alleged corruption of 2 billion shillings in the country.",
+      "Five guns were found in Lavingtone's possession and three were found in Migori's possession, which the anti-corruption group [ EACC ] is investigating over the alleged corruption of 2 billion shillings in the country."
+    ],
+    "src_entities": [
+      "Lavingtone's",
+      "Migori's",
+      "EACC"
+    ],
+    "template": "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno .",
+    "tgt_lang": [
+      [
+        "Bunde 5 ne oyudie e [ode ma Lavingtone ] ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+        "Bunde 5 ne oyudie eode ma [ Lavingtone ] ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+        "Bunde 5 ne oyudie e [ode ma ] Lavingtone ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+        "Bunde 5 ne oyudie e [ode ma Lavingtone ka ] 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+        "Bunde 5 ne oyudie eode ma [ ] Lavingtone ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno."
+      ],
+      [
+        "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma [ Migori ] ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+        "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma [ Migori ethuolo ] mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+        "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi [ eode ma Migori ethuolo ] mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+        "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi e [ode ma Migori ] ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+        "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi [ eode ma Migori ] ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno."
+      ],
+      [
+        "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi [ EACC ] ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+        "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich [ mawuok ka duol makedo gi mibadhi EACC ] ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+        "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich [ mawuok ka duol makedo gi mibadhi ] EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+        "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi [ ] EACC ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno.",
+        "Bunde 5 ne oyudie eode ma Lavingtone ka 3 ne oyudi eode ma Migori ethuolo mane apisas mag okwach kich mawuok ka duol makedo gi mibadhi EACC [ ] ne joo timo nonro ewi mibadhii mar silings bilion 2 mawachore ne otii godo eyoo marach ecountyno."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "ode ma Lavingtone",
+        "Lavingtone",
+        "ode ma",
+        "ode ma Lavingtone ka",
+        ""
+      ],
+      [
+        "Migori",
+        "Migori ethuolo",
+        "eode ma Migori ethuolo",
+        "ode ma Migori",
+        "eode ma Migori"
+      ],
+      [
+        "EACC",
+        "mawuok ka duol makedo gi mibadhi EACC",
+        "mawuok ka duol makedo gi mibadhi",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -297.79974365234375,
+        -300.1383972167969,
+        -300.9143981933594,
+        -303.33441162109375,
+        -305.1380310058594
+      ],
+      [
+        -301.0160217285156,
+        -301.0398864746094,
+        -306.7123107910156,
+        -306.83160400390625,
+        -306.8745422363281
+      ],
+      [
+        -294.7889709472656,
+        -302.31256103515625,
+        -303.1670227050781,
+        -303.23699951171875,
+        -305.2643737792969
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 3,
+    "src_lang": [],
+    "template": "Bende ne oyangi ni nitie jii 499 mane ochango ei kawuononi ma owe odhi pacho kowacho ni kuom jogo , 403 ne gin jogo manyocha tuo to ne yudo thieth gie utegi mong' ere gi dho ngere kaka Home Based Care",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 4,
+    "src_lang": [
+      "The [ MCA ] said that the forms of the bursary will be available to all public schools in the entire County to make it easier for students who are not able to get the forms when the school opens on 1st of the new year to submit the application for the bursary."
+    ],
+    "src_entities": [
+      "MCA"
+    ],
+    "template": "MCAno nyowacho ni form mag bursaryno birobedo eskunde duto mag piny owacho e Countyno mangima mar mondo mi ochiu thuolo mayot ne jopuonjre maonge gi nyalo e yudo formsgo ka obi oyau school e dwe mar 1 mar higa manyien mar oro kwayo mar yudo bursaryno",
+    "tgt_lang": [
+      [
+        "[ MCA ]no nyowacho ni form mag bursaryno birobedo eskunde duto mag piny owacho e Countyno mangima mar mondo mi ochiu thuolo mayot ne jopuonjre maonge gi nyalo e yudo formsgo ka obi oyau school e dwe mar 1 mar higa manyien mar oro kwayo mar yudo bursaryno",
+        "[ MCAno ] nyowacho ni form mag bursaryno birobedo eskunde duto mag piny owacho e Countyno mangima mar mondo mi ochiu thuolo mayot ne jopuonjre maonge gi nyalo e yudo formsgo ka obi oyau school e dwe mar 1 mar higa manyien mar oro kwayo mar yudo bursaryno",
+        "[ ] MCAno nyowacho ni form mag bursaryno birobedo eskunde duto mag piny owacho e Countyno mangima mar mondo mi ochiu thuolo mayot ne jopuonjre maonge gi nyalo e yudo formsgo ka obi oyau school e dwe mar 1 mar higa manyien mar oro kwayo mar yudo bursaryno",
+        "MCAno [ ] nyowacho ni form mag bursaryno birobedo eskunde duto mag piny owacho e Countyno mangima mar mondo mi ochiu thuolo mayot ne jopuonjre maonge gi nyalo e yudo formsgo ka obi oyau school e dwe mar 1 mar higa manyien mar oro kwayo mar yudo bursaryno",
+        "[ M ]CAno nyowacho ni form mag bursaryno birobedo eskunde duto mag piny owacho e Countyno mangima mar mondo mi ochiu thuolo mayot ne jopuonjre maonge gi nyalo e yudo formsgo ka obi oyau school e dwe mar 1 mar higa manyien mar oro kwayo mar yudo bursaryno"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "MCA",
+        "MCAno",
+        "",
+        "",
+        "M"
+      ]
+    ],
+    "score": [
+      [
+        -209.5777130126953,
+        -213.38616943359375,
+        -216.1415252685547,
+        -220.247314453125,
+        -221.09913635253906
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 5,
+    "src_lang": [
+      "The 9 MCAs of [ Homabay ] is in my hands"
+    ],
+    "src_entities": [
+      "Homabay"
+    ],
+    "template": "MCAs 9 ma Homabay ni e lwet obila",
+    "tgt_lang": [
+      [
+        "MCAs 9 ma [ Homabay ] ni e lwet obila",
+        "[ MCAs 9 ma Homabay ni e lwet obila ]",
+        "[ MCAs 9 ma Homabay ] ni e lwet obila",
+        "[ MCAs 9 ma ] Homabay ni e lwet obila",
+        "[ MCAs 9 ] ma Homabay ni e lwet obila"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Homabay",
+        "MCAs 9 ma Homabay ni e lwet obila",
+        "MCAs 9 ma Homabay",
+        "MCAs 9 ma",
+        "MCAs 9"
+      ]
+    ],
+    "score": [
+      [
+        -32.409088134765625,
+        -36.06093215942383,
+        -36.15431213378906,
+        -36.22024917602539,
+        -36.899051666259766
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 6,
+    "src_lang": [],
+    "template": "KWAN JOK MA MANYO THIETH ODOK PINY MIGORI",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 7,
+    "src_lang": [
+      "Earlier, the [ Mcas ] had volunteered for a beehive after receiving a secret that the beehive was seeking them for the attack on the speaker of the Homabay party but was prompted by the enema doho.",
+      "Earlier, the Mcas had volunteered for a beehive after receiving a secret that the beehive was seeking them for the attack on the speaker of the [ Homabay ] party but was prompted by the enema doho."
+    ],
+    "src_entities": [
+      "Mcas",
+      "Homabay"
+    ],
+    "template": "Motelone mano Mcas go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma Homabay bange to ne ochwal gi enim doho .",
+    "tgt_lang": [
+      [
+        "Motelone mano [ Mcas ] go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma Homabay bange to ne ochwal gi enim doho.",
+        "Motelone [ mano Mcas ] go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma Homabay bange to ne ochwal gi enim doho.",
+        "Motelone mano [ Mcas go ] ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma Homabay bange to ne ochwal gi enim doho.",
+        "Motelone mano [ ] Mcas go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma Homabay bange to ne ochwal gi enim doho.",
+        "Motelone [ mano Mcas go ] ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma Homabay bange to ne ochwal gi enim doho."
+      ],
+      [
+        "Motelone mano Mcas go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma [ Homabay ] bange to ne ochwal gi enim doho.",
+        "Motelone mano Mcas go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma [ Homabay bange ] to ne ochwal gi enim doho.",
+        "Motelone mano Mcas go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika [ ma Homabay ] bange to ne ochwal gi enim doho.",
+        "Motelone mano Mcas go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika [ ma Homabay bange ] to ne ochwal gi enim doho.",
+        "Motelone mano Mcas go ne joo ochiwore ne obila mag okwach kich bang' yudo maling ling ni obila ne manyogi ewii wach monjo spika ma [ ] Homabay bange to ne ochwal gi enim doho."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mcas",
+        "mano Mcas",
+        "Mcas go",
+        "",
+        "mano Mcas go"
+      ],
+      [
+        "Homabay",
+        "Homabay bange",
+        "ma Homabay",
+        "ma Homabay bange",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -182.78321838378906,
+        -186.42147827148438,
+        -187.5299530029297,
+        -189.52505493164062,
+        -190.44309997558594
+      ],
+      [
+        -179.93572998046875,
+        -183.39808654785156,
+        -183.85336303710938,
+        -186.9105987548828,
+        -189.69027709960938
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 8,
+    "src_lang": [
+      "A 17-year-old student who passed the main kcse exam at the [ DC ] mixed secondary school in Randung, Gem west location in the constituency where Rangwe ongielo is running",
+      "A 17-year-old student who passed the main kcse exam at the DC mixed secondary school in [ Randung, ] Gem west location in the constituency where Rangwe ongielo is running",
+      "A 17-year-old student who passed the main kcse exam at the DC mixed secondary school in Randung, [ Gem ] west location in the constituency where Rangwe ongielo is running",
+      "A 17-year-old student who passed the main kcse exam at the DC mixed secondary school in Randung, Gem west location in the constituency where [ Rangwe ongielo ] is running"
+    ],
+    "src_entities": [
+      "DC",
+      "Randung,",
+      "Gem",
+      "Rangwe ongielo"
+    ],
+    "template": "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung , Gem west location e constituency ma Rangwe ongielo orengo",
+    "tgt_lang": [
+      [
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma [ DC ] mixed e gwenge ma Randung, Gem west location e constituency ma Rangwe ongielo orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar [ ma DC ] mixed e gwenge ma Randung, Gem west location e constituency ma Rangwe ongielo orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e [ skund sekondar ma DC ] mixed e gwenge ma Randung, Gem west location e constituency ma Rangwe ongielo orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC [ mixed ] e gwenge ma Randung, Gem west location e constituency ma Rangwe ongielo orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma [ DC mixed ] e gwenge ma Randung, Gem west location e constituency ma Rangwe ongielo orengo"
+      ],
+      [
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma [ Randung, ] Gem west location e constituency ma Rangwe ongielo orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, [ Gem west location ] e constituency ma Rangwe ongielo orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma [ Randung ], Gem west location e constituency ma Rangwe ongielo orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, [ Gem west ] location e constituency ma Rangwe ongielo orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, [ Gem west location e constituency ma Rangwe ongielo orengo ]"
+      ],
+      [
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, [ Gem ] west location e constituency ma Rangwe ongielo orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, Gem [ west location ] e constituency ma Rangwe ongielo orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, Gem [ west ] location e constituency ma Rangwe ongielo orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, [ ] Gem west location e constituency ma Rangwe ongielo orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, Gem [ west location e constituency ma Rangwe ongielo orengo ]"
+      ],
+      [
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, Gem west location e constituency ma [ Rangwe ongielo ] orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, Gem west location e constituency ma [ Rangwe ongielo orengo ]",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, Gem west location e constituency [ ma Rangwe ongielo orengo ]",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, Gem west location e constituency [ ma Rangwe ongielo ] orengo",
+        "Japuonjre ma jahigni 17 manetimo penj maduong mar kcse e skund sekondar ma DC mixed e gwenge ma Randung, Gem west location e constituency ma Rangwe ongielo [ orengo ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "DC",
+        "ma DC",
+        "skund sekondar ma DC",
+        "mixed",
+        "DC mixed"
+      ],
+      [
+        "Randung,",
+        "Gem west location",
+        "Randung",
+        "Gem west",
+        "Gem west location e constituency ma Rangwe ongielo orengo"
+      ],
+      [
+        "Gem",
+        "west location",
+        "west",
+        "",
+        "west location e constituency ma Rangwe ongielo orengo"
+      ],
+      [
+        "Rangwe ongielo",
+        "Rangwe ongielo orengo",
+        "ma Rangwe ongielo orengo",
+        "ma Rangwe ongielo",
+        "orengo"
+      ]
+    ],
+    "score": [
+      [
+        -79.80249786376953,
+        -87.69695281982422,
+        -90.00530242919922,
+        -91.38127136230469,
+        -91.82215881347656
+      ],
+      [
+        -80.17009735107422,
+        -84.65050506591797,
+        -85.79988098144531,
+        -88.45318603515625,
+        -92.219970703125
+      ],
+      [
+        -76.22296142578125,
+        -89.09820556640625,
+        -89.71771240234375,
+        -93.73225402832031,
+        -98.65284729003906
+      ],
+      [
+        -81.68194580078125,
+        -86.83438110351562,
+        -88.10338592529297,
+        -90.4932861328125,
+        -90.5754623413086
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 9,
+    "src_lang": [
+      "The seven brothers are [ Mudzo Nzili ] from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of [ Kwale, ] Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of Kwale, [ Yussuf Ibrahiim, ] Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, [ Simeon Kirgoty, ] Ruth Sudoi, Gilbert Kamau, Irene Rono and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, [ Ruth Sudoi, ] Gilbert Kamau, Irene Rono and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, [ Gilbert Kamau, ] Irene Rono and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, [ Irene Rono ] and Robert Mureithi",
+      "The seven brothers are Mudzo Nzili from the county of Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono and [ Robert Mureithi ]"
+    ],
+    "src_entities": [
+      "Mudzo Nzili",
+      "Kwale,",
+      "Yussuf Ibrahiim,",
+      "Simeon Kirgoty,",
+      "Ruth Sudoi,",
+      "Gilbert Kamau,",
+      "Irene Rono",
+      "Robert Mureithi"
+    ],
+    "template": "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale , Yussuf Ibrahiim , Simeon Kirgoty , Ruth Sudoi , Gilbert Kamau , Irene Rono kod Robert Mureithi",
+    "tgt_lang": [
+      [
+        "Apisas abiryogo gin [ Mudzo Nzili ] mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin [ Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi ]",
+        "Apisas abiryogo gin [ Mudzo Nzili mawuok e county ma Kwale ], Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin [ Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono ] kod Robert Mureithi",
+        "Apisas abiryogo gin [ Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi ], Gilbert Kamau, Irene Rono kod Robert Mureithi"
+      ],
+      [
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma [ Kwale, ] Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, [ ] Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma [ Kwale ], Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale [, ] Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, [ Yussuf Ibrahiim, ] Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi"
+      ],
+      [
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, [ Yussuf Ibrahiim, ] Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, [ ] Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, [ Yussuf Ibrahiim ], Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim [, ] Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, [ Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi ]"
+      ],
+      [
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, [ Simeon Kirgoty, ] Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, [ Simeon Kirgoty ], Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, [ Simeon Kirgoty, Ruth Sudoi, ] Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, [ Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi ]",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, [ Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono ] kod Robert Mureithi"
+      ],
+      [
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, [ Ruth Sudoi, ] Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, [ Ruth Sudoi ], Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, [ ] Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, [ Gilbert Kamau, ] Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, [ Ruth Sudoi, Gilbert Kamau, ] Irene Rono kod Robert Mureithi"
+      ],
+      [
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, [ Gilbert Kamau, ] Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, [ Gilbert Kamau ], Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, [ ] Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi [, Gilbert Kamau, ] Irene Rono kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, [ ] Gilbert Kamau, Irene Rono kod Robert Mureithi"
+      ],
+      [
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, [ Irene Rono ] kod Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, [ Irene Rono kod Robert Mureithi ]",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, [ Irene Rono kod ] Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau [, Irene Rono kod Robert Mureithi ]",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau [, Irene Rono ] kod Robert Mureithi"
+      ],
+      [
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod [ Robert Mureithi ]",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono [ kod Robert Mureithi ]",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi [ ]",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod [ ] Robert Mureithi",
+        "Apisas abiryogo gin Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono [ ] kod Robert Mureithi"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mudzo Nzili",
+        "Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Mudzo Nzili mawuok e county ma Kwale",
+        "Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono",
+        "Mudzo Nzili mawuok e county ma Kwale, Yussuf Ibrahiim, Simeon Kirgoty, Ruth Sudoi"
+      ],
+      [
+        "Kwale,",
+        "",
+        "Kwale",
+        ",",
+        "Yussuf Ibrahiim,"
+      ],
+      [
+        "Yussuf Ibrahiim,",
+        "",
+        "Yussuf Ibrahiim",
+        ",",
+        "Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi"
+      ],
+      [
+        "Simeon Kirgoty,",
+        "Simeon Kirgoty",
+        "Simeon Kirgoty, Ruth Sudoi,",
+        "Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono kod Robert Mureithi",
+        "Simeon Kirgoty, Ruth Sudoi, Gilbert Kamau, Irene Rono"
+      ],
+      [
+        "Ruth Sudoi,",
+        "Ruth Sudoi",
+        "",
+        "Gilbert Kamau,",
+        "Ruth Sudoi, Gilbert Kamau,"
+      ],
+      [
+        "Gilbert Kamau,",
+        "Gilbert Kamau",
+        "",
+        ", Gilbert Kamau,",
+        ""
+      ],
+      [
+        "Irene Rono",
+        "Irene Rono kod Robert Mureithi",
+        "Irene Rono kod",
+        ", Irene Rono kod Robert Mureithi",
+        ", Irene Rono"
+      ],
+      [
+        "Robert Mureithi",
+        "kod Robert Mureithi",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -65.48143005371094,
+        -75.21651458740234,
+        -76.35795593261719,
+        -83.53585052490234,
+        -84.94053649902344
+      ],
+      [
+        -63.19741439819336,
+        -67.71539306640625,
+        -67.89089965820312,
+        -69.12417602539062,
+        -70.39149475097656
+      ],
+      [
+        -61.686588287353516,
+        -69.59765625,
+        -70.4242172241211,
+        -72.64036560058594,
+        -78.08277130126953
+      ],
+      [
+        -61.76811981201172,
+        -71.19709014892578,
+        -75.81722259521484,
+        -78.50370025634766,
+        -82.4026870727539
+      ],
+      [
+        -62.772830963134766,
+        -69.76997375488281,
+        -72.14041137695312,
+        -74.27963256835938,
+        -75.46835327148438
+      ],
+      [
+        -63.5331916809082,
+        -72.63442993164062,
+        -74.4629898071289,
+        -75.11479949951172,
+        -76.7977066040039
+      ],
+      [
+        -62.244171142578125,
+        -67.06268310546875,
+        -70.55140686035156,
+        -72.40245056152344,
+        -73.70435333251953
+      ],
+      [
+        -62.67365646362305,
+        -73.65312194824219,
+        -74.78654479980469,
+        -75.1659927368164,
+        -76.71670532226562
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 10,
+    "src_lang": [
+      "[ Edward Gichana ] has consumed the Bible as the new library of the Nairobi courthouse.",
+      "Edward Gichana has consumed the Bible as the new library of the [ Nairobi ] courthouse."
+    ],
+    "src_entities": [
+      "Edward Gichana",
+      "Nairobi"
+    ],
+    "template": "Edward Gichana osechamo muma kaka karan manyien mar od bura ma Nairobi .",
+    "tgt_lang": [
+      [
+        "[ Edward Gichana ] osechamo muma kaka karan manyien mar od bura ma Nairobi.",
+        "[ ] Edward Gichana osechamo muma kaka karan manyien mar od bura ma Nairobi.",
+        "[ Edward ] Gichana osechamo muma kaka karan manyien mar od bura ma Nairobi.",
+        "Edward Gichana [ ] osechamo muma kaka karan manyien mar od bura ma Nairobi.",
+        "[ Edward Gichana osechamo muma kaka karan manyien mar od bura ma Nairobi. ]"
+      ],
+      [
+        "Edward Gichana osechamo muma kaka karan manyien mar od bura [ ma Nairobi ].",
+        "Edward Gichana osechamo muma kaka karan manyien mar od bura ma [ Nairobi ].",
+        "Edward Gichana osechamo muma kaka karan manyien mar od bura [ ma Nairobi. ]",
+        "Edward Gichana osechamo muma kaka karan manyien mar od bura ma [ Nairobi. ]",
+        "Edward Gichana osechamo muma kaka karan manyien mar [ od bura ma Nairobi ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Edward Gichana",
+        "",
+        "Edward",
+        "",
+        "Edward Gichana osechamo muma kaka karan manyien mar od bura ma Nairobi."
+      ],
+      [
+        "ma Nairobi",
+        "Nairobi",
+        "ma Nairobi.",
+        "Nairobi.",
+        "od bura ma Nairobi"
+      ]
+    ],
+    "score": [
+      [
+        -36.16971206665039,
+        -46.36547088623047,
+        -49.654518127441406,
+        -51.66663360595703,
+        -56.59675216674805
+      ],
+      [
+        -33.868553161621094,
+        -35.28546905517578,
+        -38.48797607421875,
+        -41.19221496582031,
+        -42.81268310546875
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 11,
+    "src_lang": [],
+    "template": "Jo familia achiel mane jothogo gin ja higni 9 , ja higni 14 kod ja higni 20",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 12,
+    "src_lang": [
+      "[ Maraga ] receives a bone marrow transplant"
+    ],
+    "src_entities": [
+      "Maraga"
+    ],
+    "template": "Maraga oyudo fuong' ruok",
+    "tgt_lang": [
+      [
+        "[ Maraga ] oyudo fuong' ruok",
+        "[ ] Maraga oyudo fuong' ruok",
+        "[ Maraga oyudo ] fuong' ruok",
+        "[ Maraga oyudo fuong' ruok ]",
+        "Maraga [ ] oyudo fuong' ruok"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Maraga",
+        "",
+        "Maraga oyudo",
+        "Maraga oyudo fuong' ruok",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -28.878814697265625,
+        -40.05596923828125,
+        -44.448360443115234,
+        -47.54829406738281,
+        -47.55547332763672
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 13,
+    "src_lang": [],
+    "template": "Kweth ma kamano notero kampen ma kamano e boma ma awasi kama nopuonj jo ohala ber mar dhi e pim e osiptal .",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 14,
+    "src_lang": [
+      "Speaking to [ Kisumu ] Migosi Raila said that the MCA of the counties of Kisumu, Homa Bay, Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+      "Speaking to Kisumu [ Migosi Raila ] said that the MCA of the counties of Kisumu, Homa Bay, Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+      "Speaking to Kisumu Migosi Raila said that the [ MCA ] of the counties of Kisumu, Homa Bay, Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+      "Speaking to Kisumu Migosi Raila said that the MCA of the counties of [ Kisumu, ] Homa Bay, Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+      "Speaking to Kisumu Migosi Raila said that the MCA of the counties of Kisumu, [ Homa Bay, ] Nairobi and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+      "Speaking to Kisumu Migosi Raila said that the MCA of the counties of Kisumu, Homa Bay, [ Nairobi ] and Kakamega are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka",
+      "Speaking to Kisumu Migosi Raila said that the MCA of the counties of Kisumu, Homa Bay, Nairobi and [ Kakamega ] are the ones from outside to kill the devolution completely to ensure that the devolution does not bring any benefit to the turka"
+    ],
+    "src_entities": [
+      "Kisumu",
+      "Migosi Raila",
+      "MCA",
+      "Kisumu,",
+      "Homa Bay,",
+      "Nairobi",
+      "Kakamega"
+    ],
+    "template": "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu , Homa Bay , Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+    "tgt_lang": [
+      [
+        "Kanowuoyo [ Kisumu ] migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo [ ] Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "[ Kanowuoyo Kisumu ] migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "[ ] Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e [ thurka ]"
+      ],
+      [
+        "Kanowuoyo Kisumu [ migosi Raila ] nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "[ ] Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu [ migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka ]",
+        "Kanowuoyo Kisumu [ migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni ] devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu [ migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora ] e thurka"
+      ],
+      [
+        "Kanowuoyo Kisumu migosi Raila nowacho ni [ MCA ] mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni [ MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega ] gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni [ MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka ]",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni [ MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ] ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni [ MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora ] e thurka"
+      ],
+      [
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma [ Kisumu, ] Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu [, ] Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma [ Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka ]",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma [ Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho ] mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma [ Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora ] e thurka"
+      ],
+      [
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, [ Homa Bay, ] Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, [ Nairobi ] kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, [ Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka ]",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, [ Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora ] e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, [ Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e ] thurka"
+      ],
+      [
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, [ Nairobi ] kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, [ Nairobi kod ] Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, [ Nairobi kod Kakamega ] gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, [ Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka ]",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, [ Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ] ber moro amora e thurka"
+      ],
+      [
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod [ Kakamega ] gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi [ kod Kakamega ] gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod [ Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka ]",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod [ Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ] ber moro amora e thurka",
+        "Kanowuoyo Kisumu migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod [ Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora ] e thurka"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Kisumu",
+        "",
+        "Kanowuoyo Kisumu",
+        "",
+        "thurka"
+      ],
+      [
+        "migosi Raila",
+        "",
+        "migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni",
+        "migosi Raila nowacho ni MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora"
+      ],
+      [
+        "MCA",
+        "MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega",
+        "MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo",
+        "MCA mag counties ma Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora"
+      ],
+      [
+        "Kisumu,",
+        ",",
+        "Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho",
+        "Kisumu, Homa Bay, Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora"
+      ],
+      [
+        "Homa Bay,",
+        "Nairobi",
+        "Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora",
+        "Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e"
+      ],
+      [
+        "Nairobi",
+        "Nairobi kod",
+        "Nairobi kod Kakamega",
+        "Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Nairobi kod Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo"
+      ],
+      [
+        "Kakamega",
+        "kod Kakamega",
+        "Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora e thurka",
+        "Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo",
+        "Kakamega gin jogo ma jowuok oko mar nego devolution chutho mar neno ni devolution ok okelo ber moro amora"
+      ]
+    ],
+    "score": [
+      [
+        -74.21183776855469,
+        -81.72479248046875,
+        -84.70575714111328,
+        -86.42049407958984,
+        -97.4841079711914
+      ],
+      [
+        -79.89007568359375,
+        -83.97814178466797,
+        -85.90726470947266,
+        -93.99146270751953,
+        -94.20333099365234
+      ],
+      [
+        -81.77648162841797,
+        -87.81581115722656,
+        -87.83877563476562,
+        -93.31250762939453,
+        -93.70484924316406
+      ],
+      [
+        -77.42401123046875,
+        -83.69027709960938,
+        -92.64793395996094,
+        -96.24014282226562,
+        -96.93119049072266
+      ],
+      [
+        -75.06958770751953,
+        -83.21281433105469,
+        -89.2916259765625,
+        -94.2259750366211,
+        -94.44817352294922
+      ],
+      [
+        -75.85135650634766,
+        -80.30428314208984,
+        -81.27461242675781,
+        -88.55118560791016,
+        -94.28227233886719
+      ],
+      [
+        -79.18433380126953,
+        -83.20085144042969,
+        -88.19298553466797,
+        -93.11888885498047,
+        -93.41361236572266
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 15,
+    "src_lang": [
+      "The deputy county commissioner of the sub county, [ Rangwe Elvis Kolum, ] upon hearing this, was rushed to the homabay county Referal Hospital for intensive care where he suffered a concussion.",
+      "The deputy county commissioner of the sub county, Rangwe Elvis Kolum, upon hearing this, was rushed to the homabay county [ Referal Hospital ] for intensive care where he suffered a concussion."
+    ],
+    "src_entities": [
+      "Rangwe Elvis Kolum,",
+      "Referal Hospital"
+    ],
+    "template": "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum kaneyango wachni owachoni ne ochwale e kar thieth ma homabay county Referal Hospital ne thieth makende kama ne ongielo orengo .",
+    "tgt_lang": [
+      [
+        "Jalup county commisioner ma sub county ma [ Rangwe Elvis Kolum ] kaneyango wachni owachoni ne ochwale e kar thieth ma homabay county Referal Hospital ne thieth makende kama ne ongielo orengo.",
+        "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum [ ] kaneyango wachni owachoni ne ochwale e kar thieth ma homabay county Referal Hospital ne thieth makende kama ne ongielo orengo.",
+        "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum kane [yango wachni ] owachoni ne ochwale e kar thieth ma homabay county Referal Hospital ne thieth makende kama ne ongielo orengo.",
+        "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum [ kaneyango wachni ] owachoni ne ochwale e kar thieth ma homabay county Referal Hospital ne thieth makende kama ne ongielo orengo.",
+        "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum kane [yango wachni owachoni ] ne ochwale e kar thieth ma homabay county Referal Hospital ne thieth makende kama ne ongielo orengo."
+      ],
+      [
+        "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum kaneyango wachni owachoni ne ochwale e kar thieth ma homabay county [ Referal Hospital ] ne thieth makende kama ne ongielo orengo.",
+        "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum kaneyango wachni owachoni ne ochwale e [ kar thieth ma homabay county Referal Hospital ] ne thieth makende kama ne ongielo orengo.",
+        "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum kaneyango wachni owachoni ne ochwale e kar thieth [ ma homabay county Referal Hospital ] ne thieth makende kama ne ongielo orengo.",
+        "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum kaneyango wachni owachoni ne ochwale e kar thieth ma homabay county [ Referal Hospital ne thieth makende ] kama ne ongielo orengo.",
+        "Jalup county commisioner ma sub county ma Rangwe Elvis Kolum kaneyango wachni owachoni ne ochwale e kar thieth ma homabay county Referal [ Hospital ] ne thieth makende kama ne ongielo orengo."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Rangwe Elvis Kolum",
+        "",
+        "yango wachni",
+        "kaneyango wachni",
+        "yango wachni owachoni"
+      ],
+      [
+        "Referal Hospital",
+        "kar thieth ma homabay county Referal Hospital",
+        "ma homabay county Referal Hospital",
+        "Referal Hospital ne thieth makende",
+        "Hospital"
+      ]
+    ],
+    "score": [
+      [
+        -129.58407592773438,
+        -133.42910766601562,
+        -134.63278198242188,
+        -135.5974884033203,
+        -136.99095153808594
+      ],
+      [
+        -129.25604248046875,
+        -138.58792114257812,
+        -140.8439178466797,
+        -140.9861602783203,
+        -142.19525146484375
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 16,
+    "src_lang": [
+      "[ Homa Bay County's ] scholarship money is now up for grabs"
+    ],
+    "src_entities": [
+      "Homa Bay County's"
+    ],
+    "template": "Pes bursary ma County ma Homa Bay koro oyudo mijing'o",
+    "tgt_lang": [
+      [
+        "[ Pes bursary ma County ma Homa Bay ] koro oyudo mijing'o",
+        "Pes bursary ma [ County ma Homa Bay ] koro oyudo mijing'o",
+        "[ ] Pes bursary ma County ma Homa Bay koro oyudo mijing'o",
+        "Pes [ bursary ma County ma Homa Bay ] koro oyudo mijing'o",
+        "[ Pes bursary ma County ] ma Homa Bay koro oyudo mijing'o"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Pes bursary ma County ma Homa Bay",
+        "County ma Homa Bay",
+        "",
+        "bursary ma County ma Homa Bay",
+        "Pes bursary ma County"
+      ]
+    ],
+    "score": [
+      [
+        -51.98838806152344,
+        -53.043243408203125,
+        -53.58750915527344,
+        -55.205440521240234,
+        -55.82161331176758
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 17,
+    "src_lang": [
+      "[ Mcas ] from the county assembly of Homabay who led the Kisumu doyim and are accused of assaulting the speaker of the county assembly, Elizabeth Ayoo joo will be the mayor of Kodiaga for two weeks while the investigation continues.",
+      "Mcas from the county assembly of [ Homabay ] who led the Kisumu doyim and are accused of assaulting the speaker of the county assembly, Elizabeth Ayoo joo will be the mayor of Kodiaga for two weeks while the investigation continues.",
+      "Mcas from the county assembly of Homabay who led the [ Kisumu ] doyim and are accused of assaulting the speaker of the county assembly, Elizabeth Ayoo joo will be the mayor of Kodiaga for two weeks while the investigation continues.",
+      "Mcas from the county assembly of Homabay who led the Kisumu doyim and are accused of assaulting the speaker of the county assembly, [ Elizabeth Ayoo ] joo will be the mayor of Kodiaga for two weeks while the investigation continues.",
+      "Mcas from the county assembly of Homabay who led the Kisumu doyim and are accused of assaulting the speaker of the county assembly, Elizabeth Ayoo joo will be the mayor of [ Kodiaga ] for two weeks while the investigation continues."
+    ],
+    "src_entities": [
+      "Mcas",
+      "Homabay",
+      "Kisumu",
+      "Elizabeth Ayoo",
+      "Kodiaga"
+    ],
+    "template": "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime .",
+    "tgt_lang": [
+      [
+        "[ Mcas ] mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas [ ] mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "[ ] Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno [ mikayi Elizabeth Ayoo joo ] dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno [ mikayi ] Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime."
+      ],
+      [
+        "Mcas mawuok ecounty assembly ma [ Homabay ] mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok e [county assembly ma Homabay ] mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly [ ma Homabay ] mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma [ ] Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok e [county assembly ma ] Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime."
+      ],
+      [
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho ma [Kisumu ] kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho ma [ ]Kisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho [ ] maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal [ enyim ] doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho [ maKisumu ] kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime."
+      ],
+      [
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi [ Elizabeth Ayoo ] joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno [ mikayi Elizabeth Ayoo ] joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo [ ] joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo [ joo ] dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi [ Elizabeth Ayoo joo ] dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime."
+      ],
+      [
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma [ Kodiaga ] kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erum [end ma Kodiaga ] kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhi [i nyime ].",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho ma [Kisumu ] kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime.",
+        "Mcas mawuok ecounty assembly ma Homabay mane ochwal enyim doho maKisumu kendo odonjnegi kod ketho mar monjo spika mar county assemblyno mikayi Elizabeth Ayoo joo dhii bedo erumend ma Kodiaga kuom jumbe ariyo ka nonro dhii nyime [. ]"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mcas",
+        "",
+        "",
+        "mikayi Elizabeth Ayoo joo",
+        "mikayi"
+      ],
+      [
+        "Homabay",
+        "county assembly ma Homabay",
+        "ma Homabay",
+        "",
+        "county assembly ma"
+      ],
+      [
+        "Kisumu",
+        "",
+        "",
+        "enyim",
+        "maKisumu"
+      ],
+      [
+        "Elizabeth Ayoo",
+        "mikayi Elizabeth Ayoo",
+        "",
+        "joo",
+        "Elizabeth Ayoo joo"
+      ],
+      [
+        "Kodiaga",
+        "end ma Kodiaga",
+        "i nyime",
+        "Kisumu",
+        "."
+      ]
+    ],
+    "score": [
+      [
+        -184.6346893310547,
+        -198.76109313964844,
+        -201.19004821777344,
+        -208.2132568359375,
+        -208.51710510253906
+      ],
+      [
+        -185.39950561523438,
+        -190.41209411621094,
+        -195.5833740234375,
+        -196.19668579101562,
+        -197.66065979003906
+      ],
+      [
+        -186.88771057128906,
+        -196.12384033203125,
+        -198.14186096191406,
+        -198.78579711914062,
+        -199.0706787109375
+      ],
+      [
+        -189.03829956054688,
+        -190.68756103515625,
+        -197.2002716064453,
+        -197.26593017578125,
+        -200.37489318847656
+      ],
+      [
+        -185.14930725097656,
+        -194.34799194335938,
+        -197.7158660888672,
+        -198.94728088378906,
+        -199.87655639648438
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 18,
+    "src_lang": [],
+    "template": "kanyo - mane odhi opim ne tuo mar Coronavirusno",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 19,
+    "src_lang": [
+      "Briton [ Mike ] falls into the water late in the evening while trying to catch a swimming pool."
+    ],
+    "src_entities": [
+      "Mike"
+    ],
+    "template": "Briton Mike Odhiambo nyo okier molwar e pii odhiambo ma nyoro kanyo otemo gamo besen moro manyo oriko dhii gi pii .",
+    "tgt_lang": [
+      [
+        "Briton [ Mike Odhiambo ] nyo okier molwar e pii odhiambo ma nyoro kanyo otemo gamo besen moro manyo oriko dhii gi pii.",
+        "Briton Mike [ Odhiambo ] nyo okier molwar e pii odhiambo ma nyoro kanyo otemo gamo besen moro manyo oriko dhii gi pii.",
+        "Briton [ Mike Odhiambo nyo okier ] molwar e pii odhiambo ma nyoro kanyo otemo gamo besen moro manyo oriko dhii gi pii.",
+        "Briton [ Mike Odhiambo nyo ] okier molwar e pii odhiambo ma nyoro kanyo otemo gamo besen moro manyo oriko dhii gi pii.",
+        "Briton [ Mike ] Odhiambo nyo okier molwar e pii odhiambo ma nyoro kanyo otemo gamo besen moro manyo oriko dhii gi pii."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Mike Odhiambo",
+        "Odhiambo",
+        "Mike Odhiambo nyo okier",
+        "Mike Odhiambo nyo",
+        "Mike"
+      ]
+    ],
+    "score": [
+      [
+        -182.5717315673828,
+        -187.06399536132812,
+        -188.38211059570312,
+        -189.56356811523438,
+        -190.83676147460938
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 20,
+    "src_lang": [
+      "Yesterday some of the border guards and political officials led by them and the [ MCA ] invited to the county assembly in which Siaya Tabu Osewe had opened the doors of the abbey when finally they were harassing the matatu owners by taking bribes from them.",
+      "Yesterday some of the border guards and political officials led by them and the MCA invited to the county assembly in which [ Siaya Tabu Osewe ] had opened the doors of the abbey when finally they were harassing the matatu owners by taking bribes from them."
+    ],
+    "src_entities": [
+      "MCA",
+      "Siaya Tabu Osewe"
+    ],
+    "template": "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod mca ma ogwel ecounty assembly ma Siaya Tabu Osewe ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi .",
+    "tgt_lang": [
+      [
+        "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod [ mca ] ma ogwel ecounty assembly ma Siaya Tabu Osewe ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi.",
+        "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod [ mca ma ] ogwel ecounty assembly ma Siaya Tabu Osewe ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi.",
+        "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod [ ] mca ma ogwel ecounty assembly ma Siaya Tabu Osewe ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi.",
+        "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod mca [ ] ma ogwel ecounty assembly ma Siaya Tabu Osewe ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi.",
+        "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod [ mca ma ogwel ] ecounty assembly ma Siaya Tabu Osewe ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi."
+      ],
+      [
+        "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod mca ma ogwel ecounty assembly ma [ Siaya Tabu Osewe ] ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi.",
+        "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod mca ma ogwel ecounty assembly ma [ Siaya Tabu Osewe ne oseyo apisas mag obila ] kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi.",
+        "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod mca ma ogwel ecounty assembly ma Siaya Tabu Osewe [ ne oseyo apisas mag obila ] kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi.",
+        "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod mca ma ogwel ecounty assembly ma [ Siaya Tabu Osewe ne ] oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi.",
+        "Odiechieng manyoro moko kuom jo boda boda gi jotelo mawuok siaya kotelnegi kod mca ma ogwel ecounty assembly ma [ ] Siaya Tabu Osewe ne oseyo apisas mag obila kane gikoni gisebedo ka gisando weg matatu ka gikawo asoya kuomgi."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "mca",
+        "mca ma",
+        "",
+        "",
+        "mca ma ogwel"
+      ],
+      [
+        "Siaya Tabu Osewe",
+        "Siaya Tabu Osewe ne oseyo apisas mag obila",
+        "ne oseyo apisas mag obila",
+        "Siaya Tabu Osewe ne",
+        ""
+      ]
+    ],
+    "score": [
+      [
+        -167.20623779296875,
+        -172.43809509277344,
+        -174.7594757080078,
+        -174.9891357421875,
+        -176.4545440673828
+      ],
+      [
+        -161.83489990234375,
+        -170.48033142089844,
+        -170.82846069335938,
+        -171.189697265625,
+        -172.3051300048828
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 21,
+    "src_lang": [
+      "These were photographed with the deputy head of the medical department at the home of Dr. [ Rashid Aman ]"
+    ],
+    "src_entities": [
+      "Rashid Aman"
+    ],
+    "template": "Magi ne oyangi kod jalup jatend migao mochungne yoore mag thieth e pachoka laktar Rashid Aman",
+    "tgt_lang": [
+      [
+        "Magi ne oyangi kod jalup jatend migao mochungne yoore mag thieth e pachoka laktar [ Rashid Aman ]",
+        "Magi ne oyangi kod jalup jatend migao mochungne yoore mag thieth e pachoka laktar [ ] Rashid Aman",
+        "Magi ne oyangi kod jalup jatend migao mochungne yoore mag thieth e pachoka laktar Rashid Aman [ ]",
+        "Magi ne oyangi kod jalup jatend migao mochungne yoore mag thieth e pachoka laktar [ Rashid ] Aman",
+        "Magi ne oyangi kod jalup jatend migao mochungne yoore mag thieth e pachoka laktar [ Rash ]id Aman"
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Rashid Aman",
+        "",
+        "",
+        "Rashid",
+        "Rash"
+      ]
+    ],
+    "score": [
+      [
+        -62.3524055480957,
+        -75.2451400756836,
+        -76.28406524658203,
+        -78.54808807373047,
+        -95.81233978271484
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 22,
+    "src_lang": [
+      "Such a ceremony was attended by the speaker [ Beatrivce Elachi ] just a day before he was to announce his name to the court at a press conference, as it seemed that a new war could break out in the assembly in Nairobi.",
+      "Such a ceremony was attended by the speaker Beatrivce Elachi just a day before he was to announce his name to the court at a press conference, as it seemed that a new war could break out in the assembly in [ Nairobi. ]"
+    ],
+    "src_entities": [
+      "Beatrivce Elachi",
+      "Nairobi."
+    ],
+    "template": "Nyasi ma kamano notelie kkod spika Beatrivce Elachi mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere , ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma Nairobi .",
+    "tgt_lang": [
+      [
+        "Nyasi ma kamano notelie kkod spika [ Beatrivce Elachi ] mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere, ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma Nairobi.",
+        "Nyasi ma kamano notelie kkod spika [ ] Beatrivce Elachi mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere, ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma Nairobi.",
+        "Nyasi ma kamano notelie kkod [ spika Beatrivce Elachi ] mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere, ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma Nairobi.",
+        "Nyasi ma kamano notelie kkod spika Beatrivce Elachi mana odiechieng [ achiel ] tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere, ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma Nairobi.",
+        "Nyasi ma kamano notelie kkod spika [ Beatrivce Elachi mana odiechieng ] achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere, ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma Nairobi."
+      ],
+      [
+        "Nyasi ma kamano notelie kkod spika Beatrivce Elachi mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere, ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma [ Nairobi ].",
+        "Nyasi ma kamano notelie kkod spika Beatrivce Elachi mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere, ka koro nenore ni lweny manyien nyalo biro muoch e [ assembly ma Nairobi ].",
+        "Nyasi ma kamano notelie kkod spika Beatrivce Elachi mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere, ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma [ Nairobi. ]",
+        "Nyasi ma kamano notelie kkod spika Beatrivce Elachi mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere, ka koro nenore ni lweny manyien nyalo biro muoch e assembly ma Nairobi [. ]",
+        "Nyasi ma kamano notelie kkod spika Beatrivce Elachi mana odiechieng achiel tok kanyo opuodh nyinge gi od burano e romo manyokelo fwere, ka koro nenore ni lweny manyien nyalo biro [ muoch e assembly ma Nairobi ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Beatrivce Elachi",
+        "",
+        "spika Beatrivce Elachi",
+        "achiel",
+        "Beatrivce Elachi mana odiechieng"
+      ],
+      [
+        "Nairobi",
+        "assembly ma Nairobi",
+        "Nairobi.",
+        ".",
+        "muoch e assembly ma Nairobi"
+      ]
+    ],
+    "score": [
+      [
+        -208.3580780029297,
+        -217.89036560058594,
+        -218.63360595703125,
+        -221.3862762451172,
+        -222.9684295654297
+      ],
+      [
+        -185.67556762695312,
+        -188.34664916992188,
+        -188.96026611328125,
+        -189.75607299804688,
+        -189.7666473388672
+      ]
+    ],
+    "flag": 1
+  },
+  {
+    "idx": 23,
+    "src_lang": [],
+    "template": "jotelogi ne ohum kod kwan jopiny china ma osemedore e pachoka ka okwayo piny wacho mondo ongi matut wachni kotenore kod uchumi ma pachoka",
+    "tgt_lang": [],
+    "score": [],
+    "flag": 0
+  },
+  {
+    "idx": 24,
+    "src_lang": [
+      "Seven other MCAs of [ Homabay ] county arrived in person in front of the honeymooners in Kisumu this morning to report on the recent attack on the homabay speaker Elizabeth Ayoo.",
+      "Seven other MCAs of Homabay county arrived in person in front of the honeymooners in [ Kisumu ] this morning to report on the recent attack on the homabay speaker Elizabeth Ayoo.",
+      "Seven other MCAs of Homabay county arrived in person in front of the honeymooners in Kisumu this morning to report on the recent attack on the homabay speaker [ Elizabeth Ayoo. ]"
+    ],
+    "src_entities": [
+      "Homabay",
+      "Kisumu",
+      "Elizabeth Ayoo."
+    ],
+    "template": "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo .",
+    "tgt_lang": [
+      [
+        "MCAs mamoko 7 mag county ma [ Homabay ] jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo.",
+        "MCAs mamoko 7 mag [ county ma Homabay ] jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo.",
+        "[ MCAs mamoko 7 mag county ma Homabay ] jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo.",
+        "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma [ homabay ] mikayi Elizabeth Ayoo.",
+        "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay [ mikayi ] Elizabeth Ayoo."
+      ],
+      [
+        "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma [ Kisumu ] okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo.",
+        "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma [ ma Kisumu ] okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo.",
+        "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich [ e boma ma Kisumu ] okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo.",
+        "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu [ ] okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo.",
+        "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e [ boma ma Kisumu ] okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi Elizabeth Ayoo."
+      ],
+      [
+        "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi [ Elizabeth Ayoo ].",
+        "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay [ mikayi Elizabeth Ayoo ].",
+        "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay mikayi [ Elizabeth Ayoo. ]",
+        "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo spika ma homabay [ mikayi Elizabeth Ayoo. ]",
+        "MCAs mamoko 7 mag county ma Homabay jochopo gin giwegi e nyim obila mag okwach kich e boma ma Kisumu okinyi ma kawuono ewii wach monj ma nyocha omonjgo [ spika ma homabay mikayi Elizabeth Ayoo ]."
+      ]
+    ],
+    "tgt_entities": [
+      [
+        "Homabay",
+        "county ma Homabay",
+        "MCAs mamoko 7 mag county ma Homabay",
+        "homabay",
+        "mikayi"
+      ],
+      [
+        "Kisumu",
+        "ma Kisumu",
+        "e boma ma Kisumu",
+        "",
+        "boma ma Kisumu"
+      ],
+      [
+        "Elizabeth Ayoo",
+        "mikayi Elizabeth Ayoo",
+        "Elizabeth Ayoo.",
+        "mikayi Elizabeth Ayoo.",
+        "spika ma homabay mikayi Elizabeth Ayoo"
+      ]
+    ],
+    "score": [
+      [
+        -143.48800659179688,
+        -149.65512084960938,
+        -152.35304260253906,
+        -159.169189453125,
+        -159.41075134277344
+      ],
+      [
+        -137.52017211914062,
+        -138.3466339111328,
+        -141.3249053955078,
+        -143.90939331054688,
+        -144.59210205078125
+      ],
+      [
+        -136.77919006347656,
+        -137.765625,
+        -139.2869415283203,
+        -139.76429748535156,
+        -145.31640625
+      ]
+    ],
+    "flag": 1
+  }
+]
