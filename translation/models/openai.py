@@ -12,7 +12,7 @@ def backoff_hdlr(details):
     print(details)
 
 from openai import OpenAI
-client = OpenAI(api_key=os.environ['OPENAI_API_KEY'])
+client = OpenAI(api_key="")
 @backoff.on_exception(backoff.expo, Exception, max_tries=10, on_backoff=backoff_hdlr, max_time=600)
 @backoff.on_predicate(backoff.expo, lambda response: response is None)
 def get_response(prompt, args, chat=False):

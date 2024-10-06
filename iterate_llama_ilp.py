@@ -143,7 +143,7 @@ def construct_prompt(idx, example, tgt_ds, src_ds, tgt_sim_mat, src_sim_mat, pg,
     return (prompt, examples)
 
 def get_response_from_llama(example, task, prompt, model):
-    completion = model.complete(prompt)
+    completion = model.complete(prompt)[0]
 
     if completion is None or completion == "":
         logger.error(f"Did not obtain response for input {example['input']}, setting everything to O")
@@ -157,6 +157,7 @@ def get_response_from_llama(example, task, prompt, model):
         }, completion
 
     logger.info(f'Obtained completion: {completion}')
+    #pdb.set_trace()
     response = parse_tsv_example(task, example, completion)
 
     model.cleanup()
@@ -253,7 +254,7 @@ def main():
         response, completion = get_response_from_llama(example, args.prompt, prompt, model)
         # sleep for 30s because rate limit at api
         if args.slow:
-            time.sleep(15)
+            time.sleep(1)
 
         if args.content_filter:
             if completion != "":

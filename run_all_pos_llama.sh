@@ -1,39 +1,39 @@
 set -e
 
-MODEL="togethercomputer/llama-2-70b"
+MODEL="meta-llama/Llama-2-70b-hf"
 PROMPT="pos_8s_tsv_adapt"
 N_EGS=100
 OUTDIR="new_results/llama"
 
 # 8s
+for lang in nds; do
+    python iterate_llama.py \
+        -d data/new/${lang}/test.tsv \
+        -sd ../llama/data/processed/train_en-is-de-30k.tsv \
+        -ssim data/new/${lang}/src_sim.npy \
+        -tr 0 -sr 8 -m $MODEL \
+        -p $PROMPT -e $N_EGS -y \
+        -r $OUTDIR/germanic_new/8s/${lang}
+done
+
+# 8t
 # for lang in got; do
 #     python iterate_llama.py \
 #         -d data/new/${lang}/test.tsv \
-#         -sd data/processed/train_en-is-de-30k.tsv \
+#         -sd ../llama/data/processed/train_en-is-de-30k.tsv \
+#         -td $OUTDIR/germanic_new/8s/${lang}/responses.json \
 #         -ssim data/new/${lang}/src_sim.npy \
-#         -tr 0 -sr 8 -m $MODEL \
+#         -tsim data/new/${lang}/tgt_sim.npy \
+#         -tr 8 -sr 0 -m $MODEL \
 #         -p $PROMPT -e $N_EGS -y \
-#         -r $OUTDIR/germanic_new/8s/${lang}
+#         -r $OUTDIR/germanic_new/8t/${lang}
 # done
-
-# 8t
-for lang in got; do
-    python iterate_llama.py \
-        -d data/new/${lang}/test.tsv \
-        -sd data/processed/train_en-is-de-30k.tsv \
-        -td $OUTDIR/germanic_new/8s/${lang}/responses.json \
-        -ssim data/new/${lang}/src_sim.npy \
-        -tsim data/new/${lang}/tgt_sim.npy \
-        -tr 8 -sr 0 -m $MODEL \
-        -p $PROMPT -e $N_EGS -y \
-        -r $OUTDIR/germanic_new/8t/${lang}
-done
 
 # 8t_decr
 # for lang in fo got gsw; do
 #     python iterate.py \
 #         -d data/new/${lang}/test.tsv \
-#         -sd data/processed/train_en-is-de-30k.tsv \
+#         -sd ../llama/data/processed/train_en-is-de-30k.tsv \
 #         -td $OUTDIR/germanic_new/8s/${lang}/responses.json \
 #         -ssim data/new/${lang}/src_sim.npy \
 #         -tsim data/new/${lang}/tgt_sim.npy \
@@ -46,7 +46,7 @@ done
 # for lang in got gsw; do
 #     python iterate.py \
 #         -d data/new/${lang}/test.tsv \
-#         -sd data/processed/train_en-is-de-30k.tsv \
+#         -sd ../llama/data/processed/train_en-is-de-30k.tsv \
 #         -td data/new/${lang}/test.tsv \
 #         -ssim data/new/${lang}/src_sim.npy \
 #         -tsim data/new/${lang}/tgt_sim.npy \
@@ -57,9 +57,9 @@ done
 
 # 8s_random
 # for lang in fo got gsw; do
-#     python iterate.py \
+#     python iterate_llama.py \
 #         -d data/new/${lang}/test.tsv \
-#         -sd data/processed/train_en-is-de-30k.tsv \
+#         -sd ../llama/data/processed/train_en-is-de-30k.tsv \
 #         -ssim data/random_100_allsrc.npy \
 #         -tr 0 -sr 8 -m $MODEL \
 #         -p $PROMPT -e $N_EGS -y \
@@ -70,7 +70,7 @@ done
 # for lang in fo got gsw; do
 #     python iterate.py \
 #         -d data/new/${lang}/test.tsv \
-#         -sd data/processed/train_en-is-de-30k.tsv \
+#         -sd ../llama/data/processed/train_en-is-de-30k.tsv \
 #         -td $OUTDIR/germanic_new/8s/${lang}/responses.json \
 #         -ssim data/new/${lang}/src_sim.npy \
 #         -tsim data/random_100_alltgt.npy \
@@ -83,7 +83,7 @@ done
 # for lang in fo got gsw; do
 #     python iterate.py \
 #         -d data/new/${lang}/test.tsv \
-#         -sd data/processed/-is-de-30k-amh-swa-wol.tsv \
+#         -sd ../llama/data/processed/-is-de-30k-amh-swa-wol.tsv \
 #         -td $OUTDIR/germanic_new/8t/${lang}/responses.json \
 #         -ssim data/new/${lang}/src_sim.npy \
 #         -tsim data/new/${lang}/tgt_sim.npy \
@@ -96,7 +96,7 @@ done
 # for lang in fo got gsw; do
 #     python iterate.py \
 #         -d data/new/${lang}/test.tsv \
-#         -sd data/processed/train_en-is-de-30k.tsv \
+#         -sd ../llama/data/processed/train_en-is-de-30k.tsv \
 #         -td $OUTDIR/germanic_new/8t_2/${lang}/responses.json \
 #         -ssim data/new/${lang}/src_sim.npy \
 #         -tsim data/new/${lang}/tgt_sim.npy \

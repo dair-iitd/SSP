@@ -9,7 +9,7 @@ OUTDIR="new_results/gpt45_new"
 # for lang in hau ibo kin lug luo; do
 #     python iterate.py \
 #         -d data/new/${lang}/test.tsv \
-#         -sd data/processed/train_en_conll-amh-swa-wol.tsv \
+#         -sd ../llama/data/processed/train_en_conll-amh-swa-wol.tsv \
 #         -ssim data/new/${lang}/src_sim.npy \
 #         -tr 0 -sr 8 -m $MODEL \
 #         -p $PROMPT -e $N_EGS -y \
@@ -20,7 +20,7 @@ OUTDIR="new_results/gpt45_new"
 # for lang in hau ibo kin lug luo; do
 #     python iterate.py \
 #         -d data/new/${lang}/test.tsv \
-#         -sd data/processed/train_en_conll-amh-swa-wol.tsv \
+#         -sd ../llama/data/processed/train_en_conll-amh-swa-wol.tsv \
 #         -td $OUTDIR/african/8s/${lang}/responses.json \
 #         -ssim data/new/${lang}/src_sim.npy \
 #         -tsim data/new/${lang}/tgt_sim.npy \
@@ -33,7 +33,7 @@ OUTDIR="new_results/gpt45_new"
 for lang in hau ibo kin lug luo; do
     python iterate.py \
         -d data/new/${lang}/test.tsv \
-        -sd data/processed/train_en_conll-amh-swa-wol.tsv \
+        -sd ../llama/data/processed/train_en_conll-amh-swa-wol.tsv \
         -td data/new/${lang}/test.tsv \
         -ssim data/new/${lang}/src_sim.npy \
         -tsim data/new/${lang}/tgt_sim.npy \
@@ -46,7 +46,7 @@ done
 # for lang in hau ibo kin lug luo; do
 #     python iterate.py \
 #         -d data/new/${lang}/test.tsv \
-#         -sd data/processed/train_en_conll-amh-swa-wol.tsv \
+#         -sd ../llama/data/processed/train_en_conll-amh-swa-wol.tsv \
 #         -ssim data/random_100_allsrc.npy \
 #         -tr 0 -sr 8 -m $MODEL \
 #         -p $PROMPT -e $N_EGS -y \
@@ -57,7 +57,7 @@ done
 # for lang in hau ibo kin lug luo; do
 #     python iterate.py \
 #         -d data/new/${lang}/test.tsv \
-#         -sd data/processed/train_en_conll-amh-swa-wol.tsv \
+#         -sd ../llama/data/processed/train_en_conll-amh-swa-wol.tsv \
 #         -td new_results/gpt35_new/african/8s/${lang}/responses.json \
 #         -ssim data/new/${lang}/src_sim.npy \
 #         -tsim data/random_100_alltgt.npy \
@@ -70,7 +70,7 @@ done
 # for lang in hau ibo kin lug luo; do
 #     python iterate.py \
 #         -d data/new/${lang}/test.tsv \
-#         -sd data/processed/train_en_conll-amh-swa-wol.tsv \
+#         -sd ../llama/data/processed/train_en_conll-amh-swa-wol.tsv \
 #         -td $OUTDIR/african/8t/${lang}/responses.json \
 #         -ssim data/new/${lang}/src_sim.npy \
 #         -tsim data/new/${lang}/tgt_sim.npy \
@@ -83,7 +83,7 @@ done
 # for lang in hau ibo kin lug luo; do
 #     python iterate.py \
 #         -d data/new/${lang}/test.tsv \
-#         -sd data/processed/train_en_conll-amh-swa-wol.tsv \
+#         -sd ../llama/data/processed/train_en_conll-amh-swa-wol.tsv \
 #         -td $OUTDIR/african/8t_2/${lang}/responses.json \
 #         -ssim data/new/${lang}/src_sim.npy \
 #         -tsim data/new/${lang}/tgt_sim.npy \

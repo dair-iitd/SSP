@@ -1,5 +1,7 @@
 from dataset import JSONLDataset, TabularDataset, PickleDataset
+#Azure
 import models.openai as openai
+
 from util import parse_example, parse_tsv_example, score_sets
 import numpy as np
 
@@ -116,7 +118,7 @@ def construct_prompt(idx, example, tgt_ds, src_ds, tgt_sim_mat, src_sim_mat, pg,
         assert len(ind_tgt) == n_from_tgt
         #pdb.set_trace()
         tgt_demos = [tgt_ds[i].copy() for i in ind_tgt]
-        assert len(tgt_demos) == n_from_tgt  and idx not in ind_tgt
+        #assert len(tgt_demos) == n_from_tgt  and idx not in ind_tgt
         
         if 'output' not in tgt_demos[0]:
             pdb.set_trace()
@@ -148,6 +150,7 @@ def get_response_from_gpt(example, task, prompt, model):
         }, completion
 
     logger.info(f'Obtained completion: {completion}')
+    #pdb.set_trace()
     response = parse_tsv_example(task, example, completion)
 
     model.cleanup()
@@ -163,21 +166,28 @@ def save_data(data, save_dir):
         accfile.write(f"{data['precision']},{data['recall']},{data['f1']},{data['total']}\n")
 
 def main():
-
     signal.signal(signal.SIGINT, signal_handler)
     args = parse_args()
-
+    #Azure
     load_dotenv(os.path.join(os.path.dirname(__file__), '../.env'))
     openai.setup_api_key(os.environ.get('OPENAI_API_KEY'))
+
 
     save_dir = create_save_dir(args.result_dir, args.yes)
 
     setup_logger(save_dir)
 
     pg = PromptGenerator('prompts')
+    #Azure
     model_args = openai.ChatGPT.DEFAULT_ARGS
     model_args['engine'] = args.model
     model_args['request_timeout'] = 100
+
+    #OpenAI
+    #model_args = openai.ChatGPT.DEFAULT_ARGS
+    #model_args['model'] = args.model
+    #model_args['timeout'] = 100
+
     model = openai.ChatGPT(model_args)
 
     ssim = np.load(args.source_sim)
@@ -185,7 +195,7 @@ def main():
     #if args.target_sim:
     tsim = np.load(args.target_sim)
 
-    model.default_args['temperature'] = args.temperature
+    model.default_args['temperature'] = 0.0
 
     if args.dataset.endswith('.pkl'):
         ds = PickleDataset(args.dataset)[args.split_start:args.split_end]
@@ -217,8 +227,10 @@ def main():
     bar = tqdm(ds)
     skip_ind = []
     for i, example in enumerate(bar):
-        if not running:
-            break
+        #if not running:
+        #    break
+        #if i == 5:
+        #    break
         if interm==0:
             score_sets(data)
             save_data(data, save_dir)
@@ -231,7 +243,7 @@ def main():
                                   n_from_tgt=args.target_retrieve, n_from_src=args.source_retrieve)
         response, completion = get_response_from_gpt(example, args.prompt, prompt, model)
         #if args.slow:
-        time.sleep(20)
+        time.sleep(5)
         if completion != ""  and completion is not None:
             data['responses'].append({
                 **example,

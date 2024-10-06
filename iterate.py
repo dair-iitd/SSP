@@ -1,6 +1,6 @@
 from dataset import JSONLDataset, TabularDataset, PickleDataset
 import models.openai as openai
-from util import parse_example, parse_tsv_example, score_sets
+from util import parse_example, parse_tsv_example, parse_qaner_example, score_sets
 import numpy as np
 import time
 
@@ -9,23 +9,20 @@ from dotenv import load_dotenv
 from prompt import PromptGenerator
 
 import argparse
+import random
 from tqdm.auto import tqdm
-import os
+import os, pdb
 import json
 import shutil
 import logging
 from datetime import datetime
 import signal
 import sys
-import pdb
+
 logger = logging.getLogger('main')
 
 running = True
-
-def signal_handler(sig, frame):
-    print('Exiting...')
-    global running
-    running = False
+randomize_labels = False
 
 def parse_args():
 
@@ -34,25 +31,30 @@ def parse_args():
             description='Prompt benchmarking utility'
         )
 
+    parser.add_argument('-l', '--lang', type=str)
     parser.add_argument('-d', '--dataset', type=str)
     parser.add_argument('-p', '--prompt', type=str, default='ner')
     parser.add_argument('-td', '--target-dataset', type=str)
     parser.add_argument('-sd', '--source-dataset', type=str)
-    parser.add_argument('-l', '--llama-url', type=str, help="LLaMa API URL")
-    parser.add_argument('-m', '--model', type=str, help="model", default='gpt-3.5-turbo')
+    #parser.add_argument('-l', '--llama-url', type=str, help="LLaMa API URL")
+    parser.add_argument('-m', '--model', type=str, help="model", default='gpt-4')
     parser.add_argument('-tr', '--target-retrieve', type=int, help="no. examples to retrieve from target", default=0)
     parser.add_argument('-sr', '--source-retrieve', type=int, help="no. examples to retrieve from source", default=8)
     parser.add_argument('-y', '--yes', action="store_true", help="Say yes to any conditionals")
     parser.add_argument('-r', '--result-dir', type=str, default=f"results/run_{datetime.now().strftime('%Y%m%dT%H%M%S')}")
+    parser.add_argument('-rl', '--randomize-labels', action="store_true", help="randomize labels (for ablation)")
+    parser.add_argument('--slow', action="store_true", help="slow down API calls")
+    parser.add_argument('-cf', '--content-filter', action="store_true", help="ignore content filter (save all egs)")
+    parser.add_argument('-tog', '--together', action="store_true", help="LLaMa 70B (for Together AI)")
 
     parser.add_argument('-ssim', '--source-sim', type=str, help="Source similarity matrix")
     parser.add_argument('-tsim', '--target-sim', type=str, help="Target similarity matrix")
-    parser.add_argument('-glabel', '--gold_anno', default=False, action="store_true")
+    
 
     parser.add_argument('-s', '--split-start',   type=int, default=0)
     parser.add_argument('-e', '--split-end',     type=int, default=100000)
     parser.add_argument('-i', '--interm',        type=int, default=10)
-    parser.add_argument('-t', '--temperature',   type=float, default=0.5)
+    parser.add_argument('-t', '--temperature',   type=float, default=0) # was 0.5 earlier!
     
     return parser.parse_args()
 
@@ -82,9 +84,17 @@ def setup_logger(save_dir):
             level=logging.INFO
         )
 
+def random_ner_label():
+    # labels = ['O', 'B-PER', 'I-PER', 'B-LOC', 'I-LOC', 'B-ORG', 'I-ORG', 'B-DATE', 'I-DATE']
+    labels = ['ADJ', 'ADP', 'ADV', 'AUX', 'CCONJ', 'DET', 'INTJ', 'NOUN', 'NUM', 'PART', 'PRON', 'PROPN', 'PUNCT', 'SCONJ', 'SYM', 'VERB', 'X']
+    return random.choice(labels)
+
 def gold_tags_to_tsv_output(sentence):
     temp = sentence.strip().split(' ')
     temp = [w.rsplit('_', 1) for w in temp]
+    # randomize labels here for ablation
+    if randomize_labels:
+        temp = [(w[0], random_ner_label()) for w in temp]
     return '\n'.join([f'{x[0]}\t{x[1]}' for x in temp])
 
 def sentence_to_input(sentence):
@@ -96,92 +106,101 @@ def gold_tags_to_output(sentence):
     return "[" + ", ".join([f'(``{a[0]}", ``{a[1]}")' for a in temp]) + "]"
 
 def construct_prompt(idx, example, tgt_ds, src_ds, tgt_sim_mat, src_sim_mat, pg, 
-                     prompt, n_from_tgt=0, n_from_src=8, gold_anno=False):
+                     prompt, n_from_tgt=0, n_from_src=8):
 
     # retrieve demos
-    label_dict = {"entailment": "Yes", "contradiction": "No", "neutral": "Maybe", "NULL": "NULL"}
+    # pdb.set_trace()
+    logger.info(f'idx: {idx}')
     demos = []
     if n_from_src > 0:
-        #pdb.set_trace()
-        ind = src_sim_mat[idx].argsort()[-n_from_src:]  #Aniruddha
-        #ind = np.flip(ind) #Reveser order (Vipul)
-        #pdb.set_trace()
+        ind = src_sim_mat[idx].argsort()[-n_from_src:]
+        logger.info(f'src egs: {ind}')
         demos += [src_ds[i].copy() for i in ind]
 
-        for d in demos:
-            if "p2" not in prompt:
-                d['output'] = label_dict[d['output']]
-
-    # will include itself, we don't want that
     if n_from_tgt > 0:
-        #pdb.set_trace()
-        #ind_tgt = np.argpartition(tgt_sim_mat[idx], -n_from_tgt-1)[-n_from_tgt-1:-1]  #Aniruddha
-        ind_tgt = tgt_sim_mat[idx].argsort()[-n_from_tgt-1:-1]  #Decreasing order
-        #pdb.set_trace()
-        tgt_demos = [src_ds[i].copy() for i in ind_tgt]
-        tgt_labels = [tgt_ds[i] for i in ind_tgt]
-        #pdb.set_trace()
-        # if 'output' not in tgt_demos[0]:
-        #     # convert silver tags to gold tag format
-        #     for d in tgt_demos:
-        #         d['output'] = d['pred_labels']
+        # will include itself, we don't want that
+        ind_tgt = tgt_sim_mat[idx].argsort()[-n_from_tgt-1:-1]
+        logger.info(f'tgt egs: {ind_tgt}')
+        if idx in ind_tgt:
+            print(f'ERROR: idx in ind_tgt. This should not happen.')
+            logger.warn(f'ERROR: idx in ind_tgt. This should not happen.')
+        # assert idx not in ind_tgt, "Error: picking own index"
+        tgt_demos = [tgt_ds[i].copy() for i in ind_tgt]
+        if 'pred_labels' in tgt_demos[0]:
+            # convert silver tags to gold tag format
+            for d in tgt_demos:
+                d['output'] = ' '.join([f'{a}_{b}' for a,b in zip(d['input'].strip().split(' '), d['pred_labels'])])
+        else:
+            logger.warning("WARNING: taking gold labels. This should only happen if intended.")
 
         demos += tgt_demos
-        #pdb.set_trace()
-        if not(gold_anno):
-            for it, d in enumerate(demos):
-                if "p2" not in prompt:
-                    d['output'] = label_dict[tgt_labels[it]]
-                else:
-                    d['output'] = tgt_labels[it]
-        else:
-            #pdb.set_trace()
-            for d in demos:
-                if "p2" not in prompt:
-                    d['output'] = label_dict[d['output']]
-    #pdb.set_trace()
-    
-    #pdb.set_trace()
-    prompt = pg.create_prompt(f'{prompt}', demos=demos, sentence=example)
-    return prompt
+
+    examples = [d['output'] for d in demos]
+
+    for d in demos:
+        d['output'] = gold_tags_to_tsv_output(d['output'])
+
+    if prompt.startswith('qaner'):
+        prompt_files = ['qaner_zs_loc', 'qaner_zs_per', 'qaner_zs_org', 'qaner_zs_date']
+        prompts = []
+        for prompt_file in prompt_files:
+            prompt = pg.create_prompt(prompt_file, demos=demos, sentence=example['input'])
+            prompts.append(prompt)
+        return prompts
+
+    prompt = pg.create_prompt(prompt, demos=demos, sentence=example['input'])
+    return (prompt, examples)
 
 def get_response_from_gpt(example, task, prompt, model):
     # confidence scores via sampling multiple times...
     # not now.
-    if "p2" in task:
-        label_dict_rev = {"entailment": "entailment", "contradiction": "contradiction", "neutral": "neutral"}
-    else:
-        label_dict_rev = {"Yes": "entailment", "No": "contradiction", "Maybe": "neutral"}
+
+    if isinstance(prompt, list):
+        completions = []
+        for p in prompt:
+            completions.append(model.complete(p))
+            model.cleanup()
+
+        model.cleanup()
+        response = parse_qaner_example(task, example, completions)
+        return response
+
     completion = model.complete(prompt)
 
-    if completion is None:
-        logger.error(f"Did not obtain response for input {example['premise']}, setting everything to O")
+    if completion is None or completion == "":
+        logger.error(f"Did not obtain response for input {example['input']}, setting everything to default lbl")
         model.cleanup()
-        return "NULL"
+        default_lbl = 'O'
+        if task.startswith('pos'):
+            default_lbl = 'X'
+        return {
+            'gold_labels': [a.split('_')[1] for a in example['output'].strip().split(' ')],
+            'pred_labels': [default_lbl for a in example['input'].strip().split(' ')]
+        }, completion
 
     logger.info(f'Obtained completion: {completion}')
-    #pdb.set_trace()
-    completion = completion.strip().split("\n")[0]
-    if completion in label_dict_rev:
-        response = label_dict_rev[completion]
-    else:
-        response = completion
-    model.cleanup()
-    return response.split("Answer:")[-1].strip()
+    response = parse_tsv_example(task, example, completion)
 
-def save_data(data, save_dir):
+    model.cleanup()
+    return response, completion
+
+def save_data(data, skip_ind, save_dir):
     with open(os.path.join(save_dir, f'responses.json'), 'w+') as outfile:
-        for response, gold in zip(data['responses'], data["gold"]):
-            outfile.write(response+"\t"+gold+"\n")
+        for response in data['responses']:
+            outfile.write(f"{json.dumps(response, ensure_ascii=False)}\n")
 
     with open(os.path.join(save_dir, f'accuracies.csv'), 'w+') as accfile:
-        accfile.write(f"acc,total\n")
-        accfile.write(f"{data['acc']},{data['non_null']}\n")
+        accfile.write(f"precision,recall,f1,total\n")
+        accfile.write(f"{data['precision']},{data['recall']},{data['f1']},{data['total']}\n")
+
+    json.dump(skip_ind, open(os.path.join(save_dir, f'skip_idxs.json'), 'w'), ensure_ascii=False)
 
 def main():
 
-    signal.signal(signal.SIGINT, signal_handler)
     args = parse_args()
+
+    global randomize_labels
+    randomize_labels = args.randomize_labels
 
     load_dotenv(os.path.join(os.path.dirname(__file__), '../.env'))
     openai.setup_api_key(os.environ.get('OPENAI_API_KEY'))
@@ -190,11 +209,16 @@ def main():
 
     setup_logger(save_dir)
 
+    logger.info("Running with args:")
+    logger.info(args)
+
     pg = PromptGenerator('prompts')
     model_args = openai.ChatGPT.DEFAULT_ARGS
     model_args['engine'] = args.model
     model_args['request_timeout'] = 200
-    # change model to llama to use llama
+    if args.model == 'gpt-35-turbo':
+        # this has ctx length = 4096!
+        model_args['max_tokens'] = 256
     model = openai.ChatGPT(model_args)
 
     ssim = np.load(args.source_sim)
@@ -217,8 +241,7 @@ def main():
     tds = None
     if args.target_dataset:
         if args.target_dataset.endswith('.json'):
-            #pdb.set_trace()
-            tds = [tup.split("\t")[0] for tup in open(args.target_dataset).readlines()]
+            tds = JSONLDataset(args.target_dataset)
         elif args.target_dataset.endswith('.tsv'):
             tds = TabularDataset(args.target_dataset, delimiter='\t')
         else:
@@ -228,54 +251,66 @@ def main():
     interm = args.interm
     data = {
         'total': 0,
-        "input": [],
-        'gold': [],
         'responses': []
     }
 
     data_kv_store = {}
-
+    # pdb.set_trace()
     bar = tqdm(ds)
+
+    skip_ind = []
 
     for i, example in enumerate(bar):
         if not running:
             break
         if interm==0:
             score_sets(data)
-            save_data(data, save_dir)
+            save_data(data, skip_ind, save_dir)
             interm=args.interm
-            bar.set_postfix(#prec=f"{data['precision']*100:.2f}", 
-                            #recall=f"{data['recall']*100:.2f}", 
-                            #f1=f"{data['f1']*100:.2f}",
-                            acc=f"{data['acc']*100:.2f}")
+            bar.set_postfix(prec=f"{data['precision']*100:.2f}", 
+                            recall=f"{data['recall']*100:.2f}", 
+                            f1=f"{data['f1']*100:.2f}")
 
-        prompt = construct_prompt(i, example, tds, sds, tsim, ssim, pg, args.prompt,
-                                  n_from_tgt=args.target_retrieve, n_from_src=args.source_retrieve, gold_anno=args.gold_anno)
-        #pdb.set_trace()
-        if i < 5:
-            print(prompt)
-        response = get_response_from_gpt(example, args.prompt, prompt, model)
-        # sleep for 20s because or takes a lot of tokens
-        time.sleep(30)
-        #pdb.set_trace()
-        data['responses'].append(response)
-        data["input"].append(prompt)
-        data['gold'].append(example["output"])
-        data['total'] += 1
+        # pdb.set_trace()
+        (prompt, examples) = construct_prompt(i, example, tds, sds, tsim, ssim, pg, args.prompt,
+                                  n_from_tgt=args.target_retrieve, n_from_src=args.source_retrieve)
+        # pdb.set_trace()
+        response, completion = get_response_from_gpt(example, args.prompt, prompt, model)
+        # sleep for 30s because rate limit at api
+        if args.slow:
+            time.sleep(15)
+
+        if args.content_filter:
+            if completion != "":
+                data['responses'].append({
+                    **example,
+                    **response,
+                    'examples': examples
+                })
+                data['total'] += 1
+            else:
+                skip_ind.append(i)
+        else:
+            data['responses'].append({
+                **example,
+                **response,
+                'examples': examples
+            })
+            data['total'] += 1
+
         # put response in K-V store
-        data_kv_store[example['premise']+"####"+example["hypothesis"]] = [response]
+        data_kv_store[example['input']] = [response]
 
         interm-=1
 
-        # if i == 5:
-        #     break
-
-    #pdb.set_trace()
     score_sets(data)
-    save_data(data, save_dir)
-    bar.set_postfix(acc=f"{data['acc']*100:.2f}")
+    save_data(data, skip_ind, save_dir)
+    bar.set_postfix(prec=f"{data['precision']*100:.2f}", 
+                    recall=f"{data['recall']*100:.2f}", 
+                    f1=f"{data['f1']*100:.2f}")
     print(f"{data['total']} examples run")
-
+    # with open(save_dir+"/"+args.lang+"_skip_ind.json", "w") as f_w:
+    #     json.dump(skip_ind, f_w)
 
 if __name__ == "__main__":
     main()

@@ -70,6 +70,11 @@ class ChatGPT:
         n_tokens = len(self.encoding.encode(prompt))
         if n_tokens + args['max_tokens'] > 8100:
             args['max_tokens'] = abs(8100 - n_tokens)
+        if args['engine'] == 'gpt-35-turbo':
+            if n_tokens+args['max_tokens'] > 4096:
+                print("WARN: prompt exceeds gpt-35-turbo's prompt length. Truncating")
+                self.chat_history = self.chat_history[1:]
+                self.chat_history[0]['content'] = self.chat_history[0]['content'][:246] + self.chat_history[0]['content'][1000:]
         try:
             response = get_response(self.chat_history, args, chat=True)
 

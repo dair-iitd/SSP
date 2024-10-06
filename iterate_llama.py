@@ -3,7 +3,7 @@ import models.together as together
 from util import parse_example, parse_tsv_example, parse_qaner_example, score_sets
 import numpy as np
 import time
-
+import torch
 from dotenv import load_dotenv
 
 from prompt import PromptGenerator
@@ -143,7 +143,7 @@ def construct_prompt(idx, example, tgt_ds, src_ds, tgt_sim_mat, src_sim_mat, pg,
     return (prompt, examples)
 
 def get_response_from_llama(example, task, prompt, model):
-    completion = model.complete(prompt)
+    completion, word_probs = model.complete(prompt)
 
     if completion is None or completion == "":
         logger.error(f"Did not obtain response for input {example['input']}, setting everything to O")
@@ -151,13 +151,18 @@ def get_response_from_llama(example, task, prompt, model):
         default_lbl = 'O'
         if task.startswith('pos'):
             default_lbl = 'X'
+        gold_labels = [a.split('_')[1] for a in example['output'].strip().split(' ')]
+        pred_labels = [default_lbl for a in example['input'].strip().split(' ')]
+        label_probs = [0.0 for _ in range(len(pred_labels))]
+        
         return {
-            'gold_labels': [a.split('_')[1] for a in example['output'].strip().split(' ')],
-            'pred_labels': [default_lbl for a in example['input'].strip().split(' ')]
-        }, completion
+            'gold_labels': gold_labels,
+            'pred_labels': pred_labels,
+        }, label_probs, completion
+
 
     logger.info(f'Obtained completion: {completion}')
-    response = parse_tsv_example(task, example, completion)
+    response = parse_tsv_example(task, example, completion, word_probs)
 
     model.cleanup()
     return response, completion
@@ -170,7 +175,8 @@ def save_data(data, skip_ind, save_dir):
     with open(os.path.join(save_dir, f'accuracies.csv'), 'w+') as accfile:
         accfile.write(f"precision,recall,f1,total\n")
         accfile.write(f"{data['precision']},{data['recall']},{data['f1']},{data['total']}\n")
-
+    #pdb.set_trace()
+    # torch.save(torch.stack(data["probs"]), save_dir+"/all_probs.pth")
     json.dump(skip_ind, open(os.path.join(save_dir, f'skip_idxs.json'), 'w'), ensure_ascii=False)
 
 def main():
@@ -194,6 +200,7 @@ def main():
     model_args = together.CompletionModel.DEFAULT_ARGS
     model_args['model'] = args.model
     model_args['max_tokens'] = 256
+    model_args['logprobs'] = True
     # model_args['request_timeout'] = 200
     model = together.CompletionModel(model_args)
 
@@ -227,7 +234,8 @@ def main():
     interm = args.interm
     data = {
         'total': 0,
-        'responses': []
+        'responses': [],
+        'probs': []
     }
 
     data_kv_store = {}
@@ -251,8 +259,12 @@ def main():
         (prompt, examples) = construct_prompt(i, example, tds, sds, tsim, ssim, pg, args.prompt,
                                   n_from_tgt=args.target_retrieve, n_from_src=args.source_retrieve)
         # pdb.set_trace()
+        #if i < 90:
+        #    continue
         response, completion = get_response_from_llama(example, args.prompt, prompt, model)
+        #pdb.set_trace()
         # sleep for 30s because rate limit at api
+        time.sleep(10)
         if args.slow:
             time.sleep(15)
 
@@ -263,6 +275,7 @@ def main():
                     **response,
                     'examples': examples
                 })
+                # data['probs'].append(torch.tensor(label_probs+[-1.0]*(model_args['max_tokens']-len(label_probs))))
                 data['total'] += 1
             else:
                 skip_ind.append(i)
@@ -272,12 +285,15 @@ def main():
                 **response,
                 'examples': examples
             })
+            # data['probs'].append(torch.tensor(label_probs+[-1.0]*(model_args['max_tokens']-len(label_probs))))
             data['total'] += 1
 
         # put response in K-V store
         data_kv_store[example['input']] = [response]
 
         interm-=1
+        #if i == 10:
+        #    break
 
     score_sets(data)
     save_data(data, skip_ind, save_dir)
