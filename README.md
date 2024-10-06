@@ -1,4 +1,4 @@
-# SSP(GPT-4)
+# SSP
 
 ```
 usage: python iterate.py [-h] [-l LANG] [-d DATASET] [-p PROMPT] [-td TARGET_DATASET] [-sd SOURCE_DATASET] [-m MODEL]
