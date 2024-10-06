@@ -1,4 +1,4 @@
-# SSP-CLT
+# SSP(GPT-4)
 
 ```
 usage: python iterate.py [-h] [-l LANG] [-d DATASET] [-p PROMPT] [-td TARGET_DATASET] [-sd SOURCE_DATASET] [-m MODEL]
@@ -42,8 +42,8 @@ options:
 1. Create a conda environment
 
 ```
-conda create -n sspclt python=3.10
-conda activate sspclt
+conda create -n ssp python=3.10
+conda activate ssp
 pip install -r requirements.txt
 ```
 
@@ -57,5 +57,5 @@ running LLaMa. Place the .env file in the parent directory.
    records should have these three keys as well. Refer to the shell script (run_all.sh)
    for more details.
 
-4. For running LLaMa, use `iterate_llama.py`. For running SSP-CLT-ILP, use
+4. For running LLaMa, use `iterate_llama.py`. For running SSP(ZGUL), use
    `iterate_ilp.py`.
